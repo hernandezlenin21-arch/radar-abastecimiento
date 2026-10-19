@@ -1,5 +1,22 @@
 [
  {
+  "id": "f808dd4263f5",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-19",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 2 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Pakistan providing Saudi Arabia  whatever support needed  amid Houthi attacks : Army spokesman – Middle East Monitor” (middleeastmonitor.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "middleeastmonitor.com",
+  "url": "https://www.middleeastmonitor.com/20261019-pakistan-providing-saudi-arabia-whatever-support-needed-amid-houthi-attacks-army-spokesman/",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-19T12:57:42-06:00"
+ },
+ {
   "id": "269351b74174",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
