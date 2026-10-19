@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-18T19:02:39-06:00",
+  "at": "2026-10-18T21:51:02-06:00",
   "data": {
    "storms": [
     {
@@ -9,106 +9,100 @@
      "binNumber": "EP1",
      "name": "Trudy",
      "classification": "HU",
-     "intensity": "85",
-     "pressure": "974",
-     "latitude": "19.5N",
-     "longitude": "107.0W",
-     "latitudeNumeric": 19.5,
-     "longitudeNumeric": -107,
-     "movementDir": 325,
-     "movementSpeed": 6,
-     "lastUpdate": "2026-10-18T21:00:00.000Z",
+     "intensity": "70",
+     "pressure": "984",
+     "latitude": "19.7N",
+     "longitude": "107.6W",
+     "latitudeNumeric": 19.7,
+     "longitudeNumeric": -107.6,
+     "movementDir": 315,
+     "movementSpeed": 7,
+     "lastUpdate": "2026-10-19T03:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "022",
-      "issuance": "2026-10-18T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-18T20:41:31.542Z",
+      "advNum": "023",
+      "issuance": "2026-10-19T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T02:44:04.146Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "022",
-      "issuance": "2026-10-18T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-18T20:41:03.123Z",
+      "advNum": "023",
+      "issuance": "2026-10-19T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T02:43:30.851Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCMEP1.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "022",
-      "issuance": "2026-10-18T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-18T20:41:34.826Z",
+      "advNum": "023",
+      "issuance": "2026-10-19T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T02:44:04.149Z",
       "url": "https://www.nhc.noaa.gov/text/MIAPWSEP1.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "022",
-      "issuance": "2026-10-18T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-18T20:42:33.106Z",
+      "advNum": "023",
+      "issuance": "2026-10-19T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T02:44:34.563Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCDEP1.shtml"
      },
      "forecastGraphics": {
-      "advNum": "022",
-      "issuance": "2026-10-18T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-18T20:41:31.542Z",
+      "advNum": "023",
+      "issuance": "2026-10-19T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T02:44:04.146Z",
       "url": "https://www.nhc.noaa.gov/graphics_ep1.shtml"
      },
      "forecastTrack": {
-      "advNum": "022",
-      "issuance": "2026-10-18T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-18T20:45:29.377Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_5day_022.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_022adv_TRACK.kmz"
+      "advNum": "023",
+      "issuance": "2026-10-19T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T02:45:40.788Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_5day_023.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_023adv_TRACK.kmz"
      },
-     "windWatchesWarnings": {
-      "advNum": "021a",
-      "issuance": "2026-10-18T18:00:00.000Z",
-      "fileUpdateTime": "2026-10-18T17:57:23.393Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_5day_022.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_021Aadv_WW.kmz"
-     },
+     "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "022",
-      "issuance": "2026-10-18T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-18T20:45:23.260Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_5day_022.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_022adv_CONE.kmz"
+      "advNum": "023",
+      "issuance": "2026-10-19T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T02:45:35.208Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_5day_023.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_023adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "022",
-      "issuance": "2026-10-18T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-18T20:46:01.310Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_fcst_022.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_initialradii_022adv.kmz"
+      "advNum": "023",
+      "issuance": "2026-10-19T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T02:46:10.364Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_fcst_023.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_initialradii_023adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "022",
-      "issuance": "2026-10-18T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-18T20:45:56.776Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_fcst_022.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_forecastradii_022adv.kmz"
+      "advNum": "023",
+      "issuance": "2026-10-19T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T02:46:06.519Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_fcst_023.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_forecastradii_023adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-10-18T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-18T20:45:39.563Z",
+      "issuance": "2026-10-19T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T02:45:50.294Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep212026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep212026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "022",
-      "issuance": "2026-10-18T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-18T20:45:25.194Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_022adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "023",
+      "issuance": "2026-10-19T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T02:45:37.111Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_023adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "022",
-      "issuance": "2026-10-18T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-18T20:45:27.282Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_022adv_most_likely_toa_34.kmz"
+      "advNum": "023",
+      "issuance": "2026-10-19T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T02:45:38.950Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_023adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-10-18T18:00:00.000Z",
-      "fileUpdateTime": "2026-10-18T21:22:51.875Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101818_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101818_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101818_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101818_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101818_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-10-19T00:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T03:22:46.684Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101900_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101900_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101900_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101900_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101900_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -120,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-18T19:02:39-06:00",
+  "at": "2026-10-18T21:51:02-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -129,10 +123,24 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-18T19:02:39-06:00",
+  "at": "2026-10-18T21:51:02-06:00",
   "data": {
    "raw": {
     "commodities_agricolas": [
+     {
+      "title": "Evening Shade Resistance Rising Sunday , October 18 , 2026",
+      "url": "https://www.dailykos.com/stories/2026/10/18/800110859/community/evening-shade-resistance-rising-sunday-october-18-2026/",
+      "domain": "dailykos.com",
+      "country": "United States",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
+     {
+      "title": "What really in your supermarket Wagyu - and that £11 patty from Burger King : How the most expensive meat on Earth has turned into something so dry , bland and deeply boring : TOM PARKER BOWLES",
+      "url": "https://www.dailymail.com/news/article-16218895/Wagyu-meat-supermarkets-expensive-bland-TOM-PARKER-BOWLES.html",
+      "domain": "dailymail.com",
+      "country": "United States",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
      {
       "title": "Kentucky bourbon boom : how to explore Whiskey Row in Louisville | Redland City Bulletin",
       "url": "https://www.redlandcitybulletin.com.au/story/9300330/kentucky-bourbon-boom-how-to-explore-whiskey-row-in-louisville/",
@@ -398,23 +406,135 @@
       "domain": "motherearthliving.com",
       "country": "United States",
       "published": "2026-10-18T10:00:00+00:00"
-     },
-     {
-      "title": "Huge hit  Christmas gift that  great fun for movie night drops to £22",
-      "url": "https://www.stokesentinel.co.uk/whats-on/shopping/huge-hit-christmas-popcorn-maker-11200331",
-      "domain": "stokesentinel.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-18T10:00:00+00:00"
-     },
-     {
-      "title": "FMCGs grapple with cost inflation in Q2 , brace for margin pressure in H2",
-      "url": "https://www.business-standard.com/industry/news/fmcgs-grapple-with-cost-inflation-in-q2-brace-for-margin-pressure-in-h2-126101800266_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-10-18T09:30:00+00:00"
      }
     ],
     "energia": [
+     {
+      "title": "Asian Stocks Fall on AI Funding Worries Despite China GDP Growth",
+      "url": "https://econotimes.com/Asian-Stocks-Fall-on-AI-Funding-Worries-Despite-China-GDP-Growth-1756246",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-19T03:30:00+00:00"
+     },
+     {
+      "title": "Trump says he doesnt want to drive Russia away",
+      "url": "https://www.westernadvocate.com.au/story/9370675/trump-says-he-doesnt-want-to-drive-russia-away/",
+      "domain": "westernadvocate.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T03:30:00+00:00"
+     },
+     {
+      "title": "Trade Spotlight : How should you trade Supreme Industries , Indian Hotels , Lemon Tree Hotels , Nykaa , Info Edge , and others on October 19 ?",
+      "url": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-supreme-industries-indian-hotels-lemon-tree-hotels-nykaa-info-edge-and-others-on-october-19-14055021.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Daily Voice : Ambit Nitin Bhasin sees structural alpha opportunities in two sectors , cautious on SMIDs",
+      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-ambit-s-nitin-bhasin-sees-structural-alpha-opportunities-in-two-sectors-cautious-on-smids-14054940.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Trading Plan : Can Nifty 50 march towards 23 , 300 , Bank Nifty surpass the 56 , 100 hurdle ?",
+      "url": "https://www.moneycontrol.com/news/business/markets/trading-plan-can-nifty-50-march-towards-23-300-bank-nifty-surpass-the-56-100-hurdle-14055009.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Why Trump Potty Mouth Is Raising Eyebrows : Fired ABC Star",
+      "url": "https://www.thedailybeast.com/why-trumps-potty-mouth-is-raising-eyebrows-fired-abc-star",
+      "domain": "thedailybeast.com",
+      "country": "United States",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Zelenskyy says Trump is pushing Ukraine to yield to Russia",
+      "url": "https://www.moneycontrol.com/world/zelenskyy-says-trump-is-pushing-ukraine-to-yield-to-russia-article-14054963.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "First Tick : Top global cues to watch in today trade",
+      "url": "https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-20-14053850.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Oil slips as Trump sanction waiver may lead to more Russian fuel supplies",
+      "url": "https://www.business-standard.com/markets/commodities/oil-slips-as-trump-s-sanction-waiver-may-lead-to-more-russian-fuel-supplies-126101900025_1.html",
+      "domain": "business-standard.com",
+      "country": "India",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Trump says he doesnt want to drive Russia away",
+      "url": "https://www.goulburnpost.com.au/story/9370675/trump-says-he-doesnt-want-to-drive-russia-away/",
+      "domain": "goulburnpost.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Congress reacts to executive order exempting Russia from economic sanctions",
+      "url": "https://www.krcu.org/2026-10-18/congress-reacts-to-executive-order-exempting-russia-from-economic-sanctions",
+      "domain": "krcu.org",
+      "country": "United States",
+      "published": "2026-10-19T02:00:00+00:00"
+     },
+     {
+      "title": "Trump Admonishes Zelenskyy , Who Growing Defiant",
+      "url": "https://1190talkradio.iheart.com/content/2026-10-18-trump-admonishes-zelenskyy-whos-growing-defiant/",
+      "domain": "1190talkradio.iheart.com",
+      "country": "United States",
+      "published": "2026-10-19T02:00:00+00:00"
+     },
+     {
+      "title": "Trump decision to waive Russian sanctions outrages Congress , but no quick counter seen | News , Sports , Jobs",
+      "url": "https://www.lahainanews.com/wire/?category=5041&ID=400571",
+      "domain": "lahainanews.com",
+      "country": "United States",
+      "published": "2026-10-19T02:00:00+00:00"
+     },
+     {
+      "title": "Have U . S . diesel fuel prices reached an all - time high this fall ?",
+      "url": "http://www.minnpost.com/fact-briefs/2026/10/did-u-s-diesel-fuel-prices-reach-an-all-time-high-this-fall/",
+      "domain": "minnpost.com",
+      "country": "United States",
+      "published": "2026-10-19T01:15:00+00:00"
+     },
+     {
+      "title": "Zelensky never wanted to end war with Russia",
+      "url": "http://www.russiaherald.com/news/279383493/zelensky-never-wanted-to-end-war-with-russia-trump",
+      "domain": "russiaherald.com",
+      "country": "Russia",
+      "published": "2026-10-19T01:15:00+00:00"
+     },
+     {
+      "title": "Stocks in news : Vedanta , HDFC Bank , ICICI Bank , Axis Bank , HFCL , IREDA , Zen Tech and Oil India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-vedanta-hdfc-bank-icici-bank-axis-bank-hfcl-ireda-zen-tech-and-oil-india/articleshow/135037012.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
+     {
+      "title": "Vance admits failures in the Iran war as US casualties mount",
+      "url": "https://www.pakistantoday.com.pk/2026/10/19/vance-acknowledges-failures-in-us-handling-of-iran-war",
+      "domain": "pakistantoday.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
+     {
+      "title": "Evening Shade Resistance Rising Sunday , October 18 , 2026",
+      "url": "https://www.dailykos.com/stories/2026/10/18/800110859/community/evening-shade-resistance-rising-sunday-october-18-2026/",
+      "domain": "dailykos.com",
+      "country": "United States",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
      {
       "title": "ANDREW NEIL : The orgy of violence in France makes a Right - wing Le Pen victory all but inevitable next year",
       "url": "https://www.dailymail.com/debate/article-16219065/ANDREW-NEIL-orgy-violence-France-makes-Right-wing-Le-Pen-victory-inevitable-year.html",
@@ -568,161 +688,280 @@
       "domain": "hot96.com",
       "country": "United States",
       "published": "2026-10-18T21:00:00+00:00"
-     },
-     {
-      "title": "No Kings early voting rallies draw voters in Westminster and Rockingham",
-      "url": "https://www.reformer.com/local-news/no-kings-rallies-encourage-early-voting/5037912",
-      "domain": "reformer.com",
-      "country": "United States",
-      "published": "2026-10-18T21:00:00+00:00"
-     },
-     {
-      "title": "Vermont school districts scramble to cover the increased cost of diesel",
-      "url": "https://www.reformer.com/statenews/vermont-school-districts-scramble-to-cover-the-increased-cost-of-diesel/5038018",
-      "domain": "reformer.com",
-      "country": "United States",
-      "published": "2026-10-18T21:00:00+00:00"
-     },
-     {
-      "title": "AI in oil / gas exploration ....",
-      "url": "https://www.yourdemocracy.net.au/drupal/node/61461",
-      "domain": "yourdemocracy.net.au",
-      "country": "Australia",
-      "published": "2026-10-18T21:00:00+00:00"
-     },
-     {
-      "title": "KEVIN MAGUIRE :  Farage bad apple defence of Reform doesnt wash and his poisonous party is slipping in polls",
-      "url": "https://www.mirror.co.uk/news/politics/nigel-farage-reform-polls-politics-37785259",
-      "domain": "mirror.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-18T21:00:00+00:00"
-     },
-     {
-      "title": "House Democrat introduces bipartisan bill to block Trump Russian diesel deal - Governor Wind Energy Coalition",
-      "url": "https://governorswindenergycoalition.org/house-democrat-introduces-bipartisan-bill-to-block-trumps-russian-diesel-deal/",
-      "domain": "governorswindenergycoalition.org",
-      "country": "United States",
-      "published": "2026-10-18T21:00:00+00:00"
-     },
-     {
-      "title": "White House Defends Diesel Export Deal With Russia",
-      "url": "https://1061fmtalk.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
-      "domain": "1061fmtalk.iheart.com",
-      "country": "United States",
-      "published": "2026-10-18T21:00:00+00:00"
-     },
-     {
-      "title": "Ukraine and the U . S . are at odds over Starshield . Here what to know",
-      "url": "https://www.krcu.org/2026-10-18/ukraine-and-the-u-s-are-at-odds-over-starshield-heres-what-to-know",
-      "domain": "krcu.org",
-      "country": "United States",
-      "published": "2026-10-18T21:00:00+00:00"
-     },
-     {
-      "title": "White House Defends Diesel Export Deal With Russia | NewsTalk WMEQ",
-      "url": "https://wmeq.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
-      "domain": "wmeq.iheart.com",
-      "country": "United States",
-      "published": "2026-10-18T21:00:00+00:00"
-     },
-     {
-      "title": "Zelensky Calls EU Leaders  Real  As Patriot Missiles Run Out And Trump Ceasefire Collapses",
-      "url": "https://www.latintimes.com/zelensky-calls-eu-leaders-real-patriot-missiles-run-out-trumps-ceasefire-collapses-600281",
-      "domain": "latintimes.com",
-      "country": "United States",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
-      "url": "https://www.presstelegram.com/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
-      "domain": "presstelegram.com",
-      "country": "United States",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Ukraine and the U . S . are at odds over Starshield . Here what to know",
-      "url": "https://www.wwno.org/npr-news/2026-10-18/ukraine-and-the-u-s-are-at-odds-over-starshield-heres-what-to-know",
-      "domain": "wwno.org",
-      "country": "United States",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "How to Get Conservation Credits in Planet Zoo 2",
-      "url": "https://gamerant.com/planet-zoo-2-how-get-conservation-credits/",
-      "domain": "gamerant.com",
-      "country": "United States",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Come March , last 170 CTU diesel buses to be taken off Tricity roads",
-      "url": "https://www.tribuneindia.com/news/chandigarh/come-march-last-170-ctu-diesel-buses-to-be-taken-off-tricity-roads/",
-      "domain": "tribuneindia.com",
-      "country": "India",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Ukraine and the U . S . are at odds over Starshield . Here what to know",
-      "url": "https://www.kawc.org/npr-news/2026-10-18/ukraine-and-the-u-s-are-at-odds-over-starshield-heres-what-to-know",
-      "domain": "kawc.org",
-      "country": "United States",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "White House Defends Diesel Export Deal With Russia",
-      "url": "https://newsradio967.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
-      "domain": "newsradio967.iheart.com",
-      "country": "United States",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "White House Defends Diesel Export Deal With Russia",
-      "url": "https://kfab.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
-      "domain": "kfab.iheart.com",
-      "country": "United States",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Ukraine and the U . S . are at odds over Starshield . Here what to know",
-      "url": "https://www.wboi.org/npr-news/2026-10-18/ukraine-and-the-u-s-are-at-odds-over-starshield-heres-what-to-know",
-      "domain": "wboi.org",
-      "country": "United States",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Ukraine and the U . S . are at odds over Starshield . Here what to know",
-      "url": "https://www.southcarolinapublicradio.org/news/2026-10-18/ukraine-and-the-u-s-are-at-odds-over-starshield-heres-what-to-know",
-      "domain": "southcarolinapublicradio.org",
-      "country": "United States",
-      "published": "2026-10-18T20:45:00+00:00"
      }
     ],
-    "transporte_maritimo": [
+    "geopolitica": [
      {
-      "title": "Why are people protesting in France ? The issues fueling nationwide unrest",
-      "url": "https://wtov9.com/news/nation-world/why-are-people-protesting-in-france-the-issues-fueling-nationwide-unrest",
-      "domain": "wtov9.com",
+      "title": "Trump order waiving new sanctions and tariffs on Russia signed in blood",
+      "url": "https://www.dailykos.com/stories/2026/10/18/800114322/community/trumps-order-waiving-new-sanctions-and-tariffs-on-russia-signed-in-blood/",
+      "domain": "dailykos.com",
+      "country": "United States",
+      "published": "2026-10-19T03:30:00+00:00"
+     },
+     {
+      "title": "Asian Stocks Fall on AI Funding Worries Despite China GDP Growth",
+      "url": "https://econotimes.com/Asian-Stocks-Fall-on-AI-Funding-Worries-Despite-China-GDP-Growth-1756246",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-19T03:30:00+00:00"
+     },
+     {
+      "title": "Romania Shoots Down Russian - Made Drones Over Black Sea",
+      "url": "https://econotimes.com/Romania-Shoots-Down-Russian-Made-Drones-Over-Black-Sea-1756244",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-19T03:30:00+00:00"
+     },
+     {
+      "title": "Mera25 links closure of Ptolemaida coal plant to US gas interests - The Press Project - Ειδήσεις , Αναλύσεις , Ραδιόφωνο , Τηλεόραση",
+      "url": "https://thepressproject.gr/mera25-links-closure-of-ptolemaida-coal-plant-to-us-gas-interests/",
+      "domain": "thepressproject.gr",
+      "country": "Greece",
+      "published": "2026-10-19T03:30:00+00:00"
+     },
+     {
+      "title": "Trump says he doesnt want to drive Russia away",
+      "url": "https://www.westernadvocate.com.au/story/9370675/trump-says-he-doesnt-want-to-drive-russia-away/",
+      "domain": "westernadvocate.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T03:30:00+00:00"
+     },
+     {
+      "title": "Iran gets some fuel shipments out despite US blockade",
+      "url": "http://www.torontotelegraph.com/news/279379843/iran-gets-some-fuel-shipments-out-despite-us-blockade",
+      "domain": "torontotelegraph.com",
+      "country": "Canada",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "IMF official warns of exacerbated food insecurity in sub - Saharan Africa",
+      "url": "http://www.taiwansun.com/news/279383855/imf-official-warns-of-exacerbated-food-insecurity-in-sub-saharan-africa",
+      "domain": "taiwansun.com",
+      "country": "China",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Daily Voice : Ambit Nitin Bhasin sees structural alpha opportunities in two sectors , cautious on SMIDs",
+      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-ambit-s-nitin-bhasin-sees-structural-alpha-opportunities-in-two-sectors-cautious-on-smids-14054940.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Iran gets some fuel shipments out despite US blockade",
+      "url": "http://www.californiatelegraph.com/news/279379843/iran-gets-some-fuel-shipments-out-despite-us-blockade",
+      "domain": "californiatelegraph.com",
+      "country": "United States",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Violating oil tanker hits naval mine south of Strait of Hormuz : IRGC Navy",
+      "url": "https://www.presstv.co.uk/Detail/2026/10/19/778656/Violating-oil-tanker-hits-naval-mine-south-of-Strait-of-Hormuz--IRGC-Navy",
+      "domain": "presstv.co.uk",
+      "country": "",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Asian Stocks AI Funding Fears Weigh on Markets",
+      "url": "https://en.shafaqna.com/485988/asian-stocks-ai-funding-fears-euro-france-riots/",
+      "domain": "en.shafaqna.com",
+      "country": "Saudi Arabia",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Ukraine launches 1 , 000 drones at Russia amid ongoing Trump / Zelensky spat",
+      "url": "https://www.wharfedaleobserver.co.uk/news/national/26647121.ukraine-launches-1-000-drones-russia-amid-ongoing-trump-zelensky-spat/",
+      "domain": "wharfedaleobserver.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "A Long - Term Plan to Secure Peace for Ukraine",
+      "url": "https://hotair.com/headlines/2026/10/18/a-long-term-plan-to-secure-peace-for-ukraine-n3820052",
+      "domain": "hotair.com",
+      "country": "United States",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Zelenskyy says Trump is pushing Ukraine to yield to Russia",
+      "url": "https://www.moneycontrol.com/world/zelenskyy-says-trump-is-pushing-ukraine-to-yield-to-russia-article-14054963.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "First Tick : Top global cues to watch in today trade",
+      "url": "https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-20-14053850.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Oil slips as Trump sanction waiver may lead to more Russian fuel supplies",
+      "url": "https://www.business-standard.com/markets/commodities/oil-slips-as-trump-s-sanction-waiver-may-lead-to-more-russian-fuel-supplies-126101900025_1.html",
+      "domain": "business-standard.com",
+      "country": "India",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Trump says he doesnt want to drive Russia away",
+      "url": "https://www.goulburnpost.com.au/story/9370675/trump-says-he-doesnt-want-to-drive-russia-away/",
+      "domain": "goulburnpost.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Ukraine launches 1 , 000 drones at Russia amid ongoing Trump / Zelensky spat",
+      "url": "https://www.irvinetimes.com/news/national/26647121.ukraine-launches-1-000-drones-russia-amid-ongoing-trump-zelensky-spat/",
+      "domain": "irvinetimes.com",
+      "country": "United Kingdom",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Iran gets some fuel shipments out despite US blockade",
+      "url": "http://www.argentinastar.com/news/279379843/iran-gets-some-fuel-shipments-out-despite-us-blockade",
+      "domain": "argentinastar.com",
+      "country": "Argentina",
+      "published": "2026-10-19T03:00:00+00:00"
+     },
+     {
+      "title": "Congress reacts to executive order exempting Russia from economic sanctions",
+      "url": "https://www.krcu.org/2026-10-18/congress-reacts-to-executive-order-exempting-russia-from-economic-sanctions",
+      "domain": "krcu.org",
+      "country": "United States",
+      "published": "2026-10-19T02:00:00+00:00"
+     },
+     {
+      "title": "Trump Admonishes Zelenskyy , Who Growing Defiant",
+      "url": "https://1190talkradio.iheart.com/content/2026-10-18-trump-admonishes-zelenskyy-whos-growing-defiant/",
+      "domain": "1190talkradio.iheart.com",
+      "country": "United States",
+      "published": "2026-10-19T02:00:00+00:00"
+     },
+     {
+      "title": "Iran gets some fuel shipments out despite US blockade",
+      "url": "http://www.milwaukeesun.com/news/279379843/iran-gets-some-fuel-shipments-out-despite-us-blockade",
+      "domain": "milwaukeesun.com",
+      "country": "United States",
+      "published": "2026-10-19T02:00:00+00:00"
+     },
+     {
+      "title": "Trump decision to waive Russian sanctions outrages Congress , but no quick counter seen | News , Sports , Jobs",
+      "url": "https://www.lahainanews.com/wire/?category=5041&ID=400571",
+      "domain": "lahainanews.com",
+      "country": "United States",
+      "published": "2026-10-19T02:00:00+00:00"
+     },
+     {
+      "title": "Trump endorses Netanyahu in Israel upcoming election – Daily Trust",
+      "url": "https://dailytrust.com/trump-endorses-netanyahu-in-israels-upcoming-election/",
+      "domain": "dailytrust.com",
+      "country": "Niger",
+      "published": "2026-10-19T02:00:00+00:00"
+     },
+     {
+      "title": "Iran gets some fuel shipments out despite US blockade",
+      "url": "http://www.arabherald.com/news/279379843/iran-gets-some-fuel-shipments-out-despite-us-blockade",
+      "domain": "arabherald.com",
+      "country": "Syria",
+      "published": "2026-10-19T02:00:00+00:00"
+     },
+     {
+      "title": "Ukraine launches 1 , 000 drones at Russia amid ongoing Trump / Zelensky spat",
+      "url": "https://www.kidderminstershuttle.co.uk/news/national/26647121.ukraine-launches-1-000-drones-russia-amid-ongoing-trump-zelensky-spat/",
+      "domain": "kidderminstershuttle.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-19T01:15:00+00:00"
+     },
+     {
+      "title": "Iranian LPG , jet fuel shipments pass through US blockade",
+      "url": "http://www.calcuttanews.net/news/279379843/iranian-lpg-jet-fuel-shipments-pass-through-us-blockade",
+      "domain": "calcuttanews.net",
+      "country": "India",
+      "published": "2026-10-19T01:15:00+00:00"
+     },
+     {
+      "title": "Iran gets some fuel shipments out despite US blockade",
+      "url": "http://www.israelherald.com/news/279379843/iran-gets-some-fuel-shipments-out-despite-us-blockade",
+      "domain": "israelherald.com",
+      "country": "Israel",
+      "published": "2026-10-19T01:15:00+00:00"
+     },
+     {
+      "title": "Iran gets some fuel shipments out despite US blockade",
+      "url": "http://www.caribbeanherald.com/news/279379843/iran-gets-some-fuel-shipments-out-despite-us-blockade",
+      "domain": "caribbeanherald.com",
+      "country": "United States",
+      "published": "2026-10-19T01:15:00+00:00"
+     },
+     {
+      "title": "Ukraine launches 1 , 000 drones at Russia amid ongoing Trump / Zelensky spat",
+      "url": "https://www.bicesteradvertiser.net/news/national/26647121.ukraine-launches-1-000-drones-russia-amid-ongoing-trump-zelensky-spat/",
+      "domain": "bicesteradvertiser.net",
+      "country": "United Kingdom",
+      "published": "2026-10-19T01:15:00+00:00"
+     },
+     {
+      "title": "Iran gets some fuel shipments out despite US blockade",
+      "url": "http://www.sanantoniopost.com/news/279379843/iran-gets-some-fuel-shipments-out-despite-us-blockade",
+      "domain": "sanantoniopost.com",
+      "country": "United States",
+      "published": "2026-10-19T01:15:00+00:00"
+     },
+     {
+      "title": "Ukraine launches 1 , 000 drones at Russia amid ongoing Trump / Zelensky spat",
+      "url": "https://www.chelmsfordcitynews.co.uk/news/national/26647121.ukraine-launches-1-000-drones-russia-amid-ongoing-trump-zelensky-spat/",
+      "domain": "chelmsfordcitynews.co.uk",
+      "country": "",
+      "published": "2026-10-19T01:15:00+00:00"
+     },
+     {
+      "title": "Iran gets some fuel shipments out despite US blockade",
+      "url": "http://www.clevelandstar.com/news/279379843/iran-gets-some-fuel-shipments-out-despite-us-blockade",
+      "domain": "clevelandstar.com",
+      "country": "United States",
+      "published": "2026-10-19T01:15:00+00:00"
+     },
+     {
+      "title": "Iran gets some fuel shipments out despite US blockade",
+      "url": "http://www.bostonstar.com/news/279379843/iran-gets-some-fuel-shipments-out-despite-us-blockade",
+      "domain": "bostonstar.com",
+      "country": "United States",
+      "published": "2026-10-19T01:15:00+00:00"
+     },
+     {
+      "title": "Have U . S . diesel fuel prices reached an all - time high this fall ?",
+      "url": "http://www.minnpost.com/fact-briefs/2026/10/did-u-s-diesel-fuel-prices-reach-an-all-time-high-this-fall/",
+      "domain": "minnpost.com",
+      "country": "United States",
+      "published": "2026-10-19T01:15:00+00:00"
+     },
+     {
+      "title": "Zelensky never wanted to end war with Russia",
+      "url": "http://www.russiaherald.com/news/279383493/zelensky-never-wanted-to-end-war-with-russia-trump",
+      "domain": "russiaherald.com",
+      "country": "Russia",
+      "published": "2026-10-19T01:15:00+00:00"
+     },
+     {
+      "title": "Iran gets some fuel shipments out despite US blockade",
+      "url": "http://www.parisguardian.com/news/279379843/iran-gets-some-fuel-shipments-out-despite-us-blockade",
+      "domain": "parisguardian.com",
+      "country": "France",
+      "published": "2026-10-19T01:15:00+00:00"
+     },
+     {
+      "title": "Venezuela opposition renews support for Maria Corina Machado as leader - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+      "url": "https://dominicanrepublicpost.com/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader/",
+      "domain": "dominicanrepublicpost.com",
       "country": "United States",
       "published": "2026-10-19T01:00:00+00:00"
      },
      {
-      "title": "American journalist injured in settler attack in Israeli - occupied West Bank",
-      "url": "https://www.knoe.com/2026/10/18/american-journalist-injured-settler-attack-israeli-occupied-west-bank/",
-      "domain": "knoe.com",
+      "title": "One dead and two injured after Russia air strike hits Kyiv buildings",
+      "url": "https://www.dailymail.com/news/article-16219441/One-dead-two-injured-Russia-air-strike-Kyiv-buildings-medical-facility.html",
+      "domain": "dailymail.com",
       "country": "United States",
-      "published": "2026-10-19T01:00:00+00:00"
-     },
-     {
-      "title": "Why are people protesting in France ? The issues fueling nationwide unrest",
-      "url": "https://kfdm.com/news/nation-world/why-are-people-protesting-in-france-the-issues-fueling-nationwide-unrest",
-      "domain": "kfdm.com",
-      "country": "United States",
-      "published": "2026-10-19T01:00:00+00:00"
-     },
-     {
-      "title": "US Foreign Spending vs Domestic Investment Priorities",
-      "url": "https://www.pakistantoday.com.pk/2026/10/19/america-must-rebuild-within",
-      "domain": "pakistantoday.com.pk",
-      "country": "Pakistan",
       "published": "2026-10-19T01:00:00+00:00"
      },
      {
@@ -731,251 +970,6 @@
       "domain": "pakistantoday.com.pk",
       "country": "Pakistan",
       "published": "2026-10-19T01:00:00+00:00"
-     },
-     {
-      "title": "Why are people protesting in France ? The issues fueling nationwide unrest",
-      "url": "https://nbcmontana.com/news/nation-world/why-are-people-protesting-in-france-the-issues-fueling-nationwide-unrest",
-      "domain": "nbcmontana.com",
-      "country": "United States",
-      "published": "2026-10-19T01:00:00+00:00"
-     },
-     {
-      "title": "UNDP Warns of Compounding Global Crises for Developing Econo",
-      "url": "https://www.pakistantoday.com.pk/2026/10/19/rising-challenges-to-global-economic-resilience",
-      "domain": "pakistantoday.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-19T01:00:00+00:00"
-     },
-     {
-      "title": "Oil tanker on fire after hitting mine in Hormuz : Iran Guards",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/oil-tanker-on-fire-after-hitting-mine-in-hormuz-irans-guards/articleshow/135037303.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-19T01:00:00+00:00"
-     },
-     {
-      "title": "Iran war : Saudi helicopter crash kills two as tanker attacks threaten Hormuz | Hellenic Shipping News Worldwide",
-      "url": "https://www.hellenicshippingnews.com/iran-war-saudi-helicopter-crash-kills-two-as-tanker-attacks-threaten-hormuz/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
-      "published": "2026-10-18T21:45:00+00:00"
-     },
-     {
-      "title": "US to NWE reopens , eyes fixed on new supply | Hellenic Shipping News Worldwide",
-      "url": "https://www.hellenicshippingnews.com/us-to-nwe-reopens-eyes-fixed-on-new-supply/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
-      "published": "2026-10-18T21:45:00+00:00"
-     },
-     {
-      "title": "Where the Oldest Road in All of Iowa ?",
-      "url": "https://hot1047.com/ixp/481/p/oldest-road-iowa-history/",
-      "domain": "hot1047.com",
-      "country": "United States",
-      "published": "2026-10-18T21:45:00+00:00"
-     },
-     {
-      "title": "Asia - US container rates mixed as extended peak season demand wanes ; tanker rates stable",
-      "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-mixed-as-extended-peak-season-demand-wanes-tanker-rates-stable/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
-      "published": "2026-10-18T21:45:00+00:00"
-     },
-     {
-      "title": "Gulf states condemn Houthi attacks on Saudi Arabia and pledge support",
-      "url": "https://www.azernews.az/region/265788.html",
-      "domain": "azernews.az",
-      "country": "Azerbaijan",
-      "published": "2026-10-18T21:00:00+00:00"
-     },
-     {
-      "title": "St . Paul Victoria Park renamed Brewer Bluff Park",
-      "url": "https://www.twincities.com/2026/10/18/st-paul-victoria-park-new-name/",
-      "domain": "twincities.com",
-      "country": "United States",
-      "published": "2026-10-18T21:00:00+00:00"
-     },
-     {
-      "title": "Zelensky Calls EU Leaders  Real  As Patriot Missiles Run Out And Trump Ceasefire Collapses",
-      "url": "https://www.latintimes.com/zelensky-calls-eu-leaders-real-patriot-missiles-run-out-trumps-ceasefire-collapses-600281",
-      "domain": "latintimes.com",
-      "country": "United States",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "JD Vance lies to America :  I have not once seen evidence that Trump has enriched himself .",
-      "url": "https://www.dailykos.com/stories/2026/10/18/800114142/community/jd-vance-i-have-not-seen-a-single-shred-of-evidence-that-trump-is-corrupt/",
-      "domain": "dailykos.com",
-      "country": "United States",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Markets today : Wall Street hit by tech slump , ASX set to edge lower",
-      "url": "https://www.brisbanetimes.com.au/business/markets/asx-set-to-dip-tech-stocks-weigh-on-wall-street-20261019-p616jx.html",
-      "domain": "brisbanetimes.com.au",
-      "country": "Australia",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Macron begins Gulf tour focused on fuel supplies and strategic ties",
-      "url": "https://www.aol.co.uk/articles/macron-begins-gulf-tour-focused-200446000.html",
-      "domain": "aol.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Sulfur and the emerging food crisis  | Peak Oil News and Message Boards",
-      "url": "https://peakoil.com/production/sulfur-and-the-emerging-food-crisis",
-      "domain": "peakoil.com",
-      "country": "United States",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Egypt top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
-      "url": "https://www.wsls.com/news/world/2026/10/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks/",
-      "domain": "wsls.com",
-      "country": "United States",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Markets today : Wall Street hit by tech slump , ASX set to edge lower",
-      "url": "https://www.theage.com.au/business/markets/asx-set-to-dip-tech-stocks-weigh-on-wall-street-20261019-p616jx.html",
-      "domain": "theage.com.au",
-      "country": "Australia",
-      "published": "2026-10-18T19:30:00+00:00"
-     },
-     {
-      "title": "Op - ed : Performing refugeehood - How will Sudanese navigate Egypt incoming asylum system ?",
-      "url": "https://www.dabangasudan.org/en/all-news/article/op-ed-performing-refugeehood-how-will-sudanese-navigate-egypts-incoming-asylum-system",
-      "domain": "dabangasudan.org",
-      "country": "Sudan",
-      "published": "2026-10-18T19:30:00+00:00"
-     },
-     {
-      "title": "Arab News | Clash of frozen poles forging new strategic Arctic corridors",
-      "url": "https://www.arabnews.com/opinion/clash-of-frozen-poles-forging-new-strategic-arctic-corridors-3005875",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-10-18T19:15:00+00:00"
-     },
-     {
-      "title": "Defending Saudi Arabia is essential to protecting the global economy",
-      "url": "https://weeklyblitz.net/2026/10/19/defending-saudi-arabia-is-essential-to-protecting-the-global-economy/",
-      "domain": "weeklyblitz.net",
-      "country": "Bangladesh",
-      "published": "2026-10-18T19:15:00+00:00"
-     },
-     {
-      "title": "Egypt top security body agrees to help Saudi Arabia defend itself against Houthi attacks – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/world/2026/10/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks",
-      "domain": "winnipegfreepress.com",
-      "country": "Canada",
-      "published": "2026-10-18T19:15:00+00:00"
-     },
-     {
-      "title": "Iran Proposes Seven - Day Plan to Reopen Strait of Hormuz , Conditional on US Compliance",
-      "url": "https://openthemagazine.com/world/iran-proposes-seven-day-plan-offers-conditional-hormuz-reopening-on-day-six",
-      "domain": "openthemagazine.com",
-      "country": "India",
-      "published": "2026-10-18T19:15:00+00:00"
-     },
-     {
-      "title": "Trump Endorses Netanyahu in Israeli Election",
-      "url": "https://www.theepochtimes.com/world/trump-endorses-netanyahu-in-israeli-election-6105569",
-      "domain": "theepochtimes.com",
-      "country": "United States",
-      "published": "2026-10-18T19:15:00+00:00"
-     },
-     {
-      "title": "Markets today : Wall Street hit by tech slump , ASX set to edge lower",
-      "url": "https://www.smh.com.au/business/markets/asx-set-to-dip-tech-stocks-weigh-on-wall-street-20261019-p616jx.html",
-      "domain": "smh.com.au",
-      "country": "Australia",
-      "published": "2026-10-18T19:15:00+00:00"
-     },
-     {
-      "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
-      "url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies",
-      "domain": "aljazeera.com",
-      "country": "United States",
-      "published": "2026-10-18T19:15:00+00:00"
-     },
-     {
-      "title": "INS Sudarshini departs Oman Salalah , continues Lokayan - 2026 transoceanic deployment",
-      "url": "https://www.prokerala.com/news/articles/a1826112.html",
-      "domain": "prokerala.com",
-      "country": "India",
-      "published": "2026-10-18T19:00:00+00:00"
-     },
-     {
-      "title": "India imports of Russian crude dip in Sep amid price rise",
-      "url": "https://www.ibtimes.co.in/indias-imports-russian-crude-dip-sep-amid-price-rise-907660",
-      "domain": "ibtimes.co.in",
-      "country": "India",
-      "published": "2026-10-18T19:00:00+00:00"
-     },
-     {
-      "title": "Importing Russian Diesel Is  Incentive  to End War : Energy Secretary",
-      "url": "https://www.businessinsider.com/trump-russia-sanctions-diesel-imports-ukraine-war-2026-10",
-      "domain": "businessinsider.com",
-      "country": "United States",
-      "published": "2026-10-18T19:00:00+00:00"
-     },
-     {
-      "title": "Egypt top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
-      "url": "https://www.clickondetroit.com/news/world/2026/10/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks/",
-      "domain": "clickondetroit.com",
-      "country": "United States",
-      "published": "2026-10-18T19:00:00+00:00"
-     },
-     {
-      "title": "Iran says its seven - day plan to reopen Hormuz Strait still on table",
-      "url": "https://www.prokerala.com/news/articles/a1826100.html",
-      "domain": "prokerala.com",
-      "country": "India",
-      "published": "2026-10-18T19:00:00+00:00"
-     },
-     {
-      "title": "Drum - Tidbit",
-      "url": "https://www.postcourier.com.pg/drum191026/",
-      "domain": "postcourier.com.pg",
-      "country": "Papua New Guinea",
-      "published": "2026-10-18T19:00:00+00:00"
-     },
-     {
-      "title": "Egypt top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
-      "url": "https://www.news4jax.com/news/world/2026/10/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks/",
-      "domain": "news4jax.com",
-      "country": "United States",
-      "published": "2026-10-18T18:45:00+00:00"
-     },
-     {
-      "title": "Midterm vote is about  what best for my family : Voters talk 2026 midterms",
-      "url": "https://abcnews.com/Politics/midterm-vote-whats-best-family-voters-talk-2026/story?id=137355210",
-      "domain": "abcnews.com",
-      "country": "United States",
-      "published": "2026-10-18T18:45:00+00:00"
-     },
-     {
-      "title": "Full transcript of  Face the Nation with Margaret Brennan , Oct . 18 , 2026",
-      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-10-18-2026/",
-      "domain": "cbsnews.com",
-      "country": "United States",
-      "published": "2026-10-18T18:45:00+00:00"
-     },
-     {
-      "title": "Egypt top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
-      "url": "https://www.clickorlando.com/news/world/2026/10/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks/",
-      "domain": "clickorlando.com",
-      "country": "United States",
-      "published": "2026-10-18T18:45:00+00:00"
-     },
-     {
-      "title": "Iran Names UN - Sanctioned Missile Chief As Defense Minister",
-      "url": "http://www.europesun.com/news/279382861/iran-names-un-sanctioned-missile-chief-as-defense-minister",
-      "domain": "europesun.com",
-      "country": "Russia",
-      "published": "2026-10-18T18:45:00+00:00"
      }
     ],
     "riesgos_climaticos": [
@@ -1263,7 +1257,7 @@
    },
    "errors": {
     "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
