@@ -1,5 +1,22 @@
 [
  {
+  "id": "2079e9805bcb",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-19",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 4 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Houthi rebels strike a government military camp in southern Yemen , killing at least 20 fighters” (rockymounttelegram.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "rockymounttelegram.com",
+  "url": "http://www.rockymounttelegram.com/news/world/houthi-rebels-strike-a-government-military-camp-in-southern-yemen-killing-at-least-20-fighters/article_9ee223d2-9cbc-5526-b076-e71cf58884c4.html",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-19T07:00:24-06:00"
+ },
+ {
   "id": "9108ecae035d",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
