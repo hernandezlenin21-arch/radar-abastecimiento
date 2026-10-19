@@ -1,5 +1,22 @@
 [
  {
+  "id": "9e49fe54927e",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-19",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 2 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Houthi rebels strike Yemeni govt forces , killing 53” (dailyliberal.com.au). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "dailyliberal.com.au",
+  "url": "https://www.dailyliberal.com.au/story/9371525/houthi-rebels-strike-yemeni-govt-forces-killing-53/",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-19T15:46:27-06:00"
+ },
+ {
   "id": "f808dd4263f5",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
