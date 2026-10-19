@@ -1,0 +1,108 @@
+# Parámetros generales. Los umbrales de alertas son los valores POR DEFECTO;
+# el usuario puede modificarlos desde la interfaz (se guardan en su navegador).
+
+timezone: America/Managua
+history_start: "2015-01-01"       # inicio del historial que se descarga
+
+alerts:
+  daily_change_pct: 3.0           # solo series diarias
+  weekly_change_pct: 8.0          # acumulado 7 días (series diarias) / 1 obs (semanales)
+  monthly_change_pct: 8.0         # 1 observación en series mensuales
+  zscore: 2.0                     # desviaciones estándar vs. media de referencia
+  zscore_window: 60               # observaciones de la media de referencia (diarias)
+  vol_ratio: 1.5                  # volatilidad 30 obs / volatilidad 1 año
+  gscpi_high: 1.0                 # GSCPI > 1 desv. est. = presión alta
+  stale_factor: 3                 # dato obsoleto si su edad > factor × periodo esperado
+
+quality:
+  max_abs_change_pct:             # cambios mayores se marcan "requiere verificación"
+    diaria: 15
+    semanal: 20
+    mensual: 30
+
+# Consultas a GDELT DOC 2.0 (noticias). Una consulta por categoría.
+# GDELT pide no más de 1 solicitud cada 5 segundos.
+news:
+  timespan: "72h"
+  max_per_query: 40
+  queries:
+    commodities_agricolas: '(corn OR soybean OR "soybean meal" OR wheat OR "palm oil" OR DDGS) (price OR prices OR harvest OR WASDE OR exports)'
+    energia: '(crude OR Brent OR WTI OR diesel OR "natural gas" OR OPEC) (price OR prices OR supply OR output)'
+    comercio_internacional: '(tariff OR tariffs OR "export ban" OR "export restriction" OR "trade deal") (grain OR soybean OR food OR agriculture OR oil)'
+    geopolitica: '(sanctions OR conflict OR attack OR war) (shipping OR oil OR grain OR "Black Sea" OR "Red Sea" OR Hormuz)'
+    transporte_maritimo: '("Panama Canal" OR "Suez Canal" OR "Red Sea" OR "Strait of Hormuz" OR "port strike" OR "freight rates" OR "container shipping" OR "Mississippi River")'
+    riesgos_climaticos: '(drought OR flood OR hurricane OR "La Nina" OR "El Nino" OR heatwave) (crop OR harvest OR corn OR soybean OR "Central America")'
+    produccion_agroindustrial: '("feed mill" OR "animal feed" OR "poultry" OR "livestock feed" OR "vegetable oil") (supply OR prices OR production)'
+    economia_mundial: '("Federal Reserve" OR inflation OR recession OR "interest rates" OR dollar) (commodities OR markets)'
+
+# Puntos críticos de la cadena de suministro. Coordenadas geográficas fijas
+# usadas para ubicar en el mapa las señales detectadas en noticias.
+chokepoints:
+  - id: panama
+    name: Canal de Panamá
+    lat: 9.08
+    lon: -79.68
+    keywords: ["panama canal", "canal de panamá", "gatun"]
+    affects: ["Granos EE.UU. Golfo → Pacífico", "Contenedores Asia ↔ Costa Este EE.UU.", "Importaciones de Centroamérica por el Caribe"]
+    impact_ni: "Alto: rutas de granos desde el Golfo de EE.UU. hacia el Pacífico centroamericano y fletes regionales."
+  - id: mar_rojo
+    name: Mar Rojo / Bab el-Mandeb
+    lat: 12.58
+    lon: 43.33
+    keywords: ["red sea", "bab el-mandeb", "houthi", "houthis"]
+    affects: ["Asia ↔ Europa", "Aceite de palma hacia Europa", "Disponibilidad global de buques"]
+    impact_ni: "Medio: indirecto, por alza global de fletes y disponibilidad de contenedores."
+  - id: suez
+    name: Canal de Suez
+    lat: 30.58
+    lon: 32.27
+    keywords: ["suez canal", "suez"]
+    affects: ["Asia ↔ Europa", "Granos del Mar Negro hacia Asia"]
+    impact_ni: "Medio: indirecto vía fletes globales."
+  - id: ormuz
+    name: Estrecho de Ormuz
+    lat: 26.57
+    lon: 56.25
+    keywords: ["strait of hormuz", "hormuz"]
+    affects: ["~20% del petróleo mundial", "GNL de Qatar"]
+    impact_ni: "Alto: precio del crudo → diésel, búnker y fletes terrestres en Nicaragua."
+  - id: mar_negro
+    name: Mar Negro
+    lat: 43.4
+    lon: 34.0
+    keywords: ["black sea", "odesa", "odessa", "novorossiysk"]
+    affects: ["Trigo y maíz de Ucrania/Rusia", "Aceite de girasol"]
+    impact_ni: "Medio: precio internacional del trigo y del maíz."
+  - id: mississippi
+    name: Río Mississippi
+    lat: 32.3
+    lon: -90.9
+    keywords: ["mississippi river", "barge"]
+    affects: ["Exportaciones de maíz y soya de EE.UU. por el Golfo"]
+    impact_ni: "Alto: origen principal de maíz amarillo y harina de soya para la región."
+  - id: parana
+    name: Río Paraná / Rosario
+    lat: -32.95
+    lon: -60.64
+    keywords: ["parana river", "paraná", "rosario port", "argentina port strike", "argentine port"]
+    affects: ["Harina y aceite de soya argentinos"]
+    impact_ni: "Medio: precio internacional de harina y aceite de soya."
+  - id: golfo_eeuu
+    name: Puertos del Golfo de EE.UU.
+    lat: 29.9
+    lon: -90.0
+    keywords: ["gulf coast port", "new orleans port", "houston port", "ila strike", "longshoremen"]
+    affects: ["Granos y combustibles hacia Centroamérica"]
+    impact_ni: "Alto: origen de granos y combustibles importados."
+
+# Severidad por palabras clave en titulares (regla documentada, sin probabilidad).
+risk_keywords:
+  critico: ["closed", "closure", "shut", "halted", "blockade", "suspended transit"]
+  alto: ["attack", "strike", "ban", "drought", "restrictions", "restricted", "embargo", "sanction"]
+  medio: ["delay", "delays", "congestion", "low water", "draft limit", "tariff"]
+
+# Puertos de referencia para medir distancia de ciclones tropicales.
+reference_points:
+  - {name: "Corinto (NI)", lat: 12.48, lon: -87.17}
+  - {name: "Puerto Sandino (NI)", lat: 12.18, lon: -86.77}
+  - {name: "Chinandega (NI)", lat: 12.63, lon: -87.13}

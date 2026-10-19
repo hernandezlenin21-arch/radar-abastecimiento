@@ -1,0 +1,315 @@
+# =============================================================================
+# REGISTRO DE INDICADORES — edite este archivo para agregar o quitar series.
+# No hace falta tocar código: cada entrada indica el conector, el identificador
+# de la serie en la fuente y cómo normalizar la unidad.
+#
+# Campos:
+#   id          identificador interno único (sin espacios)
+#   name        nombre visible en el dashboard
+#   group       agricola | energia | metales | proteinas | macro | logistica | clima
+#   connector   fred | worldbank | nyfed | eia | ams | noaa_oni
+#   source_key  identificador de la serie en la fuente
+#   price_type  futuros | fisico_spot | fob | cif | promedio_mensual | indice | minorista
+#   market      mercado o país de referencia
+#   unit        unidad original (se confirma con la fuente cuando ésta la publica)
+#   normalize   regla de conversión a unidad común (ver pipeline/normalize.py) o null
+#   frequency   diaria | semanal | mensual  (frecuencia de PUBLICACIÓN de la fuente)
+#   drivers     factores principales que mueven el precio (texto de referencia)
+#   enabled     false = desactivado (p. ej. requiere clave o validación)
+# =============================================================================
+
+indicators:
+
+  # ---------------------------------------------------------------- AGRÍCOLAS
+  - id: maiz
+    name: Maíz amarillo (US No.2, Golfo)
+    group: agricola
+    connector: worldbank
+    source_key: "Maize"
+    price_type: promedio_mensual
+    market: "EE.UU. Golfo, FOB (referencia Banco Mundial)"
+    unit: "USD/t"
+    normalize: null
+    frequency: mensual
+    drivers: [Cosecha EE.UU./Brasil/Argentina, WASDE, etanol, clima en Corn Belt, demanda China, nivel del río Mississippi]
+    enabled: true
+
+  - id: soya
+    name: Soya en grano
+    group: agricola
+    connector: worldbank
+    source_key: "Soybeans"
+    price_type: promedio_mensual
+    market: "EE.UU., CIF Rotterdam (referencia Banco Mundial)"
+    unit: "USD/t"
+    normalize: null
+    frequency: mensual
+    drivers: [Cosecha Brasil/EE.UU., compras de China, crush margin, clima Sudamérica]
+    enabled: true
+
+  - id: harina_soya
+    name: Harina de soya
+    group: agricola
+    connector: worldbank
+    source_key: "Soybean meal"
+    price_type: promedio_mensual
+    market: "Argentina/Brasil, CIF Rotterdam (referencia Banco Mundial)"
+    unit: "USD/t"
+    normalize: null
+    frequency: mensual
+    drivers: [Molienda Argentina, demanda pecuaria/avícola, demanda de aceite para biodiésel]
+    enabled: true
+
+  - id: ddgs
+    name: DDGS (Corn Distillers Dried Grain 10%)
+    group: agricola
+    connector: ams
+    source_key: "3511"          # USDA AMS MyMarketNews, reporte 3511 (verificado)
+    price_type: fisico_spot
+    market: "EE.UU., mercados físicos (USDA AMS)"
+    unit: "USD/short ton"
+    normalize: short_ton_to_t
+    frequency: semanal
+    drivers: [Precio del maíz, producción de etanol, exportaciones a México/Asia, precio de harina de soya]
+    enabled: true             # requiere AMS_API_KEY; sin clave se marca 'Dato no disponible'
+
+  - id: trigo
+    name: Trigo (US HRW)
+    group: agricola
+    connector: worldbank
+    source_key: "Wheat, US HRW"
+    price_type: promedio_mensual
+    market: "EE.UU. Golfo, FOB (referencia Banco Mundial)"
+    unit: "USD/t"
+    normalize: null
+    frequency: mensual
+    drivers: [Mar Negro, cosecha EE.UU./UE/Australia, restricciones de exportación]
+    enabled: true
+
+  - id: aceite_soya
+    name: Aceite crudo de soya
+    group: agricola
+    connector: worldbank
+    source_key: "Soybean oil"
+    price_type: promedio_mensual
+    market: "Holanda, FOB ex-mill (referencia Banco Mundial)"
+    unit: "USD/t"
+    normalize: null
+    frequency: mensual
+    drivers: [Mandatos de biodiésel (RVO EE.UU.), precio del palma, crudo, molienda]
+    enabled: true
+
+  - id: aceite_palma
+    name: Aceite de palma
+    group: agricola
+    connector: worldbank
+    source_key: "Palm oil"
+    price_type: promedio_mensual
+    market: "Malasia, CIF Rotterdam (referencia Banco Mundial)"
+    unit: "USD/t"
+    normalize: null
+    frequency: mensual
+    drivers: [Producción Indonesia/Malasia, políticas de exportación de Indonesia, biodiésel B40, El Niño]
+    enabled: true
+
+  - id: aceite_mani
+    name: Aceite de maní
+    group: agricola
+    connector: worldbank
+    source_key: "Groundnut oil"
+    price_type: promedio_mensual
+    market: "Cualquier origen, CIF Rotterdam (referencia Banco Mundial)"
+    unit: "USD/t"
+    normalize: null
+    frequency: mensual
+    drivers: [Cosecha en Argentina, India, China, África Occidental; precio de otros aceites]
+    enabled: true
+
+  # ---------------------------------------------------------------- ENERGÍA
+  - id: wti
+    name: Petróleo WTI (Cushing, spot)
+    group: energia
+    connector: fred
+    source_key: DCOILWTICO
+    price_type: fisico_spot
+    market: "Cushing, Oklahoma (EIA vía FRED)"
+    unit: "USD/bbl"
+    normalize: null
+    frequency: diaria
+    drivers: [OPEP+, inventarios EE.UU., geopolítica Medio Oriente, demanda China]
+    enabled: true
+
+  - id: brent
+    name: Petróleo Brent (Europa, spot)
+    group: energia
+    connector: fred
+    source_key: DCOILBRENTEU
+    price_type: fisico_spot
+    market: "Mar del Norte (EIA vía FRED)"
+    unit: "USD/bbl"
+    normalize: null
+    frequency: diaria
+    drivers: [OPEP+, mar Rojo/Ormuz, sanciones Rusia/Irán, demanda global]
+    enabled: true
+
+  - id: diesel_nyh
+    name: Diésel ULSD (New York Harbor, mayorista)
+    group: energia
+    connector: fred
+    source_key: DDFUELNYH
+    price_type: fisico_spot
+    market: "New York Harbor (EIA vía FRED) — NO es precio en Nicaragua"
+    unit: "USD/gal"
+    normalize: gal_to_l
+    frequency: diaria
+    drivers: [Crudo, margen de refinación (crack), inventarios de destilados, invierno]
+    enabled: true
+
+  - id: diesel_retail_us
+    name: Diésel minorista promedio EE.UU.
+    group: energia
+    connector: eia
+    source_key: EMD_EPD2D_PTE_NUS_DPG
+    price_type: minorista
+    market: "EE.UU. promedio nacional (EIA) — NO es precio en Nicaragua"
+    unit: "USD/gal"
+    normalize: gal_to_l
+    frequency: semanal
+    drivers: [Crudo, impuestos, margen de distribución]
+    enabled: true             # requiere EIA_API_KEY
+
+  - id: henry_hub
+    name: Gas natural Henry Hub (spot)
+    group: energia
+    connector: fred
+    source_key: DHHNGSP
+    price_type: fisico_spot
+    market: "Henry Hub, Luisiana (EIA vía FRED)"
+    unit: "USD/MMBtu"
+    normalize: null
+    frequency: diaria
+    drivers: [Clima EE.UU., almacenamiento, exportaciones de GNL]
+    enabled: true
+
+  - id: carbon
+    name: Carbón térmico (Australia)
+    group: energia
+    connector: worldbank
+    source_key: "Coal, Australian"
+    price_type: promedio_mensual
+    market: "Newcastle, FOB (referencia Banco Mundial)"
+    unit: "USD/t"
+    normalize: null
+    frequency: mensual
+    drivers: [Demanda eléctrica de China/India, precio del gas, clima]
+    enabled: true
+
+  # ---------------------------------------------------------------- METALES
+  - id: oro
+    name: Oro
+    group: metales
+    connector: worldbank
+    source_key: "Gold"
+    price_type: promedio_mensual
+    market: "Londres, UK (referencia Banco Mundial)"
+    unit: "USD/troy oz"
+    normalize: null
+    frequency: mensual
+    drivers: [Tasas reales, dólar, compras de bancos centrales, riesgo geopolítico]
+    enabled: true
+
+  - id: plata
+    name: Plata
+    group: metales
+    connector: worldbank
+    source_key: "Silver"
+    price_type: promedio_mensual
+    market: "Nueva York / Londres (referencia Banco Mundial)"
+    unit: "USD/troy oz"
+    normalize: null
+    frequency: mensual
+    drivers: [Demanda industrial (solar), tasas reales, dólar, oro]
+    enabled: true
+
+  # ---------------------------------------------------------------- PROTEÍNAS
+  - id: carne_bovina
+    name: Carne bovina (Australia/NZ, cortes congelados)
+    group: proteinas
+    connector: worldbank
+    source_key: "Beef"
+    price_type: promedio_mensual
+    market: "Australia/NZ, CIF puertos EE.UU. (referencia Banco Mundial) — carne procesada"
+    unit: "USD/kg"
+    normalize: null
+    frequency: mensual
+    drivers: [Hato ganadero EE.UU., demanda China, sequía en Australia, aranceles]
+    enabled: true
+
+  # Ganado en pie: USDA AMS publica reportes de ganado (p. ej. 5-Area Weekly).
+  # El número de reporte debe validarse en https://mymarketnews.ams.usda.gov
+  # antes de activarlo; por eso queda desactivado (no se inventan identificadores).
+  - id: ganado_pie
+    name: Ganado bovino en pie (EE.UU., novillos)
+    group: proteinas
+    connector: ams
+    source_key: "VALIDAR"
+    price_type: fisico_spot
+    market: "EE.UU., 5 áreas (USDA AMS)"
+    unit: "USD/cwt"
+    normalize: cwt_to_kg
+    frequency: semanal
+    drivers: [Inventario de ganado, precio del maíz, demanda de carne]
+    enabled: false
+
+  # ---------------------------------------------------------------- MACRO / LOGÍSTICA / CLIMA
+  - id: gscpi
+    name: Índice de Presión en Cadenas de Suministro (GSCPI)
+    group: logistica
+    connector: nyfed
+    source_key: GSCPI
+    price_type: indice
+    market: "Global (Fed de Nueva York)"
+    unit: "desv. estándar"
+    normalize: null
+    frequency: mensual
+    drivers: [Fletes marítimos (BDI, Harpex), fletes aéreos, PMI tiempos de entrega]
+    enabled: true
+
+  - id: usd_index
+    name: Índice del dólar (amplio, nominal)
+    group: macro
+    connector: fred
+    source_key: DTWEXBGS
+    price_type: indice
+    market: "Reserva Federal (vía FRED)"
+    unit: "índice ene-2006=100"
+    normalize: null
+    frequency: diaria
+    drivers: [Política monetaria Fed, diferencial de tasas, aversión al riesgo]
+    enabled: true
+
+  - id: tasa_10y
+    name: Bono del Tesoro EE.UU. 10 años
+    group: macro
+    connector: fred
+    source_key: DGS10
+    price_type: indice
+    market: "EE.UU. (Reserva Federal vía FRED)"
+    unit: "%"
+    normalize: null
+    frequency: diaria
+    drivers: [Inflación esperada, política Fed, crecimiento]
+    enabled: true
+
+  - id: oni
+    name: Índice Oceánico El Niño (ONI)
+    group: clima
+    connector: noaa_oni
+    source_key: ONI
+    price_type: indice
+    market: "Pacífico ecuatorial, región Niño 3.4 (NOAA CPC)"
+    unit: "°C anomalía"
+    normalize: null
+    frequency: mensual
+    drivers: [≥ +0.5 El Niño (sequía Centroamérica / sudeste asiático); ≤ -0.5 La Niña (sequía Argentina/sur de Brasil)]
+    enabled: true

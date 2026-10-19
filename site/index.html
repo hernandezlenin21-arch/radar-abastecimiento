@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!--ARTIFACT-START-->
+<title>Radar de Abastecimiento</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<div id="demo-banner" hidden>DEMO — datos sintéticos de prueba. No usar para decisiones.</div>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <div>
+        <div class="brand-name">Radar de Abastecimiento</div>
+        <div class="brand-sub">Inteligencia de mercados · Gerencia de Logística</div>
+      </div>
+    </div>
+    <div class="sync" id="sync" aria-live="polite">
+      <span class="dot" id="sync-dot"></span>
+      <span id="sync-text">Cargando…</span>
+    </div>
+    <div class="top-actions">
+      <label class="sr" for="auto-refresh">Actualización automática</label>
+      <select id="auto-refresh" title="Actualización periódica durante la sesión">
+        <option value="0">Auto: no</option>
+        <option value="15">Auto: 15 min</option>
+        <option value="30" selected>Auto: 30 min</option>
+        <option value="60">Auto: 60 min</option>
+      </select>
+      <button class="btn" id="btn-refresh" type="button">Actualizar</button>
+      <button class="btn ghost" id="btn-print" type="button" title="Vista ejecutiva imprimible / PDF">Imprimir</button>
+      <button class="btn ghost icon" id="btn-theme" type="button" aria-label="Cambiar tema">◐</button>
+    </div>
+  </div>
+  <nav class="tabs" id="tabs" aria-label="Módulos">
+    <button data-tab="exec" class="active">Resumen ejecutivo</button>
+    <button data-tab="monitor">Commodities</button>
+    <button data-tab="risk">Radar de riesgos</button>
+    <button data-tab="trends">Tendencias</button>
+    <button data-tab="alerts">Alertas <span class="badge" id="alert-count"></span></button>
+    <button data-tab="procure">Compras y logística</button>
+    <button data-tab="news">Noticias</button>
+    <button data-tab="sources">Fuentes y calidad</button>
+  </nav>
+</header>
+
+<section class="filters" id="filters" aria-label="Filtros globales">
+  <div class="filters-inner">
+    <div class="f"><label for="f-group">Grupo</label>
+      <select id="f-group"><option value="">Todos</option><option value="agricola">Agrícolas</option><option value="energia">Energía</option><option value="metales">Metales</option><option value="proteinas">Proteínas</option><option value="logistica">Logística</option><option value="macro">Macro</option><option value="clima">Clima</option></select></div>
+    <div class="f"><label for="f-freq">Frecuencia</label>
+      <select id="f-freq"><option value="">Todas</option><option value="diaria">Diaria</option><option value="semanal">Semanal</option><option value="mensual">Mensual</option></select></div>
+    <div class="f"><label for="f-source">Fuente</label><select id="f-source"><option value="">Todas</option></select></div>
+    <div class="f"><label for="f-trend">Tendencia</label>
+      <select id="f-trend"><option value="">Todas</option><option value="alcista">Alcista</option><option value="bajista">Bajista</option><option value="lateral">Lateral</option></select></div>
+    <div class="f"><label for="f-period">Periodo</label>
+      <select id="f-period"><option value="7">7 días</option><option value="30">30 días</option><option value="90">90 días</option><option value="182">6 meses</option><option value="365" selected>12 meses</option><option value="1095">3 años</option><option value="custom">Personalizado</option></select></div>
+    <div class="f custom" id="f-custom" hidden>
+      <label for="f-from">Desde</label><input type="date" id="f-from">
+      <label for="f-to">Hasta</label><input type="date" id="f-to">
+    </div>
+    <div class="f grow"><label for="f-search">Buscar</label><input type="search" id="f-search" placeholder="maíz, diésel, oro…"></div>
+  </div>
+</section>
+
+<main id="main">
+  <!-- 1. Resumen ejecutivo -->
+  <section class="view active" id="view-exec">
+    <div class="exec-head">
+      <p class="eyebrow" id="exec-date"></p>
+      <h1 id="exec-headline">Cargando datos…</h1>
+      <p class="lede" id="exec-summary"></p>
+      <p class="method" id="exec-method"></p>
+    </div>
+    <div class="grid exec-grid">
+      <div class="panel span2">
+        <div class="panel-h"><h2>Lo que requiere atención</h2><span class="legend-chips"><span class="chip fact">Hecho</span><span class="chip interp">Interpretación</span><span class="chip act">Acción</span></span></div>
+        <ol class="story" id="exec-story"></ol>
+      </div>
+      <div class="panel">
+        <div class="panel-h"><h2>Presión logística y energética</h2></div>
+        <div id="exec-pressure" class="pressure"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-h"><h2>Principales movimientos</h2><span class="hint">vs. su variación típica</span></div>
+        <div id="exec-movers"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-h"><h2>Riesgos emergentes</h2></div>
+        <div id="exec-risks"></div>
+      </div>
+      <div class="panel">
+        <div class="panel-h"><h2>Recomendaciones prioritarias</h2></div>
+        <ul class="recs" id="exec-recs"></ul>
+        <div class="panel-h sub"><h3>Oportunidades de abastecimiento</h3></div>
+        <div id="exec-opps"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 2. Commodities -->
+  <section class="view" id="view-monitor">
+    <div class="view-h"><h1>Monitor de commodities</h1>
+      <div class="view-actions">
+        <button class="btn ghost" id="btn-compare" type="button">Comparar seleccionados</button>
+        <button class="btn ghost" id="btn-export-cards" type="button">Exportar tabla</button>
+      </div>
+    </div>
+    <p class="hint">Toque una tarjeta para ver el detalle. Marque la casilla para comparar series normalizadas (base 100).</p>
+    <div class="cards" id="cards"></div>
+    <div class="panel detail" id="detail" hidden>
+      <div class="panel-h"><div><h2 id="d-title"></h2><p class="hint" id="d-sub"></p></div>
+        <div class="view-actions"><button class="btn ghost" id="btn-export-series" type="button">Exportar serie</button><button class="btn ghost" id="btn-close-detail" type="button">Cerrar</button></div></div>
+      <div class="d-meta" id="d-meta"></div>
+      <div class="chart tall" id="ch-price"></div>
+      <div class="grid two">
+        <div><h3>Volatilidad móvil (anualizada)</h3><div class="chart" id="ch-vol"></div></div>
+        <div><h3>Comparación interanual</h3><div class="chart" id="ch-yoy"></div></div>
+      </div>
+      <div class="grid two">
+        <div><h3>Estadísticas descriptivas del periodo</h3><div class="tbl-wrap"><table class="tbl" id="d-stats"></table></div></div>
+        <div><h3>Factores que mueven el precio</h3><ul class="drivers" id="d-drivers"></ul><h3>Eventos anotados</h3><ul class="drivers" id="d-events"></ul></div>
+      </div>
+    </div>
+    <div class="panel" id="compare" hidden>
+      <div class="panel-h"><h2>Comparación normalizada (base 100 al inicio del periodo)</h2><button class="btn ghost" id="btn-close-compare" type="button">Cerrar</button></div>
+      <div class="chart tall" id="ch-compare"></div>
+    </div>
+  </section>
+
+  <!-- 3. Riesgos -->
+  <section class="view" id="view-risk">
+    <div class="view-h"><h1>Radar global de riesgos</h1>
+      <div class="view-actions"><label for="r-sev" class="sr">Severidad</label>
+        <select id="r-sev"><option value="">Toda severidad</option><option value="critico">Crítico</option><option value="alto">Alto</option><option value="medio">Medio</option><option value="bajo">Bajo</option><option value="informativo">Informativo</option></select>
+        <label for="r-type" class="sr">Tipo</label><select id="r-type"><option value="">Todo tipo</option></select></div></div>
+    <p class="hint">Eventos oficiales (NHC, NOAA, Fed NY) y señales de prensa sobre puntos críticos. La probabilidad no se estima: no hay metodología sustentada con estos datos.</p>
+    <div class="panel"><div class="chart map" id="ch-map"></div></div>
+    <div class="events" id="risk-list"></div>
+  </section>
+
+  <!-- 4. Tendencias -->
+  <section class="view" id="view-trends">
+    <div class="view-h"><h1>Tendencias y análisis estadístico</h1></div>
+    <div class="epistemic">
+      <span class="chip fact">Hecho observado</span> variaciones, medias, volatilidad ·
+      <span class="chip interp">Interpretación</span> tendencia según regresión ·
+      <span class="chip scen">Escenario estadístico</span> rangos históricos, no pronósticos
+    </div>
+    <div class="panel"><div class="panel-h"><h2>Tendencia y cambios de tendencia</h2><span class="hint">regresión sobre log-precio; |t| &gt; 2 = tendencia significativa</span></div>
+      <div class="tbl-wrap"><table class="tbl" id="t-trend"></table></div></div>
+    <div class="grid two">
+      <div class="panel"><div class="panel-h"><h2>Escenarios 7 / 30 / 90 días</h2>
+          <label for="s-ind" class="sr">Indicador</label><select id="s-ind"></select></div>
+        <div class="chart" id="ch-scen"></div><div id="scen-note" class="hint"></div></div>
+      <div class="panel"><div class="panel-h"><h2>Estacionalidad</h2><span class="hint">rendimiento mensual promedio</span></div>
+        <div class="chart" id="ch-season"></div><div id="season-note" class="hint"></div></div>
+    </div>
+    <div class="panel"><div class="panel-h"><h2>Correlación de rendimientos mensuales</h2><span class="hint" id="corr-note"></span></div>
+      <div class="chart tall" id="ch-corr"></div></div>
+    <div class="panel"><div class="panel-h"><h2>Anomalías estadísticas</h2><span class="hint">|z| ≥ umbral de alertas</span></div><div id="anoms"></div></div>
+  </section>
+
+  <!-- 5. Alertas -->
+  <section class="view" id="view-alerts">
+    <div class="view-h"><h1>Alertas tempranas</h1>
+      <div class="view-actions"><label for="a-sev" class="sr">Severidad</label>
+        <select id="a-sev"><option value="">Toda severidad</option><option value="critico">Crítico</option><option value="alto">Alto</option><option value="medio">Medio</option><option value="bajo">Bajo</option><option value="informativo">Informativo</option></select>
+        <label class="check"><input type="checkbox" id="a-hide-ack"> Ocultar revisadas</label></div></div>
+    <details class="panel thresholds" id="thresholds">
+      <summary>Umbrales configurables</summary>
+      <form id="th-form" class="th-grid"></form>
+      <p class="hint">Los cambios se aplican al instante y se guardan en este navegador. Las series mensuales no generan alertas diarias.</p>
+    </details>
+    <div id="alert-list" class="alert-list"></div>
+    <div class="panel"><div class="panel-h"><h2>Historial</h2><button class="btn ghost" id="btn-export-alerts" type="button">Exportar</button></div>
+      <div class="tbl-wrap"><table class="tbl" id="alert-history"></table></div></div>
+  </section>
+
+  <!-- 6. Compras y logística -->
+  <section class="view" id="view-procure">
+    <div class="view-h"><h1>Impacto en compras y logística</h1></div>
+    <div class="grid two">
+      <div class="panel">
+        <div class="panel-h"><h2>Simulador de costo puesto en planta</h2></div>
+        <form id="sim" class="sim">
+          <div class="f"><label for="sim-ind">Materia prima</label><select id="sim-ind"></select></div>
+          <div class="f"><label for="sim-vol">Volumen (t métricas)</label><input id="sim-vol" type="number" min="0" step="1" value="1000"></div>
+          <div class="f"><label for="sim-price">Precio internacional (USD/t)</label><input id="sim-price" type="number" min="0" step="0.01"><span class="src" id="sim-price-src"></span></div>
+          <div class="f"><label for="sim-freight">Flete marítimo (USD/t)</label><input id="sim-freight" type="number" min="0" step="0.01" value="45"></div>
+          <div class="f"><label for="sim-ins">Seguro (% del CFR)</label><input id="sim-ins" type="number" min="0" step="0.01" value="0.3"></div>
+          <div class="f"><label for="sim-tariff">Arancel (% del CIF)</label><input id="sim-tariff" type="number" min="0" step="0.1" value="0"></div>
+          <div class="f"><label for="sim-customs">Gastos aduaneros y portuarios (USD/t)</label><input id="sim-customs" type="number" min="0" step="0.01" value="12"></div>
+          <div class="f"><label for="sim-inland">Transporte nacional (USD/t)</label><input id="sim-inland" type="number" min="0" step="0.01" value="18"></div>
+          <div class="f"><label for="sim-other">Otros costos logísticos (USD/t)</label><input id="sim-other" type="number" min="0" step="0.01" value="5"></div>
+        </form>
+        <p class="hint"><span class="tag auto">Automático</span> viene de la fuente con su fecha. <span class="tag user">Usuario</span> valores ingresados (los predeterminados son de ejemplo; reemplácelos por sus cotizaciones).</p>
+      </div>
+      <div class="panel">
+        <div class="panel-h"><h2>Resultado</h2></div>
+        <div id="sim-out"></div>
+        <h3>Sensibilidad (USD/t puesto en planta)</h3>
+        <div class="tbl-wrap"><table class="tbl" id="sim-sens"></table></div>
+        <h3>Rango histórico a 90 días</h3>
+        <div id="sim-scen" class="hint"></div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-h"><h2>Canasta ponderada de materias primas</h2><span class="hint">ponderaciones configurables (se normalizan a 100%)</span></div>
+      <div class="grid two">
+        <form id="basket" class="basket"></form>
+        <div><div class="chart" id="ch-basket"></div><div id="basket-out" class="hint"></div></div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-h"><h2>Impacto por rubro de compra</h2></div>
+      <div class="tbl-wrap"><table class="tbl" id="impact"></table></div>
+      <p class="hint">Los precios internacionales no son precios puestos en Nicaragua. Riesgo de concentración y dependencia de origen requieren datos de proveedores propios (no incluidos).</p>
+    </div>
+  </section>
+
+  <!-- 7. Noticias -->
+  <section class="view" id="view-news">
+    <div class="view-h"><h1>Noticias e inteligencia</h1>
+      <div class="view-actions"><label for="n-cat" class="sr">Categoría</label><select id="n-cat"><option value="">Todas las categorías</option></select></div></div>
+    <p class="hint" id="news-note"></p>
+    <div id="news-list" class="news-list"></div>
+  </section>
+
+  <!-- Fuentes -->
+  <section class="view" id="view-sources">
+    <div class="view-h"><h1>Fuentes, calidad y trazabilidad</h1><button class="btn ghost" id="btn-export-sources" type="button">Exportar matriz</button></div>
+    <div class="panel"><div class="panel-h"><h2>Estado de sincronización por fuente</h2></div><div id="src-status" class="src-status"></div></div>
+    <div class="panel"><div class="panel-h"><h2>Matriz de indicadores</h2></div><div class="tbl-wrap"><table class="tbl" id="src-matrix"></table></div></div>
+    <div class="panel"><div class="panel-h"><h2>Validación cruzada entre fuentes</h2></div><div id="src-cross"></div></div>
+    <div class="panel"><div class="panel-h"><h2>Pendientes y limitaciones</h2></div><ul class="drivers" id="src-pending"></ul></div>
+  </section>
+</main>
+
+<footer class="foot">
+  <span id="foot-gen"></span> · Zona horaria America/Managua · Los precios internacionales no son precios de compra puestos en Nicaragua.
+</footer>
+<div id="toast" class="toast" role="status" hidden></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.5.0/echarts.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+<script src="assets/app.js"></script>
+<!--ARTIFACT-END-->
+</body>
+</html>
