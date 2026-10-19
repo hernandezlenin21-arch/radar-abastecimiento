@@ -1,0 +1,1272 @@
+{
+ "nhc": {
+  "ok": true,
+  "at": "2026-10-18T19:02:39-06:00",
+  "data": {
+   "storms": [
+    {
+     "id": "ep212026",
+     "binNumber": "EP1",
+     "name": "Trudy",
+     "classification": "HU",
+     "intensity": "85",
+     "pressure": "974",
+     "latitude": "19.5N",
+     "longitude": "107.0W",
+     "latitudeNumeric": 19.5,
+     "longitudeNumeric": -107,
+     "movementDir": 325,
+     "movementSpeed": 6,
+     "lastUpdate": "2026-10-18T21:00:00.000Z",
+     "publicAdvisory": {
+      "advNum": "022",
+      "issuance": "2026-10-18T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-18T20:41:31.542Z",
+      "url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml"
+     },
+     "forecastAdvisory": {
+      "advNum": "022",
+      "issuance": "2026-10-18T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-18T20:41:03.123Z",
+      "url": "https://www.nhc.noaa.gov/text/MIATCMEP1.shtml"
+     },
+     "windSpeedProbabilities": {
+      "advNum": "022",
+      "issuance": "2026-10-18T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-18T20:41:34.826Z",
+      "url": "https://www.nhc.noaa.gov/text/MIAPWSEP1.shtml"
+     },
+     "forecastDiscussion": {
+      "advNum": "022",
+      "issuance": "2026-10-18T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-18T20:42:33.106Z",
+      "url": "https://www.nhc.noaa.gov/text/MIATCDEP1.shtml"
+     },
+     "forecastGraphics": {
+      "advNum": "022",
+      "issuance": "2026-10-18T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-18T20:41:31.542Z",
+      "url": "https://www.nhc.noaa.gov/graphics_ep1.shtml"
+     },
+     "forecastTrack": {
+      "advNum": "022",
+      "issuance": "2026-10-18T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-18T20:45:29.377Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_5day_022.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_022adv_TRACK.kmz"
+     },
+     "windWatchesWarnings": {
+      "advNum": "021a",
+      "issuance": "2026-10-18T18:00:00.000Z",
+      "fileUpdateTime": "2026-10-18T17:57:23.393Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_5day_022.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_021Aadv_WW.kmz"
+     },
+     "trackCone": {
+      "advNum": "022",
+      "issuance": "2026-10-18T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-18T20:45:23.260Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_5day_022.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_022adv_CONE.kmz"
+     },
+     "initialWindExtent": {
+      "advNum": "022",
+      "issuance": "2026-10-18T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-18T20:46:01.310Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_fcst_022.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_initialradii_022adv.kmz"
+     },
+     "forecastWindRadiiGIS": {
+      "advNum": "022",
+      "issuance": "2026-10-18T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-18T20:45:56.776Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_fcst_022.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_forecastradii_022adv.kmz"
+     },
+     "bestTrackGIS": {
+      "issuance": "2026-10-18T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-18T20:45:39.563Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep212026_best_track.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep212026_best_track.kmz"
+     },
+     "earliestArrivalTimeTSWindsGIS": {
+      "advNum": "022",
+      "issuance": "2026-10-18T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-18T20:45:25.194Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_022adv_earliest_reasonable_toa_34.kmz"
+     },
+     "mostLikelyTimeTSWindsGIS": {
+      "advNum": "022",
+      "issuance": "2026-10-18T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-18T20:45:27.282Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_022adv_most_likely_toa_34.kmz"
+     },
+     "windSpeedProbabilitiesGIS": {
+      "issuance": "2026-10-18T18:00:00.000Z",
+      "fileUpdateTime": "2026-10-18T21:22:51.875Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101818_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101818_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101818_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101818_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101818_wsp64knt120hr_5km.kmz"
+     },
+     "stormSurgeWatchWarningGIS": null,
+     "potentialStormSurgeFloodingGIS": null,
+     "peakSurgeKML": null
+    }
+   ],
+   "url": "https://www.nhc.noaa.gov/"
+  }
+ },
+ "enso": {
+  "ok": true,
+  "at": "2026-10-18T19:02:39-06:00",
+  "data": {
+   "status": "El Ni&ntilde;o Advisory &nbsp;",
+   "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
+   "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml"
+  }
+ },
+ "news": {
+  "ok": true,
+  "at": "2026-10-18T19:02:39-06:00",
+  "data": {
+   "raw": {
+    "commodities_agricolas": [
+     {
+      "title": "Kentucky bourbon boom : how to explore Whiskey Row in Louisville | Redland City Bulletin",
+      "url": "https://www.redlandcitybulletin.com.au/story/9300330/kentucky-bourbon-boom-how-to-explore-whiskey-row-in-louisville/",
+      "domain": "redlandcitybulletin.com.au",
+      "country": "Australia",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Kentucky bourbon boom : how to explore Whiskey Row in Louisville | The Advocate - Hepburn",
+      "url": "https://www.hepburnadvocate.com.au/story/9300330/kentucky-bourbon-boom-how-to-explore-whiskey-row-in-louisville/",
+      "domain": "hepburnadvocate.com.au",
+      "country": "Australia",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Kentucky bourbon boom : how to explore Whiskey Row in Louisville | Tenterfield Star",
+      "url": "https://www.tenterfieldstar.com.au/story/9300330/kentucky-bourbon-boom-how-to-explore-whiskey-row-in-louisville/",
+      "domain": "tenterfieldstar.com.au",
+      "country": "Australia",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://www.presstelegram.com/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
+      "domain": "presstelegram.com",
+      "country": "United States",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Sam Club reveals 2026 Thanksgiving meal : Here what it will cost",
+      "url": "https://www.fox13seattle.com/news/sams-club-2026-thanksgiving-meal",
+      "domain": "fox13seattle.com",
+      "country": "",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Kentucky bourbon boom : how to explore Whiskey Row in Louisville | Moree Champion",
+      "url": "https://www.moreechampion.com.au/story/9300330/kentucky-bourbon-boom-how-to-explore-whiskey-row-in-louisville/",
+      "domain": "moreechampion.com.au",
+      "country": "Australia",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Kentucky bourbon boom : how to explore Whiskey Row in Louisville | Katherine Times",
+      "url": "https://www.katherinetimes.com.au/story/9300330/kentucky-bourbon-boom-how-to-explore-whiskey-row-in-louisville/",
+      "domain": "katherinetimes.com.au",
+      "country": "Australia",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Kentucky bourbon boom : how to explore Whiskey Row in Louisville | The Standard",
+      "url": "https://www.standard.net.au/story/9300330/kentucky-bourbon-boom-how-to-explore-whiskey-row-in-louisville/",
+      "domain": "standard.net.au",
+      "country": "Australia",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Biodiesel enters fuel mix as govt OMCs face growing margin squeeze",
+      "url": "https://www.business-standard.com/industry/news/biodiesel-enters-fuel-mix-as-govt-omcs-face-growing-margin-squeeze-126101800602_1.html",
+      "domain": "business-standard.com",
+      "country": "India",
+      "published": "2026-10-18T19:15:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://www.dailybreeze.com/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
+      "domain": "dailybreeze.com",
+      "country": "United States",
+      "published": "2026-10-18T19:15:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://www.whittierdailynews.com/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
+      "domain": "whittierdailynews.com",
+      "country": "United States",
+      "published": "2026-10-18T18:30:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://www.sgvtribune.com/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
+      "domain": "sgvtribune.com",
+      "country": "United States",
+      "published": "2026-10-18T18:15:00+00:00"
+     },
+     {
+      "title": "Fertilizer Stocks To Research – October 18th",
+      "url": "https://www.themarketsdaily.com/2026/10/18/fertilizer-stocks-to-research-october-18th.html",
+      "domain": "themarketsdaily.com",
+      "country": "United States",
+      "published": "2026-10-18T17:30:00+00:00"
+     },
+     {
+      "title": "Impose agricultural emergency in Pakistan , urges Kissan Ittehad president",
+      "url": "https://arynews.tv/impose-agricultural-emergency-in-pakistan-urges-kissan-ittehad-president",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-18T17:15:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back | News , Sports , Jobs",
+      "url": "https://www.faribaultcountyregister.com/wire/?category=5050&ID=400578",
+      "domain": "faribaultcountyregister.com",
+      "country": "United States",
+      "published": "2026-10-18T17:15:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://www.wsls.com/news/politics/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
+      "domain": "wsls.com",
+      "country": "United States",
+      "published": "2026-10-18T16:15:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://www.stcatharinesstandard.ca/news/world/united-states/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/article_ecffb0fc-fdf5-5ec0-ade3-f47d39f5a5b3.html",
+      "domain": "stcatharinesstandard.ca",
+      "country": "Canada",
+      "published": "2026-10-18T16:15:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://www.click2houston.com/news/politics/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
+      "domain": "click2houston.com",
+      "country": "United States",
+      "published": "2026-10-18T16:15:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "http://www.bozemandailychronicle.com/wire/politics/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/article_f172d572-80ca-5f1f-ba87-075020cd9a1d.html",
+      "domain": "bozemandailychronicle.com",
+      "country": "United States",
+      "published": "2026-10-18T16:15:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://www.erienewsnow.com/news/state/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/article_ac45b3fc-98fd-547d-978b-eee74cf98edc.html",
+      "domain": "erienewsnow.com",
+      "country": "United States",
+      "published": "2026-10-18T15:45:00+00:00"
+     },
+     {
+      "title": "Show Time< !-- -- > | ZeroHedge",
+      "url": "http://www.zerohedge.com/news/2026-10-16/show-time",
+      "domain": "zerohedge.com",
+      "country": "United States",
+      "published": "2026-10-18T15:30:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://www.winchesterstar.com/associated_press/washington/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/article_bb8f9f42-3c95-586b-a437-7e33a3c1b7b4.html",
+      "domain": "winchesterstar.com",
+      "country": "United States",
+      "published": "2026-10-18T15:15:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://www.sandiegouniontribune.com/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
+      "domain": "sandiegouniontribune.com",
+      "country": "United States",
+      "published": "2026-10-18T15:15:00+00:00"
+     },
+     {
+      "title": "Democrats target rural voters in the push to flip Republican strongholds",
+      "url": "https://www.wokv.com/news/politics/trump-dominated/YPSGY5EEZMYU3P3RQGJGHU53II/",
+      "domain": "wokv.com",
+      "country": "United States",
+      "published": "2026-10-18T15:15:00+00:00"
+     },
+     {
+      "title": "I tried historic Hull bakery brand - new bread offering and was pleasantly surprised",
+      "url": "https://www.hulldailymail.co.uk/whats-on/reviews/tried-historic-hull-bakerys-brand-11202941",
+      "domain": "hulldailymail.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-18T14:30:00+00:00"
+     },
+     {
+      "title": "Cornwall National Trust sites plan spooky half - term events",
+      "url": "https://www.falmouthpacket.co.uk/leisure/bestofcornwall/26640568.cornwall-national-trust-sites-plan-spooky-half-term-events/",
+      "domain": "falmouthpacket.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-18T14:30:00+00:00"
+     },
+     {
+      "title": "The Best Bottled - in - Bond Bourbon For Your Money",
+      "url": "https://thewhiskeywash.com/whiskey-articles/the-best-bottled-in-bond-bourbon-the-cheapest-great-whiskey-in-america/",
+      "domain": "thewhiskeywash.com",
+      "country": "United States",
+      "published": "2026-10-18T14:30:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://mymotherlode.com/news/national/general-election/11231863/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back.html",
+      "domain": "mymotherlode.com",
+      "country": "United States",
+      "published": "2026-10-18T13:30:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://www.durangoherald.com/articles/associated-press/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
+      "domain": "durangoherald.com",
+      "country": "United States",
+      "published": "2026-10-18T13:00:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://www.khqa.com/news/nation-world/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/article_f6f1fcb0-2499-5371-8d9e-8f74a05fef07.html",
+      "domain": "khqa.com",
+      "country": "United States",
+      "published": "2026-10-18T13:00:00+00:00"
+     },
+     {
+      "title": "Interest rates : Reserve Bank may have to go higher if oil prices continue upward spiral",
+      "url": "https://www.smh.com.au/politics/federal/rba-s-worst-nightmare-as-oil-pushes-up-inflation-threat-20261018-p6167b.html",
+      "domain": "smh.com.au",
+      "country": "Australia",
+      "published": "2026-10-18T12:45:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://lancasteronline.com/news/national/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/article_031ad01b-62ef-549b-8322-c1a1f37bf625.html",
+      "domain": "lancasteronline.com",
+      "country": "United States",
+      "published": "2026-10-18T12:45:00+00:00"
+     },
+     {
+      "title": "Black Sea Attacks Put Bulgarian Grain Exports and Tourism at Risk - Novinite . com",
+      "url": "https://www.novinite.com/articles/241122/Black+Sea+Attacks+Put+Bulgarian+Grain+Exports+and+Tourism+at+Risk",
+      "domain": "novinite.com",
+      "country": "Bulgaria",
+      "published": "2026-10-18T12:30:00+00:00"
+     },
+     {
+      "title": "Mom and mother nature inspiration lives on into fall",
+      "url": "https://www.thebatavian.com/hanskunze/moms-and-mother-natures-inspiration-lives-on-into-fall/649468",
+      "domain": "thebatavian.com",
+      "country": "United States",
+      "published": "2026-10-18T12:30:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://www.clickorlando.com/news/politics/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
+      "domain": "clickorlando.com",
+      "country": "United States",
+      "published": "2026-10-18T12:30:00+00:00"
+     },
+     {
+      "title": "Interest rates : Reserve Bank may have to go higher if oil prices continue upward spiral",
+      "url": "https://www.theage.com.au/politics/federal/rba-s-worst-nightmare-as-oil-pushes-up-inflation-threat-20261018-p6167b.html",
+      "domain": "theage.com.au",
+      "country": "Australia",
+      "published": "2026-10-18T12:00:00+00:00"
+     },
+     {
+      "title": "Huge hit  Christmas gift that  great fun for movie night drops to £22",
+      "url": "https://www.leicestermercury.co.uk/whats-on/shopping/huge-hit-christmas-popcorn-maker-11200331",
+      "domain": "leicestermercury.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-18T10:30:00+00:00"
+     },
+     {
+      "title": "Medicinal Properties of the Oat Plant - Mother Earth Living",
+      "url": "https://www.motherearthliving.com/health-and-wellness/medicinal-properties-of-the-oat-plant-zm0z19jfzpop/",
+      "domain": "motherearthliving.com",
+      "country": "United States",
+      "published": "2026-10-18T10:00:00+00:00"
+     },
+     {
+      "title": "Huge hit  Christmas gift that  great fun for movie night drops to £22",
+      "url": "https://www.stokesentinel.co.uk/whats-on/shopping/huge-hit-christmas-popcorn-maker-11200331",
+      "domain": "stokesentinel.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-18T10:00:00+00:00"
+     },
+     {
+      "title": "FMCGs grapple with cost inflation in Q2 , brace for margin pressure in H2",
+      "url": "https://www.business-standard.com/industry/news/fmcgs-grapple-with-cost-inflation-in-q2-brace-for-margin-pressure-in-h2-126101800266_1.html",
+      "domain": "business-standard.com",
+      "country": "India",
+      "published": "2026-10-18T09:30:00+00:00"
+     }
+    ],
+    "energia": [
+     {
+      "title": "ANDREW NEIL : The orgy of violence in France makes a Right - wing Le Pen victory all but inevitable next year",
+      "url": "https://www.dailymail.com/debate/article-16219065/ANDREW-NEIL-orgy-violence-France-makes-Right-wing-Le-Pen-victory-inevitable-year.html",
+      "domain": "dailymail.com",
+      "country": "United States",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
+     {
+      "title": "US Foreign Spending vs Domestic Investment Priorities",
+      "url": "https://www.pakistantoday.com.pk/2026/10/19/america-must-rebuild-within",
+      "domain": "pakistantoday.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
+     {
+      "title": "Healey is urged by Labour favourite think tank to hit motorists at the pumps",
+      "url": "https://www.dailymail.com/news/article-16219205/Healey-urged-Labours-favourite-think-tank-hit-motorists-pumps.html",
+      "domain": "dailymail.com",
+      "country": "United States",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
+     {
+      "title": "Stock market today : Live updates",
+      "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
+      "domain": "cnbc.com",
+      "country": "United States",
+      "published": "2026-10-18T23:00:00+00:00"
+     },
+     {
+      "title": "White House Defends Diesel Export Deal With Russia",
+      "url": "https://1190kex.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+      "domain": "1190kex.iheart.com",
+      "country": "United States",
+      "published": "2026-10-18T21:45:00+00:00"
+     },
+     {
+      "title": "US to NWE reopens , eyes fixed on new supply | Hellenic Shipping News Worldwide",
+      "url": "https://www.hellenicshippingnews.com/us-to-nwe-reopens-eyes-fixed-on-new-supply/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-10-18T21:45:00+00:00"
+     },
+     {
+      "title": "Ukraine and the U . S . are at odds over Starshield . Here what to know",
+      "url": "https://www.kasu.org/2026-10-18/ukraine-and-the-u-s-are-at-odds-over-starshield-heres-what-to-know",
+      "domain": "kasu.org",
+      "country": "United States",
+      "published": "2026-10-18T21:45:00+00:00"
+     },
+     {
+      "title": "Trump Courts Russia as Ukraine Faces a More Uncertain American Partner",
+      "url": "https://finchannel.com/trump-courts-russia-as-ukraine-faces-a-more-uncertain-american-partner/138644/americas/white-house-en/2026/10/",
+      "domain": "finchannel.com",
+      "country": "United States",
+      "published": "2026-10-18T21:45:00+00:00"
+     },
+     {
+      "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
+      "url": "https://kfgo.com/2026/10/17/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions/",
+      "domain": "kfgo.com",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Ukraine defies Trump by launching its largest - ever drone attack on St Petersburg",
+      "url": "https://www.irishtimes.com/world/europe/2026/10/19/ukraine-defies-trump-by-launching-its-largest-ever-drone-attack-on-st-petersburg/",
+      "domain": "irishtimes.com",
+      "country": "Ireland",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "White House Defends Diesel Export Deal With Russia",
+      "url": "https://khvhradio.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+      "domain": "khvhradio.iheart.com",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Clean Energy Is Poised to Set New Records in the US - Governor Wind Energy Coalition",
+      "url": "https://governorswindenergycoalition.org/clean-energy-is-poised-to-set-new-records-in-the-us/",
+      "domain": "governorswindenergycoalition.org",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "White House Defends Diesel Export Deal With Russia",
+      "url": "https://1430kasi.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+      "domain": "1430kasi.iheart.com",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "White House Defends Diesel Export Deal With Russia",
+      "url": "https://wmrn.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+      "domain": "wmrn.iheart.com",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Zelenskyy warns US alignment with Russia would be a  historic  mistake",
+      "url": "https://www.thenews.com.pk/latest/1420422-zelenskyy-warns-us-alignment-with-russia-would-be-a-historic-mistake",
+      "domain": "thenews.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Vermont climate solutions : carbon - negative power plants and agrivoltaics",
+      "url": "https://www.manchesterjournal.com/opinioncolumnists/affordability-is-a-big-lemon-lets-squeeze-it/5038131",
+      "domain": "manchesterjournal.com",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "White House Defends Diesel Export Deal With Russia",
+      "url": "https://1190talkradio.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+      "domain": "1190talkradio.iheart.com",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "White House Defends Diesel Export Deal With Russia",
+      "url": "https://newsradio1470.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+      "domain": "newsradio1470.iheart.com",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Ukraine and the U . S . are at odds over Starshield . Here what to know",
+      "url": "https://www.kmxt.org/2026-10-18/ukraine-and-the-u-s-are-at-odds-over-starshield-heres-what-to-know",
+      "domain": "kmxt.org",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Analysis : Trump says he a great dealmaker . His record says otherwise – Twin Cities",
+      "url": "https://www.twincities.com/2026/10/18/analysis-trump-says-hes-a-great-dealmaker-his-record-says-otherwise/",
+      "domain": "twincities.com",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Ukraine and the U . S . are at odds over Starshield . Here what to know",
+      "url": "https://www.wbaa.org/npr-news/2026-10-18/ukraine-and-the-u-s-are-at-odds-over-starshield-heres-what-to-know",
+      "domain": "wbaa.org",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
+      "url": "https://hot96.com/2026/10/17/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions/",
+      "domain": "hot96.com",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "No Kings early voting rallies draw voters in Westminster and Rockingham",
+      "url": "https://www.reformer.com/local-news/no-kings-rallies-encourage-early-voting/5037912",
+      "domain": "reformer.com",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Vermont school districts scramble to cover the increased cost of diesel",
+      "url": "https://www.reformer.com/statenews/vermont-school-districts-scramble-to-cover-the-increased-cost-of-diesel/5038018",
+      "domain": "reformer.com",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "AI in oil / gas exploration ....",
+      "url": "https://www.yourdemocracy.net.au/drupal/node/61461",
+      "domain": "yourdemocracy.net.au",
+      "country": "Australia",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "KEVIN MAGUIRE :  Farage bad apple defence of Reform doesnt wash and his poisonous party is slipping in polls",
+      "url": "https://www.mirror.co.uk/news/politics/nigel-farage-reform-polls-politics-37785259",
+      "domain": "mirror.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "House Democrat introduces bipartisan bill to block Trump Russian diesel deal - Governor Wind Energy Coalition",
+      "url": "https://governorswindenergycoalition.org/house-democrat-introduces-bipartisan-bill-to-block-trumps-russian-diesel-deal/",
+      "domain": "governorswindenergycoalition.org",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "White House Defends Diesel Export Deal With Russia",
+      "url": "https://1061fmtalk.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+      "domain": "1061fmtalk.iheart.com",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Ukraine and the U . S . are at odds over Starshield . Here what to know",
+      "url": "https://www.krcu.org/2026-10-18/ukraine-and-the-u-s-are-at-odds-over-starshield-heres-what-to-know",
+      "domain": "krcu.org",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "White House Defends Diesel Export Deal With Russia | NewsTalk WMEQ",
+      "url": "https://wmeq.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+      "domain": "wmeq.iheart.com",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Zelensky Calls EU Leaders  Real  As Patriot Missiles Run Out And Trump Ceasefire Collapses",
+      "url": "https://www.latintimes.com/zelensky-calls-eu-leaders-real-patriot-missiles-run-out-trumps-ceasefire-collapses-600281",
+      "domain": "latintimes.com",
+      "country": "United States",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
+      "url": "https://www.presstelegram.com/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
+      "domain": "presstelegram.com",
+      "country": "United States",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Ukraine and the U . S . are at odds over Starshield . Here what to know",
+      "url": "https://www.wwno.org/npr-news/2026-10-18/ukraine-and-the-u-s-are-at-odds-over-starshield-heres-what-to-know",
+      "domain": "wwno.org",
+      "country": "United States",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "How to Get Conservation Credits in Planet Zoo 2",
+      "url": "https://gamerant.com/planet-zoo-2-how-get-conservation-credits/",
+      "domain": "gamerant.com",
+      "country": "United States",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Come March , last 170 CTU diesel buses to be taken off Tricity roads",
+      "url": "https://www.tribuneindia.com/news/chandigarh/come-march-last-170-ctu-diesel-buses-to-be-taken-off-tricity-roads/",
+      "domain": "tribuneindia.com",
+      "country": "India",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Ukraine and the U . S . are at odds over Starshield . Here what to know",
+      "url": "https://www.kawc.org/npr-news/2026-10-18/ukraine-and-the-u-s-are-at-odds-over-starshield-heres-what-to-know",
+      "domain": "kawc.org",
+      "country": "United States",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "White House Defends Diesel Export Deal With Russia",
+      "url": "https://newsradio967.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+      "domain": "newsradio967.iheart.com",
+      "country": "United States",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "White House Defends Diesel Export Deal With Russia",
+      "url": "https://kfab.iheart.com/content/2026-10-18-white-house-defends-diesel-export-deal-with-russia/",
+      "domain": "kfab.iheart.com",
+      "country": "United States",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Ukraine and the U . S . are at odds over Starshield . Here what to know",
+      "url": "https://www.wboi.org/npr-news/2026-10-18/ukraine-and-the-u-s-are-at-odds-over-starshield-heres-what-to-know",
+      "domain": "wboi.org",
+      "country": "United States",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Ukraine and the U . S . are at odds over Starshield . Here what to know",
+      "url": "https://www.southcarolinapublicradio.org/news/2026-10-18/ukraine-and-the-u-s-are-at-odds-over-starshield-heres-what-to-know",
+      "domain": "southcarolinapublicradio.org",
+      "country": "United States",
+      "published": "2026-10-18T20:45:00+00:00"
+     }
+    ],
+    "transporte_maritimo": [
+     {
+      "title": "Why are people protesting in France ? The issues fueling nationwide unrest",
+      "url": "https://wtov9.com/news/nation-world/why-are-people-protesting-in-france-the-issues-fueling-nationwide-unrest",
+      "domain": "wtov9.com",
+      "country": "United States",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
+     {
+      "title": "American journalist injured in settler attack in Israeli - occupied West Bank",
+      "url": "https://www.knoe.com/2026/10/18/american-journalist-injured-settler-attack-israeli-occupied-west-bank/",
+      "domain": "knoe.com",
+      "country": "United States",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
+     {
+      "title": "Why are people protesting in France ? The issues fueling nationwide unrest",
+      "url": "https://kfdm.com/news/nation-world/why-are-people-protesting-in-france-the-issues-fueling-nationwide-unrest",
+      "domain": "kfdm.com",
+      "country": "United States",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
+     {
+      "title": "US Foreign Spending vs Domestic Investment Priorities",
+      "url": "https://www.pakistantoday.com.pk/2026/10/19/america-must-rebuild-within",
+      "domain": "pakistantoday.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
+     {
+      "title": "Vance admits failures in the Iran war as US casualties mount",
+      "url": "https://www.pakistantoday.com.pk/2026/10/19/vance-acknowledges-failures-in-us-handling-of-iran-war",
+      "domain": "pakistantoday.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
+     {
+      "title": "Why are people protesting in France ? The issues fueling nationwide unrest",
+      "url": "https://nbcmontana.com/news/nation-world/why-are-people-protesting-in-france-the-issues-fueling-nationwide-unrest",
+      "domain": "nbcmontana.com",
+      "country": "United States",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
+     {
+      "title": "UNDP Warns of Compounding Global Crises for Developing Econo",
+      "url": "https://www.pakistantoday.com.pk/2026/10/19/rising-challenges-to-global-economic-resilience",
+      "domain": "pakistantoday.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
+     {
+      "title": "Oil tanker on fire after hitting mine in Hormuz : Iran Guards",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/oil-tanker-on-fire-after-hitting-mine-in-hormuz-irans-guards/articleshow/135037303.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-19T01:00:00+00:00"
+     },
+     {
+      "title": "Iran war : Saudi helicopter crash kills two as tanker attacks threaten Hormuz | Hellenic Shipping News Worldwide",
+      "url": "https://www.hellenicshippingnews.com/iran-war-saudi-helicopter-crash-kills-two-as-tanker-attacks-threaten-hormuz/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-10-18T21:45:00+00:00"
+     },
+     {
+      "title": "US to NWE reopens , eyes fixed on new supply | Hellenic Shipping News Worldwide",
+      "url": "https://www.hellenicshippingnews.com/us-to-nwe-reopens-eyes-fixed-on-new-supply/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-10-18T21:45:00+00:00"
+     },
+     {
+      "title": "Where the Oldest Road in All of Iowa ?",
+      "url": "https://hot1047.com/ixp/481/p/oldest-road-iowa-history/",
+      "domain": "hot1047.com",
+      "country": "United States",
+      "published": "2026-10-18T21:45:00+00:00"
+     },
+     {
+      "title": "Asia - US container rates mixed as extended peak season demand wanes ; tanker rates stable",
+      "url": "https://www.hellenicshippingnews.com/asia-us-container-rates-mixed-as-extended-peak-season-demand-wanes-tanker-rates-stable/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-10-18T21:45:00+00:00"
+     },
+     {
+      "title": "Gulf states condemn Houthi attacks on Saudi Arabia and pledge support",
+      "url": "https://www.azernews.az/region/265788.html",
+      "domain": "azernews.az",
+      "country": "Azerbaijan",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "St . Paul Victoria Park renamed Brewer Bluff Park",
+      "url": "https://www.twincities.com/2026/10/18/st-paul-victoria-park-new-name/",
+      "domain": "twincities.com",
+      "country": "United States",
+      "published": "2026-10-18T21:00:00+00:00"
+     },
+     {
+      "title": "Zelensky Calls EU Leaders  Real  As Patriot Missiles Run Out And Trump Ceasefire Collapses",
+      "url": "https://www.latintimes.com/zelensky-calls-eu-leaders-real-patriot-missiles-run-out-trumps-ceasefire-collapses-600281",
+      "domain": "latintimes.com",
+      "country": "United States",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "JD Vance lies to America :  I have not once seen evidence that Trump has enriched himself .",
+      "url": "https://www.dailykos.com/stories/2026/10/18/800114142/community/jd-vance-i-have-not-seen-a-single-shred-of-evidence-that-trump-is-corrupt/",
+      "domain": "dailykos.com",
+      "country": "United States",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Markets today : Wall Street hit by tech slump , ASX set to edge lower",
+      "url": "https://www.brisbanetimes.com.au/business/markets/asx-set-to-dip-tech-stocks-weigh-on-wall-street-20261019-p616jx.html",
+      "domain": "brisbanetimes.com.au",
+      "country": "Australia",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Macron begins Gulf tour focused on fuel supplies and strategic ties",
+      "url": "https://www.aol.co.uk/articles/macron-begins-gulf-tour-focused-200446000.html",
+      "domain": "aol.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Sulfur and the emerging food crisis  | Peak Oil News and Message Boards",
+      "url": "https://peakoil.com/production/sulfur-and-the-emerging-food-crisis",
+      "domain": "peakoil.com",
+      "country": "United States",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Egypt top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
+      "url": "https://www.wsls.com/news/world/2026/10/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks/",
+      "domain": "wsls.com",
+      "country": "United States",
+      "published": "2026-10-18T20:45:00+00:00"
+     },
+     {
+      "title": "Markets today : Wall Street hit by tech slump , ASX set to edge lower",
+      "url": "https://www.theage.com.au/business/markets/asx-set-to-dip-tech-stocks-weigh-on-wall-street-20261019-p616jx.html",
+      "domain": "theage.com.au",
+      "country": "Australia",
+      "published": "2026-10-18T19:30:00+00:00"
+     },
+     {
+      "title": "Op - ed : Performing refugeehood - How will Sudanese navigate Egypt incoming asylum system ?",
+      "url": "https://www.dabangasudan.org/en/all-news/article/op-ed-performing-refugeehood-how-will-sudanese-navigate-egypts-incoming-asylum-system",
+      "domain": "dabangasudan.org",
+      "country": "Sudan",
+      "published": "2026-10-18T19:30:00+00:00"
+     },
+     {
+      "title": "Arab News | Clash of frozen poles forging new strategic Arctic corridors",
+      "url": "https://www.arabnews.com/opinion/clash-of-frozen-poles-forging-new-strategic-arctic-corridors-3005875",
+      "domain": "arabnews.com",
+      "country": "Saudi Arabia",
+      "published": "2026-10-18T19:15:00+00:00"
+     },
+     {
+      "title": "Defending Saudi Arabia is essential to protecting the global economy",
+      "url": "https://weeklyblitz.net/2026/10/19/defending-saudi-arabia-is-essential-to-protecting-the-global-economy/",
+      "domain": "weeklyblitz.net",
+      "country": "Bangladesh",
+      "published": "2026-10-18T19:15:00+00:00"
+     },
+     {
+      "title": "Egypt top security body agrees to help Saudi Arabia defend itself against Houthi attacks – Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/world/2026/10/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks",
+      "domain": "winnipegfreepress.com",
+      "country": "Canada",
+      "published": "2026-10-18T19:15:00+00:00"
+     },
+     {
+      "title": "Iran Proposes Seven - Day Plan to Reopen Strait of Hormuz , Conditional on US Compliance",
+      "url": "https://openthemagazine.com/world/iran-proposes-seven-day-plan-offers-conditional-hormuz-reopening-on-day-six",
+      "domain": "openthemagazine.com",
+      "country": "India",
+      "published": "2026-10-18T19:15:00+00:00"
+     },
+     {
+      "title": "Trump Endorses Netanyahu in Israeli Election",
+      "url": "https://www.theepochtimes.com/world/trump-endorses-netanyahu-in-israeli-election-6105569",
+      "domain": "theepochtimes.com",
+      "country": "United States",
+      "published": "2026-10-18T19:15:00+00:00"
+     },
+     {
+      "title": "Markets today : Wall Street hit by tech slump , ASX set to edge lower",
+      "url": "https://www.smh.com.au/business/markets/asx-set-to-dip-tech-stocks-weigh-on-wall-street-20261019-p616jx.html",
+      "domain": "smh.com.au",
+      "country": "Australia",
+      "published": "2026-10-18T19:15:00+00:00"
+     },
+     {
+      "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
+      "url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies",
+      "domain": "aljazeera.com",
+      "country": "United States",
+      "published": "2026-10-18T19:15:00+00:00"
+     },
+     {
+      "title": "INS Sudarshini departs Oman Salalah , continues Lokayan - 2026 transoceanic deployment",
+      "url": "https://www.prokerala.com/news/articles/a1826112.html",
+      "domain": "prokerala.com",
+      "country": "India",
+      "published": "2026-10-18T19:00:00+00:00"
+     },
+     {
+      "title": "India imports of Russian crude dip in Sep amid price rise",
+      "url": "https://www.ibtimes.co.in/indias-imports-russian-crude-dip-sep-amid-price-rise-907660",
+      "domain": "ibtimes.co.in",
+      "country": "India",
+      "published": "2026-10-18T19:00:00+00:00"
+     },
+     {
+      "title": "Importing Russian Diesel Is  Incentive  to End War : Energy Secretary",
+      "url": "https://www.businessinsider.com/trump-russia-sanctions-diesel-imports-ukraine-war-2026-10",
+      "domain": "businessinsider.com",
+      "country": "United States",
+      "published": "2026-10-18T19:00:00+00:00"
+     },
+     {
+      "title": "Egypt top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
+      "url": "https://www.clickondetroit.com/news/world/2026/10/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks/",
+      "domain": "clickondetroit.com",
+      "country": "United States",
+      "published": "2026-10-18T19:00:00+00:00"
+     },
+     {
+      "title": "Iran says its seven - day plan to reopen Hormuz Strait still on table",
+      "url": "https://www.prokerala.com/news/articles/a1826100.html",
+      "domain": "prokerala.com",
+      "country": "India",
+      "published": "2026-10-18T19:00:00+00:00"
+     },
+     {
+      "title": "Drum - Tidbit",
+      "url": "https://www.postcourier.com.pg/drum191026/",
+      "domain": "postcourier.com.pg",
+      "country": "Papua New Guinea",
+      "published": "2026-10-18T19:00:00+00:00"
+     },
+     {
+      "title": "Egypt top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
+      "url": "https://www.news4jax.com/news/world/2026/10/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks/",
+      "domain": "news4jax.com",
+      "country": "United States",
+      "published": "2026-10-18T18:45:00+00:00"
+     },
+     {
+      "title": "Midterm vote is about  what best for my family : Voters talk 2026 midterms",
+      "url": "https://abcnews.com/Politics/midterm-vote-whats-best-family-voters-talk-2026/story?id=137355210",
+      "domain": "abcnews.com",
+      "country": "United States",
+      "published": "2026-10-18T18:45:00+00:00"
+     },
+     {
+      "title": "Full transcript of  Face the Nation with Margaret Brennan , Oct . 18 , 2026",
+      "url": "https://www.cbsnews.com/news/face-the-nation-full-transcript-10-18-2026/",
+      "domain": "cbsnews.com",
+      "country": "United States",
+      "published": "2026-10-18T18:45:00+00:00"
+     },
+     {
+      "title": "Egypt top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
+      "url": "https://www.clickorlando.com/news/world/2026/10/18/egypts-top-security-body-agrees-to-help-saudi-arabia-defend-itself-against-houthi-attacks/",
+      "domain": "clickorlando.com",
+      "country": "United States",
+      "published": "2026-10-18T18:45:00+00:00"
+     },
+     {
+      "title": "Iran Names UN - Sanctioned Missile Chief As Defense Minister",
+      "url": "http://www.europesun.com/news/279382861/iran-names-un-sanctioned-missile-chief-as-defense-minister",
+      "domain": "europesun.com",
+      "country": "Russia",
+      "published": "2026-10-18T18:45:00+00:00"
+     }
+    ],
+    "riesgos_climaticos": [
+     {
+      "title": "Southern India braces for water stress and droughts amid deficient monsoon",
+      "url": "https://www.business-standard.com/india-news/southern-india-braces-for-water-stress-and-droughts-amid-deficient-monsoon-126101800822_1.html",
+      "domain": "business-standard.com",
+      "country": "India",
+      "published": "2026-10-18T19:15:00+00:00"
+     },
+     {
+      "title": "Field Margins : Jim Logan reflects on the Autumn months",
+      "url": "https://www.thescottishfarmer.co.uk/business_sales/cattle_sales/26630780.field-margins-jim-logan-reflects-autumn-months/",
+      "domain": "thescottishfarmer.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-18T19:15:00+00:00"
+     },
+     {
+      "title": "Pumpkin shortage warning this Halloween as weather hits united kingdom patches",
+      "url": "https://www.aol.co.uk/articles/pumpkin-shortage-warning-halloween-weather-153857000.html",
+      "domain": "aol.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-18T16:45:00+00:00"
+     },
+     {
+      "title": "Bonei Zion Prize honors Olim rebuilding Israel after the war",
+      "url": "http://www.jpost.com/aliyah/article-912047",
+      "domain": "jpost.com",
+      "country": "Israel",
+      "published": "2026-10-18T16:00:00+00:00"
+     },
+     {
+      "title": "Canola yields in 2026 like getting socks for Christmas",
+      "url": "https://www.gx94radio.com/2026/10/18/canola-yields-in-2026-like-getting-socks-for-christmas/",
+      "domain": "gx94radio.com",
+      "country": "Canada",
+      "published": "2026-10-18T15:45:00+00:00"
+     },
+     {
+      "title": "Resilience is not about being smart | Countercurrents",
+      "url": "https://countercurrents.org/2026/10/resilience-is-not-about-being-smart/",
+      "domain": "countercurrents.org",
+      "country": "India",
+      "published": "2026-10-18T15:15:00+00:00"
+     },
+     {
+      "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
+      "url": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
+      "domain": "opinionnigeria.com",
+      "country": "Nigeria",
+      "published": "2026-10-18T14:30:00+00:00"
+     },
+     {
+      "title": "Latest rainfall data highlights severe threat to rabi crops amid deficits and El Niño concerns",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/latest-rainfall-data-highlights-severe-threat-to-rabi-crops-amid-deficits-and-el-nino-concerns/article71599605.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-10-18T13:00:00+00:00"
+     },
+     {
+      "title": "AP News in Brief at 6 : 04 a . m . EDT",
+      "url": "https://www.idahostatejournal.com/news/national/ap-news-in-brief-at-6-04-a-m-edt/article_cbabc4b8-aee1-5ceb-b8f1-dde036415a00.html",
+      "domain": "idahostatejournal.com",
+      "country": "United States",
+      "published": "2026-10-18T12:45:00+00:00"
+     },
+     {
+      "title": "Highest inflation in four years will result in  some hardship says Dr King | Business",
+      "url": "https://jamaica-gleaner.com/article/business/20261018/highest-inflation-four-years-will-result-some-hardships-says-dr-king",
+      "domain": "jamaica-gleaner.com",
+      "country": "Jamaica",
+      "published": "2026-10-18T12:45:00+00:00"
+     },
+     {
+      "title": "With a potentially historic El Niño looming , here how one California county is getting ready – Macomb Daily",
+      "url": "https://www.macombdaily.com/2026/10/18/with-a-potentially-historic-el-nino-looming-heres-how-orange-county-is-getting-ready/",
+      "domain": "macombdaily.com",
+      "country": "United States",
+      "published": "2026-10-18T12:00:00+00:00"
+     },
+     {
+      "title": "With a potentially historic El Niño looming , here how one California county is getting ready – The Oakland Press",
+      "url": "https://www.theoaklandpress.com/2026/10/18/with-a-potentially-historic-el-nino-looming-heres-how-orange-county-is-getting-ready/",
+      "domain": "theoaklandpress.com",
+      "country": "United States",
+      "published": "2026-10-18T12:00:00+00:00"
+     },
+     {
+      "title": "Why Kenya should give dairy buffaloes a chance",
+      "url": "https://www.the-star.co.ke/siasa/2026-10-18-why-kenya-should-give-dairy-buffaloes-a-chance",
+      "domain": "the-star.co.ke",
+      "country": "Kenya",
+      "published": "2026-10-18T10:30:00+00:00"
+     },
+     {
+      "title": "Pakistan : Sindh Tharparkar reports rise in suicide deaths",
+      "url": "https://ianslive.in/pakistan-sindhs-tharparkar-reports-rise-in-suicide-deaths--20261018135921",
+      "domain": "ianslive.in",
+      "country": "India",
+      "published": "2026-10-18T10:30:00+00:00"
+     },
+     {
+      "title": "AP News Summary at 3 : 42 a . m . EDT",
+      "url": "https://www.ktvo.com/news/nation-world/ap-news-summary-at-3-42-a-m-edt/article_2f7c5daf-c0f8-5a66-bf22-ac9d353c0c66.html",
+      "domain": "ktvo.com",
+      "country": "United States",
+      "published": "2026-10-18T09:45:00+00:00"
+     },
+     {
+      "title": "FMCGs grapple with cost inflation in Q2 , brace for margin pressure in H2",
+      "url": "https://www.business-standard.com/industry/news/fmcgs-grapple-with-cost-inflation-in-q2-brace-for-margin-pressure-in-h2-126101800266_1.html",
+      "domain": "business-standard.com",
+      "country": "India",
+      "published": "2026-10-18T09:30:00+00:00"
+     },
+     {
+      "title": "Global banana business bruised as Iran war pressures producers | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/oct/18/global-banana-business-bruised-as-iran-war/",
+      "domain": "arkansasonline.com",
+      "country": "United States",
+      "published": "2026-10-18T09:15:00+00:00"
+     },
+     {
+      "title": "In 2024 , a New York dairy farmer wanted solar income without losing his fields ; the 6 . 5 - megawatt project was designed around crops and cows",
+      "url": "https://economictimes.indiatimes.com/news/international/us/in-2024-a-new-york-dairy-farmer-wanted-solar-income-without-losing-his-fields-the-6-5-megawatt-project-was-designed-around-crops-and-cows/articleshow/135013699.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-18T09:15:00+00:00"
+     },
+     {
+      "title": "FMCG firms grapple with input cost inflation in Q2 , brace for margin pressure in H2",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/fmcg-firms-grapple-with-input-cost-inflation-in-q2-brace-for-margin-pressure-in-h2/articleshow/135025834.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-18T08:30:00+00:00"
+     },
+     {
+      "title": "Beed Collector Chats With Students , Inspires Them To Dream Big",
+      "url": "https://www.freepressjournal.in/pune/beed-collector-chats-with-students-inspires-them-to-dream-big",
+      "domain": "freepressjournal.in",
+      "country": "India",
+      "published": "2026-10-18T08:30:00+00:00"
+     },
+     {
+      "title": "10 Grim Separation Walls From Around The World",
+      "url": "https://listverse.com/2014/09/27/10-grim-separation-walls-from-around-the-world/",
+      "domain": "listverse.com",
+      "country": "United States",
+      "published": "2026-10-18T06:30:00+00:00"
+     },
+     {
+      "title": "AP News in Brief at 12 : 04 a . m . EDT",
+      "url": "http://www.wdtimes.com/news/national/ap-news-in-brief-at-12-04-a-m-edt/article_adae568d-6ce6-56e3-b852-361c15a1bb16.html",
+      "domain": "wdtimes.com",
+      "country": "United States",
+      "published": "2026-10-18T04:45:00+00:00"
+     },
+     {
+      "title": "Charting the global economy : Inflationary pressures mount in US",
+      "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/charting-the-global-economy-inflationary-pressures-mount-in-us/articleshow/135023323.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-18T04:15:00+00:00"
+     },
+     {
+      "title": "DA PRDP holds disaster preparedness , business continuity to Novo Ecijano",
+      "url": "https://tribune.net.ph/2026/10/18/da-prdp-holds-disaster-preparedness-business-continuity-to-novo-ecijano-farmers",
+      "domain": "tribune.net.ph",
+      "country": "Philippines",
+      "published": "2026-10-18T03:45:00+00:00"
+     },
+     {
+      "title": "El Niño | Daily Tribune",
+      "url": "https://tribune.net.ph/topic/el-ni%C3%B1o",
+      "domain": "tribune.net.ph",
+      "country": "Philippines",
+      "published": "2026-10-18T03:45:00+00:00"
+     },
+     {
+      "title": "AP News in Brief at 11 : 04 p . m . EDT",
+      "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-11-04-p-m-edt/article_77870e27-ef74-5a74-97e8-090878e33f54.html",
+      "domain": "idahostatejournal.com",
+      "country": "United States",
+      "published": "2026-10-18T03:45:00+00:00"
+     },
+     {
+      "title": "Is the food industry innovation problem actually a talent problem ?",
+      "url": "https://www.digitaljournal.com/article/is-the-food-industrys-innovation-problem-actually-a-talent-problem/",
+      "domain": "digitaljournal.com",
+      "country": "United States",
+      "published": "2026-10-18T01:30:00+00:00"
+     },
+     {
+      "title": "Column : Virginia farmers need more than emergency drought relief",
+      "url": "https://www.pilotonline.com/2026/10/17/column-virginia-farmers-need-more-than-emergency-drought-relief/",
+      "domain": "pilotonline.com",
+      "country": "United States",
+      "published": "2026-10-17T23:30:00+00:00"
+     },
+     {
+      "title": "AP News Summary at 6 : 53 p . m . EDT",
+      "url": "http://www.hngnews.com/nation_world/ap-news-summary-at-6-53-p-m-edt/article_01bc30a8-64c5-5557-8be4-68a6951171c8.html",
+      "domain": "hngnews.com",
+      "country": "United States",
+      "published": "2026-10-17T23:30:00+00:00"
+     },
+     {
+      "title": "AP News in Brief at 6 : 04 p . m . EDT",
+      "url": "https://santamariatimes.com/ap/national/ap-news-in-brief-at-6-04-p-m-edt/article_2dd752be-d14b-5c3a-8aab-110004480cda.html",
+      "domain": "santamariatimes.com",
+      "country": "United States",
+      "published": "2026-10-17T22:30:00+00:00"
+     },
+     {
+      "title": "Drone Utilized for Rice Spraying in Los Palacios ... But Where the Rice ?",
+      "url": "https://www.cubaheadlines.com/articles/343127",
+      "domain": "cubaheadlines.com",
+      "country": "Cuba",
+      "published": "2026-10-17T21:00:00+00:00"
+     },
+     {
+      "title": "Ballari braces for fodder , water crunch amid drought",
+      "url": "https://timesofindia.indiatimes.com/city/hubballi/ballari-braces-for-fodder-water-crunch-amid-drought/articleshow/135017586.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-17T21:00:00+00:00"
+     },
+     {
+      "title": "Here why you shouldnt be spooked if your pumpkins are smaller this Halloween",
+      "url": "https://metro.co.uk/2026/10/17/shouldnt-spooked-pumpkins-smaller-this-halloween-29717930/",
+      "domain": "metro.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-17T21:00:00+00:00"
+     },
+     {
+      "title": "BJP Seeks Special Package For Drought - Hit Farmers",
+      "url": "https://www.deccanchronicle.com/southern-states/telangana/bjp-seeks-special-package-for-drought-hit-farmers-1996816",
+      "domain": "deccanchronicle.com",
+      "country": "India",
+      "published": "2026-10-17T19:00:00+00:00"
+     },
+     {
+      "title": "What To Do ( Holiday Special ): Loads of spooky fun to be had",
+      "url": "https://chescotimes.com/?p=43676",
+      "domain": "chescotimes.com",
+      "country": "United States",
+      "published": "2026-10-17T18:00:00+00:00"
+     },
+     {
+      "title": "U . S . Sen . Jeff Merkley was headed for retirement . President Trump actions changed his mind",
+      "url": "https://www.klcc.org/politics-government/2026-10-17/sen-merkley-dodges-retirement-republican-challenger-smith",
+      "domain": "klcc.org",
+      "country": "United States",
+      "published": "2026-10-17T17:45:00+00:00"
+     },
+     {
+      "title": "As Kashmir swaps paddy with apple orchards , food security and water concerns arise",
+      "url": "https://scroll.in/article/1096403/as-kashmir-swaps-paddy-with-apple-orchards-food-security-and-water-concerns-arise",
+      "domain": "scroll.in",
+      "country": "India",
+      "published": "2026-10-17T17:45:00+00:00"
+     },
+     {
+      "title": "What is this tree with black berries ?",
+      "url": "https://www.wahpetondailynews.com/lifestyle/what-is-this-tree-with-black-berries",
+      "domain": "wahpetondailynews.com",
+      "country": "United States",
+      "published": "2026-10-17T17:45:00+00:00"
+     },
+     {
+      "title": "El Niño Exacerbates Water Crisis in Peru : Lake Titicaca Water Level Drops 53 Centimeters",
+      "url": "https://www.latintimes.com/el-nino-exacerbates-water-crisis-peru-lake-titicaca-water-level-drops-53-centimeters-599884",
+      "domain": "latintimes.com",
+      "country": "United States",
+      "published": "2026-10-17T16:15:00+00:00"
+     },
+     {
+      "title": "What is this tree with black berries ?",
+      "url": "https://www.wadenapj.com/lifestyle/what-is-this-tree-with-black-berries",
+      "domain": "wadenapj.com",
+      "country": "United States",
+      "published": "2026-10-17T16:15:00+00:00"
+     }
+    ]
+   },
+   "errors": {
+    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+   }
+  }
+ }
+}

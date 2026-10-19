@@ -1,0 +1,46 @@
+{
+ "brent": {
+  "months": [
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08",
+   "2026-09"
+  ],
+  "diff_pct": [
+   -2.59,
+   -0.34,
+   -0.0,
+   0.43,
+   0.19,
+   -2.26
+  ],
+  "ok": true,
+  "worst_month": "2026-04",
+  "worst_diff_pct": -2.59,
+  "reference": "Banco Mundial Pink Sheet — Crude oil, Brent"
+ },
+ "wti": {
+  "months": [
+   "2026-04",
+   "2026-05",
+   "2026-06",
+   "2026-07",
+   "2026-08",
+   "2026-09"
+  ],
+  "diff_pct": [
+   1.74,
+   3.06,
+   3.55,
+   1.33,
+   1.45,
+   0.42
+  ],
+  "ok": false,
+  "worst_month": "2026-06",
+  "worst_diff_pct": 3.55,
+  "reference": "Banco Mundial Pink Sheet — Crude oil, WTI"
+ }
+}
