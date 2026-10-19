@@ -1,0 +1,59 @@
+name: Actualizar datos y publicar
+
+on:
+  schedule:
+    - cron: "17 */3 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ["site/**", "pipeline/**", "config/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: actualizar
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Pruebas
+        run: python -m pytest -q
+
+      - name: Consultar fuentes y procesar
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+          AMS_API_KEY: ${{ secrets.AMS_API_KEY }}
+          PINKSHEET_URL: ${{ vars.PINKSHEET_URL }}
+        run: python -m pipeline.run
+
+      - name: Guardar historial en el repositorio
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/store
+          git diff --cached --quiet || git commit -m "Datos $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push || echo "Sin cambios que subir"
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4
