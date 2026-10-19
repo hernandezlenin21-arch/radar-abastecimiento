@@ -1,5 +1,22 @@
 [
  {
+  "id": "9108ecae035d",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-19",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 3 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Oil hits $110 as Houthi strikes , Russia - Ukraine attacks lift supply fears” (worldoil.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "worldoil.com",
+  "url": "https://www.worldoil.com/news/2026/10/16/oil-hits-110-as-houthi-strikes-russia-ukraine-attacks-lift-supply-fears/",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-19T01:06:24-06:00"
+ },
+ {
   "indicator": "maiz",
   "name": "Maíz amarillo (US No.2, Golfo)",
   "group": "agricola",
