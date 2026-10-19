@@ -1,108 +1,108 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-19T01:06:24-06:00",
+  "at": "2026-10-19T03:52:06-06:00",
   "data": {
    "storms": [
     {
      "id": "ep212026",
      "binNumber": "EP1",
      "name": "Trudy",
-     "classification": "HU",
-     "intensity": "70",
-     "pressure": "984",
+     "classification": "TS",
+     "intensity": "50",
+     "pressure": "999",
      "latitude": "19.7N",
-     "longitude": "107.6W",
+     "longitude": "108.0W",
      "latitudeNumeric": 19.7,
-     "longitudeNumeric": -107.6,
-     "movementDir": 315,
-     "movementSpeed": 7,
-     "lastUpdate": "2026-10-19T03:00:00.000Z",
+     "longitudeNumeric": -108,
+     "movementDir": 280,
+     "movementSpeed": 6,
+     "lastUpdate": "2026-10-19T09:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "023",
-      "issuance": "2026-10-19T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-19T02:44:04.146Z",
+      "advNum": "024",
+      "issuance": "2026-10-19T09:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T08:31:06.781Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "023",
-      "issuance": "2026-10-19T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-19T02:43:30.851Z",
+      "advNum": "024",
+      "issuance": "2026-10-19T09:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T08:30:35.915Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCMEP1.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "023",
-      "issuance": "2026-10-19T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-19T02:44:04.149Z",
+      "advNum": "024",
+      "issuance": "2026-10-19T09:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T08:31:37.719Z",
       "url": "https://www.nhc.noaa.gov/text/MIAPWSEP1.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "023",
-      "issuance": "2026-10-19T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-19T02:44:34.563Z",
+      "advNum": "024",
+      "issuance": "2026-10-19T09:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T08:33:34.532Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCDEP1.shtml"
      },
      "forecastGraphics": {
-      "advNum": "023",
-      "issuance": "2026-10-19T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-19T02:44:04.146Z",
+      "advNum": "024",
+      "issuance": "2026-10-19T09:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T08:31:06.781Z",
       "url": "https://www.nhc.noaa.gov/graphics_ep1.shtml"
      },
      "forecastTrack": {
-      "advNum": "023",
-      "issuance": "2026-10-19T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-19T02:45:40.788Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_5day_023.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_023adv_TRACK.kmz"
+      "advNum": "024",
+      "issuance": "2026-10-19T09:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T08:35:05.118Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_5day_024.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_024adv_TRACK.kmz"
      },
      "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "023",
-      "issuance": "2026-10-19T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-19T02:45:35.208Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_5day_023.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_023adv_CONE.kmz"
+      "advNum": "024",
+      "issuance": "2026-10-19T09:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T08:34:59.174Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_5day_024.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_024adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "023",
-      "issuance": "2026-10-19T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-19T02:46:10.364Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_fcst_023.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_initialradii_023adv.kmz"
+      "advNum": "024",
+      "issuance": "2026-10-19T09:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T08:35:34.708Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_fcst_024.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_initialradii_024adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "023",
-      "issuance": "2026-10-19T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-19T02:46:06.519Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_fcst_023.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_forecastradii_023adv.kmz"
+      "advNum": "024",
+      "issuance": "2026-10-19T09:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T08:35:30.923Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_fcst_024.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_forecastradii_024adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-10-19T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-19T02:45:50.294Z",
+      "issuance": "2026-10-19T09:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T08:35:14.890Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep212026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep212026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "023",
-      "issuance": "2026-10-19T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-19T02:45:37.111Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_023adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "024",
+      "issuance": "2026-10-19T09:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T08:35:01.089Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_024adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "023",
-      "issuance": "2026-10-19T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-19T02:45:38.950Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_023adv_most_likely_toa_34.kmz"
+      "advNum": "024",
+      "issuance": "2026-10-19T09:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T08:35:03.130Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_024adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-10-19T00:00:00.000Z",
-      "fileUpdateTime": "2026-10-19T03:22:46.684Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101900_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101900_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101900_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101900_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101900_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-10-19T06:00:00.000Z",
+      "fileUpdateTime": "2026-10-19T09:22:42.068Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101906_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101906_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101906_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101906_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026101906_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-19T01:06:24-06:00",
+  "at": "2026-10-19T03:52:06-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,319 +123,543 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-19T01:06:24-06:00",
+  "at": "2026-10-19T03:52:06-06:00",
   "data": {
    "raw": {
-    "commodities_agricolas": [
+    "energia": [
      {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back | News , Sports , Jobs",
-      "url": "https://www.lahainanews.com/wire/?category=5035&ID=400728",
-      "domain": "lahainanews.com",
+      "title": "Fuel costs pushing SA car buyers to rethink brand loyalty",
+      "url": "https://www.bizcommunity.com/article/fuel-costs-pushing-sa-car-buyers-to-rethink-brand-loyalty-525920a",
+      "domain": "bizcommunity.com",
+      "country": "South Africa",
+      "published": "2026-10-19T09:30:00+00:00"
+     },
+     {
+      "title": "Foreign outflows , rising yields weigh on Indian markets ; earnings to drive recovery : HSBC",
+      "url": "http://www.europesun.com/news/279383899/foreign-outflows-rising-yields-weigh-on-indian-markets-earnings-to-drive-recovery-hsbc",
+      "domain": "europesun.com",
+      "country": "Russia",
+      "published": "2026-10-19T09:30:00+00:00"
+     },
+     {
+      "title": "Trump Defends Russia Sanctions Waivers , Zelenskyy Warns Of Impact",
+      "url": "http://www.europesun.com/news/279384247/trump-defends-russia-sanctions-waivers-zelenskyy-warns-of-impact",
+      "domain": "europesun.com",
+      "country": "Russia",
+      "published": "2026-10-19T09:30:00+00:00"
+     },
+     {
+      "title": "Close to finalising trade deal with India : Marco Rubio says trade deal considered while hitting pause on fuel - purchase tariffs",
+      "url": "http://www.europesun.com/news/279384169/close-to-finalising-trade-deal-with-india-marco-rubio-says-trade-deal-considered-while-hitting-pause-on-fuel-purchase-tariffs",
+      "domain": "europesun.com",
+      "country": "Russia",
+      "published": "2026-10-19T09:30:00+00:00"
+     },
+     {
+      "title": "Expert : Trump decisions have nothing to do with the midterm elections",
+      "url": "https://bnn-news.com/world/expert-trump-s-decisions-have-nothing-to-do-with-the-midterm-elections-9fxspeh",
+      "domain": "bnn-news.com",
+      "country": "Latvia",
+      "published": "2026-10-19T09:30:00+00:00"
+     },
+     {
+      "title": "Exxon signals $4 . 5 billion refining boost as margins surge",
+      "url": "http://www.haitisun.com/news/279379844/exxon-signals-usd4-5-billion-refining-boost-as-margins-surge",
+      "domain": "haitisun.com",
       "country": "United States",
-      "published": "2026-10-19T06:45:00+00:00"
+      "published": "2026-10-19T09:30:00+00:00"
      },
      {
-      "title": "Global food inflation is expected to intensify as supply shocks pile up",
-      "url": "https://www.businesstimes.com.sg/international/global/global-food-inflation-expected-intensify-supply-shocks-pile",
-      "domain": "businesstimes.com.sg",
-      "country": "Singapore",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "El Niño - powered drought leaves Indonesian palm farmers high and dry as river recedes",
-      "url": "https://bdnews24.com/world/south-east-asia/fqenjq41dd",
-      "domain": "bdnews24.com",
-      "country": "Bangladesh",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "Menopausal woman says 55p - a - day supplement means she back in jeans",
-      "url": "https://www.chroniclelive.co.uk/whats-on/shopping/drv-menopause-relief-bloating-supplement-34781140",
-      "domain": "chroniclelive.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-19T06:15:00+00:00"
-     },
-     {
-      "title": "Crop market rally raises ceiling for fall fertilizer pricing",
-      "url": "https://www.hometownregister.com/law_daily_record/farm/crop-market-rally-raises-ceiling-for-fall-fertilizer-pricing/article_40083191-d367-534d-a33d-0c4d5dc10341.html",
-      "domain": "hometownregister.com",
-      "country": "",
-      "published": "2026-10-19T05:45:00+00:00"
-     },
-     {
-      "title": "El Niño - powered drought leaves Indonesian palm farmers high and dry as river recedes",
-      "url": "https://www.rappler.com/world/asia-pacific/el-nino-drought-leaves-indonesian-palm-farmers-high-dry-river-recedes-october-2026/",
-      "domain": "rappler.com",
-      "country": "Philippines",
-      "published": "2026-10-19T05:45:00+00:00"
-     },
-     {
-      "title": "NJ drought warning no longer in effect in South Jersey",
-      "url": "https://www.njspotlightnews.org/2026/10/drought-warning-no-longer-in-effect-but-south-jersey-farmers-are-still-dealing-with-impacts/",
-      "domain": "njspotlightnews.org",
-      "country": "",
-      "published": "2026-10-19T05:45:00+00:00"
-     },
-     {
-      "title": "Menopausal woman says 55p - a - day supplement means she back in jeans",
-      "url": "https://www.plymouthherald.co.uk/whats-on/shopping/drv-menopause-relief-bloating-supplement-11204339",
-      "domain": "plymouthherald.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-19T05:45:00+00:00"
-     },
-     {
-      "title": "Menopausal woman says 55p - a - day supplement means she back in jeans",
-      "url": "https://www.coventrytelegraph.net/whats-on/shopping/drv-menopause-relief-bloating-supplement-34781140",
-      "domain": "coventrytelegraph.net",
-      "country": "United Kingdom",
-      "published": "2026-10-19T05:00:00+00:00"
-     },
-     {
-      "title": "Menopausal woman says 55p - a - day supplement means she back in jeans",
-      "url": "https://www.cambridge-news.co.uk/whats-on/shopping/drv-menopause-relief-bloating-supplement-34781140",
-      "domain": "cambridge-news.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-19T04:45:00+00:00"
-     },
-     {
-      "title": "Family farm in Western Australia sells after $12 million auction . | Farm Weekly",
-      "url": "https://www.farmweekly.com.au/story/9370705/family-farm-in-western-australia-sells-after-12-million-auction/",
-      "domain": "farmweekly.com.au",
-      "country": "Australia",
-      "published": "2026-10-19T04:15:00+00:00"
-     },
-     {
-      "title": "El Nino - powered drought leaves Indonesian palm farmers high and dry as river recedes",
-      "url": "https://www.asiaone.com:443/asia/el-nino-powered-drought-leaves-indonesian-palm-farmers-high-and-dry-river-recedes",
-      "domain": "asiaone.com",
-      "country": "Singapore",
-      "published": "2026-10-19T04:15:00+00:00"
-     },
-     {
-      "title": "El Niño - powered drought leaves Indonesian palm farmers high and dry as river recedes",
-      "url": "https://kelo.com/2026/10/18/el-nino-powered-drought-leaves-indonesian-palm-farmers-high-and-dry-as-river-recedes/",
-      "domain": "kelo.com",
+      "title": "Dow Futures Rise Despite  Black Monday  Calls : Market Commentator Says Selloff Worries Are  Overdone",
+      "url": "https://www.aol.com/articles/dow-futures-rise-despite-black-064614000.html",
+      "domain": "aol.com",
       "country": "United States",
-      "published": "2026-10-19T04:15:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Menopausal woman says 55p - a - day supplement means she back in jeans",
-      "url": "https://www.getsurrey.co.uk/whats-on/shopping/drv-menopause-relief-bloating-supplement-34781140",
-      "domain": "getsurrey.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-19T04:00:00+00:00"
-     },
-     {
-      "title": "As ingredient costs spike , Malaysian home bakers absorb losses to keep Deepavali sweet",
-      "url": "https://asianews.network/as-ingredient-costs-spike-malaysian-home-bakers-absorb-losses-to-keep-deepavali-sweet/",
-      "domain": "asianews.network",
-      "country": "China",
-      "published": "2026-10-19T04:00:00+00:00"
-     },
-     {
-      "title": "Evening Shade Resistance Rising Sunday , October 18 , 2026",
-      "url": "https://www.dailykos.com/stories/2026/10/18/800110859/community/evening-shade-resistance-rising-sunday-october-18-2026/",
-      "domain": "dailykos.com",
-      "country": "United States",
-      "published": "2026-10-19T01:00:00+00:00"
-     },
-     {
-      "title": "What really in your supermarket Wagyu - and that £11 patty from Burger King : How the most expensive meat on Earth has turned into something so dry , bland and deeply boring : TOM PARKER BOWLES",
-      "url": "https://www.dailymail.com/news/article-16218895/Wagyu-meat-supermarkets-expensive-bland-TOM-PARKER-BOWLES.html",
-      "domain": "dailymail.com",
-      "country": "United States",
-      "published": "2026-10-19T01:00:00+00:00"
-     },
-     {
-      "title": "Kentucky bourbon boom : how to explore Whiskey Row in Louisville | Redland City Bulletin",
-      "url": "https://www.redlandcitybulletin.com.au/story/9300330/kentucky-bourbon-boom-how-to-explore-whiskey-row-in-louisville/",
-      "domain": "redlandcitybulletin.com.au",
-      "country": "Australia",
-      "published": "2026-10-18T21:00:00+00:00"
-     },
-     {
-      "title": "Kentucky bourbon boom : how to explore Whiskey Row in Louisville | The Advocate - Hepburn",
-      "url": "https://www.hepburnadvocate.com.au/story/9300330/kentucky-bourbon-boom-how-to-explore-whiskey-row-in-louisville/",
-      "domain": "hepburnadvocate.com.au",
-      "country": "Australia",
-      "published": "2026-10-18T21:00:00+00:00"
-     },
-     {
-      "title": "Kentucky bourbon boom : how to explore Whiskey Row in Louisville | Tenterfield Star",
-      "url": "https://www.tenterfieldstar.com.au/story/9300330/kentucky-bourbon-boom-how-to-explore-whiskey-row-in-louisville/",
-      "domain": "tenterfieldstar.com.au",
-      "country": "Australia",
-      "published": "2026-10-18T21:00:00+00:00"
-     },
-     {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
-      "url": "https://www.presstelegram.com/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
-      "domain": "presstelegram.com",
-      "country": "United States",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Sam Club reveals 2026 Thanksgiving meal : Here what it will cost",
-      "url": "https://www.fox13seattle.com/news/sams-club-2026-thanksgiving-meal",
-      "domain": "fox13seattle.com",
-      "country": "",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Kentucky bourbon boom : how to explore Whiskey Row in Louisville | Moree Champion",
-      "url": "https://www.moreechampion.com.au/story/9300330/kentucky-bourbon-boom-how-to-explore-whiskey-row-in-louisville/",
-      "domain": "moreechampion.com.au",
-      "country": "Australia",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Kentucky bourbon boom : how to explore Whiskey Row in Louisville | Katherine Times",
-      "url": "https://www.katherinetimes.com.au/story/9300330/kentucky-bourbon-boom-how-to-explore-whiskey-row-in-louisville/",
-      "domain": "katherinetimes.com.au",
-      "country": "Australia",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Kentucky bourbon boom : how to explore Whiskey Row in Louisville | The Standard",
-      "url": "https://www.standard.net.au/story/9300330/kentucky-bourbon-boom-how-to-explore-whiskey-row-in-louisville/",
-      "domain": "standard.net.au",
-      "country": "Australia",
-      "published": "2026-10-18T20:45:00+00:00"
-     },
-     {
-      "title": "Biodiesel enters fuel mix as govt OMCs face growing margin squeeze",
-      "url": "https://www.business-standard.com/industry/news/biodiesel-enters-fuel-mix-as-govt-omcs-face-growing-margin-squeeze-126101800602_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-10-18T19:15:00+00:00"
-     },
-     {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
-      "url": "https://www.dailybreeze.com/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
-      "domain": "dailybreeze.com",
-      "country": "United States",
-      "published": "2026-10-18T19:15:00+00:00"
-     },
-     {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
-      "url": "https://www.whittierdailynews.com/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
-      "domain": "whittierdailynews.com",
-      "country": "United States",
-      "published": "2026-10-18T18:30:00+00:00"
-     },
-     {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
-      "url": "https://www.sgvtribune.com/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
-      "domain": "sgvtribune.com",
-      "country": "United States",
-      "published": "2026-10-18T18:15:00+00:00"
-     },
-     {
-      "title": "Fertilizer Stocks To Research – October 18th",
-      "url": "https://www.themarketsdaily.com/2026/10/18/fertilizer-stocks-to-research-october-18th.html",
-      "domain": "themarketsdaily.com",
-      "country": "United States",
-      "published": "2026-10-18T17:30:00+00:00"
-     },
-     {
-      "title": "Impose agricultural emergency in Pakistan , urges Kissan Ittehad president",
-      "url": "https://arynews.tv/impose-agricultural-emergency-in-pakistan-urges-kissan-ittehad-president",
+      "title": "Oil slips from 5 - month high as Trump Russia sanctions waiver may bring more supplies",
+      "url": "https://arynews.tv/news/liveblog/iran-war-2026-live-updates-trump-us-israel?update=19-Oct-2026-11-52-00",
       "domain": "arynews.tv",
       "country": "Pakistan",
-      "published": "2026-10-18T17:15:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back | News , Sports , Jobs",
-      "url": "https://www.faribaultcountyregister.com/wire/?category=5050&ID=400578",
-      "domain": "faribaultcountyregister.com",
+      "title": "US  very close  to India trade deal ; energy needs considered in Russia sanctions waiver : Marco Rubio",
+      "url": "https://www.hindustantimes.com/india-news/us-india-trade-deal-very-close-global-energy-needs-prices-considered-russia-sanctions-waiver-marco-rubio-101792392225735.html",
+      "domain": "hindustantimes.com",
+      "country": "India",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Week of Oct 19 : What are you watching ? : Peak Oil Discussion - Peak Oil News and Message Boards",
+      "url": "https://peakoil.com/forums/viewtopic.php?p=1505224",
+      "domain": "peakoil.com",
       "country": "United States",
-      "published": "2026-10-18T17:15:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
-      "url": "https://www.wsls.com/news/politics/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
-      "domain": "wsls.com",
+      "title": "India steel demand seen rising 7 % in FY27 , but price gains may be limited : Report",
+      "url": "http://www.calcuttanews.net/news/279384350/india-steel-demand-seen-rising-7-in-fy27-but-price-gains-may-be-limited-report",
+      "domain": "calcuttanews.net",
+      "country": "India",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "FTSE 100 Live : BP , Shell avoid stock slide on renewed oil threat",
+      "url": "https://www.cityam.com/ftse-100-live-stocks-to-dip-as-ai-and-oil-pressures-remain-elevated/",
+      "domain": "cityam.com",
+      "country": "United Kingdom",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Farming roulette as fuel and fertiliser prices soar",
+      "url": "https://www.westerntelegraph.co.uk/news/26634380.farming-roulette-fuel-fertiliser-prices-soar/",
+      "domain": "westerntelegraph.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Trump Defends Russia Sanctions Waivers , Zelenskyy Warns Of Impact",
+      "url": "http://www.russiaherald.com/news/279384247/trump-defends-russia-sanctions-waivers-zelenskyy-warns-of-impact",
+      "domain": "russiaherald.com",
+      "country": "Russia",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Iran targets Gulf countrie energy infrastructure after Israeli strike on gas field  | Peak Oil News and Message Boards",
+      "url": "https://peakoil.com/publicpolicy/iran-targets-gulf-countries-energy-infrastructure-after-israeli-strike-on-gas-field",
+      "domain": "peakoil.com",
       "country": "United States",
-      "published": "2026-10-18T16:15:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
-      "url": "https://www.stcatharinesstandard.ca/news/world/united-states/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/article_ecffb0fc-fdf5-5ec0-ade3-f47d39f5a5b3.html",
-      "domain": "stcatharinesstandard.ca",
-      "country": "Canada",
-      "published": "2026-10-18T16:15:00+00:00"
-     },
-     {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
-      "url": "https://www.click2houston.com/news/politics/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
-      "domain": "click2houston.com",
+      "title": "Asian shares are mixed with tech stocks volatile , and oil falls on Trump Russian sanctions waiver",
+      "url": "http://www.thegazette.com/news/world/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions/article_040ea35e-bc5e-5886-983d-1ac4057efd15.html",
+      "domain": "thegazette.com",
       "country": "United States",
-      "published": "2026-10-18T16:15:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
-      "url": "http://www.bozemandailychronicle.com/wire/politics/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/article_f172d572-80ca-5f1f-ba87-075020cd9a1d.html",
-      "domain": "bozemandailychronicle.com",
+      "title": "Exxon signals $4 . 5 billion refining boost as margins surge",
+      "url": "http://www.tucsonpost.com/news/279379844/exxon-signals-usd4-5-billion-refining-boost-as-margins-surge",
+      "domain": "tucsonpost.com",
       "country": "United States",
-      "published": "2026-10-18T16:15:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
-      "url": "https://www.erienewsnow.com/news/state/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/article_ac45b3fc-98fd-547d-978b-eee74cf98edc.html",
-      "domain": "erienewsnow.com",
-      "country": "United States",
-      "published": "2026-10-18T15:45:00+00:00"
+      "title": "Close to finalising trade deal with India : Marco Rubio says trade deal considered while hitting pause on fuel - purchase tariffs",
+      "url": "http://www.afghanistannews.net/news/279384169/close-to-finalising-trade-deal-with-india-marco-rubio-says-trade-deal-considered-while-hitting-pause-on-fuel-purchase-tariffs",
+      "domain": "afghanistannews.net",
+      "country": "Afghanistan",
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Show Time< !-- -- > | ZeroHedge",
-      "url": "http://www.zerohedge.com/news/2026-10-16/show-time",
-      "domain": "zerohedge.com",
-      "country": "United States",
-      "published": "2026-10-18T15:30:00+00:00"
+      "title": "Close to finalising trade deal with India : Marco Rubio says trade deal considered while hitting pause on fuel - purchase tariffs",
+      "url": "http://www.russiaherald.com/news/279384169/close-to-finalising-trade-deal-with-india-marco-rubio-says-trade-deal-considered-while-hitting-pause-on-fuel-purchase-tariffs",
+      "domain": "russiaherald.com",
+      "country": "Russia",
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
-      "url": "https://www.winchesterstar.com/associated_press/washington/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/article_bb8f9f42-3c95-586b-a437-7e33a3c1b7b4.html",
-      "domain": "winchesterstar.com",
+      "title": "Asian shares are mixed with tech stocks volatile , and oil falls on Trump Russian sanctions waiver",
+      "url": "https://santamariatimes.com/ap/business/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions/article_b7bcc6b7-250a-5850-81a0-c6b923843cf7.html",
+      "domain": "santamariatimes.com",
       "country": "United States",
-      "published": "2026-10-18T15:15:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back",
-      "url": "https://www.sandiegouniontribune.com/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
-      "domain": "sandiegouniontribune.com",
+      "title": "Exxon refining profit could jump $4 . 5 billion on higher margins",
+      "url": "http://www.afghanistannews.net/news/279379844/exxon-refining-profit-could-jump-usd4-5-billion-on-higher-margins",
+      "domain": "afghanistannews.net",
+      "country": "Afghanistan",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Avista Corporation ( NYSE : AVA ) Stock Rated  Hold  by Sell - Side Brokerages",
+      "url": "https://www.themarketsdaily.com/2026/10/19/avista-corporation-nyseava-stock-rated-hold-by-sell-side-brokerages.html",
+      "domain": "themarketsdaily.com",
       "country": "United States",
-      "published": "2026-10-18T15:15:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Exxon signals $4 . 5 billion refining boost as margins surge",
+      "url": "http://www.srilankasource.com/news/279379844/exxon-signals-usd4-5-billion-refining-boost-as-margins-surge",
+      "domain": "srilankasource.com",
+      "country": "Sri Lanka",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "CNG : The alternative fuel Nigeria can no longer afford to ignore - Blueprint Newspapers Limited",
+      "url": "https://blueprint.ng/cng-the-alternative-fuel-nigeria-can-no-longer-afford-to-ignore/",
+      "domain": "blueprint.ng",
+      "country": "Nigeria",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Qatar Government Revenue Plunges 42 % In First Half As Iran War Knocks Out Gas Exports  | Peak Oil News and Message Boards",
+      "url": "https://peakoil.com/production/qatars-government-revenue-plunges-42-in-first-half-as-iran-war-knocks-out-gas-exports",
+      "domain": "peakoil.com",
+      "country": "United States",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "India steel demand seen rising 7 % in FY27 , but price gains may be limited : Report",
+      "url": "https://aninews.in/news/business/india-steel-demand-seen-rising-7-in-fy27-but-price-gains-may-be-limited-report20261019124437/",
+      "domain": "aninews.in",
+      "country": "India",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Zero Outrage While Magyar Keeps Hungary Among Top EU Buyers of Russian Gas",
+      "url": "https://hungarytoday.hu/zero-outrage-while-magyar-keeps-hungary-among-top-eu-buyers-of-russian-gas/",
+      "domain": "hungarytoday.hu",
+      "country": "Hungary",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Asian shares are mixed with tech stocks volatile , and oil falls on Trump Russian sanctions waiver",
+      "url": "http://www.dailyadvance.com/news/world/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions/article_0650dc61-a18f-5bee-867d-153923013717.html",
+      "domain": "dailyadvance.com",
+      "country": "United States",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Oil slips from 5 - month high as Trump Russia sanctions waiver may bring more supplies",
+      "url": "https://arynews.tv/news/liveblog/iran-war-2026-live-updates-trump-us-israel?update=19-Oct-2026-11-06-00",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Oil slips from 5 - month high as Trump Russia sanctions waiver may bring more supplies",
+      "url": "https://arynews.tv/oil-slips-from-5-month-high-as-trumps-russia-sanctions-waiver-may-bring-more-supplies",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Exxon refining profit could jump $4 . 5 billion on higher margins",
+      "url": "http://www.azerbaijannews.net/news/279379844/exxon-refining-profit-could-jump-usd4-5-billion-on-higher-margins",
+      "domain": "azerbaijannews.net",
+      "country": "Azerbaijan",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Petrol and stocks in supermarkets at risk due to the protest of truck drivers and farmers : what happens today",
+      "url": "https://www.thevermilion.com/petrol-and-stocks-in-supermarkets-at-risk-due-to-the-protest-of-truck-drivers-and-farmers-what-happens-today/article_21850/",
+      "domain": "thevermilion.com",
+      "country": "United States",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Close to finalising trade deal with India : Marco Rubio says trade deal considered while hitting pause on fuel - purchase tariffs",
+      "url": "http://www.middleeaststar.com/news/279384169/close-to-finalising-trade-deal-with-india-marco-rubio-says-trade-deal-considered-while-hitting-pause-on-fuel-purchase-tariffs",
+      "domain": "middleeaststar.com",
+      "country": "Syria",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Asian shares are mixed with tech stocks volatile , and oil falls on Trump Russian sanctions waiver",
+      "url": "http://www.reflector.com/news/national/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions/article_86ae1d97-b468-5a99-aa4b-3741b4c46145.html",
+      "domain": "reflector.com",
+      "country": "United States",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Early WTI Price Readings Diverge , With One Below $97 . 50 and Others Near $100",
+      "url": "https://econotimes.com/Early-WTI-Price-Readings-Diverge-With-One-Below-97-50-and-Others-Near-100-1756326",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Asian shares are mixed with tech stocks volatile , and oil falls on Trump Russian sanctions waiver",
+      "url": "https://www.clickondetroit.com/business/2026/10/19/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions-waiver/",
+      "domain": "clickondetroit.com",
+      "country": "United States",
+      "published": "2026-10-19T08:30:00+00:00"
+     },
+     {
+      "title": "Trump Admits Russia Is Helping Iran But Still Wont Criticise Putin",
+      "url": "https://www.huffingtonpost.co.uk/entry/trump-russia-helping-iran-wont-criticise-putin_uk_6ad5befee4b05d72fd9244b3",
+      "domain": "huffingtonpost.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-19T08:30:00+00:00"
+     },
+     {
+      "title": "Pakistan : Farmers hold protest to demand  guaranteed  support prices , end to corporate land grabbing",
+      "url": "https://www.prokerala.com/news/articles/a1826217.html",
+      "domain": "prokerala.com",
+      "country": "India",
+      "published": "2026-10-19T08:30:00+00:00"
+     },
+     {
+      "title": "Sensex , Nifty open flat as high crude oil prices offset banking stocks gains",
+      "url": "http://www.hongkongherald.com/news/279384024/sensex-nifty-open-flat-as-high-crude-oil-prices-offset-banking-stocks-gains",
+      "domain": "hongkongherald.com",
+      "country": "China",
+      "published": "2026-10-19T08:30:00+00:00"
+     },
+     {
+      "title": "Series C Round Brings $100 Million to Parallel - Los Angeles Business Journal",
+      "url": "https://labusinessjournal.com/manufacturing/series-c-round-brings-100-million-to-parallel/",
+      "domain": "labusinessjournal.com",
+      "country": "United States",
+      "published": "2026-10-19T08:30:00+00:00"
      }
     ],
     "comercio_internacional": [
      {
+      "title": "Close to finalising trade deal with India : Marco Rubio says trade deal considered while hitting pause on fuel - purchase tariffs",
+      "url": "http://www.europesun.com/news/279384169/close-to-finalising-trade-deal-with-india-marco-rubio-says-trade-deal-considered-while-hitting-pause-on-fuel-purchase-tariffs",
+      "domain": "europesun.com",
+      "country": "Russia",
+      "published": "2026-10-19T09:30:00+00:00"
+     },
+     {
+      "title": "Oil slips from 5 - month high as Trump Russia sanctions waiver may bring more supplies",
+      "url": "https://arynews.tv/news/liveblog/iran-war-2026-live-updates-trump-us-israel?update=19-Oct-2026-11-52-00",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "US  very close  to India trade deal ; energy needs considered in Russia sanctions waiver : Marco Rubio",
+      "url": "https://www.hindustantimes.com/india-news/us-india-trade-deal-very-close-global-energy-needs-prices-considered-russia-sanctions-waiver-marco-rubio-101792392225735.html",
+      "domain": "hindustantimes.com",
+      "country": "India",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Close to finalising trade deal with India : Marco Rubio says trade deal considered while hitting pause on fuel - purchase tariffs",
+      "url": "http://www.afghanistannews.net/news/279384169/close-to-finalising-trade-deal-with-india-marco-rubio-says-trade-deal-considered-while-hitting-pause-on-fuel-purchase-tariffs",
+      "domain": "afghanistannews.net",
+      "country": "Afghanistan",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Close to finalising trade deal with India : Marco Rubio says trade deal considered while hitting pause on fuel - purchase tariffs",
+      "url": "http://www.russiaherald.com/news/279384169/close-to-finalising-trade-deal-with-india-marco-rubio-says-trade-deal-considered-while-hitting-pause-on-fuel-purchase-tariffs",
+      "domain": "russiaherald.com",
+      "country": "Russia",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Oil slips from 5 - month high as Trump Russia sanctions waiver may bring more supplies",
+      "url": "https://arynews.tv/news/liveblog/iran-war-2026-live-updates-trump-us-israel?update=19-Oct-2026-11-06-00",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Oil slips from 5 - month high as Trump Russia sanctions waiver may bring more supplies",
+      "url": "https://arynews.tv/oil-slips-from-5-month-high-as-trumps-russia-sanctions-waiver-may-bring-more-supplies",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "India US trade deal close to being final ; complex set of factors involved : Marco Rubio",
+      "url": "https://www.businesstoday.in/india/story/india-us-trade-deal-close-to-being-final-complex-set-of-factors-involved-marco-rubio-562409-2026-10-19",
+      "domain": "businesstoday.in",
+      "country": "India",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Clown  and  Corrupt : Lula and Bolsonaro trade insults in bitter presidential debate",
+      "url": "https://www.albawaba.net/news/clown-and-corrupt-lula-and-bolsonaro-1639320",
+      "domain": "albawaba.net",
+      "country": "",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Close to finalising trade deal with India : Marco Rubio says trade deal considered while hitting pause on fuel - purchase tariffs",
+      "url": "http://www.middleeaststar.com/news/279384169/close-to-finalising-trade-deal-with-india-marco-rubio-says-trade-deal-considered-while-hitting-pause-on-fuel-purchase-tariffs",
+      "domain": "middleeaststar.com",
+      "country": "Syria",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Rubio seeks to strengthen US foothold in Central Asia",
+      "url": "https://www.newindianexpress.com/world/2026/Oct/19/rubio-seeks-to-strengthen-us-foothold-in-central-asia",
+      "domain": "newindianexpress.com",
+      "country": "India",
+      "published": "2026-10-19T08:30:00+00:00"
+     },
+     {
+      "title": "US sought Europe help on India tariffs , they refused : Bessent",
+      "url": "https://www.orissapost.com/us-sought-europes-help-on-india-tariffs-they-refused-bessent/",
+      "domain": "orissapost.com",
+      "country": "India",
+      "published": "2026-10-19T08:30:00+00:00"
+     },
+     {
+      "title": "US sought Europe help on India tariffs , they refused : Bessent",
+      "url": "https://www.prokerala.com/news/articles/a1826219.html",
+      "domain": "prokerala.com",
+      "country": "India",
+      "published": "2026-10-19T08:30:00+00:00"
+     },
+     {
+      "title": "Trump Defends 60 - Day Russia Sanctions Waiver As US Says Europe Rejected Action Against India , China",
+      "url": "https://www.freepressjournal.in/business/trump-defends-60-day-russia-sanctions-waiver-as-us-says-europe-rejected-action-against-india-china",
+      "domain": "freepressjournal.in",
+      "country": "India",
+      "published": "2026-10-19T08:00:00+00:00"
+     },
+     {
       "title": "Telix and Ekalia to Collaborate on Astatine - 211 Production in the U . S .",
-      "url": "http://www.australiannews.net/news/279384146/telix-and-ekalia-to-collaborate-on-astatine-211-production-in-the-us",
-      "domain": "australiannews.net",
-      "country": "Australia",
-      "published": "2026-10-19T06:45:00+00:00"
+      "url": "http://www.malaysiasun.com/news/279384146/telix-and-ekalia-to-collaborate-on-astatine-211-production-in-the-us",
+      "domain": "malaysiasun.com",
+      "country": "Malaysia",
+      "published": "2026-10-19T08:00:00+00:00"
      },
      {
-      "title": "Trump dominated rural America . Iowa is testing whether Democrats can win them back | News , Sports , Jobs",
-      "url": "https://www.lahainanews.com/wire/?category=5035&ID=400728",
-      "domain": "lahainanews.com",
+      "title": "Rubio India Visit : The Russian Oil Factor",
+      "url": "https://www.rediff.com/news/report/rubios-india-visit-the-russian-oil-factor/20261019.htm",
+      "domain": "rediff.com",
+      "country": "India",
+      "published": "2026-10-19T07:45:00+00:00"
+     },
+     {
+      "title": "A new Yalta : US , Russia , China toward a summit for Ukraine on Nov 18 - 19 , hard exit for Zelensky",
+      "url": "https://www.bankingnews.gr/diethni/articles/905892/a-new-yalta-us-russia-china-toward-a-summit-for-ukraine-on-nov-18-19-hard-exit-for-zelensky",
+      "domain": "bankingnews.gr",
+      "country": "Greece",
+      "published": "2026-10-19T07:30:00+00:00"
+     },
+     {
+      "title": "Congress Passed Tough Russia Sanctions , So Trump Found Section 115",
+      "url": "https://pjmedia.com/david-manney/2026/10/18/congress-passed-tough-russia-sanctions-trump-found-section-115-n4958451",
+      "domain": "pjmedia.com",
       "country": "United States",
-      "published": "2026-10-19T06:45:00+00:00"
+      "published": "2026-10-19T07:30:00+00:00"
      },
      {
-      "title": "Rupee likely pinned near 95 as RBI defence counters oil headwinds",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-likely-pinned-near-95-as-rbi-defence-counters-oil-headwinds/article71602028.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
-      "published": "2026-10-19T06:45:00+00:00"
+      "title": "Argentina Pay Survey Finds 81 . 8 % Say Pay Trails Inflation",
+      "url": "https://www.riotimesonline.com/argentina-pay-survey-inflation-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-19T07:30:00+00:00"
      },
      {
-      "title": "India bonds to decline on elevated oil , hawkish RBI - The HinduBusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/india-bonds-to-decline-on-elevated-oil-hawkish-rbi/article71602027.ece",
-      "domain": "thehindubusinessline.com",
+      "title": "Arab News | Oil slips from 5 - month high as Trump Russia sanctions waiver may bring more supplies",
+      "url": "https://www.arabnews.com/energy/oil-slips-from-5-month-high-as-trumps-russia-sanctions-waiver-may-bring-more-supplies-3007111",
+      "domain": "arabnews.com",
+      "country": "Saudi Arabia",
+      "published": "2026-10-19T07:30:00+00:00"
+     },
+     {
+      "title": "Domestic wholesale beef market shows some price lifts , despite tough trading conditions",
+      "url": "https://www.beefcentral.com/news/domestic-wholesale-beef-market-shows-some-price-lifts-despite-tough-trading-conditions/",
+      "domain": "beefcentral.com",
+      "country": "Australia",
+      "published": "2026-10-19T07:30:00+00:00"
+     },
+     {
+      "title": "Argentina CPTPP Veto Raised in united kingdom Commons on 13 October",
+      "url": "https://www.riotimesonline.com/argentina-cptpp-veto-commons-october-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-19T07:30:00+00:00"
+     },
+     {
+      "title": "A new Yalta : US , Russia , China toward a summit for Ukraine on Nov 18 - 19 , hard exit for Zelensky",
+      "url": "https://www.bankingnews.gr/diethni/articles/905892/a-new-yalta-us-russia-china-toward-a-summit-for-ukraine-on-nov-18-19-hard-exit-for-zelensky%20title=",
+      "domain": "bankingnews.gr",
+      "country": "Greece",
+      "published": "2026-10-19T07:30:00+00:00"
+     },
+     {
+      "title": "Senegal Sugar Imports to Stop in November for 8 to 9 Months",
+      "url": "https://www.riotimesonline.com/senegal-sugar-imports-suspended-november-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-19T07:30:00+00:00"
+     },
+     {
+      "title": "World Bank plans to allocate $500M for Livable Baku project",
+      "url": "https://news.az/news/world-bank-plans-to-allocate-500m-for-livable-baku-project",
+      "domain": "news.az",
+      "country": "Azerbaijan",
+      "published": "2026-10-19T07:15:00+00:00"
+     },
+     {
+      "title": "EUR / CAD Gaps Lower as French Unrest Amplifies Fiscal Risks , Oil Supports CAD",
+      "url": "https://www.actionforex.com/action-insight/market-overview/657918-eur-cad-gaps-lower-as-french-unrest-amplifies-fiscal-risks-oil-supports-cad/",
+      "domain": "actionforex.com",
+      "country": "United Kingdom",
+      "published": "2026-10-19T07:15:00+00:00"
+     },
+     {
+      "title": "Zelensky seeks further US talks as strikes continue",
+      "url": "https://www.hurriyetdailynews.com/zelensky-seeks-further-us-talks-as-strikes-continue-228288",
+      "domain": "hurriyetdailynews.com",
+      "country": "Turkey",
+      "published": "2026-10-19T07:15:00+00:00"
+     },
+     {
+      "title": "Oil and Geopolitics in Focus After Turbulent Weekend",
+      "url": "https://www.actionforex.com/contributors/fundamental-analysis/657927-oil-and-geopolitics-in-focus-after-turbulent-weekend/",
+      "domain": "actionforex.com",
+      "country": "United Kingdom",
+      "published": "2026-10-19T07:15:00+00:00"
+     },
+     {
+      "title": "Trump defends decision to waive sanctions targeting Russia , Iran",
+      "url": "https://www.orissapost.com/trump-defends-decision-to-waive-sanctions-targeting-russia-iran/",
+      "domain": "orissapost.com",
       "country": "India",
-      "published": "2026-10-19T06:45:00+00:00"
+      "published": "2026-10-19T07:15:00+00:00"
+     },
+     {
+      "title": "LCCI charges FG to cut cost of doing business , worries over harsh conditions",
+      "url": "https://hallmarknews.com/lcci-charges-fg-to-cut-cost-of-doing-business-worries-over-harsh-conditions/",
+      "domain": "hallmarknews.com",
+      "country": "Nigeria",
+      "published": "2026-10-19T07:00:00+00:00"
+     },
+     {
+      "title": "Rupee rises 22 paise on RBI intervention despite crude oil pressure",
+      "url": "https://www.prokerala.com/news/articles/a1826164.html",
+      "domain": "prokerala.com",
+      "country": "India",
+      "published": "2026-10-19T07:00:00+00:00"
+     },
+     {
+      "title": "Nifty likely to reach 25 , 000 level by December amid geopolitical tensions",
+      "url": "https://www.prokerala.com/news/articles/a1826199.html",
+      "domain": "prokerala.com",
+      "country": "India",
+      "published": "2026-10-19T07:00:00+00:00"
+     },
+     {
+      "title": "Trump Russia oil tariff waiver , the midterm election calculus behind it and the stakes for India - US trade deal",
+      "url": "https://www.hindustantimes.com/ht-explainers/president-donald-trump-russia-oil-tariff-waiver-midterm-election-calculus-and-stakes-for-india-us-trade-deal-101792389783468.html",
+      "domain": "hindustantimes.com",
+      "country": "India",
+      "published": "2026-10-19T07:00:00+00:00"
+     },
+     {
+      "title": "Very close to finalising trade deal with India , says Marco Rubio",
+      "url": "https://www.prokerala.com/news/articles/a1826189.html",
+      "domain": "prokerala.com",
+      "country": "India",
+      "published": "2026-10-19T07:00:00+00:00"
+     },
+     {
+      "title": "Close to finalising trade deal with India : Marco Rubio says trade deal considered while hitting pause on fuel - purchase tariffs",
+      "url": "https://aninews.in/news/business/close-to-finalising-trade-deal-with-india-marco-rubio-says-trade-deal-considered-while-hitting-pause-on-fuel-purchase-tariffs20261019110249/",
+      "domain": "aninews.in",
+      "country": "India",
+      "published": "2026-10-19T07:00:00+00:00"
+     },
+     {
+      "title": "Federal policies at issue in 20th District Congressional seat",
+      "url": "https://www.tehachapinews.com/news/federal-policies-at-issue-in-20th-district-congressional-seat/article_e7baa91a-7f07-5b8f-8d7f-b493b1162624.html",
+      "domain": "tehachapinews.com",
+      "country": "United States",
+      "published": "2026-10-19T07:00:00+00:00"
      },
      {
       "title": "Close to finalising trade deal with India : Marco Rubio says trade deal considered while hitting pause on fuel - purchase tariffs",
@@ -459,807 +683,302 @@
       "published": "2026-10-19T06:45:00+00:00"
      },
      {
-      "title": "Close to finalising trade deal with India : Marco Rubio says trade deal considered while hitting pause on fuel - purchase tariffs",
-      "url": "http://www.heraldglobe.com/news/279384169/close-to-finalising-trade-deal-with-india-marco-rubio-says-trade-deal-considered-while-hitting-pause-on-fuel-purchase-tariffs",
-      "domain": "heraldglobe.com",
-      "country": "United States",
+      "title": "Telix and Ekalia to Collaborate on Astatine - 211 Production in the U . S .",
+      "url": "http://www.australiannews.net/news/279384146/telix-and-ekalia-to-collaborate-on-astatine-211-production-in-the-us",
+      "domain": "australiannews.net",
+      "country": "Australia",
       "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Albertans vote on path to independence as Carney fights to keep Canada united",
-      "url": "https://www.euronews.com/2026/10/19/albertans-vote-on-path-to-independence-as-carney-fights-to-keep-canada-united",
-      "domain": "euronews.com",
-      "country": "United States",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "Close to finalising trade deal with India : Marco Rubio says trade deal considered while hitting pause on fuel - purchase tariffs",
-      "url": "http://www.batonrougepost.com/news/279384169/close-to-finalising-trade-deal-with-india-marco-rubio-says-trade-deal-considered-while-hitting-pause-on-fuel-purchase-tariffs",
-      "domain": "batonrougepost.com",
-      "country": "United States",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "Sanctions Update : October 5 , 2026",
-      "url": "https://www.mondaq.com:443/unitedstates/export-controls-trade-investment-sanctions/1856408/sanctions-update-october-5-2026",
-      "domain": "mondaq.com",
-      "country": "United States",
-      "published": "2026-10-19T06:15:00+00:00"
-     },
-     {
-      "title": "Trump final humiliation of Lindsey Graham",
-      "url": "https://www.thealpenanews.com/opinion/editorials-and-columns/2026/10/trumps-final-humiliation-of-lindsey-graham/",
-      "domain": "thealpenanews.com",
-      "country": "United States",
-      "published": "2026-10-19T06:00:00+00:00"
-     },
-     {
-      "title": "Trump says he doesnt want to drive Russia away",
-      "url": "https://www.newcastleherald.com.au/story/9370675/trump-says-he-doesnt-want-to-drive-russia-away/",
-      "domain": "newcastleherald.com.au",
-      "country": "",
-      "published": "2026-10-19T06:00:00+00:00"
-     },
-     {
-      "title": "Rupee opens 9 paise higher at 94 . 87 against dollar , RBI intervention offsets crude pressure",
-      "url": "https://www.moneycontrol.com/news/currency/rupee-opens-9-paise-higher-at-94-87-against-dollar-rbi-intervention-offsets-crude-pressure-14055070.html",
-      "domain": "moneycontrol.com",
-      "country": "India",
-      "published": "2026-10-19T05:45:00+00:00"
-     },
-     {
-      "title": "US very close to finalising trade deal with India , says Marco Rubio",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-very-close-to-finalising-trade-deal-with-india-says-marco-rubio/articleshow/135040499.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-19T05:45:00+00:00"
-     },
-     {
-      "title": "Rubio says India - US trade deal is  close to finalising  ahead of meeting with EAM Jaishankar",
-      "url": "https://www.moneycontrol.com/world/us-secretary-of-state-marco-rubio-says-india-us-trade-deal-is-close-to-finalising-article-14055151.html",
-      "domain": "moneycontrol.com",
-      "country": "India",
-      "published": "2026-10-19T05:45:00+00:00"
-     },
-     {
-      "title": "Sergio Gor welcomes US State Secretary Marco Rubio to Uzbekistan ahead of key C5+1 Ministerial meeting",
-      "url": "http://www.asiabulletin.com/news/279383683/sergio-gor-welcomes-us-state-secretary-marco-rubio-to-uzbekistan-ahead-of-key-c5-1-ministerial-meeting",
-      "domain": "asiabulletin.com",
-      "country": "China",
-      "published": "2026-10-19T05:45:00+00:00"
-     },
-     {
-      "title": "Trump says he doesnt want to drive Russia away",
-      "url": "https://www.northerndailyleader.com.au/story/9370675/trump-says-he-doesnt-want-to-drive-russia-away/",
-      "domain": "northerndailyleader.com.au",
-      "country": "Australia",
-      "published": "2026-10-19T05:30:00+00:00"
-     },
-     {
-      "title": "Trump says he doesnt want to drive Russia away",
-      "url": "https://www.standard.net.au/story/9370675/trump-says-he-doesnt-want-to-drive-russia-away/",
-      "domain": "standard.net.au",
-      "country": "Australia",
-      "published": "2026-10-19T05:30:00+00:00"
-     },
-     {
-      "title": "Trump Defends Russia Sanctions Waiver Amid Republican Backlash",
-      "url": "https://www.newsweek.com/trump-defends-russia-sanctions-waiver-amid-republican-backlash-12586463",
-      "domain": "newsweek.com",
-      "country": "United States",
-      "published": "2026-10-19T05:30:00+00:00"
-     },
-     {
-      "title": "Electricity : Geometric Power puts Aba ahead of Nigerian cities",
-      "url": "https://www.vanguardngr.com/2026/10/electricity-geometric-power-puts-aba-ahead-of-nigerian-cities-2/",
-      "domain": "vanguardngr.com",
-      "country": "Nigeria",
-      "published": "2026-10-19T05:30:00+00:00"
-     },
-     {
-      "title": "Trump says he doesnt want to drive Russia away",
-      "url": "https://www.dailyliberal.com.au/story/9370675/trump-says-he-doesnt-want-to-drive-russia-away/",
-      "domain": "dailyliberal.com.au",
-      "country": "Australia",
-      "published": "2026-10-19T05:30:00+00:00"
-     },
-     {
-      "title": "Israel political parties explained : The Reservists and the New Economic Party - Israel & Jewish News",
-      "url": "https://www.jns.org/feature/israels-political-parties-explained-the-reservists-and-the-new-economic-party",
-      "domain": "jns.org",
-      "country": "Israel",
-      "published": "2026-10-19T05:00:00+00:00"
-     },
-     {
-      "title": "Sergio Gor welcomes US State Secretary Marco Rubio to Uzbekistan ahead of key C5+1 Ministerial meeting",
-      "url": "http://www.afghanistansun.com/news/279383683/sergio-gor-welcomes-us-state-secretary-marco-rubio-to-uzbekistan-ahead-of-key-c5-1-ministerial-meeting",
-      "domain": "afghanistansun.com",
-      "country": "Afghanistan",
-      "published": "2026-10-19T04:45:00+00:00"
-     },
-     {
-      "title": "GOP Lawmaker Calls For Investigation After Rubio Says Ukraine Starlink Slowdown  Sort Of Happened",
-      "url": "https://dailycaller.com/2026/10/18/mike-turner-margaret-brennan-face-the-nation-marco-rubio-starlink-ukraine-investigation/",
-      "domain": "dailycaller.com",
-      "country": "United States",
-      "published": "2026-10-19T04:45:00+00:00"
-     },
-     {
-      "title": "Sergio Gor welcomes US State Secretary Marco Rubio to Uzbekistan ahead of key C5+1 Ministerial meeting",
-      "url": "http://www.myanmarnews.net/news/279383683/sergio-gor-welcomes-us-state-secretary-marco-rubio-to-uzbekistan-ahead-of-key-c5-1-ministerial-meeting",
-      "domain": "myanmarnews.net",
-      "country": "Myanmar",
-      "published": "2026-10-19T04:45:00+00:00"
-     },
-     {
-      "title": "Oil - rich Alberta votes on Canada breakup",
-      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/19/oil-rich-alberta-votes-on-canada-breakup",
-      "domain": "freemalaysiatoday.com",
-      "country": "Malaysia",
-      "published": "2026-10-19T04:45:00+00:00"
-     },
-     {
-      "title": "Dollar firmer , euro weakens as French protests turn violent",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/19/dollar-firmer-euro-weakens-as-french-protests-turn-violent",
-      "domain": "freemalaysiatoday.com",
-      "country": "Malaysia",
-      "published": "2026-10-19T04:45:00+00:00"
-     },
-     {
-      "title": "Rubio seeks to strengthen US foothold in Central Asia",
-      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/19/rubio-seeks-to-strengthen-us-foothold-in-central-asia",
-      "domain": "freemalaysiatoday.com",
-      "country": "Malaysia",
-      "published": "2026-10-19T04:45:00+00:00"
-     },
-     {
-      "title": "Oil tumbles as Trump Russia sanctions waiver may lead to more fuel supplies",
-      "url": "https://dunyanews.tv/en/Business/978465-oil-tumbles-as-trumps-russia-sanctions-waiver-may-lead-to-more-fuel-s",
-      "domain": "dunyanews.tv",
-      "country": "Pakistan",
-      "published": "2026-10-19T04:30:00+00:00"
-     },
-     {
-      "title": "Sergio Gor welcomes US State Secretary Marco Rubio to Uzbekistan ahead of key C5+1 Ministerial meeting",
-      "url": "http://www.afghanistannews.net/news/279383683/sergio-gor-welcomes-us-state-secretary-marco-rubio-to-uzbekistan-ahead-of-key-c5-1-ministerial-meeting",
-      "domain": "afghanistannews.net",
-      "country": "Afghanistan",
-      "published": "2026-10-19T04:30:00+00:00"
-     },
-     {
-      "title": "Trump claims",
-      "url": "http://www.europesun.com/news/279383547/trump-claims-great-progress-in-russia-ukraine-negotiations-accuses-zelenskyy-of-not-making-better-deal-2-years-ago",
-      "domain": "europesun.com",
-      "country": "Russia",
-      "published": "2026-10-19T04:30:00+00:00"
-     },
-     {
-      "title": "Oil slips as Trump sanction waiver may lead to more Russian fuel supplies",
-      "url": "https://www.asiaone.com:443/money/oil-slips-trumps-sanction-waiver-may-lead-more-russian-fuel-supplies",
-      "domain": "asiaone.com",
-      "country": "Singapore",
-      "published": "2026-10-19T04:15:00+00:00"
-     },
-     {
-      "title": "Eby wants progressive voters to stand together ; BC Greens slam him for scare tactics",
-      "url": "https://voiceonline.com/eby-wants-progressive-voters-to-stand-together-bc-greens-slam-him-for-scare-tactics/",
-      "domain": "voiceonline.com",
-      "country": "Canada",
-      "published": "2026-10-19T04:15:00+00:00"
-     },
-     {
-      "title": "Trump says he doesnt want to drive Russia away",
-      "url": "https://www.maitlandmercury.com.au/story/9370675/trump-says-he-doesnt-want-to-drive-russia-away/",
-      "domain": "maitlandmercury.com.au",
-      "country": "Australia",
-      "published": "2026-10-19T04:15:00+00:00"
-     },
-     {
-      "title": "Blockbuster trade deal on rocks as parties trade fire",
-      "url": "https://www.goulburnpost.com.au/story/9370788/blockbuster-trade-deal-on-rocks-as-parties-trade-fire/",
-      "domain": "goulburnpost.com.au",
-      "country": "Australia",
-      "published": "2026-10-19T04:15:00+00:00"
-     },
-     {
-      "title": "Trump waives major Russia sanctions , tariffs",
-      "url": "http://europe.chinadaily.com.cn/a/202610/19/WS6ad5717be4b06d4aa0563795.html",
-      "domain": "europe.chinadaily.com.cn",
-      "country": "China",
-      "published": "2026-10-19T04:15:00+00:00"
-     },
-     {
-      "title": "Trump says he doesnt want to drive Russia away",
-      "url": "https://www.bordermail.com.au/story/9370675/trump-says-he-doesnt-want-to-drive-russia-away/",
-      "domain": "bordermail.com.au",
-      "country": "Australia",
-      "published": "2026-10-19T04:15:00+00:00"
-     },
-     {
-      "title": "Sensex , Nifty open lower as investors track bank earnings , rising oil prices",
-      "url": "https://www.hindustantimes.com/business/sensex-nifty-open-lower-as-investors-track-bank-earnings-rising-oil-prices-101792380625494.html",
-      "domain": "hindustantimes.com",
-      "country": "India",
-      "published": "2026-10-19T04:15:00+00:00"
-     },
-     {
-      "title": "US President Donald Trump defends Russia sanctions waiver",
-      "url": "https://www.siasat.com/us-president-donald-trump-defends-russia-sanctions-waiver-3560682/",
-      "domain": "siasat.com",
-      "country": "India",
-      "published": "2026-10-19T04:15:00+00:00"
      }
     ],
-    "transporte_maritimo": [
+    "economia_mundial": [
      {
-      "title": "Saudi Arabia intercepts missile near Red Sea oil hub",
-      "url": "http://www.mexicostar.com/news/279381458/saudi-arabia-intercepts-missile-near-red-sea-oil-hub",
-      "domain": "mexicostar.com",
-      "country": "Mexico",
-      "published": "2026-10-19T06:45:00+00:00"
+      "title": "Foreign outflows , rising yields weigh on Indian markets ; earnings to drive recovery : HSBC",
+      "url": "http://www.europesun.com/news/279383899/foreign-outflows-rising-yields-weigh-on-indian-markets-earnings-to-drive-recovery-hsbc",
+      "domain": "europesun.com",
+      "country": "Russia",
+      "published": "2026-10-19T09:30:00+00:00"
      },
      {
-      "title": "Ethiopia : Why Ethiopia Return to Red Sea Is Indispensable Asset for Regional Peace and Stability ?",
-      "url": "https://allafrica.com/stories/202610190056.html",
-      "domain": "allafrica.com",
-      "country": "Nigeria",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Exxon signals $4 . 5 billion refining boost as margins surge",
-      "url": "http://www.utahindependent.com/news/279379844/exxon-signals-usd4-5-billion-refining-boost-as-margins-surge",
-      "domain": "utahindependent.com",
-      "country": "United States",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "IMF official warns of exacerbated food insecurity in sub - Saharan Africa",
-      "url": "http://www.trinidadtimes.com/news/279383855/imf-official-warns-of-exacerbated-food-insecurity-in-sub-saharan-africa",
-      "domain": "trinidadtimes.com",
-      "country": "Trinidad and Tobago",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Sensex , Nifty open flat as high crude oil prices offset banking stocks gains",
-      "url": "http://www.milwaukeesun.com/news/279384024/sensex-nifty-open-flat-as-high-crude-oil-prices-offset-banking-stocks-gains",
-      "domain": "milwaukeesun.com",
-      "country": "United States",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Exxon signals $4 . 5 billion refining boost as margins surge",
-      "url": "http://www.mexicostar.com/news/279379844/exxon-signals-usd4-5-billion-refining-boost-as-margins-surge",
-      "domain": "mexicostar.com",
-      "country": "Mexico",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Saudi Arabia intercepts missile near Red Sea oil hub",
-      "url": "http://www.trinidadtimes.com/news/279381458/saudi-arabia-intercepts-missile-near-red-sea-oil-hub",
-      "domain": "trinidadtimes.com",
-      "country": "Trinidad and Tobago",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Exxon refining profit could jump $4 . 5 billion on higher margins",
-      "url": "http://www.australiannews.net/news/279379844/exxon-refining-profit-could-jump-usd4-5-billion-on-higher-margins",
-      "domain": "australiannews.net",
+      "title": "Higher for longer : why low rates are relics of the past",
+      "url": "https://www.sconeadvocate.com.au/story/9371390/higher-for-longer-why-low-rates-are-relics-of-the-past/",
+      "domain": "sconeadvocate.com.au",
       "country": "Australia",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Oil hits $110 as Houthi strikes , Russia - Ukraine attacks lift supply fears",
-      "url": "https://www.worldoil.com/news/2026/10/16/oil-hits-110-as-houthi-strikes-russia-ukraine-attacks-lift-supply-fears/",
-      "domain": "worldoil.com",
-      "country": "United States",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Gulf Calls on Russia to Play Role in Stopping Attacks by Iran , Starting Dialogue with it",
-      "url": "https://english.aawsat.com/gulf/5331001-gulf-calls-russia-play-role-stopping-attacks-iran-starting-dialogue-it",
-      "domain": "english.aawsat.com",
-      "country": "Syria",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Exxon signals $4 . 5 billion refining boost as margins surge",
-      "url": "http://www.milwaukeesun.com/news/279379844/exxon-signals-usd4-5-billion-refining-boost-as-margins-surge",
-      "domain": "milwaukeesun.com",
-      "country": "United States",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Exxon signals $4 . 5 billion refining boost as margins surge",
-      "url": "http://www.trinidadtimes.com/news/279379844/exxon-signals-usd4-5-billion-refining-boost-as-margins-surge",
-      "domain": "trinidadtimes.com",
-      "country": "Trinidad and Tobago",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Iran Guards Say Oil Tanker on Fire after Hitting Mine in Hormuz",
-      "url": "https://english.aawsat.com/world/5331020-irans-guards-say-oil-tanker-fire-after-hitting-mine-hormuz",
-      "domain": "english.aawsat.com",
-      "country": "Syria",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Iran says its seven - day plan to reopen Hormuz Strait still on table",
-      "url": "https://www.mangalorean.com/iran-says-its-seven-day-plan-to-reopen-hormuz-strait-still-on-table/",
-      "domain": "mangalorean.com",
-      "country": "India",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "The world will be amazed : Iran commanders prepare for further war",
-      "url": "https://kvia.com/news/us-world/cnn-world/2026/10/18/the-world-will-be-amazed-irans-commanders-prepare-for-further-war/",
-      "domain": "kvia.com",
-      "country": "United States",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Crude fears clip wings ; Axis Bank dives 3 . 84 % as Sensex , Nifty open flat",
-      "url": "https://www.thehindubusinessline.com/markets/crude-fears-clip-wings-axis-bank-dives-384-as-sensex-nifty-open-flat/article71602050.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Saudi Arabia intercepts missile near Red Sea oil hub",
-      "url": "http://www.hawaiitelegraph.com/news/279381458/saudi-arabia-intercepts-missile-near-red-sea-oil-hub",
-      "domain": "hawaiitelegraph.com",
-      "country": "United States",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Exxon signals $4 . 5 billion refining boost as margins surge",
-      "url": "http://www.hawaiitelegraph.com/news/279379844/exxon-signals-usd4-5-billion-refining-boost-as-margins-surge",
-      "domain": "hawaiitelegraph.com",
-      "country": "United States",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "IMF official warns of exacerbated food insecurity in sub - Saharan Africa",
-      "url": "http://www.utahindependent.com/news/279383855/imf-official-warns-of-exacerbated-food-insecurity-in-sub-saharan-africa",
-      "domain": "utahindependent.com",
-      "country": "United States",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "IMF official warns of exacerbated food insecurity in sub - Saharan Africa",
-      "url": "http://www.arabherald.com/news/279383855/imf-official-warns-of-exacerbated-food-insecurity-in-sub-saharan-africa",
-      "domain": "arabherald.com",
-      "country": "Syria",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Trump endorses Netanyahu before Israeli elections as settler attacks surge",
-      "url": "https://www.thetimes.com/world/middle-east/article/trump-endorses-netanyahu-israel-election-8gbbz275d",
-      "domain": "thetimes.com",
-      "country": "",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Global food inflation expected to intensify as supply shocks mount",
-      "url": "https://www.timeslive.co.za/news/world/2026-10-19-global-food-inflation-expected-to-intensify-as-supply-shocks-mount/",
-      "domain": "timeslive.co.za",
-      "country": "South Africa",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Yemen Aden International Airport hit by missiles",
-      "url": "http://www.australiannews.net/news/279381458/yemen-s-aden-international-airport-hit-by-missiles",
-      "domain": "australiannews.net",
-      "country": "Australia",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Saudi Arabia intercepts missile near Red Sea oil hub",
-      "url": "http://www.milwaukeesun.com/news/279381458/saudi-arabia-intercepts-missile-near-red-sea-oil-hub",
-      "domain": "milwaukeesun.com",
-      "country": "United States",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Gulf Countries Demand to Be Included in Any Negotiations with Iran that Must Cover its Missile Program",
-      "url": "https://english.aawsat.com/gulf/5330998-gulf-countries-demand-be-included-any-negotiations-iran-must-cover-its-missile-program",
-      "domain": "english.aawsat.com",
-      "country": "Syria",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Exxon signals $4 . 5 billion refining boost as margins surge",
-      "url": "http://www.indiagazette.com/news/279379844/exxon-signals-usd4-5-billion-refining-boost-as-margins-surge",
-      "domain": "indiagazette.com",
-      "country": "India",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "Saudi Arabia intercepts missile near Red Sea oil hub",
-      "url": "http://www.indiagazette.com/news/279381458/saudi-arabia-intercepts-missile-near-red-sea-oil-hub",
-      "domain": "indiagazette.com",
-      "country": "India",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "Shipping Tribune",
-      "url": "https://www.shippingtribune.com/news/shipping/Oil+Slips+After+Sharp+Weekly+Rise",
-      "domain": "shippingtribune.com",
-      "country": "India",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "Saudi Arabia intercepts missile near Red Sea oil hub",
-      "url": "http://www.bangladeshsun.com/news/279381458/saudi-arabia-intercepts-missile-near-red-sea-oil-hub",
-      "domain": "bangladeshsun.com",
-      "country": "Bangladesh",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "Exxon refining profit could jump $4 . 5 billion on higher margins",
-      "url": "http://www.calcuttanews.net/news/279379844/exxon-refining-profit-could-jump-usd4-5-billion-on-higher-margins",
-      "domain": "calcuttanews.net",
-      "country": "India",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "The battle for the Arctic where the cold war is hotting up",
-      "url": "https://www.thetimes.com/culture/books/article/sea-change-new-great-game-arctic-circle-rana-foroohar-review-plcfbsrr2",
-      "domain": "thetimes.com",
-      "country": "",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "Asian stocks skid , Wall Street and bonds aided by oil slip",
-      "url": "https://bdnews24.com/business/y9h3f5l737",
-      "domain": "bdnews24.com",
-      "country": "Bangladesh",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "IMF official warns of exacerbated food insecurity in sub - Saharan Africa",
-      "url": "http://www.batonrougepost.com/news/279383855/imf-official-warns-of-exacerbated-food-insecurity-in-sub-saharan-africa",
-      "domain": "batonrougepost.com",
-      "country": "United States",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "IMF official warns of exacerbated food insecurity in sub - Saharan Africa",
-      "url": "http://www.asiabulletin.com/news/279383855/imf-official-warns-of-exacerbated-food-insecurity-in-sub-saharan-africa",
-      "domain": "asiabulletin.com",
-      "country": "China",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "Asian stocks slip , Wall Street and bonds benefit from oil dip",
-      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/asian-stocks-slip-wall-street-and-bonds-benefit-oil-dip",
-      "domain": "businesstimes.com.sg",
-      "country": "Singapore",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "Asian shares are mixed with tech stocks volatile , and oil falls on Trump Russian sanctions waiver",
-      "url": "https://www.wsls.com/business/2026/10/19/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions-waiver/",
-      "domain": "wsls.com",
-      "country": "United States",
-      "published": "2026-10-19T06:30:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
       "title": "Global food inflation is expected to intensify as supply shocks pile up",
-      "url": "https://www.businesstimes.com.sg/international/global/global-food-inflation-expected-intensify-supply-shocks-pile",
-      "domain": "businesstimes.com.sg",
-      "country": "Singapore",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "Sensex , Nifty open flat as high crude oil prices offset banking stocks gains",
-      "url": "http://www.calcuttanews.net/news/279384024/sensex-nifty-open-flat-as-high-crude-oil-prices-offset-banking-stocks-gains",
-      "domain": "calcuttanews.net",
-      "country": "India",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "Asian shares are mixed with tech stocks volatile , and oil falls on Trump Russian sanctions waiver – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/business/2026/10/19/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions-waiver",
-      "domain": "winnipegfreepress.com",
-      "country": "Canada",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "Exxon signals $4 . 5 billion refining boost as margins surge",
-      "url": "http://www.nepalnational.com/news/279379844/exxon-signals-usd4-5-billion-refining-boost-as-margins-surge",
-      "domain": "nepalnational.com",
-      "country": "Nepal",
-      "published": "2026-10-19T06:30:00+00:00"
-     }
-    ],
-    "riesgos_climaticos": [
-     {
-      "title": "SOPA sees India 2026 soyabean output a tad lower at 107 . 93 lakh tonnes ; MP regains top slot of largest producer",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/sopa-sees-indias-2026-soyabean-output-a-tad-lower-at-10793-lakh-tonnes-mp-regains-top-slot-of-largest-producer/article71602084.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Trump endorses Netanyahu before Israeli elections as settler attacks surge",
-      "url": "https://www.thetimes.com/world/middle-east/article/trump-endorses-netanyahu-israel-election-8gbbz275d",
-      "domain": "thetimes.com",
-      "country": "",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Global food inflation expected to intensify as supply shocks mount",
-      "url": "https://www.timeslive.co.za/news/world/2026-10-19-global-food-inflation-expected-to-intensify-as-supply-shocks-mount/",
-      "domain": "timeslive.co.za",
-      "country": "South Africa",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "Smaller Pumpkins Expected This Halloween After Drought in England",
-      "url": "https://english.aawsat.com/varieties/5331015-smaller-pumpkins-expected-halloween-after-drought-england",
-      "domain": "english.aawsat.com",
-      "country": "Syria",
-      "published": "2026-10-19T06:45:00+00:00"
-     },
-     {
-      "title": "El Niño - powered drought leaves Indonesian palm farmers high and dry as river recedes",
-      "url": "https://bdnews24.com/world/south-east-asia/fqenjq41dd",
-      "domain": "bdnews24.com",
-      "country": "Bangladesh",
-      "published": "2026-10-19T06:30:00+00:00"
-     },
-     {
-      "title": "El Niño - powered drought leaves Indonesian palm farmers high and dry as river recedes",
-      "url": "https://www.rappler.com/world/asia-pacific/el-nino-drought-leaves-indonesian-palm-farmers-high-dry-river-recedes-october-2026/",
-      "domain": "rappler.com",
-      "country": "Philippines",
-      "published": "2026-10-19T05:45:00+00:00"
-     },
-     {
-      "title": "NJ drought warning no longer in effect in South Jersey",
-      "url": "https://www.njspotlightnews.org/2026/10/drought-warning-no-longer-in-effect-but-south-jersey-farmers-are-still-dealing-with-impacts/",
-      "domain": "njspotlightnews.org",
-      "country": "",
-      "published": "2026-10-19T05:45:00+00:00"
-     },
-     {
-      "title": "Vegetable growers eye 2027 planting cuts as water fears mount",
-      "url": "https://www.farminguk.com/news/vegetable-growers-eye-2027-planting-cuts-as-water-fears-mount_69321.html",
-      "domain": "farminguk.com",
-      "country": "United Kingdom",
-      "published": "2026-10-19T05:30:00+00:00"
-     },
-     {
-      "title": "El Nino - powered drought leaves Indonesian palm farmers high and dry as river recedes",
-      "url": "https://www.asiaone.com:443/asia/el-nino-powered-drought-leaves-indonesian-palm-farmers-high-and-dry-river-recedes",
+      "url": "https://www.asiaone.com:443/world/global-food-inflation-expected-intensify-supply-shocks-pile",
       "domain": "asiaone.com",
       "country": "Singapore",
-      "published": "2026-10-19T04:15:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "El Niño - powered drought leaves Indonesian palm farmers high and dry as river recedes",
-      "url": "https://kelo.com/2026/10/18/el-nino-powered-drought-leaves-indonesian-palm-farmers-high-and-dry-as-river-recedes/",
-      "domain": "kelo.com",
+      "title": "China economy accelerated in the July - September quarter on robust exports",
+      "url": "http://www.dailyadvance.com/news/world/chinas-economy-accelerated-in-the-july-september-quarter-on-robust-exports/article_967255b1-1521-5b42-9c9d-35127fc9f645.html",
+      "domain": "dailyadvance.com",
       "country": "United States",
-      "published": "2026-10-19T04:15:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Why Nepal Dashain festival apples will cost more this year",
-      "url": "https://asianews.network/why-nepals-dashain-festival-apples-will-cost-more-this-year/",
-      "domain": "asianews.network",
-      "country": "China",
-      "published": "2026-10-19T04:00:00+00:00"
+      "title": "Higher for longer : why low rates are relics of the past",
+      "url": "https://www.maitlandmercury.com.au/story/9371390/higher-for-longer-why-low-rates-are-relics-of-the-past/",
+      "domain": "maitlandmercury.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Southern India braces for water stress and droughts amid deficient monsoon",
-      "url": "https://www.business-standard.com/india-news/southern-india-braces-for-water-stress-and-droughts-amid-deficient-monsoon-126101800822_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-10-18T19:15:00+00:00"
+      "title": "Higher for longer : why low rates are relics of the past",
+      "url": "https://www.southcoastregister.com.au/story/9371390/higher-for-longer-why-low-rates-are-relics-of-the-past/",
+      "domain": "southcoastregister.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Field Margins : Jim Logan reflects on the Autumn months",
-      "url": "https://www.thescottishfarmer.co.uk/business_sales/cattle_sales/26630780.field-margins-jim-logan-reflects-autumn-months/",
-      "domain": "thescottishfarmer.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-18T19:15:00+00:00"
+      "title": "Higher for longer : why low rates are relics of the past",
+      "url": "https://www.queanbeyanage.com.au/story/9371390/higher-for-longer-why-low-rates-are-relics-of-the-past/",
+      "domain": "queanbeyanage.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Pumpkin shortage warning this Halloween as weather hits united kingdom patches",
-      "url": "https://www.aol.co.uk/articles/pumpkin-shortage-warning-halloween-weather-153857000.html",
-      "domain": "aol.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-18T16:45:00+00:00"
+      "title": "Asian shares are mixed with tech stocks volatile , and oil falls on Trump Russian sanctions waiver",
+      "url": "http://www.thegazette.com/news/world/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions/article_040ea35e-bc5e-5886-983d-1ac4057efd15.html",
+      "domain": "thegazette.com",
+      "country": "United States",
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Bonei Zion Prize honors Olim rebuilding Israel after the war",
-      "url": "http://www.jpost.com/aliyah/article-912047",
-      "domain": "jpost.com",
-      "country": "Israel",
-      "published": "2026-10-18T16:00:00+00:00"
+      "title": "Asian shares are mixed with tech stocks volatile , and oil falls on Trump Russian sanctions waiver",
+      "url": "https://santamariatimes.com/ap/business/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions/article_b7bcc6b7-250a-5850-81a0-c6b923843cf7.html",
+      "domain": "santamariatimes.com",
+      "country": "United States",
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Canola yields in 2026 like getting socks for Christmas",
-      "url": "https://www.gx94radio.com/2026/10/18/canola-yields-in-2026-like-getting-socks-for-christmas/",
-      "domain": "gx94radio.com",
-      "country": "Canada",
-      "published": "2026-10-18T15:45:00+00:00"
-     },
-     {
-      "title": "Resilience is not about being smart | Countercurrents",
-      "url": "https://countercurrents.org/2026/10/resilience-is-not-about-being-smart/",
-      "domain": "countercurrents.org",
-      "country": "India",
-      "published": "2026-10-18T15:15:00+00:00"
-     },
-     {
-      "title": "Who Holds the Valve ? Water , War and the Price of Peace - By Kator Ifyalem",
-      "url": "https://www.opinionnigeria.com/who-holds-the-valve-water-war-and-the-price-of-peace-by-kator-ifyalem/",
-      "domain": "opinionnigeria.com",
+      "title": "Dangote Refinery IPO draws subscriptions from 51 African countries - Blueprint Newspapers Limited",
+      "url": "https://blueprint.ng/dangote-refinery-ipo-draws-subscriptions-from-51-african-countries/",
+      "domain": "blueprint.ng",
       "country": "Nigeria",
-      "published": "2026-10-18T14:30:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Latest rainfall data highlights severe threat to rabi crops amid deficits and El Niño concerns",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/latest-rainfall-data-highlights-severe-threat-to-rabi-crops-amid-deficits-and-el-nino-concerns/article71599605.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
-      "published": "2026-10-18T13:00:00+00:00"
-     },
-     {
-      "title": "AP News in Brief at 6 : 04 a . m . EDT",
-      "url": "https://www.idahostatejournal.com/news/national/ap-news-in-brief-at-6-04-a-m-edt/article_cbabc4b8-aee1-5ceb-b8f1-dde036415a00.html",
-      "domain": "idahostatejournal.com",
+      "title": "France riots highlight a growing risk for its battered bond market",
+      "url": "https://www.aol.com/articles/frances-riots-highlight-growing-risk-064002000.html",
+      "domain": "aol.com",
       "country": "United States",
-      "published": "2026-10-18T12:45:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Highest inflation in four years will result in  some hardship says Dr King | Business",
-      "url": "https://jamaica-gleaner.com/article/business/20261018/highest-inflation-four-years-will-result-some-hardships-says-dr-king",
-      "domain": "jamaica-gleaner.com",
-      "country": "Jamaica",
-      "published": "2026-10-18T12:45:00+00:00"
+      "title": "Roaring exports lift China economic growth ; violent French protests put pressure on euro , stocks and bonds – business live | Business",
+      "url": "https://www.theguardian.com/business/live/2026/oct/19/exports-lift-china-economic-growth-french-protests-pressure-euro-bonds-latest-business-live-updates",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "With a potentially historic El Niño looming , here how one California county is getting ready – Macomb Daily",
-      "url": "https://www.macombdaily.com/2026/10/18/with-a-potentially-historic-el-nino-looming-heres-how-orange-county-is-getting-ready/",
-      "domain": "macombdaily.com",
+      "title": "China economy accelerated in the July - September quarter on robust exports",
+      "url": "https://santamariatimes.com/ap/business/chinas-economy-accelerated-in-the-july-september-quarter-on-robust-exports/article_1380c6d6-1a87-528a-8004-3edab97a87f5.html",
+      "domain": "santamariatimes.com",
       "country": "United States",
-      "published": "2026-10-18T12:00:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "With a potentially historic El Niño looming , here how one California county is getting ready – The Oakland Press",
-      "url": "https://www.theoaklandpress.com/2026/10/18/with-a-potentially-historic-el-nino-looming-heres-how-orange-county-is-getting-ready/",
-      "domain": "theoaklandpress.com",
+      "title": "Asian shares are mixed with tech stocks volatile , and oil falls on Trump Russian sanctions waiver",
+      "url": "http://www.dailyadvance.com/news/world/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions/article_0650dc61-a18f-5bee-867d-153923013717.html",
+      "domain": "dailyadvance.com",
       "country": "United States",
-      "published": "2026-10-18T12:00:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Why Kenya should give dairy buffaloes a chance",
-      "url": "https://www.the-star.co.ke/siasa/2026-10-18-why-kenya-should-give-dairy-buffaloes-a-chance",
-      "domain": "the-star.co.ke",
-      "country": "Kenya",
-      "published": "2026-10-18T10:30:00+00:00"
+      "title": "France hit by debt sell - off as protests unnerve investors",
+      "url": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "Pakistan : Sindh Tharparkar reports rise in suicide deaths",
-      "url": "https://ianslive.in/pakistan-sindhs-tharparkar-reports-rise-in-suicide-deaths--20261018135921",
-      "domain": "ianslive.in",
-      "country": "India",
-      "published": "2026-10-18T10:30:00+00:00"
+      "title": "Should you buy shares in Rio Tinto ?",
+      "url": "https://www.thetimes.com/business/companies-markets/article/should-you-buy-shares-in-rio-tinto-5j7xwkjh7",
+      "domain": "thetimes.com",
+      "country": "",
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "AP News Summary at 3 : 42 a . m . EDT",
-      "url": "https://www.ktvo.com/news/nation-world/ap-news-summary-at-3-42-a-m-edt/article_2f7c5daf-c0f8-5a66-bf22-ac9d353c0c66.html",
-      "domain": "ktvo.com",
+      "title": "China economy accelerated in the July - September quarter on robust exports",
+      "url": "http://www.reflector.com/news/national/chinas-economy-accelerated-in-the-july-september-quarter-on-robust-exports/article_9bef7eac-aa78-51ab-9c83-16e6ff41693d.html",
+      "domain": "reflector.com",
       "country": "United States",
-      "published": "2026-10-18T09:45:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "FMCGs grapple with cost inflation in Q2 , brace for margin pressure in H2",
-      "url": "https://www.business-standard.com/industry/news/fmcgs-grapple-with-cost-inflation-in-q2-brace-for-margin-pressure-in-h2-126101800266_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-10-18T09:30:00+00:00"
-     },
-     {
-      "title": "Global banana business bruised as Iran war pressures producers | The Arkansas Democrat - Gazette",
-      "url": "https://www.arkansasonline.com/news/2026/oct/18/global-banana-business-bruised-as-iran-war/",
-      "domain": "arkansasonline.com",
+      "title": "NJ attorney goes viral after Iran debate challenge to Cory Booker",
+      "url": "https://www.foxnews.com/politics/booker-rival-shoots-hip-hopes-viral-debate-moment-break-gops-senate-drought",
+      "domain": "foxnews.com",
       "country": "United States",
-      "published": "2026-10-18T09:15:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "In 2024 , a New York dairy farmer wanted solar income without losing his fields ; the 6 . 5 - megawatt project was designed around crops and cows",
-      "url": "https://economictimes.indiatimes.com/news/international/us/in-2024-a-new-york-dairy-farmer-wanted-solar-income-without-losing-his-fields-the-6-5-megawatt-project-was-designed-around-crops-and-cows/articleshow/135013699.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-18T09:15:00+00:00"
-     },
-     {
-      "title": "FMCG firms grapple with input cost inflation in Q2 , brace for margin pressure in H2",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/fmcg-firms-grapple-with-input-cost-inflation-in-q2-brace-for-margin-pressure-in-h2/articleshow/135025834.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-18T08:30:00+00:00"
-     },
-     {
-      "title": "Beed Collector Chats With Students , Inspires Them To Dream Big",
-      "url": "https://www.freepressjournal.in/pune/beed-collector-chats-with-students-inspires-them-to-dream-big",
-      "domain": "freepressjournal.in",
-      "country": "India",
-      "published": "2026-10-18T08:30:00+00:00"
-     },
-     {
-      "title": "10 Grim Separation Walls From Around The World",
-      "url": "https://listverse.com/2014/09/27/10-grim-separation-walls-from-around-the-world/",
-      "domain": "listverse.com",
+      "title": "Asian shares are mixed with tech stocks volatile , and oil falls on Trump Russian sanctions waiver",
+      "url": "http://www.reflector.com/news/national/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions/article_86ae1d97-b468-5a99-aa4b-3741b4c46145.html",
+      "domain": "reflector.com",
       "country": "United States",
-      "published": "2026-10-18T06:30:00+00:00"
+      "published": "2026-10-19T08:45:00+00:00"
      },
      {
-      "title": "AP News in Brief at 12 : 04 a . m . EDT",
-      "url": "http://www.wdtimes.com/news/national/ap-news-in-brief-at-12-04-a-m-edt/article_adae568d-6ce6-56e3-b852-361c15a1bb16.html",
-      "domain": "wdtimes.com",
+      "title": "Higher for longer : why low rates are relics of the past",
+      "url": "https://www.moreechampion.com.au/story/9371390/higher-for-longer-why-low-rates-are-relics-of-the-past/",
+      "domain": "moreechampion.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Higher for longer : why low rates are relics of the past",
+      "url": "https://www.blayneychronicle.com.au/story/9371390/higher-for-longer-why-low-rates-are-relics-of-the-past/",
+      "domain": "blayneychronicle.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T08:45:00+00:00"
+     },
+     {
+      "title": "Asian shares are mixed with tech stocks volatile , and oil falls on Trump Russian sanctions waiver",
+      "url": "https://www.clickondetroit.com/business/2026/10/19/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions-waiver/",
+      "domain": "clickondetroit.com",
       "country": "United States",
-      "published": "2026-10-18T04:45:00+00:00"
+      "published": "2026-10-19T08:30:00+00:00"
      },
      {
-      "title": "Charting the global economy : Inflationary pressures mount in US",
-      "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/charting-the-global-economy-inflationary-pressures-mount-in-us/articleshow/135023323.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-18T04:15:00+00:00"
+      "title": "First - time buyers paying more on mortgage than they did on rent",
+      "url": "https://www.thetimes.com/business/economics/article/first-time-buyers-mortgage-rent-interest-rate-7rvpsgjdt",
+      "domain": "thetimes.com",
+      "country": "",
+      "published": "2026-10-19T08:30:00+00:00"
      },
      {
-      "title": "DA PRDP holds disaster preparedness , business continuity to Novo Ecijano",
-      "url": "https://tribune.net.ph/2026/10/18/da-prdp-holds-disaster-preparedness-business-continuity-to-novo-ecijano-farmers",
-      "domain": "tribune.net.ph",
-      "country": "Philippines",
-      "published": "2026-10-18T03:45:00+00:00"
+      "title": "Higher for longer : why low rates are relics of the past",
+      "url": "https://www.batemansbaypost.com.au/story/9371390/higher-for-longer-why-low-rates-are-relics-of-the-past/",
+      "domain": "batemansbaypost.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T08:30:00+00:00"
      },
      {
-      "title": "El Niño | Daily Tribune",
-      "url": "https://tribune.net.ph/topic/el-ni%C3%B1o",
-      "domain": "tribune.net.ph",
-      "country": "Philippines",
-      "published": "2026-10-18T03:45:00+00:00"
-     },
-     {
-      "title": "AP News in Brief at 11 : 04 p . m . EDT",
-      "url": "http://www.idahostatejournal.com/news/national/ap-news-in-brief-at-11-04-p-m-edt/article_77870e27-ef74-5a74-97e8-090878e33f54.html",
-      "domain": "idahostatejournal.com",
+      "title": "France Riots Highlight a Growing Risk for Its Battered Bond Market",
+      "url": "https://www.businessinsider.com/france-protests-riots-paris-bond-market-debt-oats-yields-selloff-2026-10",
+      "domain": "businessinsider.com",
       "country": "United States",
-      "published": "2026-10-18T03:45:00+00:00"
+      "published": "2026-10-19T08:30:00+00:00"
      },
      {
-      "title": "Is the food industry innovation problem actually a talent problem ?",
-      "url": "https://www.digitaljournal.com/article/is-the-food-industrys-innovation-problem-actually-a-talent-problem/",
-      "domain": "digitaljournal.com",
-      "country": "United States",
-      "published": "2026-10-18T01:30:00+00:00"
+      "title": "November fuel price : Major shift in latest forecast",
+      "url": "https://www.thesouthafrican.com/news/november-fuel-price-major-shift-in-latest-forecast/",
+      "domain": "thesouthafrican.com",
+      "country": "South Africa",
+      "published": "2026-10-19T08:30:00+00:00"
      },
      {
-      "title": "Column : Virginia farmers need more than emergency drought relief",
-      "url": "https://www.pilotonline.com/2026/10/17/column-virginia-farmers-need-more-than-emergency-drought-relief/",
-      "domain": "pilotonline.com",
+      "title": "How Much Do Carving Pumpkins Cost In Louisiana",
+      "url": "https://1079ishot.com/ixp/33/p/halloween-pumpkin-pricing-guide/",
+      "domain": "1079ishot.com",
       "country": "United States",
-      "published": "2026-10-17T23:30:00+00:00"
+      "published": "2026-10-19T08:30:00+00:00"
      },
      {
-      "title": "AP News Summary at 6 : 53 p . m . EDT",
-      "url": "http://www.hngnews.com/nation_world/ap-news-summary-at-6-53-p-m-edt/article_01bc30a8-64c5-5557-8be4-68a6951171c8.html",
-      "domain": "hngnews.com",
+      "title": "Higher for longer : why low rates are relics of the past",
+      "url": "https://www.nynganobserver.com.au/story/9371390/higher-for-longer-why-low-rates-are-relics-of-the-past/",
+      "domain": "nynganobserver.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T08:15:00+00:00"
+     },
+     {
+      "title": "China economy accelerated in the July - September quarter on robust exports",
+      "url": "https://www.durangoherald.com/articles/associated-press/chinas-economy-accelerates-on-robust-exports-as-domestic-weakness-persists/",
+      "domain": "durangoherald.com",
       "country": "United States",
-      "published": "2026-10-17T23:30:00+00:00"
+      "published": "2026-10-19T08:15:00+00:00"
+     },
+     {
+      "title": "Higher for longer : why low rates are relics of the past",
+      "url": "https://www.naroomanewsonline.com.au/story/9371390/higher-for-longer-why-low-rates-are-relics-of-the-past/",
+      "domain": "naroomanewsonline.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T08:00:00+00:00"
+     },
+     {
+      "title": "Higher for longer : why low rates are relics of the past",
+      "url": "https://www.gloucesteradvocate.com.au/story/9371390/higher-for-longer-why-low-rates-are-relics-of-the-past/",
+      "domain": "gloucesteradvocate.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T07:45:00+00:00"
+     },
+     {
+      "title": "Asian shares are mixed with tech stocks volatile , and oil falls on Trump Russian sanctions waiver",
+      "url": "http://www.rockymounttelegram.com/news/world/asian-shares-are-mixed-with-tech-stocks-volatile-and-oil-falls-on-trumps-russian-sanctions/article_c088ba04-ec49-5d4b-bc36-d9c11959b178.html",
+      "domain": "rockymounttelegram.com",
+      "country": "United States",
+      "published": "2026-10-19T07:45:00+00:00"
+     },
+     {
+      "title": "Morning Minute : OKX Raises at $25B From Circle , Ripple , and StanChart",
+      "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart&t=Morning%20Minute:%20OKX%20Raises%20at%20$25B%20From%20Circle,%20Ripple,%20and%20StanChart&fnp_t=1792392857.8c6d265a0a3a2d63",
+      "domain": "decrypt.co",
+      "country": "",
+      "published": "2026-10-19T07:45:00+00:00"
+     },
+     {
+      "title": "China economy accelerated in the July - September quarter on robust exports",
+      "url": "http://www.rockymounttelegram.com/news/world/chinas-economy-accelerated-in-the-july-september-quarter-on-robust-exports/article_39215c99-64d6-5a2d-b430-968a6b9db316.html",
+      "domain": "rockymounttelegram.com",
+      "country": "United States",
+      "published": "2026-10-19T07:45:00+00:00"
+     },
+     {
+      "title": "Uruguay Inflation Forecast Set at 4 . 9 %",
+      "url": "https://www.riotimesonline.com/uruguay-inflation-forecast-central-bank-ipom-october-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-19T07:30:00+00:00"
+     },
+     {
+      "title": "Vietcombank Dollar Quote Rises as Vietnam Cuts Reference Rate",
+      "url": "https://econotimes.com/Vietcombank-Dollar-Quote-Rises-as-Vietnam-Cuts-Reference-Rate-1756295",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-19T07:30:00+00:00"
+     },
+     {
+      "title": "Global food inflation is expected to intensify as supply shocks pile up",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/19/global-food-inflation-is-expected-to-intensify-as-supply-shocks-pile-up",
+      "domain": "freemalaysiatoday.com",
+      "country": "Malaysia",
+      "published": "2026-10-19T07:30:00+00:00"
+     },
+     {
+      "title": "Suriname Work Permits Face October Survey",
+      "url": "https://www.riotimesonline.com/suriname-work-permits-business-survey-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-19T07:30:00+00:00"
+     },
+     {
+      "title": "LatAm Expat & Nomad Daily Guide for Monday , October 19 , 2026",
+      "url": "https://www.riotimesonline.com/latam-expat-nomad-daily-guide-for-monday-october-19-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-19T07:30:00+00:00"
+     },
+     {
+      "title": "ASX climbs as big four banks and oil giants offset Wall Street technology slump",
+      "url": "https://www.perthnow.com.au/news/business/markets/asx-climbs-as-big-four-banks-and-oil-giants-offset-wall-street-technology-slump-c-23043022",
+      "domain": "perthnow.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T07:30:00+00:00"
      }
     ]
    },
    "errors": {
-    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
