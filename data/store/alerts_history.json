@@ -1,5 +1,22 @@
 [
  {
+  "id": "4ec53ae345da",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-20",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 1 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “UK fighter jets to help defend Saudi Arabia against Houthi attacks” (ledburyreporter.co.uk). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "ledburyreporter.co.uk",
+  "url": "https://www.ledburyreporter.co.uk/news/national/26652973.uk-fighter-jets-help-defend-saudi-arabia-houthi-attacks/",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-20T12:55:21-06:00"
+ },
+ {
   "id": "e20a06cdb16e",
   "indicator": "cp-ormuz",
   "name": "Punto crítico logístico",
