@@ -1,5 +1,22 @@
 [
  {
+  "id": "ce32ddec5708",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-20",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 1 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Houthi Three - Pronged Attack A Threat To The World - Analysis” (eurasiareview.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "eurasiareview.com",
+  "url": "https://www.eurasiareview.com/20102026-houthis-three-pronged-attack-a-threat-to-the-world-analysis/",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-19T21:48:54-06:00"
+ },
+ {
   "id": "9e49fe54927e",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
