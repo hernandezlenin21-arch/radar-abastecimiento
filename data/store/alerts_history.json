@@ -1,5 +1,22 @@
 [
  {
+  "id": "e20a06cdb16e",
+  "indicator": "cp-ormuz",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-20",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Estrecho de Ormuz: 3 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Iran tension : Trump signals heavy strikes as IRGC claims US MQ - 9 drone shot down near Hormuz” (bankingnews.gr). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "bankingnews.gr",
+  "url": "https://www.bankingnews.gr/diethni/articles/906077/tensions-rise-in-strait-of-hormuz-after-iran-claims-us-drone-shot-down",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-20T03:47:49-06:00"
+ },
+ {
   "id": "ce32ddec5708",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
