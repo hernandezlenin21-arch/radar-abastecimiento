@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-20T12:55:21-06:00",
+  "at": "2026-10-20T15:47:15-06:00",
   "data": {
    "storms": [],
    "url": "https://www.nhc.noaa.gov/"
@@ -9,7 +9,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-20T12:55:21-06:00",
+  "at": "2026-10-20T15:47:15-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -18,1705 +18,581 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-20T12:55:21-06:00",
+  "at": "2026-10-20T15:47:15-06:00",
   "data": {
    "raw": {
-    "energia": [
-     {
-      "title": "Russia Oil Export Revenue Slides as Production Declines",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Oil-Export-Revenue-Slides-as-Production-Declines.html",
-      "domain": "oilprice.com",
-      "country": "United States",
-      "published": "2026-10-20T18:30:00+00:00"
-     },
-     {
-      "title": "Nasdaq futures fall as oil prices jump , key earnings loom",
-      "url": "https://www.mvariety.com/business/business_news/nasdaq-futures-fall-as-oil-prices-jump-key-earnings-loom/article_ba4b5b67-e2f1-4114-a7c7-6f2f0d4ac84f.html",
-      "domain": "mvariety.com",
-      "country": "United States",
-      "published": "2026-10-20T18:30:00+00:00"
-     },
-     {
-      "title": "US stocks rise after companies deliver strong profits and oil prices retreat",
-      "url": "http://www.thegazette.com/news/world/us-stocks-rise-after-companies-deliver-strong-profits-and-oil-prices-retreat/article_f2fcbce2-beb2-5d14-a2c1-fc7fa08069fa.html",
-      "domain": "thegazette.com",
-      "country": "United States",
-      "published": "2026-10-20T18:30:00+00:00"
-     },
-     {
-      "title": "Bitcoin Briefly Passes $83 , 000 as Stocks Rise on US Q3 Earnings Beats",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls",
-      "domain": "cointelegraph.com",
-      "country": "China",
-      "published": "2026-10-20T18:30:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://wlac.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "wlac.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:30:00+00:00"
-     },
-     {
-      "title": "Demuth , Klobuchar debate economic issues at East Gull Lake forum",
-      "url": "https://www.wctrib.com/news/minnesota/demuth-klobuchar-debate-economic-issues-at-east-gull-lake-forum",
-      "domain": "wctrib.com",
-      "country": "United States",
-      "published": "2026-10-20T18:30:00+00:00"
-     },
-     {
-      "title": "Trump warns Kansans that US will  burn  like France",
-      "url": "https://www.pakistantoday.com.pk/2026/10/20/trump-warns-kansans-that-us-will-burn-like-france-if-democrats-win",
-      "domain": "pakistantoday.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Global oil prices hit highest level in 5 months amid attacks on ships , facilities",
-      "url": "https://abc7ny.com/story/global-oil-prices-hit-highest-level-5-months-amid-attacks-ships-facilities/19959869/",
-      "domain": "abc7ny.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Fueling developing world energy transition , China takes green energy global",
-      "url": "http://www.nepalnational.com/news/279387599/fueling-developing-world-energy-transition-china-takes-green-energy-global",
-      "domain": "nepalnational.com",
-      "country": "Nepal",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Roundup : Fueling developing world energy transition , China takes green energy global - Xinhua",
-      "url": "https://english.news.cn/20261020/0da1043ba52c4792ab1e5d7ae2ccbda4/c.html",
-      "domain": "english.news.cn",
-      "country": "",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "5 Overlooked Dividend Stocks Yielding Up to 10 . 39 % to Buy Now",
-      "url": "https://www.aol.com/articles/5-overlooked-dividend-stocks-yielding-174524000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "ABC Business - WOND",
-      "url": "https://wondradio.com/abc-business/b2443e1df84a378291f583edba03acf2",
-      "domain": "wondradio.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Reliance can refine heavy Venezuelan crude , says US Secretary of State Marco Rubio",
-      "url": "https://www.ibtimes.co.in/reliance-can-refine-heavy-venezuelan-crude-says-us-secretary-state-marco-rubio-907709",
-      "domain": "ibtimes.co.in",
-      "country": "India",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://patriotla.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "patriotla.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Republicans push back on Donald Trump wavering support for Ukraine",
-      "url": "https://www.aol.co.uk/articles/republicans-push-back-donald-trump-173257000.html",
-      "domain": "aol.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "KeyCorp ( KEY ) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.aol.com/articles/keycorp-key-q3-2026-earnings-174454000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Analysts Expect Weekly Decrease in U . S . Crude Oil Stockpiles",
-      "url": "https://www.morningstar.com/news/dow-jones/202610206719/analysts-expect-weekly-decrease-in-us-crude-oil-stockpiles",
-      "domain": "morningstar.com",
-      "country": "China",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Oil Price Shows War Escalation Risks ; U . S . Midterm Eyed , Goldman Says OPIS",
-      "url": "https://www.morningstar.com/news/dow-jones/202610206773/oil-price-shows-war-escalation-risks-us-midterm-eyed-goldman-says-opis",
-      "domain": "morningstar.com",
-      "country": "China",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://wiba.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "wiba.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Inflation set to hit 3 . 4 %: united kingdom households face fresh pressure from soaring fuel prices - London Business News",
-      "url": "https://londonlovesbusiness.com/inflation-set-to-hit-3-4-per-cent-uk-households-face-fresh-pressure-from-soaring-fuel-prices/",
-      "domain": "londonlovesbusiness.com",
-      "country": "United Kingdom",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers | News Radio 920 AM & 104 . 7 FM",
-      "url": "https://newsradiori.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "newsradiori.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Dairy Industry Advances Toward Net Zero Emissions Goals | Wisconsin Ag Connection",
-      "url": "https://wisconsinagconnection.com/news/dairy-industry-advances-toward-net-zero-emissions-goals",
-      "domain": "wisconsinagconnection.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://kfyi.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "kfyi.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Demuth , Klobuchar debate economic issues at East Gull Lake forum",
-      "url": "https://www.grandforksherald.com/news/minnesota/demuth-klobuchar-debate-economic-issues-at-east-gull-lake-forum",
-      "domain": "grandforksherald.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://wilm.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "wilm.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Trump announces $8B plan to cover farm losses | Honolulu Star - Advertiser",
-      "url": "https://www.staradvertiser.com/2026/10/20/breaking-news/trump-announces-8b-plan-to-cover-farm-losses/",
-      "domain": "staradvertiser.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "E . ON Introduces Digital Monitoring to Cut Methane Emissions",
-      "url": "https://hungarytoday.hu/e-on-introduces-digital-monitoring-to-cut-methane-emissions/",
-      "domain": "hungarytoday.hu",
-      "country": "Hungary",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Republicans pour $300 , 000 into defense of GOP - leaning Senate seat in northwest Missouri",
-      "url": "https://www.ktvo.com/news/local/republicans-pour-300-000-into-defense-of-gop-leaning-senate-seat-in-northwest-missouri/article_eb3b7e12-f4f3-52fc-96c6-82edc23e1d96.html",
-      "domain": "ktvo.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://talk1200boston.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "talk1200boston.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://newsradio1049.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "newsradio1049.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Fueling developing world energy transition , China takes green energy global",
-      "url": "http://www.beijingbulletin.com/news/279387599/fueling-developing-world-energy-transition-china-takes-green-energy-global",
-      "domain": "beijingbulletin.com",
-      "country": "China",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Trump keeps throwing money at his biggest midterm problem",
-      "url": "https://www.newsweek.com/trump-money-midterm-problem-12594824",
-      "domain": "newsweek.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Trump Faces Backlash Over Russia Deal : The Conversation",
-      "url": "https://www.newsweek.com/trump-faces-backlash-over-russia-deal-the-conversation-12592525",
-      "domain": "newsweek.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Rubio and India foreign minister hold talks in India on Tuesday",
-      "url": "https://www.wmur.com/article/rubio-indias-foreign-minister-talks-india-trade-deal/74192255",
-      "domain": "wmur.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "The Protest Vote That Wrecks Your Portfolio - The Daily Reckoning",
-      "url": "https://dailyreckoning.com/the-protest-vote-that-wrecks-your-portfolio/",
-      "domain": "dailyreckoning.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Arrow Exploration ( LON : AXL ) Reaches New 1 - Year High – Here Why",
-      "url": "https://www.dailypolitical.com/2026/10/20/arrow-exploration-lonaxl-reaches-new-1-year-high-heres-why.html",
-      "domain": "dailypolitical.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Business - HITS FM",
-      "url": "https://hitsfm.net/business/f73b2ec8b5d823a12b2e3c62f3b71906",
-      "domain": "hitsfm.net",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Iran refinery offer : Kyrgyzstan fuel security challenged",
-      "url": "https://english.pravda.ru/news/world/170315-iran-kyrgyzstan-refinery-deal/",
-      "domain": "english.pravda.ru",
-      "country": "Russia",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://newsradio540.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "newsradio540.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "France imposes curfews as it seeks to restore order",
-      "url": "https://www.manilatimes.net/2026/10/21/world/americas-emea/france-imposes-curfews-as-it-seeks-to-restore-order/2449729",
-      "domain": "manilatimes.net",
-      "country": "Philippines",
-      "published": "2026-10-20T17:45:00+00:00"
-     }
-    ],
     "comercio_internacional": [
      {
-      "title": "Trump Russia moves could complicate lame - duck agenda – The Fort Morgan Times",
-      "url": "https://www.fortmorgantimes.com/2026/10/20/trumps-russia-moves-could-complicate-lame-duck-agenda/",
-      "domain": "fortmorgantimes.com",
-      "country": "United States",
-      "published": "2026-10-20T18:30:00+00:00"
-     },
-     {
-      "title": "Trump warns Kansans that US will  burn  like France",
-      "url": "https://www.pakistantoday.com.pk/2026/10/20/trump-warns-kansans-that-us-will-burn-like-france-if-democrats-win",
-      "domain": "pakistantoday.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Democratic Sen . Jeanne Shaheen Reflects on Congress and U . S . Foreign Policy Under Trump",
-      "url": "https://foreignpolicy.com/2026/10/20/sen-shaheen-democrats-us-midterms-trump-foreign-policy-russia-sanctions/",
-      "domain": "foreignpolicy.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Reliance can refine heavy Venezuelan crude , says US Secretary of State Marco Rubio",
-      "url": "https://www.ibtimes.co.in/reliance-can-refine-heavy-venezuelan-crude-says-us-secretary-state-marco-rubio-907709",
-      "domain": "ibtimes.co.in",
-      "country": "India",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "CHARLEBOIS : Alberta chose Canada . Now Canada needs to choose Alberta , for real .",
-      "url": "https://edmontonsun.com/news/national/canada-needs-to-choose-alberta-for-real/wcm/f6266589-cb69-4af4-bc5b-a2e221e5e69c",
-      "domain": "edmontonsun.com",
+      "title": "Ritchie Bros . Brings More Ways to Buy and Sell to rbauction . com",
+      "url": "https://www.intelligencer.ca/press-releases/business-wire/ritchie-bros-brings-more-ways-to-buy-and-sell-to-rbauction-com/",
+      "domain": "intelligencer.ca",
       "country": "Canada",
-      "published": "2026-10-20T18:15:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "Trump Russia moves could complicate lame - duck agenda – Whittier Daily News",
-      "url": "https://www.whittierdailynews.com/2026/10/20/trumps-russia-moves-could-complicate-lame-duck-agenda/",
-      "domain": "whittierdailynews.com",
+      "title": "New Jersey food importer files lawsuit challenging Trump 50 % tariffs on Canadian goods",
+      "url": "https://www.republicanherald.com/2026/10/20/canada-tariffs-legality/",
+      "domain": "republicanherald.com",
       "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kvnf.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kvnf.org",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Trump announces $8B plan to cover farm losses | Honolulu Star - Advertiser",
-      "url": "https://www.staradvertiser.com/2026/10/20/breaking-news/trump-announces-8b-plan-to-cover-farm-losses/",
-      "domain": "staradvertiser.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Trump Faces Backlash Over Russia Deal : The Conversation",
-      "url": "https://www.newsweek.com/trump-faces-backlash-over-russia-deal-the-conversation-12592525",
-      "domain": "newsweek.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Rubio and India foreign minister hold talks in India on Tuesday",
-      "url": "https://www.wmur.com/article/rubio-indias-foreign-minister-talks-india-trade-deal/74192255",
-      "domain": "wmur.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.tpr.org/economy-and-labor/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "tpr.org",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kacu.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kacu.org",
-      "country": "United States",
-      "published": "2026-10-20T17:45:00+00:00"
-     },
-     {
-      "title": "Trump administration announces $8 billion farm relief plan as fuel , fertilizer costs bite",
-      "url": "https://www.abc12.com/news/trump-administration-announces-8-billion-farm-relief-plan-as-fuel-fertilizer-costs-bite/article_fb913d4b-d0e9-57d3-bbb8-f7a7f070032d.html",
-      "domain": "abc12.com",
-      "country": "United States",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "Arab News | Food importer files new lawsuit to block Trump Canada tariffs",
-      "url": "https://www.arabnews.com/world/food-importer-files-new-lawsuit-to-block-trumps-canada-tariffs-3007369",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "Trump Faces Lawsuit Over 50 % Tariffs on Canada",
-      "url": "https://politicalwire.com/2026/10/20/trump-faces-lawsuit-over-50-tariffs-on-canada/",
-      "domain": "politicalwire.com",
-      "country": "United States",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "Rubio urges India to boost US energy , defence purchases in talks with Jaishankar",
-      "url": "https://www.hindustantimes.com/india-news/rubio-urges-india-to-boost-us-energy-defence-purchases-in-talks-with-jaishankar-secretary-of-state-mumbai-visit-key-updates-101792507394726.html",
-      "domain": "hindustantimes.com",
-      "country": "India",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "WATCH : President Trump Announces $8 Billion in Relief to Help Farmers with Diesel Costs",
-      "url": "https://www.breitbart.com/economy/2026/10/20/watch-president-trump-announces-8-billion-in-relief-to-help-farmers-with-diesel-costs/",
-      "domain": "breitbart.com",
-      "country": "United States",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "Brent crude holds near five - month high on Middle East tension",
-      "url": "https://thefrontierpost.com/brent-crude-holds-near-five-month-high-on-middle-east-tension/",
-      "domain": "thefrontierpost.com",
-      "country": "Pakistan",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wbaa.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wbaa.org",
-      "country": "United States",
-      "published": "2026-10-20T17:15:00+00:00"
-     },
-     {
-      "title": "Rubio pitches Venezuelan crude , seeks to widen India - US energy ties",
-      "url": "https://www.tribuneindia.com/news/india/rubio-pitches-venezuelan-crude-seeks-to-widen-india-us-energy-ties/",
-      "domain": "tribuneindia.com",
-      "country": "India",
-      "published": "2026-10-20T17:15:00+00:00"
-     },
-     {
-      "title": "Two longtime rivals seek new audiences in Oregon governor race . Who will persuade voters ?",
-      "url": "https://portlandtribune.com/2026/10/20/two-longtime-rivals-seek-new-audiences-in-oregon-governors-race-who-will-persuade-voters/",
-      "domain": "portlandtribune.com",
-      "country": "United States",
-      "published": "2026-10-20T17:15:00+00:00"
-     },
-     {
-      "title": "Letter : 4th District congressional choice is obvious",
-      "url": "https://www.yakimaherald.com/opinion/letter-4th-district-congressional-choice-is-obvious/article_960752bc-9342-4145-8a23-0224a4d7a9ee.html",
-      "domain": "yakimaherald.com",
-      "country": "United States",
-      "published": "2026-10-20T17:15:00+00:00"
-     },
-     {
-      "title": "Is this America most normal congressional race ? San Diego candidates run on classic platforms",
-      "url": "https://www.mv-voice.com/calmatters/2026/10/20/is-this-americas-most-normal-congressional-race-san-diego-candidates-run-on-classic-platforms/",
-      "domain": "mv-voice.com",
-      "country": "United States",
-      "published": "2026-10-20T17:15:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wvtf.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wvtf.org",
-      "country": "United States",
-      "published": "2026-10-20T17:15:00+00:00"
-     },
-     {
-      "title": "President Netumbo Nandi - Ndaitwah Calls for Stronger Angola – Namibia Cooperation to Advance Shared Prosperity",
-      "url": "https://www.namibian.com.na/president-netumbo-nandi-ndaitwah-calls-for-stronger-angola-namibia-cooperation-to-advance-shared-prosperity/",
-      "domain": "namibian.com.na",
-      "country": "Namibia",
-      "published": "2026-10-20T17:00:00+00:00"
-     },
-     {
-      "title": "Fidelity : Government bonds look attractive , but were not buying yet",
-      "url": "https://www.moneymarketing.co.uk/opinion/fidelity-government-bonds-look-attractive-but-were-not-buying-yet/",
-      "domain": "moneymarketing.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T17:00:00+00:00"
-     },
-     {
-      "title": "Alberta rejects separation referendum : What next for Canadian province ? | Independence News",
-      "url": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province",
-      "domain": "aljazeera.com",
-      "country": "United States",
-      "published": "2026-10-20T17:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kuow.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kuow.org",
-      "country": "United States",
-      "published": "2026-10-20T17:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kenw.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kenw.org",
-      "country": "United States",
-      "published": "2026-10-20T17:00:00+00:00"
-     },
-     {
-      "title": "Traders , economists boost bets on Canada rate hike next week",
-      "url": "https://financialpost.com/news/economy/traders-economists-canada-rate-hike-next-week",
-      "domain": "financialpost.com",
-      "country": "Canada",
-      "published": "2026-10-20T17:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.ksmu.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "ksmu.org",
-      "country": "United States",
-      "published": "2026-10-20T17:00:00+00:00"
-     },
-     {
-      "title": "Trump supporters say they do not expect to get $5 , 000 checks after midterms",
-      "url": "https://www.wthitv.com:443/2026/10/20/gimmick-or-giveback-even-some-trump-supporters-dont-expect-get-5000-checks-after-midterms/",
-      "domain": "wthitv.com",
-      "country": "United States",
-      "published": "2026-10-20T17:00:00+00:00"
-     },
-     {
-      "title": "Is this America most normal congressional race ? San Diego candidates run on classic platforms",
-      "url": "https://www.paloaltoonline.com/calmatters/2026/10/20/is-this-americas-most-normal-congressional-race-san-diego-candidates-run-on-classic-platforms/",
-      "domain": "paloaltoonline.com",
-      "country": "United States",
-      "published": "2026-10-20T17:00:00+00:00"
-     },
-     {
-      "title": "Q3 2026 Sales - Vusion Delivers Strong Third - Quarter Growth , Supported by Customer Expansion and Accelerating Recurring VAS . Full - Year 2026 Guidance Confirmed .",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69886795-q3-2026-sales-vusion-delivers-strong-third-quarter-growth-supported-by-customer-expansion-and-accelerating-recurring-vas-full-year-2026-guidance-c-650.htm",
-      "domain": "finanznachrichten.de",
-      "country": "Germany",
-      "published": "2026-10-20T16:45:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wypr.org/wypr-arts/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wypr.org",
-      "country": "United States",
-      "published": "2026-10-20T16:45:00+00:00"
-     },
-     {
-      "title": "Rubio and Jaishankar hold talks in Mumbai , aim to finalize trade deal",
-      "url": "https://www.ukiahdailyjournal.com/2026/10/20/marco-rubio-india/",
-      "domain": "ukiahdailyjournal.com",
-      "country": "United States",
-      "published": "2026-10-20T16:45:00+00:00"
-     },
-     {
-      "title": "Trump 50 % tariffs on Canadian goods face fresh legal challenge over 96 - year - old trade law",
-      "url": "https://www.moneycontrol.com/world/trump-s-50-tariffs-on-canadian-goods-face-fresh-legal-challenge-over-96-year-old-trade-law-article-14056147.html",
-      "domain": "moneycontrol.com",
-      "country": "India",
-      "published": "2026-10-20T16:45:00+00:00"
-     },
-     {
-      "title": "Trump supporters say they do not expect to get $5 , 000 checks after midterms",
-      "url": "https://www.wtvm.com/2026/10/20/gimmick-or-giveback-even-some-trump-supporters-dont-expect-get-5000-checks-after-midterms/",
-      "domain": "wtvm.com",
-      "country": "United States",
-      "published": "2026-10-20T16:45:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.whqr.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "whqr.org",
-      "country": "United States",
-      "published": "2026-10-20T16:30:00+00:00"
-     },
-     {
-      "title": "Is this America most normal congressional race ? San Diego candidates run on classic platforms",
-      "url": "https://www.almanacnews.com/calmatters/2026/10/20/is-this-americas-most-normal-congressional-race-san-diego-candidates-run-on-classic-platforms/",
-      "domain": "almanacnews.com",
-      "country": "United States",
-      "published": "2026-10-20T16:30:00+00:00"
-     }
-    ],
-    "geopolitica": [
-     {
-      "title": "Zelenskiy meets Witkoff as US - Ukraine relations ebb",
-      "url": "https://www.centralwesterndaily.com.au/story/9372279/zelenskiy-meets-witkoff-as-us-ukraine-relations-ebb/",
-      "domain": "centralwesterndaily.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T18:30:00+00:00"
-     },
-     {
-      "title": "Trump Russia moves could complicate lame - duck agenda – The Fort Morgan Times",
-      "url": "https://www.fortmorgantimes.com/2026/10/20/trumps-russia-moves-could-complicate-lame-duck-agenda/",
-      "domain": "fortmorgantimes.com",
-      "country": "United States",
-      "published": "2026-10-20T18:30:00+00:00"
-     },
-     {
-      "title": "US stocks rise after companies deliver strong profits and oil prices retreat",
-      "url": "http://www.thegazette.com/news/world/us-stocks-rise-after-companies-deliver-strong-profits-and-oil-prices-retreat/article_f2fcbce2-beb2-5d14-a2c1-fc7fa08069fa.html",
-      "domain": "thegazette.com",
-      "country": "United States",
-      "published": "2026-10-20T18:30:00+00:00"
-     },
-     {
-      "title": "Alberta rejects future separation vote in historic test of Canadian national unity",
-      "url": "https://theprovince.com/news/canada/alberta-separatism-independence-referendum-vote-results/wcm/b65c9a57-97e0-443b-90ab-b37a7dddd24c",
-      "domain": "theprovince.com",
-      "country": "Canada",
-      "published": "2026-10-20T18:30:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://wlac.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "wlac.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:30:00+00:00"
-     },
-     {
-      "title": "A Moment of Truth for Ethiopia , Eritrea and the Wider Horn of Africa",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/a-moment-of-truth-for-ethiopia-eritrea-and-the-wider-horn-of-africa/",
-      "domain": "fairobserver.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Trump warns Kansans that US will  burn  like France",
-      "url": "https://www.pakistantoday.com.pk/2026/10/20/trump-warns-kansans-that-us-will-burn-like-france-if-democrats-win",
-      "domain": "pakistantoday.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Global oil prices hit highest level in 5 months amid attacks on ships , facilities",
-      "url": "https://abc7ny.com/story/global-oil-prices-hit-highest-level-5-months-amid-attacks-ships-facilities/19959869/",
-      "domain": "abc7ny.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Andy Burnham set to approve controversial Jackdaw gas field",
-      "url": "https://www.aol.co.uk/articles/andy-burnham-set-approve-controversial-173000000.html",
-      "domain": "aol.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Democratic Sen . Jeanne Shaheen Reflects on Congress and U . S . Foreign Policy Under Trump",
-      "url": "https://foreignpolicy.com/2026/10/20/sen-shaheen-democrats-us-midterms-trump-foreign-policy-russia-sanctions/",
-      "domain": "foreignpolicy.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "ABC Business - WOND",
-      "url": "https://wondradio.com/abc-business/b2443e1df84a378291f583edba03acf2",
-      "domain": "wondradio.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Six killed in Gaza attacks as Qatar says Israeli leaders not committed to peace",
-      "url": "https://morningstaronline.co.uk/article/six-killed-gaza-attacks-qatar-says-israeli-leaders-not-committed-peace",
-      "domain": "morningstaronline.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "When Interest Rates Move , These 7 Income Stocks React Very Differently",
-      "url": "https://www.aol.com/articles/interest-rates-move-7-income-173900000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Reliance can refine heavy Venezuelan crude , says US Secretary of State Marco Rubio",
-      "url": "https://www.ibtimes.co.in/reliance-can-refine-heavy-venezuelan-crude-says-us-secretary-state-marco-rubio-907709",
-      "domain": "ibtimes.co.in",
-      "country": "India",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Equifax ( EFX ) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.aol.com/articles/equifax-efx-q3-2026-earnings-174503000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Moscow reacts to US Castro warrant",
-      "url": "http://www.haitisun.com/news/279387985/moscow-reacts-to-us-castro-warrant",
-      "domain": "haitisun.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Leith yellow offshore wind farm parts inspire art and a tattoo",
-      "url": "https://www.heraldscotland.com/opinion/26651550.leiths-yellow-offshore-wind-farm-parts-inspire-art-tattoo/",
-      "domain": "heraldscotland.com",
-      "country": "United Kingdom",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://patriotla.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "patriotla.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "UK fighter jets to help defend Saudi Arabia against Houthi attacks",
-      "url": "https://www.ledburyreporter.co.uk/news/national/26652973.uk-fighter-jets-help-defend-saudi-arabia-houthi-attacks/",
-      "domain": "ledburyreporter.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "EU unveils a new Arctic push as global warming and security threats reshape the region",
-      "url": "https://abcnews.com/International/wireStory/eu-unveils-new-arctic-push-global-warming-security-137410994",
-      "domain": "abcnews.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Oil Price Shows War Escalation Risks ; U . S . Midterm Eyed , Goldman Says OPIS",
-      "url": "https://www.morningstar.com/news/dow-jones/202610206773/oil-price-shows-war-escalation-risks-us-midterm-eyed-goldman-says-opis",
-      "domain": "morningstar.com",
-      "country": "China",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://wiba.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "wiba.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Zelenskiy meets Witkoff as US - Ukraine relations ebb",
-      "url": "https://www.bendigoadvertiser.com.au/story/9372279/zelenskiy-meets-witkoff-as-us-ukraine-relations-ebb/",
-      "domain": "bendigoadvertiser.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Halliburton ( HAL ) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.aol.com/articles/halliburton-hal-q3-2026-earnings-174802000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Iran makes brutal Donald Trump accusation as WW3 fears on a knife edge",
-      "url": "https://www.aol.co.uk/articles/iran-makes-brutal-donald-trump-173300000.html",
-      "domain": "aol.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Trump Russia moves could complicate lame - duck agenda – Whittier Daily News",
-      "url": "https://www.whittierdailynews.com/2026/10/20/trumps-russia-moves-could-complicate-lame-duck-agenda/",
-      "domain": "whittierdailynews.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "As close as you can be : Marco Rubio says India - US trade deal nearing completion , announcement expected soon",
-      "url": "http://www.europesun.com/news/279387388/as-close-as-you-can-be-marco-rubio-says-india-us-trade-deal-nearing-completion-announcement-expected-soon",
-      "domain": "europesun.com",
-      "country": "Russia",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Rubio Trip Highlights US Push For Deeper Ties With Central Asia",
-      "url": "http://www.europesun.com/news/279387210/rubio-trip-highlights-us-push-for-deeper-ties-with-central-asia",
-      "domain": "europesun.com",
-      "country": "Russia",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Ukraine strikes on Russian civilian sites are  off the charts",
-      "url": "http://www.europesun.com/news/279387498/ukraine-strikes-on-russian-civilian-sites-are-off-the-charts-moscow",
-      "domain": "europesun.com",
-      "country": "Russia",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Deficits to top $63 billion for years , budget watchdog warns",
-      "url": "https://edmontonsun.com/news/national/deficits-to-top-63-billion-for-years-watchdog/wcm/b396ef21-0105-44b4-a1fe-f9e0de5af561",
-      "domain": "edmontonsun.com",
-      "country": "Canada",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Why Did International Harvester Stop Making Tractors ?",
-      "url": "https://www.slashgear.com/2287026/why-did-international-harvester-stop-making-tractors/",
-      "domain": "slashgear.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers | News Radio 920 AM & 104 . 7 FM",
-      "url": "https://newsradiori.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "newsradiori.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://kfyi.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "kfyi.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Alberta rejects a move toward independence from Canada in a victory for Carney",
-      "url": "http://www.dailyadvance.com/news/world/alberta-rejects-a-move-toward-independence-from-canada-in-a-victory-for-carney/article_4fda660f-e4b0-58eb-b650-870e1e8a59b5.html",
-      "domain": "dailyadvance.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
-      "url": "https://www.aol.co.uk/articles/nato-increases-black-sea-deployment-174340000.html",
-      "domain": "aol.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "The Guardian view on Alberta referendum : Canada holds together – against Donald Trump | Editorial",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/20/the-guardian-view-on-albertas-referendum-canada-holds-together-against-donald-trump",
-      "domain": "theguardian.com",
-      "country": "United Kingdom",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://wilm.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "wilm.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Trump announces $8B plan to cover farm losses | Honolulu Star - Advertiser",
-      "url": "https://www.staradvertiser.com/2026/10/20/breaking-news/trump-announces-8b-plan-to-cover-farm-losses/",
-      "domain": "staradvertiser.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Zelensky Lands in Norway for Peace Talks With Trump Envoy",
-      "url": "https://www.kyivpost.com/post/87636",
-      "domain": "kyivpost.com",
-      "country": "Ukraine",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Republicans pour $300 , 000 into defense of GOP - leaning Senate seat in northwest Missouri",
-      "url": "https://www.ktvo.com/news/local/republicans-pour-300-000-into-defense-of-gop-leaning-senate-seat-in-northwest-missouri/article_eb3b7e12-f4f3-52fc-96c6-82edc23e1d96.html",
-      "domain": "ktvo.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     }
-    ],
-    "transporte_maritimo": [
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://wlac.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "wlac.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:30:00+00:00"
-     },
-     {
-      "title": "Building costs climb as Middle East conflict drags on",
-      "url": "https://www.macleayargus.com.au/story/9372281/building-costs-climb-as-middle-east-conflict-drags-on/",
-      "domain": "macleayargus.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "A Moment of Truth for Ethiopia , Eritrea and the Wider Horn of Africa",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/a-moment-of-truth-for-ethiopia-eritrea-and-the-wider-horn-of-africa/",
-      "domain": "fairobserver.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Global oil prices hit highest level in 5 months amid attacks on ships , facilities",
-      "url": "https://abc7ny.com/story/global-oil-prices-hit-highest-level-5-months-amid-attacks-ships-facilities/19959869/",
-      "domain": "abc7ny.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Democratic Sen . Jeanne Shaheen Reflects on Congress and U . S . Foreign Policy Under Trump",
-      "url": "https://foreignpolicy.com/2026/10/20/sen-shaheen-democrats-us-midterms-trump-foreign-policy-russia-sanctions/",
-      "domain": "foreignpolicy.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "ABC Business - WOND",
-      "url": "https://wondradio.com/abc-business/b2443e1df84a378291f583edba03acf2",
-      "domain": "wondradio.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Six killed in Gaza attacks as Qatar says Israeli leaders not committed to peace",
-      "url": "https://morningstaronline.co.uk/article/six-killed-gaza-attacks-qatar-says-israeli-leaders-not-committed-peace",
-      "domain": "morningstaronline.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://patriotla.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "patriotla.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "UK fighter jets to help defend Saudi Arabia against Houthi attacks",
-      "url": "https://www.ledburyreporter.co.uk/news/national/26652973.uk-fighter-jets-help-defend-saudi-arabia-houthi-attacks/",
-      "domain": "ledburyreporter.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://wiba.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "wiba.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Iran makes brutal Donald Trump accusation as WW3 fears on a knife edge",
-      "url": "https://www.aol.co.uk/articles/iran-makes-brutal-donald-trump-173300000.html",
-      "domain": "aol.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "GUNTER : Time for Alberta to move past separatism and get back to work",
-      "url": "https://calgarysun.com/opinion/columnists/lorne-gunter-prairie-people-just-want-to-be-left-alone-for-a-while/wcm/db5e8228-603d-4dda-b17d-5b6dac7a1f11",
-      "domain": "calgarysun.com",
-      "country": "Canada",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Building costs climb as Middle East conflict drags on",
-      "url": "https://www.illawarramercury.com.au/story/9372281/building-costs-climb-as-middle-east-conflict-drags-on/",
-      "domain": "illawarramercury.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Building costs climb as Middle East conflict drags on",
-      "url": "https://www.bendigoadvertiser.com.au/story/9372281/building-costs-climb-as-middle-east-conflict-drags-on/",
-      "domain": "bendigoadvertiser.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers | News Radio 920 AM & 104 . 7 FM",
-      "url": "https://newsradiori.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "newsradiori.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://kfyi.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "kfyi.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Building costs climb as Middle East conflict drags on",
-      "url": "https://www.nynganobserver.com.au/story/9372281/building-costs-climb-as-middle-east-conflict-drags-on/",
-      "domain": "nynganobserver.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://wilm.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "wilm.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://talk1200boston.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "talk1200boston.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://newsradio1049.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "newsradio1049.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Business - HITS FM",
-      "url": "https://hitsfm.net/business/f73b2ec8b5d823a12b2e3c62f3b71906",
-      "domain": "hitsfm.net",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://newsradio540.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "newsradio540.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Pakistani army chief talks peace with Iran president",
-      "url": "https://www.singletonargus.com.au/story/9372274/pakistani-army-chief-talks-peace-with-irans-president/",
-      "domain": "singletonargus.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T17:45:00+00:00"
-     },
-     {
-      "title": "UK to Deploy Fighter Jets Over Saudi Arabia for Defensive Missions",
-      "url": "https://kashmirlife.net/uk-to-deploy-fighter-jets-over-saudi-arabia-for-defensive-missions-457537/",
-      "domain": "kashmirlife.net",
-      "country": "India",
-      "published": "2026-10-20T17:45:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://wiod.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "wiod.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T17:45:00+00:00"
-     },
-     {
-      "title": "Building costs climb as Middle East conflict drags on",
-      "url": "https://www.theleader.com.au/story/9372281/building-costs-climb-as-middle-east-conflict-drags-on/",
-      "domain": "theleader.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T17:45:00+00:00"
-     },
-     {
-      "title": "Pakistani army chief talks peace with Iran president",
-      "url": "https://www.edenmagnet.com.au/story/9372274/pakistani-army-chief-talks-peace-with-irans-president/",
-      "domain": "edenmagnet.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "UK fighter jets to help defend Saudi Arabia against Houthi attacks",
-      "url": "https://www.ealingtimes.co.uk/news/national/26652973.uk-fighter-jets-help-defend-saudi-arabia-houthi-attacks/",
-      "domain": "ealingtimes.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://ktsmradio.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "ktsmradio.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "Trump administration announces $8 billion farm relief plan as fuel , fertilizer costs bite",
-      "url": "https://www.abc12.com/news/trump-administration-announces-8-billion-farm-relief-plan-as-fuel-fertilizer-costs-bite/article_fb913d4b-d0e9-57d3-bbb8-f7a7f070032d.html",
-      "domain": "abc12.com",
-      "country": "United States",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
-      "url": "https://55krc.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "55krc.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "Türkiye part of region with $872B infrastructure project pipeline : HSBC",
-      "url": "https://www.dailysabah.com/business/economy/turkiye-part-of-region-with-872b-infrastructure-project-pipeline-hsbc",
-      "domain": "dailysabah.com",
-      "country": "Turkey",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "UK fighter jets to help defend Saudi Arabia against Houthi attacks",
-      "url": "https://www.clydebankpost.co.uk/news/national/26652973.uk-fighter-jets-help-defend-saudi-arabia-houthi-attacks/",
-      "domain": "clydebankpost.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "Ann Louise ( Franzetti ) Moczygemba - Wilson County News",
-      "url": "https://www.wilsoncountynews.com/articles/ann-louise-franzetti-moczygemba-2/",
-      "domain": "wilsoncountynews.com",
-      "country": "United States",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "President Trump Announces $8 Billion Aid Package For Farmers | News Radio 103 . 1 and 810 WGY",
-      "url": "https://wgy.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
-      "domain": "wgy.iheart.com",
-      "country": "United States",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "UK fighter jets to help defend Saudi Arabia against Houthi attacks",
-      "url": "https://www.elystandard.co.uk/news/national/26652973.uk-fighter-jets-help-defend-saudi-arabia-houthi-attacks/",
-      "domain": "elystandard.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "From Iran to AI : the six key voter issues shaping the US midterm elections",
-      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/voter-issues-midterms-elections",
-      "domain": "theguardian.com",
-      "country": "United Kingdom",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "Data Centers Are Key Targets in Today Wars",
-      "url": "https://foreignpolicy.com/2026/10/20/data-centers-russia-ukraine-iran-gulf-internet-ai/?tpcc=recirc_trending062921",
-      "domain": "foreignpolicy.com",
-      "country": "United States",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "Arab News | Historic Hejaz railway preservation discussed in Jordan - Turkiye talks",
-      "url": "https://www.arabnews.com/middle-east/historic-hejaz-railway-preservation-discussed-in-jordan-turkiye-talks-3007363",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-10-20T17:30:00+00:00"
-     },
-     {
-      "title": "Rubio urges India to boost US energy , defence purchases in talks with Jaishankar",
-      "url": "https://www.hindustantimes.com/india-news/rubio-urges-india-to-boost-us-energy-defence-purchases-in-talks-with-jaishankar-secretary-of-state-mumbai-visit-key-updates-101792507394726.html",
-      "domain": "hindustantimes.com",
-      "country": "India",
-      "published": "2026-10-20T17:30:00+00:00"
-     }
-    ],
-    "riesgos_climaticos": [
-     {
-      "title": "Experts push $30bn annual climate investment to protect smallholder farmers",
-      "url": "https://thenationonlineng.net/experts-push-30bn-annual-climate-investment-to-protect-smallholder-farmers/",
-      "domain": "thenationonlineng.net",
-      "country": "Nigeria",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kvnf.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kvnf.org",
-      "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.tpr.org/economy-and-labor/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "tpr.org",
-      "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kacu.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kacu.org",
-      "country": "United States",
-      "published": "2026-10-20T17:45:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wbaa.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wbaa.org",
-      "country": "United States",
-      "published": "2026-10-20T17:15:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wvtf.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wvtf.org",
-      "country": "United States",
-      "published": "2026-10-20T17:15:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kuow.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kuow.org",
-      "country": "United States",
-      "published": "2026-10-20T17:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kenw.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kenw.org",
-      "country": "United States",
-      "published": "2026-10-20T17:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.ksmu.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "ksmu.org",
-      "country": "United States",
-      "published": "2026-10-20T17:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wypr.org/wypr-arts/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wypr.org",
-      "country": "United States",
-      "published": "2026-10-20T16:45:00+00:00"
-     },
-     {
-      "title": "New research aims to improve soybean micronutrient management",
-      "url": "https://www.manitobacooperator.ca/crops/new-research-aims-to-improve-soybean-micronutrients-management/",
-      "domain": "manitobacooperator.ca",
-      "country": "Canada",
-      "published": "2026-10-20T16:45:00+00:00"
-     },
-     {
-      "title": "Maine Senate District 12 Candidate Ann Matlack",
-      "url": "https://www.penbaypilot.com:443/article/maine-senate-district-11-candidate-ann-matlack/275624",
-      "domain": "penbaypilot.com",
-      "country": "United States",
-      "published": "2026-10-20T16:45:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.whqr.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "whqr.org",
-      "country": "United States",
-      "published": "2026-10-20T16:30:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wdiy.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wdiy.org",
-      "country": "United States",
-      "published": "2026-10-20T16:30:00+00:00"
-     },
-     {
-      "title": "Tourist attractions shut and cattle starving : How El Niño is wreaking havoc around the world",
-      "url": "https://www.euronews.com/2026/10/20/tourist-attractions-shut-and-cattle-starving-how-el-nino-is-wreaking-havoc-around-the-worl",
-      "domain": "euronews.com",
-      "country": "United States",
-      "published": "2026-10-20T16:15:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kazu.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kazu.org",
-      "country": "United States",
-      "published": "2026-10-20T16:15:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.krwg.org/national-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "krwg.org",
-      "country": "United States",
-      "published": "2026-10-20T16:15:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wclk.com/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wclk.com",
-      "country": "United States",
-      "published": "2026-10-20T16:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kgou.org/business-and-economy/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kgou.org",
-      "country": "United States",
-      "published": "2026-10-20T16:00:00+00:00"
-     },
-     {
-      "title": "UN warns 19 . 2 million Afghans could face acute hunger this winter",
-      "url": "https://news.az/news/un-warns-192-million-afghans-could-face-acute-hunger-this-winter",
+      "title": "Trump faces lawsuit over tariffs on Canada",
+      "url": "https://news.az/news/trump-faces-lawsuit-over-tariffs-on-canada",
       "domain": "news.az",
       "country": "Azerbaijan",
-      "published": "2026-10-20T16:00:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "UN says 19 mn Afghans facing acute food insecurity by April",
-      "url": "https://thefrontierpost.com/un-says-19-mn-afghans-facing-acute-food-insecurity-by-april/",
-      "domain": "thefrontierpost.com",
+      "title": "EVs Are the Future , No Matter How Far America Falls Behind",
+      "url": "https://www.cnet.com/tech/electric-vehicles-us-ev-hybrid-adoption-path-forward/",
+      "domain": "cnet.com",
+      "country": "Japan",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "Trump Admin Backed Alberta Separatists . Canadian Voters Rejected Secession .",
+      "url": "https://truthout.org/articles/trump-admin-backed-albertas-separatists-canadian-voters-rejected-secession/",
+      "domain": "truthout.org",
+      "country": "United States",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "MAGA voters lament Trump as  committed  allies abandon him :  Embarrassed on a world stage",
+      "url": "https://www.rawstory.com/trump-maga-2678113925/",
+      "domain": "rawstory.com",
+      "country": "United States",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "From Soybeans to Data Centers , China Debate Hits US Midterm Campaigns",
+      "url": "https://www.voanews.com/a/from-soybeans-to-data-centers-china-debate-hits-us-midterm-campaigns-20261020/8213314.html",
+      "domain": "voanews.com",
+      "country": "United States",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "Ritchie Bros . Brings More Ways to Buy and Sell to rbauction . com",
+      "url": "https://www.nugget.ca/press-releases/business-wire/ritchie-bros-brings-more-ways-to-buy-and-sell-to-rbauction-com/",
+      "domain": "nugget.ca",
+      "country": "Canada",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "Brent falls as Iran president discusses mediation with CDF Munir",
+      "url": "https://tribune.com.pk/story/2635975/brent-falls-as-irans-president-discusses-mediation-with-cdf-munir",
+      "domain": "tribune.com.pk",
       "country": "Pakistan",
-      "published": "2026-10-20T15:30:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "6 Things to Know : Eva Rosa guilty in border agent death , Trump approval new low",
-      "url": "https://www.kristv.com/news/local-news/in-your-neighborhood/corpus-christi/6-things-to-know-eva-rosa-found-guilty-in-border-patrol-agents-death-trump-approval-hits-new-low",
-      "domain": "kristv.com",
+      "title": "Cuban Ambassador Reveals Limits of Russian Oil Aid",
+      "url": "https://www.cubaheadlines.com/articles/343336",
+      "domain": "cubaheadlines.com",
+      "country": "Cuba",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Ritchie Bros . Brings More Ways to Buy and Sell to rbauction . com",
+      "url": "https://www.owensoundsuntimes.com/press-releases/business-wire/ritchie-bros-brings-more-ways-to-buy-and-sell-to-rbauction-com/",
+      "domain": "owensoundsuntimes.com",
+      "country": "Canada",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Breakfast briefing : US data weaker",
+      "url": "https://www.interest.co.nz/economy/140761/us-jobs-housing-falter-canada-eyes-rate-hike-china-lprs-unchanged-taiwan-export",
+      "domain": "interest.co.nz",
+      "country": "New Zealand",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "New lawsuit filed challenging Trump tariffs on Canada",
+      "url": "https://www.airdriecityview.com/national-business/new-lawsuit-filed-challenging-trumps-tariffs-on-canada-12916701",
+      "domain": "airdriecityview.com",
+      "country": "Canada",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Froma Harrop - The Mining Gazette",
+      "url": "https://www.mininggazette.com/opinion/columns/2026/10/froma-harrop-67/",
+      "domain": "mininggazette.com",
       "country": "United States",
-      "published": "2026-10-20T15:30:00+00:00"
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Ritchie Bros . Brings More Ways to Buy and Sell to rbauction . com",
+      "url": "https://www.timminspress.com/press-releases/business-wire/ritchie-bros-brings-more-ways-to-buy-and-sell-to-rbauction-com/",
+      "domain": "timminspress.com",
+      "country": "Canada",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Intuitive Announces Third Quarter Earnings",
+      "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/intuitive-announces-third-quarter-earnings/2450225",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Trump Announces Another $8 Billion Farm Bailout",
+      "url": "https://thenewamerican.com/us/trump-announces-another-8-billion-farm-bailout/",
+      "domain": "thenewamerican.com",
+      "country": "United States",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "New lawsuit filed challenging Trump tariffs on Canada",
+      "url": "https://www.airdriecityview.com/national-news/new-lawsuit-filed-challenging-trumps-tariffs-on-canada-12916790",
+      "domain": "airdriecityview.com",
+      "country": "Canada",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Trump tariffs against Canada challenged in U . S . lawsuit",
+      "url": "https://www.cp24.com/news/canada/2026/10/20/new-lawsuit-filed-challenging-trumps-tariffs-on-canada/",
+      "domain": "cp24.com",
+      "country": "Canada",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Ritchie Bros . Brings More Ways to Buy and Sell to rbauction . com",
+      "url": "https://www.standard-freeholder.com/press-releases/business-wire/ritchie-bros-brings-more-ways-to-buy-and-sell-to-rbauction-com/",
+      "domain": "standard-freeholder.com",
+      "country": "Canada",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Miller - Meeks and Bohannan rematch in 1st District Race with new challenges",
+      "url": "https://www.iowapublicradio.org/political-news/2026-10-20/rematch-iowa-1st-congressional-district-house-race-miller-meeks-bohannan-bridgford",
+      "domain": "iowapublicradio.org",
+      "country": "United States",
+      "published": "2026-10-20T21:00:00+00:00"
+     },
+     {
+      "title": "Why we should vote  Ye on Question 3",
+      "url": "https://www.baltimoresun.com/2026/10/20/vote-yes-question-3-maryland/",
+      "domain": "baltimoresun.com",
+      "country": "United States",
+      "published": "2026-10-20T21:00:00+00:00"
+     },
+     {
+      "title": "Trump Russia moves could complicate lame - duck agenda – Redlands Daily Facts",
+      "url": "https://www.redlandsdailyfacts.com/2026/10/20/trumps-russia-moves-could-complicate-lame-duck-agenda/",
+      "domain": "redlandsdailyfacts.com",
+      "country": "United States",
+      "published": "2026-10-20T21:00:00+00:00"
      },
      {
       "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.ksut.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "ksut.org",
+      "url": "https://www.wqcs.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
+      "domain": "wqcs.org",
       "country": "United States",
-      "published": "2026-10-20T15:30:00+00:00"
+      "published": "2026-10-20T21:00:00+00:00"
      },
      {
-      "title": "Fed Govt targets soil testing in 774 LGAs to boost food security",
-      "url": "https://thenationonlineng.net/fed-govt-targets-soil-testing-in-774-lgas-to-boost-food-security/",
-      "domain": "thenationonlineng.net",
-      "country": "Nigeria",
-      "published": "2026-10-20T15:30:00+00:00"
+      "title": "Arab News | Rubio and India foreign minister hold talks in Mumbai as both sides aim to finalize a trade deal",
+      "url": "https://www.arabnews.com/world/rubio-and-indias-foreign-minister-hold-talks-in-mumbai-as-both-sides-aim-to-finalize-a-trade-deal-3007424",
+      "domain": "arabnews.com",
+      "country": "Saudi Arabia",
+      "published": "2026-10-20T21:00:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kmxt.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kmxt.org",
+      "title": "Trump administration announces $8 billion farm relief plan | Nation & World News",
+      "url": "https://www.komu.com/news/nationworld/trump-administration-announces-8-billion-farm-relief-plan-as-fuel-fertilizer-costs-bite/article_c5df69a6-d7f0-5778-9986-fcb1737d0250.html",
+      "domain": "komu.com",
       "country": "United States",
-      "published": "2026-10-20T15:30:00+00:00"
+      "published": "2026-10-20T21:00:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wknofm.org/food/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wknofm.org",
+      "title": "New lawsuit filed challenging Trump tariffs on Canada",
+      "url": "https://panow.com/2026/10/20/cp-newsalert-lawsuit-filed-challenging-trumps-tariffs-on-canada/",
+      "domain": "panow.com",
+      "country": "Canada",
+      "published": "2026-10-20T21:00:00+00:00"
+     },
+     {
+      "title": "Trump administration announces $8 billion farm relief plan as fuel , fertilizer costs bite",
+      "url": "https://www.kten.com/news/business/trump-administration-announces-8-billion-farm-relief-plan-as-fuel-fertilizer-costs-bite/article_cf10de37-4e12-5401-b6f1-a8addb3abb69.html",
+      "domain": "kten.com",
       "country": "United States",
-      "published": "2026-10-20T15:30:00+00:00"
+      "published": "2026-10-20T21:00:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://kansaspublicradio.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kansaspublicradio.org",
+      "title": "Trump Russia moves could complicate lame - duck agenda – Press Telegram",
+      "url": "https://www.presstelegram.com/2026/10/20/trumps-russia-moves-could-complicate-lame-duck-agenda/",
+      "domain": "presstelegram.com",
       "country": "United States",
-      "published": "2026-10-20T15:30:00+00:00"
+      "published": "2026-10-20T21:00:00+00:00"
      },
      {
-      "title": "Drought disaster declarations continue to climb in number",
-      "url": "https://www.agweek.com/weather/drought-disaster-declarations-continue-to-climb-in-number",
-      "domain": "agweek.com",
+      "title": "Alberta rejects secession referendum , remains part of Canada | Nation & World News",
+      "url": "https://www.komu.com/news/nationworld/alberta-rejects-secession-referendum-chooses-to-remain-part-of-canada/article_1a1c017b-8b3e-508a-98b7-81d21f8ba0bd.html",
+      "domain": "komu.com",
       "country": "United States",
-      "published": "2026-10-20T15:30:00+00:00"
+      "published": "2026-10-20T21:00:00+00:00"
      },
      {
-      "title": "Weather disruptions delay mango season in Australia  - FreshFruitPortal . com",
-      "url": "https://www.freshfruitportal.com/news/2026/10/20/au-mango-delay/",
-      "domain": "freshfruitportal.com",
+      "title": "newsroomamerica . com",
+      "url": "https://newsroomamerica.com/?before=116211",
+      "domain": "newsroomamerica.com",
       "country": "United States",
-      "published": "2026-10-20T15:30:00+00:00"
+      "published": "2026-10-20T21:00:00+00:00"
      },
      {
-      "title": "Wetland reclamation brings limited crop gains , higher flood exposure : study",
-      "url": "http://www.brazilsun.com/news/279387258/wetland-reclamation-brings-limited-crop-gains-higher-flood-exposure-study",
-      "domain": "brazilsun.com",
-      "country": "Brazil",
-      "published": "2026-10-20T15:15:00+00:00"
+      "title": "Lawsuit challenging Trump tariffs against Canada filed in U . S . Court of International Trade",
+      "url": "https://www.cbc.ca/news/world/trump-tariffs-lawsuit-9.7388900",
+      "domain": "cbc.ca",
+      "country": "Canada",
+      "published": "2026-10-20T20:45:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.aspenpublicradio.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "aspenpublicradio.org",
-      "country": "United States",
-      "published": "2026-10-20T15:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wfae.org/united-states-world/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wfae.org",
-      "country": "United States",
-      "published": "2026-10-20T15:00:00+00:00"
-     },
-     {
-      "title": "11 Best River Towns In America For Retirees – Ghanamma . com",
-      "url": "https://www.ghanamma.com/2026/10/20/11-best-river-towns-in-america-for-retirees/",
-      "domain": "ghanamma.com",
-      "country": "Ghana",
-      "published": "2026-10-20T15:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kccu.org/business/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kccu.org",
-      "country": "United States",
-      "published": "2026-10-20T14:45:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://www.publicradiotulsa.org/npr-national-news/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "publicradiotulsa.org",
-      "country": "United States",
-      "published": "2026-10-20T14:00:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://www.ksfr.org/npr-news/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "ksfr.org",
-      "country": "United States",
-      "published": "2026-10-20T14:00:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://www.wutc.org/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "wutc.org",
-      "country": "United States",
-      "published": "2026-10-20T14:00:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://news.wjct.org/national-news/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "news.wjct.org",
-      "country": "United States",
-      "published": "2026-10-20T14:00:00+00:00"
-     },
-     {
-      "title": "Jarange urges Marathas to defeat leaders opposing quota in 2029 polls",
-      "url": "https://www.newindianexpress.com/states/maharashtra/2026/Oct/20/jarange-urges-marathas-to-defeat-leaders-opposing-quota-in-2029-polls",
-      "domain": "newindianexpress.com",
+      "title": "Indian American Lawmakers Criticize Trump Russia Sanctions Waiver",
+      "url": "https://indiawest.com/indian-american-lawmakers-lead-backlash-against-trump/",
+      "domain": "indiawest.com",
       "country": "India",
-      "published": "2026-10-20T14:00:00+00:00"
+      "published": "2026-10-20T20:45:00+00:00"
      },
      {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://www.ketr.org/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "ketr.org",
+      "title": "newsroomamerica . com",
+      "url": "https://newsroomamerica.com/?before=116209",
+      "domain": "newsroomamerica.com",
       "country": "United States",
-      "published": "2026-10-20T14:00:00+00:00"
+      "published": "2026-10-20T20:45:00+00:00"
+     },
+     {
+      "title": "In  the weave : a legislative agenda for Trump final years – Roll Call",
+      "url": "https://rollcall.com/2026/10/20/in-the-weave-a-legislative-agenda-for-trumps-final-years/",
+      "domain": "rollcall.com",
+      "country": "United States",
+      "published": "2026-10-20T20:45:00+00:00"
+     },
+     {
+      "title": "Trump supporters say they do not expect to get $5 , 000 checks after midterms",
+      "url": "https://www.kmvt.com/2026/10/20/gimmick-or-giveback-even-some-trump-supporters-dont-expect-get-5000-checks-after-midterms/",
+      "domain": "kmvt.com",
+      "country": "United States",
+      "published": "2026-10-20T20:45:00+00:00"
+     },
+     {
+      "title": "Rubio pitches Venezuelan oil to India , seeks better energy ties",
+      "url": "https://www.tribuneindia.com/news/india/rubio-pitches-venezuelan-oil-to-india-seeks-better-energy-ties/",
+      "domain": "tribuneindia.com",
+      "country": "India",
+      "published": "2026-10-20T20:45:00+00:00"
+     },
+     {
+      "title": "Buttigieg Rallies Virginia Voters : A Blueprint for Democratic Victory in Crucial Midterm Elections",
+      "url": "https://www.bearingdrift.com/2026/10/buttigieg-rallies-virginia-voters.html",
+      "domain": "bearingdrift.com",
+      "country": "United States",
+      "published": "2026-10-20T20:45:00+00:00"
+     },
+     {
+      "title": "Europe Rejected Tariffs on India , China , Says Bessent",
+      "url": "https://indiawest.com/europe-rejected-us-call-for-secondary-tariffs-on-india-bessent/",
+      "domain": "indiawest.com",
+      "country": "India",
+      "published": "2026-10-20T20:45:00+00:00"
+     },
+     {
+      "title": "New lawsuit filed challenging Trump tariffs on Canada",
+      "url": "https://www.kelownadailycourier.ca/news/national_news/article_35777ac6-aef2-5b50-be26-192348dbd340.html",
+      "domain": "kelownadailycourier.ca",
+      "country": "Canada",
+      "published": "2026-10-20T20:45:00+00:00"
      }
     ],
-    "produccion_agroindustrial": [
+    "economia_mundial": [
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kvnf.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kvnf.org",
+      "title": "BOK Financial ( BOKF ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/bok-financial-bokf-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "domain": "fool.com",
       "country": "United States",
-      "published": "2026-10-20T18:15:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.tpr.org/economy-and-labor/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "tpr.org",
+      "title": "EVs Are the Future , No Matter How Far America Falls Behind",
+      "url": "https://www.cnet.com/tech/electric-vehicles-us-ev-hybrid-adoption-path-forward/",
+      "domain": "cnet.com",
+      "country": "Japan",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "[ Editorial ] When rules bend",
+      "url": "https://www.koreaherald.com/article/10909008",
+      "domain": "koreaherald.com",
+      "country": "South Korea",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "Home Bancorp : 3 Key Takeaways for Long - Term Investors",
+      "url": "https://www.fool.com/earnings/takeaways/2026/10/20/home-bancorp-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+      "domain": "fool.com",
       "country": "United States",
-      "published": "2026-10-20T18:00:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kacu.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kacu.org",
+      "title": "Argentina country risk hits its highest level in 11 months",
+      "url": "https://buenosairesherald.com/economics/argentinas-country-risk-hits-its-highest-level-in-11-months",
+      "domain": "buenosairesherald.com",
+      "country": "Argentina",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "Stock Market Today , Oct . 20 : AGNC Investment Rises on Stronger Sector Tone Despite Book - Value Decline",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/20/stock-market-today-oct-20-agnc-investment-rises-on-stronger-sector-tone-despite-book-value-decline/?source=iedfolrf0000001",
+      "domain": "fool.com",
       "country": "United States",
-      "published": "2026-10-20T17:45:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "How To Identify Meat Products Being Recalled",
-      "url": "https://ksfa860.com/ixp/180/p/deli-meat-poultry-recall-details/",
-      "domain": "ksfa860.com",
+      "title": "Tennessee gas prices fall 10 cents",
+      "url": "https://www.wbbjtv.com/2026/10/20/tennessee-gas-prices-fall-10-cents/",
+      "domain": "wbbjtv.com",
       "country": "United States",
-      "published": "2026-10-20T17:30:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wbaa.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wbaa.org",
+      "title": "JAMIE MCGEEVER | Fed sneezes , but emerging markets havent caught a cold yet",
+      "url": "https://www.businessday.co.za/opinion/2026-10-21-jamie-mcgeever-fed-sneezes-but-emerging-markets-havent-caught-a-cold-yet/",
+      "domain": "businessday.co.za",
+      "country": "South Africa",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "SpaceX 3rd - Quarter Revenue Jumps 161 Percent",
+      "url": "https://www.theepochtimes.com/business/spacexs-3rd-quarter-revenue-jumps-161-percent-6106622",
+      "domain": "theepochtimes.com",
       "country": "United States",
-      "published": "2026-10-20T17:15:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wvtf.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wvtf.org",
+      "title": "Details on $8 billion in relief from USDA for farmers",
+      "url": "https://salinapost.com/posts/804327d9-c4fa-4c0c-b077-ba23b4c6db56",
+      "domain": "salinapost.com",
       "country": "United States",
-      "published": "2026-10-20T17:15:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kuow.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kuow.org",
+      "title": "U . S . stocks end on mixed note Tuesday , Dow Jones stars",
+      "url": "http://www.australiannews.net/news/279388196/u-s-stocks-end-on-mixed-note-tuesday-dow-jones-stars",
+      "domain": "australiannews.net",
+      "country": "Australia",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.russiaherald.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "russiaherald.com",
+      "country": "Russia",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.floridastatesman.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "floridastatesman.com",
       "country": "United States",
-      "published": "2026-10-20T17:00:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kenw.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kenw.org",
+      "title": "Dollar dips as traders weigh Iran , AI risks | Stock Market News",
+      "url": "https://www.livemint.com/market/dollar-dips-as-traders-weigh-iran-ai-risks-11792522097761.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.nigeriasun.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "nigeriasun.com",
+      "country": "Nigeria",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "U . S . stocks end on mixed note Tuesday , Dow Jones stars",
+      "url": "http://www.calcuttanews.net/news/279388196/u-s-stocks-end-on-mixed-note-tuesday-dow-jones-stars",
+      "domain": "calcuttanews.net",
+      "country": "India",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.torontotelegraph.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "torontotelegraph.com",
+      "country": "Canada",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "Markets today : Wall Street rises , oil drops ; ASX set to advance",
+      "url": "https://www.watoday.com.au/business/markets/asx-set-to-climb-as-wall-street-rises-a-over-us70c-20261021-p6179f.html",
+      "domain": "watoday.com.au",
+      "country": "Australia",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "Valmont : 3 Key Takeaways for Long - Term Investors",
+      "url": "https://www.fool.com/earnings/takeaways/2026/10/20/valmont-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+      "domain": "fool.com",
       "country": "United States",
-      "published": "2026-10-20T17:00:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.ksmu.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "ksmu.org",
+      "title": "Western Alliance ( WAL ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/western-alliance-wal-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "domain": "fool.com",
       "country": "United States",
-      "published": "2026-10-20T17:00:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wypr.org/wypr-arts/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wypr.org",
+      "title": "Outpoll Expands Beyond Prediction Markets With Crypto Futures Trading",
+      "url": "https://bravenewcoin.com/press-release/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading",
+      "domain": "bravenewcoin.com",
       "country": "United States",
-      "published": "2026-10-20T16:45:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "WORLD FOOD DAY : Salesian Missions highlights programs that nourish students",
-      "url": "https://www.globalsistersreport.org/community/news/world-food-day-salesian-missions-highlights-programs-nourish-students",
-      "domain": "globalsistersreport.org",
+      "title": "Zions : 3 Key Takeaways for Long - Term Investors",
+      "url": "https://www.fool.com/earnings/takeaways/2026/10/20/zions-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+      "domain": "fool.com",
       "country": "United States",
-      "published": "2026-10-20T16:45:00+00:00"
+      "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "Brazil Newcastle poultry outbreak unlikely to have major long - term impact , analysts say",
-      "url": "https://www.al-monitor.com/originals/2026/10/brazils-newcastle-poultry-outbreak-unlikely-have-major-long-term-impact-analysts",
-      "domain": "al-monitor.com",
-      "country": "Israel",
-      "published": "2026-10-20T16:45:00+00:00"
+      "title": "Commodity currencies push higher , including the NZD",
+      "url": "https://www.interest.co.nz/currencies/140763/oil-prices-swing-around-headlines-only-modest-net-movements-markets-overall",
+      "domain": "interest.co.nz",
+      "country": "New Zealand",
+      "published": "2026-10-20T21:15:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.whqr.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "whqr.org",
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.oklahomastar.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "oklahomastar.com",
       "country": "United States",
-      "published": "2026-10-20T16:30:00+00:00"
+      "published": "2026-10-20T21:15:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wdiy.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wdiy.org",
+      "title": "STERIS to Host a Conference Call for Fiscal 2027 Second Quarter on November 5 , 2026",
+      "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/steris-to-host-a-conference-call-for-fiscal-2027-second-quarter-on-november-5-2026/2450261",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "S & P / TSX composite rises on broad gains , U . S . stock markets see mixed results",
+      "url": "https://www.airdriecityview.com/national-business/sptsx-composite-rises-on-broad-gains-us-stock-markets-see-mixed-results-12914979",
+      "domain": "airdriecityview.com",
+      "country": "Canada",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.malaysiasun.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "malaysiasun.com",
+      "country": "Malaysia",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Oberndorf Real Estate Management and The Bascom Group Acquire Museum Park Apartments in San Jose , CA for $53 . 1 Million",
+      "url": "https://www.prnewswire.com:443/news-releases/oberndorf-real-estate-management-and-the-bascom-group-acquire-museum-park-apartments-in-san-jose-ca-for-53-1-million-302914646.html",
+      "domain": "prnewswire.com",
       "country": "United States",
-      "published": "2026-10-20T16:30:00+00:00"
+      "published": "2026-10-20T21:15:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kazu.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kazu.org",
+      "title": "1971 – a pivotal year and the true  Turning Point united states  – The Greanville Post",
+      "url": "https://www.greanvillepost.com/1971-a-pivotal-year-and-the-true-turning-point-usa/",
+      "domain": "greanvillepost.com",
       "country": "United States",
-      "published": "2026-10-20T16:15:00+00:00"
+      "published": "2026-10-20T21:15:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.krwg.org/national-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "krwg.org",
+      "title": "QCR Holdings , Inc . Announces Net Income of $36 . 4 million for the Third Quarter of 2026",
+      "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/qcr-holdings-inc-announces-net-income-of-364-million-for-the-third-quarter-of-2026/2450221",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Breakfast briefing : US data weaker",
+      "url": "https://www.interest.co.nz/economy/140761/us-jobs-housing-falter-canada-eyes-rate-hike-china-lprs-unchanged-taiwan-export",
+      "domain": "interest.co.nz",
+      "country": "New Zealand",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Unretired at 68 and the Paycheck Is Back ? These 3 ETFs Decide What the New Money Should Do",
+      "url": "https://247wallst.com/investing/etf/2026/10/20/unretired-at-68-and-the-paycheck-is-back-these-3-etfs-decide-what-the-new-money-should-do/",
+      "domain": "247wallst.com",
       "country": "United States",
-      "published": "2026-10-20T16:15:00+00:00"
+      "published": "2026-10-20T21:15:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wclk.com/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wclk.com",
+      "title": "The Bond Market Warning – and Three Stocks Worth Watching",
+      "url": "https://investorplace.com/dailylive/2026/10/the-bond-markets-warning-and-three-stocks-worth-watching/",
+      "domain": "investorplace.com",
       "country": "United States",
-      "published": "2026-10-20T16:00:00+00:00"
+      "published": "2026-10-20T21:15:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kgou.org/business-and-economy/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kgou.org",
+      "title": "Unretired at 68 and the Paycheck Is Back ? These 3 ETFs Decide What the New Money Should Do",
+      "url": "https://www.aol.com/articles/unretired-68-paycheck-back-3-203322000.html",
+      "domain": "aol.com",
       "country": "United States",
-      "published": "2026-10-20T16:00:00+00:00"
+      "published": "2026-10-20T21:15:00+00:00"
      },
      {
-      "title": "JBT Marel ( NYSE : JBTM ) Hits New 1 - Year Low – Here What Happened",
-      "url": "https://www.dailypolitical.com/2026/10/20/jbt-marel-nysejbtm-hits-new-1-year-low-heres-what-happened.html",
-      "domain": "dailypolitical.com",
+      "title": "Interparfums , Inc . Reports 2026 Third Quarter Net Sales",
+      "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/interparfums-inc-reports-2026-third-quarter-net-sales/2450227",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Intuitive Announces Third Quarter Earnings",
+      "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/intuitive-announces-third-quarter-earnings/2450225",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Trump Announces Another $8 Billion Farm Bailout",
+      "url": "https://thenewamerican.com/us/trump-announces-another-8-billion-farm-bailout/",
+      "domain": "thenewamerican.com",
       "country": "United States",
-      "published": "2026-10-20T15:30:00+00:00"
+      "published": "2026-10-20T21:15:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.ksut.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "ksut.org",
+      "title": "U . S . stocks end on mixed note Tuesday , Dow Jones stars",
+      "url": "http://www.laosnews.net/news/279388196/u-s-stocks-end-on-mixed-note-tuesday-dow-jones-stars",
+      "domain": "laosnews.net",
       "country": "United States",
-      "published": "2026-10-20T15:30:00+00:00"
+      "published": "2026-10-20T21:15:00+00:00"
      },
      {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kmxt.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kmxt.org",
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.trinidadtimes.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "trinidadtimes.com",
+      "country": "Trinidad and Tobago",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "ELS Reports Third Quarter Results",
+      "url": "https://www.prnewswire.com/news-releases/els-reports-third-quarter-results-302914591.html",
+      "domain": "prnewswire.com",
       "country": "United States",
-      "published": "2026-10-20T15:30:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wknofm.org/food/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wknofm.org",
-      "country": "United States",
-      "published": "2026-10-20T15:30:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://kansaspublicradio.org/npr-news/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kansaspublicradio.org",
-      "country": "United States",
-      "published": "2026-10-20T15:30:00+00:00"
-     },
-     {
-      "title": "Lukashenko lays out vision for developing Belaru northern region",
-      "url": "https://law.by:443/news_en/detail.php?ID=95491",
-      "domain": "law.by",
-      "country": "Belarus",
-      "published": "2026-10-20T15:30:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.aspenpublicradio.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "aspenpublicradio.org",
-      "country": "United States",
-      "published": "2026-10-20T15:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wfae.org/united-states-world/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wfae.org",
-      "country": "United States",
-      "published": "2026-10-20T15:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.kccu.org/business/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "kccu.org",
-      "country": "United States",
-      "published": "2026-10-20T14:45:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://www.publicradiotulsa.org/npr-national-news/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "publicradiotulsa.org",
-      "country": "United States",
-      "published": "2026-10-20T14:00:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://www.ksfr.org/npr-news/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "ksfr.org",
-      "country": "United States",
-      "published": "2026-10-20T14:00:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://www.wutc.org/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "wutc.org",
-      "country": "United States",
-      "published": "2026-10-20T14:00:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://news.wjct.org/national-news/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "news.wjct.org",
-      "country": "United States",
-      "published": "2026-10-20T14:00:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://www.ketr.org/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "ketr.org",
-      "country": "United States",
-      "published": "2026-10-20T14:00:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://www.wkms.org/npr-news/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "wkms.org",
-      "country": "United States",
-      "published": "2026-10-20T14:00:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://www.nhpr.org/national/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "nhpr.org",
-      "country": "United States",
-      "published": "2026-10-20T13:30:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5989636/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "northcountrypublicradio.org",
-      "country": "United States",
-      "published": "2026-10-20T13:30:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://www.kedm.org/npr-news/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "kedm.org",
-      "country": "United States",
-      "published": "2026-10-20T13:15:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://www.wvik.org/npr-top-stories/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "wvik.org",
-      "country": "United States",
-      "published": "2026-10-20T13:15:00+00:00"
-     },
-     {
-      "title": "From Migration to Building Livelihood at Home",
-      "url": "https://ifdc.org/2026/10/20/from-migration-to-building-livelihood-at-home/",
-      "domain": "ifdc.org",
-      "country": "United States",
-      "published": "2026-10-20T13:15:00+00:00"
-     },
-     {
-      "title": "If slaughterhouses had glass wall | Hawaii Tribune - Herald",
-      "url": "https://www.hawaiitribune-herald.com/2026/10/20/opinion/if-slaughterhouses-had-glass-walls/",
-      "domain": "hawaiitribune-herald.com",
-      "country": "United States",
-      "published": "2026-10-20T13:15:00+00:00"
-     },
-     {
-      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
-      "url": "https://knpr.org/npr/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
-      "domain": "knpr.org",
-      "country": "United States",
-      "published": "2026-10-20T13:15:00+00:00"
+      "published": "2026-10-20T21:00:00+00:00"
      }
     ]
    },
    "errors": {
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
