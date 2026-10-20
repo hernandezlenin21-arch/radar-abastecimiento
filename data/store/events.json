@@ -1,120 +1,15 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-20T03:47:49-06:00",
+  "at": "2026-10-20T06:59:57-06:00",
   "data": {
-   "storms": [
-    {
-     "id": "ep212026",
-     "binNumber": "EP1",
-     "name": "Trudy",
-     "classification": "PTC",
-     "intensity": "30",
-     "pressure": "1005",
-     "latitude": "19.5N",
-     "longitude": "108.0W",
-     "latitudeNumeric": 19.5,
-     "longitudeNumeric": -108,
-     "movementDir": 360,
-     "movementSpeed": 2,
-     "lastUpdate": "2026-10-20T03:00:00.000Z",
-     "publicAdvisory": {
-      "advNum": "027",
-      "issuance": "2026-10-20T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-20T02:33:21.232Z",
-      "url": "https://www.nhc.noaa.gov/text/MIATCPEP1.shtml"
-     },
-     "forecastAdvisory": {
-      "advNum": "027",
-      "issuance": "2026-10-20T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-20T02:33:21.236Z",
-      "url": "https://www.nhc.noaa.gov/text/MIATCMEP1.shtml"
-     },
-     "windSpeedProbabilities": {
-      "advNum": "027",
-      "issuance": "2026-10-20T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-20T02:34:16.901Z",
-      "url": "https://www.nhc.noaa.gov/text/MIAPWSEP1.shtml"
-     },
-     "forecastDiscussion": {
-      "advNum": "027",
-      "issuance": "2026-10-20T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-20T02:34:47.350Z",
-      "url": "https://www.nhc.noaa.gov/text/MIATCDEP1.shtml"
-     },
-     "forecastGraphics": {
-      "advNum": "027",
-      "issuance": "2026-10-20T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-20T02:33:21.232Z",
-      "url": "https://www.nhc.noaa.gov/graphics_ep1.shtml"
-     },
-     "forecastTrack": {
-      "advNum": "027",
-      "issuance": "2026-10-20T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-20T02:35:48.974Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_5day_027.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_027adv_TRACK.kmz"
-     },
-     "windWatchesWarnings": null,
-     "trackCone": {
-      "advNum": "027",
-      "issuance": "2026-10-20T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-20T02:35:43.389Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_5day_027.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_027adv_CONE.kmz"
-     },
-     "initialWindExtent": {
-      "advNum": "027",
-      "issuance": "2026-10-20T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-20T02:36:18.624Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_fcst_027.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_initialradii_027adv.kmz"
-     },
-     "forecastWindRadiiGIS": {
-      "advNum": "027",
-      "issuance": "2026-10-20T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-20T02:36:14.792Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep212026_fcst_027.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_forecastradii_027adv.kmz"
-     },
-     "bestTrackGIS": {
-      "issuance": "2026-10-20T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-20T02:35:58.388Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep212026_best_track.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep212026_best_track.kmz"
-     },
-     "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "027",
-      "issuance": "2026-10-20T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-20T02:35:45.240Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_027adv_earliest_reasonable_toa_34.kmz"
-     },
-     "mostLikelyTimeTSWindsGIS": {
-      "advNum": "027",
-      "issuance": "2026-10-20T03:00:00.000Z",
-      "fileUpdateTime": "2026-10-20T02:35:47.114Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP212026_027adv_most_likely_toa_34.kmz"
-     },
-     "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-10-20T00:00:00.000Z",
-      "fileUpdateTime": "2026-10-20T03:22:04.555Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102000_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102000_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102000_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102000_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102000_wsp64knt120hr_5km.kmz"
-     },
-     "stormSurgeWatchWarningGIS": null,
-     "potentialStormSurgeFloodingGIS": null,
-     "peakSurgeKML": null
-    }
-   ],
+   "storms": [],
    "url": "https://www.nhc.noaa.gov/"
   }
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-20T03:47:49-06:00",
+  "at": "2026-10-20T06:59:57-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,856 +18,185 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-20T03:47:49-06:00",
+  "at": "2026-10-20T06:59:57-06:00",
   "data": {
    "raw": {
-    "energia": [
-     {
-      "title": "French bond yields edge down , but investors stay on alert",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/french-bond-yields-edge-down-but-investors-stay-on-alert/articleshow/135065370.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Pakistan cuts GDP growth estimate to 3 . 65 per cent in fiscal year 2026",
-      "url": "https://www.business-standard.com/world-news/pakistan-cuts-gdp-growth-estimate-to-3-65-per-cent-in-fiscal-year-2026-126102000211_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Pakistan cuts GDP growth estimate to  3 . 65 per cent in fiscal year 2026",
-      "url": "https://www.dailyexcelsior.com/pakistan-cuts-gdp-growth-estimate-to-3-65-per-cent-in-fiscal-year-2026/",
-      "domain": "dailyexcelsior.com",
-      "country": "India",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Rail Runner Express sees boost in train riders amid climbing gas prices",
-      "url": "https://www.santafenewmexican.com/news/local_news/rail-runner-express-sees-boost-in-train-riders-amid-climbing-gas-prices/article_b213936d-5be4-4fca-9c02-8dcd9ab45cdc.html",
-      "domain": "santafenewmexican.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Soaring diesel costs have Northeast loggers running on fumes",
-      "url": "https://www.centralmaine.com/2026/10/20/soaring-diesel-costs-have-northeasts-loggers-running-on-fumes-opinion/",
-      "domain": "centralmaine.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Daily Market Commentary for October 19th 2026 - Motilal Oswal Financial Services Ltd",
-      "url": "https://www.equitybulls.com/news/377307/daily-market-commentary-for-october-19th-2026-motilal-oswal-financial-services-l",
-      "domain": "equitybulls.com",
-      "country": "India",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Liquidity Tightens , Yields Rise Amid RBI FX Actions",
-      "url": "https://www.equitybulls.com/news/377306/liquidity-tightens-yields-rise-amid-rbi-s-fx-actions",
-      "domain": "equitybulls.com",
-      "country": "India",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Investor Webinar via Investor Meet Company | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/pulsar-helium-inc--plsr/investor-webinar-via-investor-meet-company/9830676",
-      "domain": "investegate.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Malaysia export boom lifts 2026 growth outlook , AI demand provides support",
-      "url": "http://www.bruneinews.net/news/279386953/malaysia-export-boom-lifts-2026-growth-outlook-ai-demand-provides-support",
-      "domain": "bruneinews.net",
-      "country": "Malaysia",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Mt Winter EPA 155 Site Inspection | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/georgina-energy-plc--gex/mt-winter-epa-155-site-inspection-/9831579",
-      "domain": "investegate.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "PepsiCo India expects steady festive snack sales driven by new launches",
-      "url": "https://www.business-standard.com/companies/news/pepsico-india-expects-steady-festive-snack-sales-driven-by-new-launches-126102000286_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Zelensky Tests U . S .- Ukraine Relations – NaturalNews . com",
-      "url": "https://www.naturalnews.com/2026-10-19-zelensky-tests-us-ukraine-relations.html",
-      "domain": "naturalnews.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Asian shares mostly decline after AI stocks lead a rebound on Wall Street",
-      "url": "https://mymotherlode.com/news/national/11235937/asian-shares-mostly-decline-after-ai-stocks-lead-a-rebound-on-wall-street.html",
-      "domain": "mymotherlode.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Zelensky shouldnt speak for Ukraine",
-      "url": "http://www.europesun.com/news/279386781/zelensky-shouldnt-speak-for-ukraine-trump",
-      "domain": "europesun.com",
-      "country": "Russia",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Rubio Says U . S . and India Are Close to a Trade Agreement",
-      "url": "https://econotimes.com/Rubio-Says-U-S-and-India-Are-Close-to-a-Trade-Agreement-1757501",
-      "domain": "econotimes.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Soaring costs spark unrest across Europe , giving far - right fresh momentum",
-      "url": "https://www.jpost.com/international/article-912258",
-      "domain": "jpost.com",
-      "country": "Israel",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Tech companies need more data centers . So why are nearly half of all planned projects delayed or canceled ?",
-      "url": "https://abc17news.com/stacker-technology/2026/10/19/tech-companies-need-more-data-centers-so-why-are-nearly-half-of-all-planned-projects-delayed-or-canceled/",
-      "domain": "abc17news.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "What other newspapers are saying : Democrats should accept energy compromise",
-      "url": "https://www.sungazette.com/opinion/editorials/2026/10/what-other-newspapers-are-saying-democrats-should-accept-energy-compromise/",
-      "domain": "sungazette.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "FinancialContent - 1 Unpopular Stock That Should Get More Attention and 2 Facing Challenges",
-      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-20-1-unpopular-stock-that-should-get-more-attention-and-2-facing-challenges",
-      "domain": "markets.financialcontent.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Singapore , Qatar to elevate ties to Strategic Partnership ; renew energy cooperation pact",
-      "url": "https://www.asiaone.com/singapore/singapore-qatar-strategic-partnership-energy-cooperation",
-      "domain": "asiaone.com",
-      "country": "Singapore",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Donald Trump says US will  burn  like France if Democrats win in upcoming midterms",
-      "url": "https://www.jpost.com/american-politics/article-912233",
-      "domain": "jpost.com",
-      "country": "Israel",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "PepsiCo India Aims for Festive Snack Sales to Match Last Year as New Products Launch , ETRetail",
-      "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/pepsico-india-expects-festive-snack-sales-to-match-last-year-as-new-launches-roll-out/135065486",
-      "domain": "retail.economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Ukrainian Drone Strike Sparks Fire at Oil Transit Hub in Tambov Region",
-      "url": "https://www.themoscowtimes.com/2026/10/20/ukrainian-drone-strike-sparks-fire-at-oil-transit-hub-in-tambov-region-a94026",
-      "domain": "themoscowtimes.com",
-      "country": "Russia",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Indian stock markets closed today for Dussehra , trading to resume on Wednesday",
-      "url": "http://www.greekherald.com/news/279386485/indian-stock-markets-closed-today-for-dussehra-trading-to-resume-on-wednesday",
-      "domain": "greekherald.com",
-      "country": "Greece",
-      "published": "2026-10-20T08:30:00+00:00"
-     },
-     {
-      "title": "McKay marks 60 - year partnership with Channel Infrastructure",
-      "url": "https://channellife.co.nz/story/mckay-marks-60-year-partnership-with-channel-infrastructure",
-      "domain": "channellife.co.nz",
-      "country": "New Zealand",
-      "published": "2026-10-20T08:15:00+00:00"
-     },
-     {
-      "title": "Indian stock markets closed today for Dussehra , trading to resume on Wednesday",
-      "url": "http://www.chinanationalnews.com/news/279386485/indian-stock-markets-closed-today-for-dussehra-trading-to-resume-on-wednesday",
-      "domain": "chinanationalnews.com",
-      "country": "China",
-      "published": "2026-10-20T08:15:00+00:00"
-     },
-     {
-      "title": "Indian stock markets closed today for Dussehra , trading to resume on Wednesday",
-      "url": "http://www.jamaicantimes.com/news/279386485/indian-stock-markets-closed-today-for-dussehra-trading-to-resume-on-wednesday",
-      "domain": "jamaicantimes.com",
-      "country": "Jamaica",
-      "published": "2026-10-20T08:15:00+00:00"
-     },
-     {
-      "title": "Donald Trump , Aligning with Vladimir Putin Yet Again , Leaves Ukraine and US Relations with Europe Under Pressure",
-      "url": "https://cleantechnica.com/2026/10/19/donald-trump-aligning-with-vladimir-putin-yet-again-leaves-ukraine-and-us-relations-with-europe-under-pressure/",
-      "domain": "cleantechnica.com",
-      "country": "United States",
-      "published": "2026-10-20T08:15:00+00:00"
-     },
-     {
-      "title": "US ties with Ukraine hit new low as Trump slights Zelenskyy and eases up on Russia",
-      "url": "https://abcnews.com/US/wireStory/us-ties-ukraine-hit-new-low-trump-slights-137397527",
-      "domain": "abcnews.com",
-      "country": "United States",
-      "published": "2026-10-20T08:15:00+00:00"
-     },
-     {
-      "title": "Sun PhuQuoc Airways to launch direct Ahmedabad flights to Vietnam Phu Quoc Island",
-      "url": "https://economictimes.indiatimes.com/nri/latest-updates/sun-phuquoc-airways-to-launch-direct-ahmedabad-flights-to-vietnams-phu-quoc-island/articleshow/135063997.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-20T08:15:00+00:00"
-     },
-     {
-      "title": "Macron opens Gulf tour after violent protests in France",
-      "url": "https://www.naharnet.com/stories/en/323186-macron-opens-gulf-tour-after-violent-protests-in-france",
-      "domain": "naharnet.com",
-      "country": "Syria",
-      "published": "2026-10-20T08:15:00+00:00"
-     },
-     {
-      "title": "Govt is prioritizing Balochistan development : Ahsan",
-      "url": "https://www.radio.gov.pk/20-10-2026/govt-is-prioritizing-balochistans-development-ahsan",
-      "domain": "radio.gov.pk",
-      "country": "Pakistan",
-      "published": "2026-10-20T08:15:00+00:00"
-     },
-     {
-      "title": "Jon Stewart Sounds Alarm on Donald Trump  Insane  Putin Deal",
-      "url": "https://www.thedailybeast.com/obsessed/jon-stewart-sounds-alarm-on-donald-trumps-insane-putin-deal",
-      "domain": "thedailybeast.com",
-      "country": "United States",
-      "published": "2026-10-20T08:00:00+00:00"
-     },
-     {
-      "title": "Major oil companies considering a move back into Iraq to tap oil reserves",
-      "url": "https://www.smh.com.au/business/markets/we-re-not-afraid-of-risk-big-oil-goes-back-to-iraq-20261020-p6151k.html",
-      "domain": "smh.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T08:00:00+00:00"
-     },
-     {
-      "title": "Petrol , Diesel , Heating Oil Prices Drop in Luxembourg",
-      "url": "https://www.chronicle.lu/category/motoring-1/64105-petrol-diesel-heating-oil-prices-drop-in-luxembourg",
-      "domain": "chronicle.lu",
-      "country": "Luxembourg",
-      "published": "2026-10-20T08:00:00+00:00"
-     },
-     {
-      "title": "Indian stock markets closed today for Dussehra , trading to resume on Wednesday",
-      "url": "http://www.newzealandstar.com/news/279386485/indian-stock-markets-closed-today-for-dussehra-trading-to-resume-on-wednesday",
-      "domain": "newzealandstar.com",
-      "country": "New Zealand",
-      "published": "2026-10-20T08:00:00+00:00"
-     },
-     {
-      "title": "Asian shares mostly decline after AI stocks lead a rebound on Wall Street",
-      "url": "http://www.goskagit.com/news/ap_business/asian-shares-mostly-decline-after-ai-stocks-lead-a-rebound-on-wall-street/article_3ffdef57-b32a-500e-8f16-25a1ea8613cc.html",
-      "domain": "goskagit.com",
-      "country": "United States",
-      "published": "2026-10-20T08:00:00+00:00"
-     },
-     {
-      "title": "Oil prices jump above $110 per barrel amid Houthi attacks on Saudi Arabia",
-      "url": "https://pakobserver.net/oil-prices-jump-above-110-per-barrel-amid-houthi-attacks-on-saudi-arabia/",
-      "domain": "pakobserver.net",
-      "country": "Pakistan",
-      "published": "2026-10-20T08:00:00+00:00"
-     },
-     {
-      "title": "Fox News Star Humiliates Trump by Detailing All His Problems",
-      "url": "https://www.thedailybeast.com/fox-news-star-humiliates-trump-by-detailing-all-his-problems",
-      "domain": "thedailybeast.com",
-      "country": "United States",
-      "published": "2026-10-20T08:00:00+00:00"
-     },
-     {
-      "title": "Indian stock markets closed today for Dussehra , trading to resume on Wednesday",
-      "url": "http://www.cincinnatisun.com/news/279386485/indian-stock-markets-closed-today-for-dussehra-trading-to-resume-on-wednesday",
-      "domain": "cincinnatisun.com",
-      "country": "United States",
-      "published": "2026-10-20T08:00:00+00:00"
-     }
-    ],
-    "geopolitica": [
-     {
-      "title": "EU unveils strategy to boost Arctic presence",
-      "url": "http://www.japanherald.com/news/279386767/eu-unveils-strategy-to-boost-arctic-presence",
-      "domain": "japanherald.com",
-      "country": "Japan",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Canada awaits Alberta referendum results after Carney urges voters to reject separation",
-      "url": "https://www.wboc.com/news/international/canada-awaits-alberta-referendum-results-after-carney-urges-voters-to-reject-separation/article_94852c1c-f46b-5d99-bcbc-2edf48ada997.html",
-      "domain": "wboc.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Alberta voters reject move towards split from Canada",
-      "url": "https://www.northerndailyleader.com.au/story/9371544/alberta-voters-reject-move-towards-split-from-canada/",
-      "domain": "northerndailyleader.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-      "url": "https://www.kyuk.org/2026-10-19/alberta-voters-reject-a-move-toward-independence-in-referendum-backing-canadian-unity",
-      "domain": "kyuk.org",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-      "url": "https://www.wkms.org/npr-news/2026-10-20/alberta-voters-reject-a-move-toward-independence-in-referendum-backing-canadian-unity",
-      "domain": "wkms.org",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-      "url": "https://www.ksfr.org/npr-news/2026-10-20/alberta-voters-reject-a-move-toward-independence-in-referendum-backing-canadian-unity",
-      "domain": "ksfr.org",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-      "url": "https://www.wutc.org/2026-10-20/alberta-voters-reject-a-move-toward-independence-in-referendum-backing-canadian-unity",
-      "domain": "wutc.org",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Alberta voters reject move towards split from Canada",
-      "url": "https://www.merimbulanewsweekly.com.au/story/9371544/alberta-voters-reject-move-towards-split-from-canada/",
-      "domain": "merimbulanewsweekly.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Albertans chose Canada : Voters reject move towards independence in victory for Carney",
-      "url": "https://www.theage.com.au/world/north-america/albertans-chose-canada-voters-reject-move-towards-independence-in-victory-for-carney-20261020-p6177o.html",
-      "domain": "theage.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-6008832/alberta-voters-reject-a-move-toward-independence-in-referendum-backing-canadian-unity",
-      "domain": "northcountrypublicradio.org",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Russian military satellite  moves within 85 feet of another used to provide Ukraine with intelligence  in worrying Star Wars escalation",
-      "url": "https://www.dailymail.com/news/article-16222751/Russian-satellite-85ft-Ukraine-intelligence.html",
-      "domain": "dailymail.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "US Secretary of State Rubio arrives in Mumbai for talks with Jaishankar amid push for India - US trade deal",
-      "url": "https://aninews.in/news/world/asia/us-secretary-of-state-rubio-arrives-in-mumbai-for-talks-with-jaishankar-amid-push-for-india-us-trade-deal20261020142406/",
-      "domain": "aninews.in",
-      "country": "India",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "War is coming ...",
-      "url": "https://www.jns.org/opinion/sarah-n-stern/war-is-coming",
-      "domain": "jns.org",
-      "country": "Israel",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Alberta voters reject move towards split from Canada",
-      "url": "https://www.maitlandmercury.com.au/story/9371544/alberta-voters-reject-move-towards-split-from-canada/",
-      "domain": "maitlandmercury.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Zelenskyy says Ukraine got no early warning as Russia hits power grid",
-      "url": "https://www.journal-advocate.com/2026/10/19/russia-hits-ukraine-power-grid-no-warning/",
-      "domain": "journal-advocate.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "The ad war between Susan Collins and Troy Jackson is more negative than ever",
-      "url": "https://www.bangordailynews.com/2026/10/20/politics/elections/negative-ads-susan-collins-troy-jackson-joam40zk0w/",
-      "domain": "bangordailynews.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
-      "url": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
-      "domain": "middleeasteye.net",
-      "country": "Israel",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.birminghamstar.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "birminghamstar.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Alberta voters back Canadian unity , reject move toward independence",
-      "url": "https://www.nbcchicago.com/news/national-international/alberta-rejects-move-toward-independence-from-canada/4004725/",
-      "domain": "nbcchicago.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-      "url": "https://www.hppr.org/npr-news/2026-10-20/alberta-voters-reject-a-move-toward-independence-in-referendum-backing-canadian-unity",
-      "domain": "hppr.org",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Beyond the Strait : Gulf looks for an escape route from Hormuz",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/beyond-the-strait-gulf-looks-for-an-escape-route-from-hormuz/articleshow/135065138.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Alberta votes in referendum to stay in Canada . A timeline on how we got here",
-      "url": "https://www.coastreporter.net/the-mix/alberta-votes-in-referendum-to-stay-in-canada-a-timeline-on-how-we-got-here-12913593",
-      "domain": "coastreporter.net",
-      "country": "Canada",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-      "url": "https://www.wlrn.org/npr-breaking-news/2026-10-20/alberta-voters-reject-a-move-toward-independence-in-referendum-backing-canadian-unity",
-      "domain": "wlrn.org",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Zelensky Tests U . S .- Ukraine Relations – NaturalNews . com",
-      "url": "https://www.naturalnews.com/2026-10-19-zelensky-tests-us-ukraine-relations.html",
-      "domain": "naturalnews.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Asian shares mostly decline after AI stocks lead a rebound on Wall Street",
-      "url": "https://mymotherlode.com/news/national/11235937/asian-shares-mostly-decline-after-ai-stocks-lead-a-rebound-on-wall-street.html",
-      "domain": "mymotherlode.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Trump and Zelensky Tensions Deepen as US - Ukraine Relations Face Growing Distrust",
-      "url": "https://www.1490wosh.com/2026/10/20/trump-and-zelensky-tensions-deepen-as-us-ukraine-relations-face-growing-distrust/",
-      "domain": "1490wosh.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Gimmick or giveback ? Even some Trump supporters dont expect to get $5 , 000 checks after midterms",
-      "url": "https://mymotherlode.com/news/national/11235965/gimmick-or-giveback-even-some-trump-supporters-dont-expect-to-get-5000-checks-after-midterms.html",
-      "domain": "mymotherlode.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "President Donald Trump Claims ,  We Dont Have Inflation , and Tariffs Dont Cause Inflation , but a New Report Strongly Disagrees",
-      "url": "https://www.fool.com/investing/2026/10/20/donald-trump-claims-we-dont-have-inflation-tariffs-dont-cause-inflation-report-disagrees/?source=iedfolrf0000001",
-      "domain": "fool.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Zelensky shouldnt speak for Ukraine",
-      "url": "http://www.europesun.com/news/279386781/zelensky-shouldnt-speak-for-ukraine-trump",
-      "domain": "europesun.com",
-      "country": "Russia",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Gimmick or giveback ? Even some Trump supporters dont expect to get $5 , 000 checks after midterms",
-      "url": "https://www.news4jax.com/news/politics/2026/10/20/gimmick-or-giveback-even-some-trump-supporters-dont-expect-to-get-5000-checks-after-midterms/",
-      "domain": "news4jax.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Alberta Rejects Independence From Canada",
-      "url": "https://www.newsweek.com/alberta-rejects-independence-from-canada-referendum-mark-carney-12591526",
-      "domain": "newsweek.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.newyorktelegraph.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "newyorktelegraph.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.haitisun.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "haitisun.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Alberta rejects secession referendum , chooses to remain part of Canada - LocalNews8 . com",
-      "url": "https://localnews8.com/news/national-world/cnn-world/2026/10/19/alberta-rejects-secession-referendum-chooses-to-remain-part-of-canada-cbc-projects/",
-      "domain": "localnews8.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.irishsun.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "irishsun.com",
-      "country": "Ireland",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-      "url": "https://www.ketr.org/2026-10-20/alberta-voters-reject-a-move-toward-independence-in-referendum-backing-canadian-unity",
-      "domain": "ketr.org",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Albertans chose Canada : Voters reject move towards independence in victory for Carney",
-      "url": "https://www.brisbanetimes.com.au/world/north-america/albertans-chose-canada-voters-reject-move-towards-independence-in-victory-for-carney-20261020-p6177o.html",
-      "domain": "brisbanetimes.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
-      "url": "https://news.wjct.org/national-news/2026-10-20/alberta-voters-reject-a-move-toward-independence-in-referendum-backing-canadian-unity",
-      "domain": "news.wjct.org",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.myanmarnews.net/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "myanmarnews.net",
-      "country": "Myanmar",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Ukraine charges Russian ship captain over 54 , 000 tonnes of allegedly stolen grain - London Business News",
-      "url": "https://londonlovesbusiness.com/ukraine-charges-russian-ship-captain-over-54000-tonnes-of-allegedly-stolen-grain/",
-      "domain": "londonlovesbusiness.com",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:00:00+00:00"
-     }
-    ],
-    "transporte_maritimo": [
-     {
-      "title": "Today in History : October 20 ,  Saturday Night Massacre  jolts Washington",
-      "url": "https://www.fortmorgantimes.com/2026/10/20/today-in-history-october-20-saturday-night-massacre-jolts-washington/",
-      "domain": "fortmorgantimes.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Today in History : October 20 ,  Saturday Night Massacre  jolts Washington",
-      "url": "https://www.dailylocal.com/2026/10/20/today-in-history-october-20-saturday-night-massacre-jolts-washington/",
-      "domain": "dailylocal.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Switzerland has a role to play in the Arctic",
-      "url": "https://www.swissinfo.ch/eng/business/rotte-commerciali-e-risorse_switzerland-has-a-role-to-play-in-the-arctic/46348358",
-      "domain": "swissinfo.ch",
-      "country": "Switzerland",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "War is coming ...",
-      "url": "https://www.jns.org/opinion/sarah-n-stern/war-is-coming",
-      "domain": "jns.org",
-      "country": "Israel",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Today in History : October 20 ,  Saturday Night Massacre  jolts Washington",
-      "url": "https://www.mcall.com/2026/10/20/today-in-history-october-20-saturday-night-massacre-jolts-washington/",
-      "domain": "mcall.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "I wont return subsidy – Tinubu – Daily Trust",
-      "url": "https://dailytrust.com/i-wont-return-subsidy-tinubu/",
-      "domain": "dailytrust.com",
-      "country": "Niger",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Today in History : October 20 ,  Saturday Night Massacre  jolts Washington",
-      "url": "https://www.thetimes-tribune.com/2026/10/20/today-in-history-october-20-saturday-night-massacre-jolts-washington/",
-      "domain": "thetimes-tribune.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Yemen war : Why Egypt vow to defend Saudi Arabia is a risky gamble",
-      "url": "https://www.middleeasteye.net/opinion/yemen-war-why-egypts-vow-defend-saudi-arabia-risky-gamble",
-      "domain": "middleeasteye.net",
-      "country": "Israel",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.birminghamstar.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "birminghamstar.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Naira May Hit ₦4 , 000 / $ if Fuel Subsidy Returns Oyedele",
-      "url": "https://www.opinionnigeria.com/naira-could-fall-to-%E2%82%A64000-if-fuel-subsidy-returns-oyedele-warns/",
-      "domain": "opinionnigeria.com",
-      "country": "Nigeria",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Today in History : October 20 ,  Saturday Night Massacre  jolts Washington",
-      "url": "https://www.journal-advocate.com/2026/10/20/today-in-history-october-20-saturday-night-massacre-jolts-washington/",
-      "domain": "journal-advocate.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Beyond the Strait : Gulf looks for an escape route from Hormuz",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/beyond-the-strait-gulf-looks-for-an-escape-route-from-hormuz/articleshow/135065138.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "President Donald Trump Claims ,  We Dont Have Inflation , and Tariffs Dont Cause Inflation , but a New Report Strongly Disagrees",
-      "url": "https://www.fool.com/investing/2026/10/20/donald-trump-claims-we-dont-have-inflation-tariffs-dont-cause-inflation-report-disagrees/?source=iedfolrf0000001",
-      "domain": "fool.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.newyorktelegraph.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "newyorktelegraph.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.haitisun.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "haitisun.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.irishsun.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "irishsun.com",
-      "country": "Ireland",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Today in History : October 20 ,  Saturday Night Massacre  jolts Washington",
-      "url": "https://www.citizensvoice.com/2026/10/20/today-in-history-october-20-saturday-night-massacre-jolts-washington/",
-      "domain": "citizensvoice.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.myanmarnews.net/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "myanmarnews.net",
-      "country": "Myanmar",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.coloradostar.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "coloradostar.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Today in History : October 20 ,  Saturday Night Massacre  jolts Washington",
-      "url": "https://www.standardspeaker.com/2026/10/20/today-in-history-october-20-saturday-night-massacre-jolts-washington/",
-      "domain": "standardspeaker.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.europesun.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "europesun.com",
-      "country": "Russia",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Munich Airport adds long - haul and Nordic flights for winter 2026 – 27",
-      "url": "https://www.travelwires.com/munich-airport-adds-long-haul-and-nordic-flights-for-winter-2026-27/",
-      "domain": "travelwires.com",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Macron opens Gulf tour after violent protests in France",
-      "url": "https://www.naharnet.com/stories/en/323186-macron-opens-gulf-tour-after-violent-protests-in-france",
-      "domain": "naharnet.com",
-      "country": "Syria",
-      "published": "2026-10-20T08:15:00+00:00"
-     },
-     {
-      "title": "Iran Revolutionary Guard cites 7 internet cables under Strait of Hormuz , warns of  new targets",
-      "url": "https://tribune.com.pk/story/2635854/irans-revolutionary-guard-cites-7-internet-cables-under-strait-of-hormuz-warns-of-new-targets",
-      "domain": "tribune.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-20T08:15:00+00:00"
-     },
-     {
-      "title": "Major oil companies considering a move back into Iraq to tap oil reserves",
-      "url": "https://www.smh.com.au/business/markets/we-re-not-afraid-of-risk-big-oil-goes-back-to-iraq-20261020-p6151k.html",
-      "domain": "smh.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T08:00:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.neworleanssun.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "neworleanssun.com",
-      "country": "United States",
-      "published": "2026-10-20T08:00:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.cincinnatisun.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "cincinnatisun.com",
-      "country": "United States",
-      "published": "2026-10-20T08:00:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.newzealandstar.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "newzealandstar.com",
-      "country": "New Zealand",
-      "published": "2026-10-20T08:00:00+00:00"
-     },
-     {
-      "title": "The battle against rising US Treasury yields",
-      "url": "https://www.businesstimes.com.sg/wealth/wealth-investing/battle-against-rising-us-treasury-yields",
-      "domain": "businesstimes.com.sg",
-      "country": "Singapore",
-      "published": "2026-10-20T08:00:00+00:00"
-     },
-     {
-      "title": "I wont return fuel subsidy – Tinubu",
-      "url": "https://pmnewsnigeria.com/2026/10/20/i-wont-return-fuel-subsidy-tinubu/",
-      "domain": "pmnewsnigeria.com",
-      "country": "Nigeria",
-      "published": "2026-10-20T07:45:00+00:00"
-     },
-     {
-      "title": "Cathy L . Frye",
-      "url": "https://www.dailygazette.com/ade/ade/obituaries/cathy-l-frye/article_4b4462ee-dfbe-5645-b974-94863a768bc8.html",
-      "domain": "dailygazette.com",
-      "country": "United States",
-      "published": "2026-10-20T07:45:00+00:00"
-     },
-     {
-      "title": "Reasons behind agitation across Europe - People Review",
-      "url": "https://peoplesreview.com.np/2026/10/20/reasons-behind-agitation-across-europe/",
-      "domain": "peoplesreview.com.np",
-      "country": "Nepal",
-      "published": "2026-10-20T07:45:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.britainnews.net/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "britainnews.net",
-      "country": "United Kingdom",
-      "published": "2026-10-20T07:45:00+00:00"
-     },
-     {
-      "title": "Iran tension : Trump signals heavy strikes as IRGC claims US MQ - 9 drone shot down near Hormuz",
-      "url": "https://www.bankingnews.gr/diethni/articles/906077/tensions-rise-in-strait-of-hormuz-after-iran-claims-us-drone-shot-down",
-      "domain": "bankingnews.gr",
-      "country": "Greece",
-      "published": "2026-10-20T07:45:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.africaleader.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "africaleader.com",
-      "country": "South Africa",
-      "published": "2026-10-20T07:45:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.nigeriasun.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "nigeriasun.com",
-      "country": "Nigeria",
-      "published": "2026-10-20T07:45:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.azerbaijannews.net/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "azerbaijannews.net",
-      "country": "Azerbaijan",
-      "published": "2026-10-20T07:45:00+00:00"
-     },
-     {
-      "title": "Trump says US keeps up pressure on Iran",
-      "url": "https://www.hurriyetdailynews.com/trump-says-us-keeps-up-pressure-on-iran-228342",
-      "domain": "hurriyetdailynews.com",
-      "country": "Turkey",
-      "published": "2026-10-20T07:45:00+00:00"
-     },
-     {
-      "title": "Morning update",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-646",
-      "domain": "middleeasteye.net",
-      "country": "Israel",
-      "published": "2026-10-20T07:30:00+00:00"
-     },
-     {
-      "title": "Tech Beats Tariffs : Global Trade Growth Accelerates and Globalization Sets New Record",
-      "url": "http://www.shanghaisun.com/news/279386574/tech-beats-tariffs-global-trade-growth-accelerates-and-globalization-sets-new-record",
-      "domain": "shanghaisun.com",
-      "country": "China",
-      "published": "2026-10-20T07:30:00+00:00"
-     }
-    ],
     "produccion_agroindustrial": [
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.wvtf.org/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "wvtf.org",
+      "country": "United States",
+      "published": "2026-10-20T12:30:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.kuow.org/npr-news/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "kuow.org",
+      "country": "United States",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "Sumitomo Mitsui DS Asset Management Company Ltd Purchases 503 , 469 Shares of Bunge Global SA $BG",
+      "url": "https://www.themarketsdaily.com/2026/10/20/sumitomo-mitsui-ds-asset-management-company-ltd-purchases-503469-shares-of-bunge-global-sa-bg.html",
+      "domain": "themarketsdaily.com",
+      "country": "United States",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.kenw.org/npr-news/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "kenw.org",
+      "country": "United States",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.wypr.org/wypr-arts/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "wypr.org",
+      "country": "United States",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.kunc.org/npr-news/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "kunc.org",
+      "country": "United States",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "KSA Business : Tanmiah signs agreements with Sabil and NGC",
+      "url": "https://www.gdnonline.com:443/Details/1410278",
+      "domain": "gdnonline.com",
+      "country": "United States",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "Has food inflation lost its bite ?",
+      "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261020~b21516b402.en.html",
+      "domain": "ecb.europa.eu",
+      "country": "Greece",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.kasu.org/business-economy/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "kasu.org",
+      "country": "United States",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.wuft.org/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "wuft.org",
+      "country": "United States",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.wrvo.org/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "wrvo.org",
+      "country": "United States",
+      "published": "2026-10-20T11:45:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.wglt.org/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "wglt.org",
+      "country": "United States",
+      "published": "2026-10-20T11:45:00+00:00"
+     },
+     {
+      "title": "How Have Prices Changed Since the Iran War Started ?",
+      "url": "https://www.kiplinger.com/personal-finance/how-prices-changed-since-the-iran-war-began",
+      "domain": "kiplinger.com",
+      "country": "United States",
+      "published": "2026-10-20T11:45:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://wnyc.org/npr/nx-s1-5989636",
+      "domain": "wnyc.org",
+      "country": "United States",
+      "published": "2026-10-20T11:30:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.whqr.org/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "whqr.org",
+      "country": "United States",
+      "published": "2026-10-20T11:30:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.wknofm.org/food/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "wknofm.org",
+      "country": "United States",
+      "published": "2026-10-20T11:30:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.krwg.org/national-news/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "krwg.org",
+      "country": "United States",
+      "published": "2026-10-20T11:30:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.wfdd.org/national/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "wfdd.org",
+      "country": "United States",
+      "published": "2026-10-20T11:15:00+00:00"
+     },
+     {
+      "title": "For Panama , it is life or death : how drought is choking the canal that feeds a nation | Panama",
+      "url": "https://www.theguardian.com/global-development/2026/oct/20/panama-canal-environment-water-drought-el-nino-farming",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-10-20T11:00:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.kmxt.org/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "kmxt.org",
+      "country": "United States",
+      "published": "2026-10-20T10:45:00+00:00"
+     },
+     {
+      "title": "More Than 1 . 5 Million Pounds of Meat Recalled Here What to Get Rid Of",
+      "url": "https://www.tasteofhome.com/article/meat-recall-october-2026/",
+      "domain": "tasteofhome.com",
+      "country": "United States",
+      "published": "2026-10-20T10:45:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.aspenpublicradio.org/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "aspenpublicradio.org",
+      "country": "United States",
+      "published": "2026-10-20T10:15:00+00:00"
+     },
+     {
+      "title": "Ektifa showcases organic food production expertise at SIAL Paris 2026",
+      "url": "http://www.bignewsnetwork.com/news/279387107/ektifa-showcases-organic-food-production-expertise-at-sial-paris-2026",
+      "domain": "bignewsnetwork.com",
+      "country": "United States",
+      "published": "2026-10-20T10:00:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.wnmufm.org/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "wnmufm.org",
+      "country": "United States",
+      "published": "2026-10-20T10:00:00+00:00"
+     },
+     {
+      "title": "Why are some food prices up and others down ? Here are the stories of 5 items",
+      "url": "https://www.wfae.org/united-states-world/2026-10-20/why-are-some-food-prices-up-and-others-down-here-are-the-stories-of-5-items",
+      "domain": "wfae.org",
+      "country": "United States",
+      "published": "2026-10-20T10:00:00+00:00"
+     },
      {
       "title": "Abubakar Malami And The Northwest Regional Campaign Manifesto ( Part 4 ) - By Hajia Hadiza Mohammed",
       "url": "https://www.opinionnigeria.com/abubakar-malami-and-the-northwest-regional-campaign-manifesto-part-4-by-hajia-hadiza-mohammed/",
@@ -1077,469 +301,297 @@
       "domain": "krtv.com",
       "country": "United States",
       "published": "2026-10-20T00:00:00+00:00"
-     },
-     {
-      "title": "Interactive : Is recalled meat sitting in your refrigerator right now ?",
-      "url": "https://www.ktvh.com/life/food-and-drink/interactive-is-recalled-meat-sitting-in-your-refrigerator-right-now",
-      "domain": "ktvh.com",
-      "country": "United States",
-      "published": "2026-10-20T00:00:00+00:00"
-     },
-     {
-      "title": "Local food infrastructures in Extension : Union County food innovation",
-      "url": "https://mcdowellnews.com/article_7cf1f8b3-c1c1-5c19-af4b-2f09f77596fc.html",
-      "domain": "mcdowellnews.com",
-      "country": "United States",
-      "published": "2026-10-20T00:00:00+00:00"
-     },
-     {
-      "title": "Interactive : Is recalled meat sitting in your refrigerator right now ?",
-      "url": "https://www.kjrh.com/life/food-and-drink/interactive-is-recalled-meat-sitting-in-your-refrigerator-right-now",
-      "domain": "kjrh.com",
-      "country": "United States",
-      "published": "2026-10-19T23:45:00+00:00"
-     },
-     {
-      "title": "Interactive : Is recalled meat sitting in your refrigerator right now ?",
-      "url": "https://www.10news.com/life/food-and-drink/interactive-is-recalled-meat-sitting-in-your-refrigerator-right-now",
-      "domain": "10news.com",
-      "country": "United States",
-      "published": "2026-10-19T23:30:00+00:00"
-     },
-     {
-      "title": "Salary increases approved for Richardson County Law Enforcement",
-      "url": "https://mscnews.net/local-news/936629",
-      "domain": "mscnews.net",
-      "country": "United States",
-      "published": "2026-10-19T23:30:00+00:00"
-     },
-     {
-      "title": "Interactive : Is recalled meat sitting in your refrigerator right now ?",
-      "url": "https://www.wcpo.com/life/food-and-drink/interactive-is-recalled-meat-sitting-in-your-refrigerator-right-now",
-      "domain": "wcpo.com",
-      "country": "United States",
-      "published": "2026-10-19T23:15:00+00:00"
-     },
-     {
-      "title": "Interactive : Is recalled meat sitting in your refrigerator right now ?",
-      "url": "https://www.koaa.com/life/food-and-drink/interactive-is-recalled-meat-sitting-in-your-refrigerator-right-now",
-      "domain": "koaa.com",
-      "country": "United States",
-      "published": "2026-10-19T23:15:00+00:00"
-     },
-     {
-      "title": "Interactive : Is recalled meat sitting in your refrigerator right now ?",
-      "url": "https://www.wtkr.com/life/food-and-drink/interactive-is-recalled-meat-sitting-in-your-refrigerator-right-now",
-      "domain": "wtkr.com",
-      "country": "United States",
-      "published": "2026-10-19T23:15:00+00:00"
-     },
-     {
-      "title": "How To Identify Meat Products Being Recalled",
-      "url": "https://710keel.com/deli-meat-poultry-recall-details/",
-      "domain": "710keel.com",
-      "country": "United States",
-      "published": "2026-10-19T23:15:00+00:00"
-     },
-     {
-      "title": "Shipping : The El Niño Effect | Hellenic Shipping News Worldwide",
-      "url": "https://www.hellenicshippingnews.com/shipping-the-el-nino-effect/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
-      "published": "2026-10-19T23:15:00+00:00"
-     },
-     {
-      "title": "How To Identify Meat Products Being Recalled",
-      "url": "https://k945.com/ixp/180/p/deli-meat-poultry-recall-details/",
-      "domain": "k945.com",
-      "country": "United States",
-      "published": "2026-10-19T22:15:00+00:00"
-     },
-     {
-      "title": "How To Identify Meat Products Being Recalled",
-      "url": "https://talkradio960.com/ixp/180/p/deli-meat-poultry-recall-details/",
-      "domain": "talkradio960.com",
-      "country": "United States",
-      "published": "2026-10-19T22:15:00+00:00"
-     },
-     {
-      "title": "Food Prices Face Fresh Pressure Into 2027 as Shipping Disruption and Drought Hit Supplies",
-      "url": "https://www.ibtimes.co.uk/global-food-prices-uk-inflation-forecast-2027-1826571",
-      "domain": "ibtimes.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Pathways for Sustainable Agriculture in Ethiopia",
-      "url": "https://ifdc.org/2026/10/19/from-organic-waste-to-soil-solutions-exploring-new-pathways-for-sustainable-agriculture-in-ethiopia/",
-      "domain": "ifdc.org",
-      "country": "United States",
-      "published": "2026-10-19T18:45:00+00:00"
-     },
-     {
-      "title": "Genea - Musings : The Cows on Henry Carringer Farm In Mercer County , Pennsylvania in 1850 - 1841",
-      "url": "https://www.geneamusings.com/2026/10/the-cows-on-henry-carringers-farm-in.html",
-      "domain": "geneamusings.com",
-      "country": "United States",
-      "published": "2026-10-19T17:45:00+00:00"
-     },
-     {
-      "title": "Supplements for Longer - Lasting Erections : What Works and What Doesnt",
-      "url": "https://www.menshealth.com/health/a73959289/supplements-for-better-sex-erections/",
-      "domain": "menshealth.com",
-      "country": "United States",
-      "published": "2026-10-19T17:30:00+00:00"
-     },
-     {
-      "title": "RFD - TV Weekly Crop Progress and Livestock Production Update Monday , October 19 , 2026",
-      "url": "https://www.rfdtv.com/rfd-tv-weekly-crop-progress-and-livestock-production-update-monday-october-19-2026",
-      "domain": "rfdtv.com",
-      "country": "United States",
-      "published": "2026-10-19T17:30:00+00:00"
-     },
-     {
-      "title": "Ogun Farm Investment Targets Food Security and Rural Jobs",
-      "url": "https://zalebs.com/business/ogun-unveils-farm-support-plan-for-10000-growers-to-boost-food-output/",
-      "domain": "zalebs.com",
-      "country": "South Africa",
-      "published": "2026-10-19T16:15:00+00:00"
-     },
-     {
-      "title": "Switzerland Today",
-      "url": "https://www.swissinfo.ch/eng/swiss-abroad-community/switzerland-today/92239864",
-      "domain": "swissinfo.ch",
-      "country": "Switzerland",
-      "published": "2026-10-19T16:15:00+00:00"
-     },
-     {
-      "title": "Tales of History | The farmer and the railroads : A virtuous circle",
-      "url": "https://www.news-gazette.com/opinion/guest-commentary/tales-of-history-the-farmer-and-the-railroads-a-virtuous-circle/article_1da1a039-aba5-4d07-a974-258f15d35cbe.html",
-      "domain": "news-gazette.com",
-      "country": "United States",
-      "published": "2026-10-19T16:00:00+00:00"
-     },
-     {
-      "title": "Indonesian scholar proposes reform for Almajiri education in Nigeria",
-      "url": "https://www.premiumtimesng.com/regional/nwest/918281-indonesian-scholar-proposes-reform-for-almajiri-education-in-nigeria.html",
-      "domain": "premiumtimesng.com",
-      "country": "Nigeria",
-      "published": "2026-10-19T15:30:00+00:00"
-     },
-     {
-      "title": "Kayem Foods Recalls 1 . 58 Million Pounds of Ready - to - Eat Meats Over Temperature Issues",
-      "url": "https://www.ibtimes.com.au/kayem-recalls-ready-eat-meat-temperature-deviations-1876996",
-      "domain": "ibtimes.com.au",
-      "country": "Australia",
-      "published": "2026-10-19T15:15:00+00:00"
-     },
-     {
-      "title": "How Busoga is moving from low - value subsistence cycles to an integrated economic engine",
-      "url": "https://www.independent.co.ug/how-busoga-is-moving-from-low-value-subsistence-cycles-to-an-integrated-economic-engine/",
-      "domain": "independent.co.ug",
-      "country": "Uganda",
-      "published": "2026-10-19T14:45:00+00:00"
-     },
-     {
-      "title": "Global food inflation expected to intensify , persist into 2027",
-      "url": "https://www.bnnbloomberg.ca/business/international/2026/10/19/global-food-inflation-is-expected-to-intensify-as-supply-shocks-pile-up/",
-      "domain": "bnnbloomberg.ca",
-      "country": "Canada",
-      "published": "2026-10-19T14:45:00+00:00"
-     },
-     {
-      "title": "Dhofar Municipal Council discusses ways to regulate taxi operation",
-      "url": "https://timesofoman.com/article/178173-dhofar-municipal-council-discusses-ways-to-regulate-taxi-operation",
-      "domain": "timesofoman.com",
-      "country": "Oman",
-      "published": "2026-10-19T14:45:00+00:00"
      }
     ],
     "economia_mundial": [
      {
-      "title": "Result of Fundraise , Restoration of Trading & TVR | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/ondine-biomedical-inc-npv-cdi---obi/result-of-fundraise-restoration-of-trading-tvr/9830670",
-      "domain": "investegate.co.uk",
+      "title": "Badenoch takes aim at Healey over public finances ahead of Budget",
+      "url": "https://www.worcesternews.co.uk/news/national/26652902.badenoch-takes-aim-healey-public-finances-ahead-budget/",
+      "domain": "worcesternews.co.uk",
       "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
+      "published": "2026-10-20T12:45:00+00:00"
+     },
+     {
+      "title": "Musk , Zuckerberg & Co : State Capture , U . S . Style",
+      "url": "https://www.theglobalist.com/musk-zuckerberg-altman-trump-state-capture-has-a-new-meaning/",
+      "domain": "theglobalist.com",
+      "country": "United States",
+      "published": "2026-10-20T12:45:00+00:00"
+     },
+     {
+      "title": "Badenoch takes aim at Healey over public finances ahead of Budget",
+      "url": "https://www.brentwoodlive.co.uk/news/national/26652902.badenoch-takes-aim-healey-public-finances-ahead-budget/",
+      "domain": "brentwoodlive.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-20T12:45:00+00:00"
+     },
+     {
+      "title": "Badenoch takes aim at Healey over public finances ahead of Budget",
+      "url": "https://www.swindonadvertiser.co.uk/news/national/26652902.badenoch-takes-aim-healey-public-finances-ahead-budget/",
+      "domain": "swindonadvertiser.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-20T12:45:00+00:00"
+     },
+     {
+      "title": "Badenoch takes aim at Healey over public finances ahead of Budget",
+      "url": "https://www.wimbledonguardian.co.uk/news/national/26652902.badenoch-takes-aim-healey-public-finances-ahead-budget/",
+      "domain": "wimbledonguardian.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-20T12:45:00+00:00"
+     },
+     {
+      "title": "US futures dip as AI sell - off returns and oil prices rise sharply",
+      "url": "https://www.durangoherald.com/articles/associated-press/asian-shares-mostly-decline-after-ai-stocks-lead-a-rebound-on-wall-street/",
+      "domain": "durangoherald.com",
+      "country": "United States",
+      "published": "2026-10-20T12:30:00+00:00"
+     },
+     {
+      "title": "Badenoch takes aim at Healey over public finances ahead of Budget",
+      "url": "https://www.surreycomet.co.uk/news/national/26652902.badenoch-takes-aim-healey-public-finances-ahead-budget/",
+      "domain": "surreycomet.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-20T12:30:00+00:00"
+     },
+     {
+      "title": "US government Uganda shs 4 . 920 trillion trade support",
+      "url": "https://ntv.co.ug/business/us-government-uganda-shs-4-920-trillion-trade-support",
+      "domain": "ntv.co.ug",
+      "country": "Uganda",
+      "published": "2026-10-20T12:30:00+00:00"
+     },
+     {
+      "title": "AI stocks recover some losses ; rest of market shaky | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/oct/20/ai-stocks-recover-some-losses-rest-of-market-shaky/",
+      "domain": "arkansasonline.com",
+      "country": "United States",
+      "published": "2026-10-20T12:15:00+00:00"
+     },
+     {
+      "title": "Letters | The Arkansas Democrat - Gazette - Arkansa Best News Source",
+      "url": "https://www.arkansasonline.com/news/2026/oct/20/letters/",
+      "domain": "arkansasonline.com",
+      "country": "United States",
+      "published": "2026-10-20T12:15:00+00:00"
      },
      {
       "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers",
-      "url": "https://www.gazetteseries.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
-      "domain": "gazetteseries.co.uk",
+      "url": "https://www.clactonandfrintongazette.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
+      "domain": "clactonandfrintongazette.co.uk",
       "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
+      "published": "2026-10-20T12:15:00+00:00"
      },
      {
-      "title": "Fortuna intersects 0 . 96 g / t gold over 350 meters at the Lindero Mine , Argentina | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/gnw/fortuna-mining-corp-ord-shs--0qym/fortuna-intersects-0-96-g-t-gold-over-350-met-/9831851",
-      "domain": "investegate.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
+      "title": "HSBC CEO on data center financing amid AI borrowing spree",
+      "url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+      "domain": "cnbc.com",
+      "country": "United States",
+      "published": "2026-10-20T12:15:00+00:00"
      },
      {
-      "title": "ASX drops as BHP copper slump and NAB job cuts drag market lower",
-      "url": "https://www.perthnow.com.au/news/business/markets/asx-drops-as-bhp-copper-slump-and-nab-job-cuts-drag-market-lower-c-23049089",
-      "domain": "perthnow.com.au",
-      "country": "Australia",
-      "published": "2026-10-20T09:15:00+00:00"
+      "title": "Large fund gains targeted for recovery , Şimşek says",
+      "url": "https://www.hurriyetdailynews.com/large-fund-gains-targeted-for-recovery-simsek-says-228365",
+      "domain": "hurriyetdailynews.com",
+      "country": "Turkey",
+      "published": "2026-10-20T12:00:00+00:00"
      },
      {
-      "title": "Transaction in Own Shares | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/gcp-infrastructure-investments-ltd--gcp/transaction-in-own-shares/9831638",
-      "domain": "investegate.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Launch of Tender Offer | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/arada-sukuk-limited--ri99/launch-of-tender-offer/9831635",
-      "domain": "investegate.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "OpenAI seeks to accelerate fundraising ahead of Anthropic planned IPO",
-      "url": "https://www.business-standard.com/world-news/openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-s-planned-ipo-126102000192_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "GIFT Nifty : Meaning , Timings , Benefits , And How It Works For Indian Stock Market Investors",
-      "url": "https://www.oneindia.com/partner-content/gift-nifty-meaning-timings-benefits-how-it-works-indian-stock-market-guide-012-8240501.html",
-      "domain": "oneindia.com",
-      "country": "India",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Nano One Advances One - Pot LFP Customer Sampling with Sumitomo Metal Mining",
-      "url": "https://www.saultstar.com/press-releases/business-wire/nano-one-advances-one-pot-lfp-customer-sampling-with-sumitomo-metal-mining/",
-      "domain": "saultstar.com",
+      "title": "White Gold Expands the High - Grade Core at Golden Saddle Deposit Intersecting 5 . 13 g / t Gold over 7 . 9m within 1 . 47g / t Gold over 38 . 1m and Significantly Extends the VG Deposit High - Grade Mineralization by 90m to 320m Down - Plunge Across...",
+      "url": "https://www.intelligencer.ca/press-releases/newsfile/white-gold-expands-the-high-grade-core-at-golden-saddle-deposit-intersecting-5-13-g-t-gold-over-7-9m-within-1-47g-t-gold-over-38-1m-and-significantly-extends-the-vg-deposit-high-grade-mineralization-b/",
+      "domain": "intelligencer.ca",
       "country": "Canada",
-      "published": "2026-10-20T09:15:00+00:00"
+      "published": "2026-10-20T12:00:00+00:00"
      },
      {
-      "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers",
-      "url": "https://www.dudleynews.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
-      "domain": "dudleynews.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
+      "title": "White Gold Expands the High - Grade Core at Golden Saddle Deposit Intersecting 5 . 13 g / t Gold over 7 . 9m within 1 . 47g / t Gold over 38 . 1m and Significantly Extends the VG Deposit High - Grade Mineralization by 90m to 320m Down - Plunge Across...",
+      "url": "https://www.nugget.ca/press-releases/newsfile/white-gold-expands-the-high-grade-core-at-golden-saddle-deposit-intersecting-5-13-g-t-gold-over-7-9m-within-1-47g-t-gold-over-38-1m-and-significantly-extends-the-vg-deposit-high-grade-mineralization-b/",
+      "domain": "nugget.ca",
+      "country": "Canada",
+      "published": "2026-10-20T12:00:00+00:00"
      },
      {
-      "title": "The Elephant in the Emergency Room : Why Federal Health Reform Fails Without Hospital Price Discipline",
-      "url": "https://www.nakedcapitalism.com/2026/10/the-elephant-in-the-emergency-room-why-federal-health-reform-fails-without-hospital-price-discipline.html",
-      "domain": "nakedcapitalism.com",
-      "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Daily Market Commentary for October 19th 2026 - Motilal Oswal Financial Services Ltd",
-      "url": "https://www.equitybulls.com/news/377307/daily-market-commentary-for-october-19th-2026-motilal-oswal-financial-services-l",
-      "domain": "equitybulls.com",
+      "title": "We are the cows of future : Harsh Goenka shares stark warning about AI",
+      "url": "https://ianslive.in/we-are-the-cows-of-future-harsh-goenka-shares-stark-warning-about-ai--20261020145859",
+      "domain": "ianslive.in",
       "country": "India",
-      "published": "2026-10-20T09:15:00+00:00"
+      "published": "2026-10-20T12:00:00+00:00"
      },
      {
-      "title": "Warren Buffett Is Issuing a Stark Warning About the Stock Market . Here What History Says Comes Next .",
-      "url": "https://www.aol.com/articles/warren-buffett-issuing-stark-warning-082000000.html",
-      "domain": "aol.com",
+      "title": "Martin Lewis mortgage advice on when to act before deal ends",
+      "url": "https://www.thewestonmercury.co.uk/news/26651841.martin-lewis-mortgage-advice-act-deal-ends/",
+      "domain": "thewestonmercury.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "Martin Lewis mortgage advice on when to act before deal ends",
+      "url": "https://www.bridgwatermercury.co.uk/news/26651841.martin-lewis-mortgage-advice-act-deal-ends/",
+      "domain": "bridgwatermercury.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "France mounting debt crisis : How Macron economic policies are putting financial stability at risk – ANALYSIS",
+      "url": "https://en.apa.az/political/frances-mounting-debt-crisis-how-macrons-economic-policies-are-putting-financial-stability-at-risk-analysis-531129",
+      "domain": "en.apa.az",
+      "country": "Azerbaijan",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "Stability Of Ghana Economy Is Attracting Strong Interest From Global Investors – Mahama – Ghanamma . com",
+      "url": "https://www.ghanamma.com/2026/10/20/stability-of-ghanas-economy-is-attracting-strong-interest-from-global-investors-mahama/",
+      "domain": "ghanamma.com",
+      "country": "Ghana",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers | Dumbarton and Vale of Leven Reporter",
+      "url": "https://www.dumbartonreporter.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
+      "domain": "dumbartonreporter.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "Dynamic Alpha Macro Fund Marks Three - Year Milestone with 5 - Star Overall Morningstar Rating™",
+      "url": "http://www.prnewswire.com/news-releases/dynamic-alpha-macro-fund-marks-three-year-milestone-with-5-star-overall-morningstar-rating-302913301.html",
+      "domain": "prnewswire.com",
       "country": "United States",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Liquidity Tightens , Yields Rise Amid RBI FX Actions",
-      "url": "https://www.equitybulls.com/news/377306/liquidity-tightens-yields-rise-amid-rbi-s-fx-actions",
-      "domain": "equitybulls.com",
-      "country": "India",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Naira May Hit ₦4 , 000 / $ if Fuel Subsidy Returns Oyedele",
-      "url": "https://www.opinionnigeria.com/naira-could-fall-to-%E2%82%A64000-if-fuel-subsidy-returns-oyedele-warns/",
-      "domain": "opinionnigeria.com",
-      "country": "Nigeria",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "UK unemployment falls to lowest in a year but vacancies slide further",
-      "url": "https://www.gazetteseries.co.uk/news/national/26651572.uk-unemployment-falls-lowest-year-vacancies-slide/",
-      "domain": "gazetteseries.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
+      "published": "2026-10-20T12:00:00+00:00"
      },
      {
       "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers",
-      "url": "https://www.thetelegraphandargus.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
-      "domain": "thetelegraphandargus.co.uk",
+      "url": "https://www.malverngazette.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
+      "domain": "malverngazette.co.uk",
       "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
+      "published": "2026-10-20T12:00:00+00:00"
      },
      {
-      "title": "Proposed Fundraising of a minimum of £20 million | Company Announcement",
-      "url": "https://www.investegate.co.uk/announcement/rns/invinity-energy-systems--ies/proposed-fundraising-of-a-minimum-of-20-million/9830673",
-      "domain": "investegate.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
+      "title": "Has food inflation lost its bite ?",
+      "url": "https://www.ecb.europa.eu/press/blog/date/2026/html/ecb.blog20261020~b21516b402.en.html",
+      "domain": "ecb.europa.eu",
+      "country": "Greece",
+      "published": "2026-10-20T12:00:00+00:00"
      },
      {
-      "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers",
-      "url": "https://www.halesowennews.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
-      "domain": "halesowennews.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers",
-      "url": "https://www.lynnnews.co.uk/national/uk-s-jobless-rate-falls-but-shrinking-vacancies-a-bitter-blow-to-jobseekers-173196/",
-      "domain": "lynnnews.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "UK unemployment falls to lowest in a year but vacancies slide further",
-      "url": "https://www.thetelegraphandargus.co.uk/news/national/26651572.uk-unemployment-falls-lowest-year-vacancies-slide/",
-      "domain": "thetelegraphandargus.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers",
-      "url": "https://www.whtimes.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
-      "domain": "whtimes.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "UK unemployment falls to lowest in a year but vacancies slide further",
-      "url": "https://www.whtimes.co.uk/news/national/26651572.uk-unemployment-falls-lowest-year-vacancies-slide/",
-      "domain": "whtimes.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:15:00+00:00"
-     },
-     {
-      "title": "Japan 20 - Year Bond Auction Sees Bid - to - Cover Ratio Climb to 5 . 84",
-      "url": "https://econotimes.com/Japan-s-20-Year-Bond-Auction-Sees-Bid-to-Cover-Ratio-Climb-to-5-84-1757507",
-      "domain": "econotimes.com",
+      "title": "UAE Business : GCC leads emerging - market ESG dollar issuance : Fitch",
+      "url": "https://www.gdnonline.com:443/Details/1410283",
+      "domain": "gdnonline.com",
       "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
+      "published": "2026-10-20T12:00:00+00:00"
      },
      {
       "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers",
-      "url": "https://www.kilburntimes.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
-      "domain": "kilburntimes.co.uk",
+      "url": "https://www.eppingforestguardian.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
+      "domain": "eppingforestguardian.co.uk",
       "country": "United Kingdom",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "UK unemployment falls to lowest in a year but vacancies slide further",
-      "url": "https://www.hampshirechronicle.co.uk/news/national/26651572.uk-unemployment-falls-lowest-year-vacancies-slide/",
-      "domain": "hampshirechronicle.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "From France and Italy to Belgium : What is driving protests across Europe ?",
-      "url": "https://www.business-standard.com/world-news/from-france-and-italy-to-belgium-what-is-driving-protests-across-europe-126102000200_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-10-20T09:00:00+00:00"
+      "published": "2026-10-20T12:00:00+00:00"
      },
      {
       "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers",
-      "url": "https://www.stourbridgenews.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
-      "domain": "stourbridgenews.co.uk",
+      "url": "https://www.thewestonmercury.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
+      "domain": "thewestonmercury.co.uk",
       "country": "United Kingdom",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Indonesian stocks rebound from six - year low ; Taiwan dollar slips",
-      "url": "https://www.thestar.com.my/business/business-news/2026/10/20/indonesian-stocks-rebound-from-six-year-low-taiwan-dollar-slips",
-      "domain": "thestar.com.my",
-      "country": "Malaysia",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "UK unemployment falls to lowest in a year but vacancies slide further",
-      "url": "https://www.kilburntimes.co.uk/news/national/26651572.uk-unemployment-falls-lowest-year-vacancies-slide/",
-      "domain": "kilburntimes.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:00:00+00:00"
+      "published": "2026-10-20T12:00:00+00:00"
      },
      {
       "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers",
-      "url": "https://www.echo-news.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
-      "domain": "echo-news.co.uk",
+      "url": "https://www.stroudnewsandjournal.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
+      "domain": "stroudnewsandjournal.co.uk",
       "country": "United Kingdom",
-      "published": "2026-10-20T09:00:00+00:00"
+      "published": "2026-10-20T12:00:00+00:00"
      },
      {
       "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers",
-      "url": "https://www.northwichguardian.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
-      "domain": "northwichguardian.co.uk",
+      "url": "https://www.cambstimes.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
+      "domain": "cambstimes.co.uk",
       "country": "United Kingdom",
-      "published": "2026-10-20T09:00:00+00:00"
+      "published": "2026-10-20T12:00:00+00:00"
      },
      {
-      "title": "FinancialContent - FITB Q3 Deep Dive : Integration Progress and Deposit Growth Drive Steady Performance",
-      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-20-fitb-q3-deep-dive-integration-progress-and-deposit-growth-drive-steady-performance",
-      "domain": "markets.financialcontent.com",
+      "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers",
+      "url": "https://www.bridgwatermercury.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
+      "domain": "bridgwatermercury.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "Iran Foreign Ministry suggested that the country favous diplomacy , though crude benchmarks continued to move higher ; GBP gains post - jobs data - Newsquawk US Market Open",
+      "url": "https://www.chinatechnews.com/2026/10/20/131113-irans-foreign-ministry-suggested-that-the-country-favous-diplomacy-though-crude-benchmarks-continued-to-move-higher-gbp-gains-post-jobs-data-newsquawk-us-market-open",
+      "domain": "chinatechnews.com",
+      "country": "China",
+      "published": "2026-10-20T12:00:00+00:00"
+     },
+     {
+      "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers",
+      "url": "https://www.ludlowadvertiser.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
+      "domain": "ludlowadvertiser.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-20T11:45:00+00:00"
+     },
+     {
+      "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers | East London and West Essex Guardian Series",
+      "url": "https://www.guardian-series.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
+      "domain": "guardian-series.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-20T11:45:00+00:00"
+     },
+     {
+      "title": "Blossom Gold Inc . Begins Trading on OTCQX Best Market",
+      "url": "https://www.manilatimes.net/2026/10/20/tmt-newswire/globenewswire/blossom-gold-inc-begins-trading-on-otcqx-best-market/2449594",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-10-20T11:45:00+00:00"
+     },
+     {
+      "title": "Inventus Commences 6 , 000 - Metre , 155 - Hole Phase 3 Drill Program at Pardo",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/inventus-commences-6000-metre-155-hole-phase-3-drill-program-at-pardo/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-10-20T11:45:00+00:00"
+     },
+     {
+      "title": "PODCAST | Standard Bank on the race to modernise payments",
+      "url": "https://www.businessday.co.za/economy/2026-10-20-podcast-standard-bank-on-the-race-to-modernise-payments/",
+      "domain": "businessday.co.za",
+      "country": "South Africa",
+      "published": "2026-10-20T11:45:00+00:00"
+     },
+     {
+      "title": "Japanese investors boost government bond purchases to …",
+      "url": "https://hedgeweek.com/news/japanese-investors-boost-government-bond-purchases-to-17-year-high",
+      "domain": "hedgeweek.com",
+      "country": "United Kingdom",
+      "published": "2026-10-20T11:45:00+00:00"
+     },
+     {
+      "title": "Princeton Bancorp ( NASDAQ : BPRN ) and Central Bancompany ( NASDAQ : CBC ) Critical Contrast",
+      "url": "https://www.dailypolitical.com/2026/10/20/princeton-bancorp-nasdaqbprn-and-central-bancompany-nasdaqcbc-critical-contrast.html",
+      "domain": "dailypolitical.com",
       "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
+      "published": "2026-10-20T11:45:00+00:00"
+     },
+     {
+      "title": "The 24 - hour economy : Who will buy what we produce ?",
+      "url": "https://thebftonline.com/article/the-24-hour-economy-who-will-buy-what-we-produce",
+      "domain": "thebftonline.com",
+      "country": "Ghana",
+      "published": "2026-10-20T11:45:00+00:00"
      },
      {
       "title": "UK jobless rate falls but shrinking vacancies a  bitter blow  to jobseekers",
-      "url": "https://www.lancashiretelegraph.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
-      "domain": "lancashiretelegraph.co.uk",
+      "url": "https://www.runcornandwidnesworld.co.uk/news/national/26651913.uks-jobless-rate-falls-shrinking-vacancies-bitter-blow-jobseekers/",
+      "domain": "runcornandwidnesworld.co.uk",
       "country": "United Kingdom",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "UK unemployment falls to lowest in a year but vacancies slide further",
-      "url": "https://www.thetottenhamindependent.co.uk/news/national/26651572.uk-unemployment-falls-lowest-year-vacancies-slide/",
-      "domain": "thetottenhamindependent.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "UK unemployment falls to lowest in a year but vacancies slide further",
-      "url": "https://www.eveningnews24.co.uk/news/national/26651572.uk-unemployment-falls-lowest-year-vacancies-slide/",
-      "domain": "eveningnews24.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Soaring costs spark unrest across Europe , giving far - right fresh momentum",
-      "url": "https://www.jpost.com/international/article-912258",
-      "domain": "jpost.com",
-      "country": "Israel",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "Tech companies need more data centers . So why are nearly half of all planned projects delayed or canceled ?",
-      "url": "https://abc17news.com/stacker-technology/2026/10/19/tech-companies-need-more-data-centers-so-why-are-nearly-half-of-all-planned-projects-delayed-or-canceled/",
-      "domain": "abc17news.com",
-      "country": "United States",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "The rioting across France is a symptom of a much larger public and political crisis",
-      "url": "https://www.egyptindependent.com/the-rioting-across-france-is-a-symptom-of-a-much-larger-public-and-political-crisis/",
-      "domain": "egyptindependent.com",
-      "country": "Egypt",
-      "published": "2026-10-20T09:00:00+00:00"
-     },
-     {
-      "title": "UK unemployment falls to lowest in a year but vacancies slide further",
-      "url": "https://www.bridportnews.co.uk/news/national/26651572.uk-unemployment-falls-lowest-year-vacancies-slide/",
-      "domain": "bridportnews.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-20T09:00:00+00:00"
+      "published": "2026-10-20T11:45:00+00:00"
      }
     ]
    },
    "errors": {
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
