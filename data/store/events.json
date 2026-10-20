@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-19T15:46:27-06:00",
+  "at": "2026-10-19T19:01:09-06:00",
   "data": {
    "storms": [
     {
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-19T15:46:27-06:00",
+  "at": "2026-10-19T19:01:09-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,16 +123,163 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-19T15:46:27-06:00",
+  "at": "2026-10-19T19:01:09-06:00",
   "data": {
    "raw": {
     "commodities_agricolas": [
+     {
+      "title": "India - New Zealand free trade pact to come into effect from Oct 20",
+      "url": "https://www.dailyexcelsior.com/india-new-zealand-free-trade-pact-to-come-into-effect-from-oct-20/",
+      "domain": "dailyexcelsior.com",
+      "country": "India",
+      "published": "2026-10-20T00:30:00+00:00"
+     },
+     {
+      "title": "Queensland grain harvest delayed by rain as graziers rejoice | Queensland Country Life",
+      "url": "https://www.queenslandcountrylife.com.au/story/9371397/queensland-grain-harvest-delayed-by-rain-as-graziers-rejoice/",
+      "domain": "queenslandcountrylife.com.au",
+      "country": "Australia",
+      "published": "2026-10-20T00:30:00+00:00"
+     },
+     {
+      "title": "Higher diesel costs can change the best grain delivery choice",
+      "url": "https://www.kmaland.com/ag/agri_news/higher-diesel-costs-can-change-the-best-grain-delivery-choice/article_de9bd9d7-82b9-5263-b11e-8efedae890f7.html",
+      "domain": "kmaland.com",
+      "country": "United States",
+      "published": "2026-10-20T00:30:00+00:00"
+     },
+     {
+      "title": "Nebraska farmers face high fuel costs , uncertain markets during harvest",
+      "url": "https://www.ketv.com/article/nebraska-farmers-face-high-fuel-costs-uncertain-markets-during-harvest/74185214",
+      "domain": "ketv.com",
+      "country": "United States",
+      "published": "2026-10-20T00:15:00+00:00"
+     },
+     {
+      "title": "Thailand to Experience Blood Moon Eclipse on 7 - 8 September 2025",
+      "url": "https://www.chiangraitimes.com/thailand-news/blood-moon-thailand/",
+      "domain": "chiangraitimes.com",
+      "country": "Thailand",
+      "published": "2026-10-20T00:00:00+00:00"
+     },
+     {
+      "title": "East Texas Pumpkin Patches for Pumpkins and Fall Activities",
+      "url": "https://b93.net/ixp/185/p/east-texas-pumpkin-patches-2026/",
+      "domain": "b93.net",
+      "country": "United States",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "Wet Weather Slows Combines Across Ohio",
+      "url": "https://ocj.com/2026/10/wet-weather-slows-combines-across-ohio/",
+      "domain": "ocj.com",
+      "country": "United States",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "Virginia Ranks # 14 for Food Import Exposure as Tariffs Threaten Grocery Bills",
+      "url": "https://www.insidenova.com/news/state/virginia-ranks-14-for-food-import-exposure-as-tariffs-threaten-grocery-bills/article_18a6c236-7d14-546f-8061-1847bc48b77b.html",
+      "domain": "insidenova.com",
+      "country": "United States",
+      "published": "2026-10-19T23:30:00+00:00"
+     },
+     {
+      "title": "The Best Trail Cameras of 2026 , Tested and Reviewed",
+      "url": "https://www.outdoorlife.com/gear/best-trail-cameras-2026/",
+      "domain": "outdoorlife.com",
+      "country": "United States",
+      "published": "2026-10-19T23:30:00+00:00"
+     },
+     {
+      "title": "East Texas Pumpkin Patches for Pumpkins and Fall Activities",
+      "url": "https://mix931fm.com/east-texas-pumpkin-patches-2026/",
+      "domain": "mix931fm.com",
+      "country": "United States",
+      "published": "2026-10-19T23:15:00+00:00"
+     },
+     {
+      "title": "Canadian wheat outlook improves as harvest advances , quality fears ease | Hellenic Shipping News Worldwide",
+      "url": "https://www.hellenicshippingnews.com/canadian-wheat-outlook-improves-as-harvest-advances-quality-fears-ease/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-10-19T23:15:00+00:00"
+     },
+     {
+      "title": "East Texas Pumpkin Patches for Pumpkins and Fall Activities",
+      "url": "https://kbat.com/ixp/185/p/east-texas-pumpkin-patches-2026/",
+      "domain": "kbat.com",
+      "country": "United States",
+      "published": "2026-10-19T23:15:00+00:00"
+     },
+     {
+      "title": "Higher diesel costs can change the best grain delivery choice",
+      "url": "https://kxel.com/2026/10/19/higher-diesel-costs-can-change-the-best-grain-delivery-choice/",
+      "domain": "kxel.com",
+      "country": "United States",
+      "published": "2026-10-19T23:15:00+00:00"
+     },
+     {
+      "title": "New online tool helps farmers decide among dizzying array of insurance options",
+      "url": "https://www.stuttgartdailyleader.com/new-online-tool-helps-farmers-decide-among-dizzying-array-of-insurance-options/",
+      "domain": "stuttgartdailyleader.com",
+      "country": "United States",
+      "published": "2026-10-19T23:15:00+00:00"
+     },
+     {
+      "title": "Shipping : The El Niño Effect | Hellenic Shipping News Worldwide",
+      "url": "https://www.hellenicshippingnews.com/shipping-the-el-nino-effect/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-10-19T23:15:00+00:00"
+     },
+     {
+      "title": "Kenilworth Dairies launches One Farm milk as demand surges | North Queensland Register",
+      "url": "https://www.northqueenslandregister.com.au/story/9364540/kenilworth-dairies-launches-one-farm-milk-as-demand-surges/",
+      "domain": "northqueenslandregister.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T23:00:00+00:00"
+     },
+     {
+      "title": "Zelenskiy asks neighbours to allow Ukrainian grain transit",
+      "url": "https://www.thepigsite.com/news/2026/10/zelenskiy-asks-neighbours-to-allow-ukrainian-grain-transit",
+      "domain": "thepigsite.com",
+      "country": "United Kingdom",
+      "published": "2026-10-19T22:15:00+00:00"
+     },
+     {
+      "title": "Pakistan : Farmer organisation calls for agricultural emergency , cites farmer mounting losses",
+      "url": "http://www.brazilsun.com/news/279385520/pakistan-farmers-organisation-calls-for-agricultural-emergency-cites-farmers-mounting-losses",
+      "domain": "brazilsun.com",
+      "country": "Brazil",
+      "published": "2026-10-19T21:45:00+00:00"
+     },
+     {
+      "title": "Montanans join No Kings rallies across the state",
+      "url": "https://www.mtpr.org/montana-news/2026-10-19/montanans-join-no-kings-rallies-across-the-state",
+      "domain": "mtpr.org",
+      "country": "United States",
+      "published": "2026-10-19T21:30:00+00:00"
+     },
+     {
+      "title": "Market Wrap - Up : Monday , Oct . 19",
+      "url": "https://www.wlj.net/market-wrap-up-monday-oct-19/",
+      "domain": "wlj.net",
+      "country": "United States",
+      "published": "2026-10-19T21:30:00+00:00"
+     },
      {
       "title": "Pakistan : Farmer organisation calls for agricultural emergency , cites farmer mounting losses",
       "url": "http://www.russiaherald.com/news/279385520/pakistan-farmers-organisation-calls-for-agricultural-emergency-cites-farmers-mounting-losses",
       "domain": "russiaherald.com",
       "country": "Russia",
       "published": "2026-10-19T20:45:00+00:00"
+     },
+     {
+      "title": "Pakistan : Farmer organisation calls for agricultural emergency , cites farmer mounting losses",
+      "url": "http://www.sandiegosun.com/news/279385520/pakistan-farmers-organisation-calls-for-agricultural-emergency-cites-farmers-mounting-losses",
+      "domain": "sandiegosun.com",
+      "country": "United States",
+      "published": "2026-10-19T20:30:00+00:00"
      },
      {
       "title": "Food Prices Face Fresh Pressure Into 2027 as Shipping Disruption and Drought Hit Supplies",
@@ -150,10 +297,17 @@
      },
      {
       "title": "Pakistan : Farmer organisation calls for agricultural emergency , cites farmer mounting losses",
-      "url": "http://www.sandiegosun.com/news/279385520/pakistan-farmers-organisation-calls-for-agricultural-emergency-cites-farmers-mounting-losses",
-      "domain": "sandiegosun.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
+      "url": "http://www.iranherald.com/news/279385520/pakistan-farmers-organisation-calls-for-agricultural-emergency-cites-farmers-mounting-losses",
+      "domain": "iranherald.com",
+      "country": "Iran",
+      "published": "2026-10-19T20:15:00+00:00"
+     },
+     {
+      "title": "Closing grain prices Monday , October 19",
+      "url": "https://www.620ckrm.com/2026/10/19/closing-grain-prices-monday-october-19/",
+      "domain": "620ckrm.com",
+      "country": "Canada",
+      "published": "2026-10-19T20:15:00+00:00"
      },
      {
       "title": "2026 midterm elections live updates : Latest news , results , and analysis",
@@ -167,20 +321,6 @@
       "url": "http://www.northkoreatimes.com/news/279385520/pakistan-farmers-organisation-calls-for-agricultural-emergency-cites-farmers-mounting-losses",
       "domain": "northkoreatimes.com",
       "country": "North Korea",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Pakistan : Farmer organisation calls for agricultural emergency , cites farmer mounting losses",
-      "url": "http://www.iranherald.com/news/279385520/pakistan-farmers-organisation-calls-for-agricultural-emergency-cites-farmers-mounting-losses",
-      "domain": "iranherald.com",
-      "country": "Iran",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Closing grain prices Monday , October 19",
-      "url": "https://www.620ckrm.com/2026/10/19/closing-grain-prices-monday-october-19/",
-      "domain": "620ckrm.com",
-      "country": "Canada",
       "published": "2026-10-19T20:15:00+00:00"
      },
      {
@@ -266,96 +406,478 @@
       "domain": "dominicanrepublicpost.com",
       "country": "United States",
       "published": "2026-10-19T17:30:00+00:00"
+     }
+    ],
+    "comercio_internacional": [
+     {
+      "title": "Very close  to finalising trade deal with India : Rubio",
+      "url": "https://www.dailyexcelsior.com/very-close-to-finalising-trade-deal-with-india-rubio/",
+      "domain": "dailyexcelsior.com",
+      "country": "India",
+      "published": "2026-10-20T00:30:00+00:00"
      },
      {
-      "title": "Boo - klyn is back : Your guide to fall festivals and family - friendly Halloween events across the borough",
-      "url": "https://www.brooklynpaper.com/brooklyn-family-friendly-halloween-events-guide-2026/",
-      "domain": "brooklynpaper.com",
+      "title": "Susan Collin math doesnt add up",
+      "url": "https://www.centralmaine.com/2026/10/19/susan-collins-math-doesnt-add-up-letter/",
+      "domain": "centralmaine.com",
       "country": "United States",
-      "published": "2026-10-19T17:30:00+00:00"
+      "published": "2026-10-20T00:30:00+00:00"
      },
      {
-      "title": "Famine fears as aid cuts and shipment restrictions coincide in Gaza - Grenada Chronicle – Daily Grenada And Caribbean News",
-      "url": "https://grenadachronicle.com/famine-fears-as-aid-cuts-and-shipment-restrictions-coincide-in-gaza/",
-      "domain": "grenadachronicle.com",
+      "title": "Trump waives Russia sanctions , tariffs before they take effect",
+      "url": "http://www.sierraleonetimes.com/news/279381461/trump-waives-russia-sanctions-tariffs-before-they-take-effect",
+      "domain": "sierraleonetimes.com",
+      "country": "Sierra Leone",
+      "published": "2026-10-20T00:30:00+00:00"
+     },
+     {
+      "title": "Kansas farmer : Trump policies cost Republicans his vote",
+      "url": "https://www.kcra.com/article/kansas-farmer-says-trump-policies-cost-republican-senator-his-vote/74184851",
+      "domain": "kcra.com",
       "country": "United States",
-      "published": "2026-10-19T17:30:00+00:00"
+      "published": "2026-10-20T00:30:00+00:00"
      },
      {
-      "title": "Pakistan : Farmer organisation calls for agricultural emergency , cites farmer mounting losses",
-      "url": "http://www.mainemirror.com/news/279385520/pakistan-farmers-organisation-calls-for-agricultural-emergency-cites-farmers-mounting-losses",
-      "domain": "mainemirror.com",
+      "title": "Trump blocks new Russia sanctions and tariffs from taking effect",
+      "url": "http://www.shanghainews.net/news/279381461/trump-blocks-new-russia-sanctions-and-tariffs-from-taking-effect",
+      "domain": "shanghainews.net",
+      "country": "China",
+      "published": "2026-10-20T00:30:00+00:00"
+     },
+     {
+      "title": "Trump waives Russia sanctions , tariffs before they take effect",
+      "url": "http://www.baltimorestar.com/news/279381461/trump-waives-russia-sanctions-tariffs-before-they-take-effect",
+      "domain": "baltimorestar.com",
       "country": "United States",
-      "published": "2026-10-19T17:30:00+00:00"
+      "published": "2026-10-20T00:30:00+00:00"
      },
      {
-      "title": "How the IMF can win back its relevance as Trump cosies up to Putin",
-      "url": "https://www.thetimes.com/business/economics/article/imf-relevance-trump-putin-zggpd7mjf",
-      "domain": "thetimes.com",
+      "title": "Rice tariff collection hits P16 billion in 9 months",
+      "url": "https://www.philstar.com/business/2026/10/20/2564331/rice-tariff-collection-hits-p16-billion-9-months",
+      "domain": "philstar.com",
+      "country": "Philippines",
+      "published": "2026-10-20T00:30:00+00:00"
+     },
+     {
+      "title": "DA starts probe on safeguard measures for imported pork",
+      "url": "https://www.philstar.com/business/2026/10/20/2564330/da-starts-probe-safeguard-measures-imported-pork",
+      "domain": "philstar.com",
+      "country": "Philippines",
+      "published": "2026-10-20T00:30:00+00:00"
+     },
+     {
+      "title": "End of Ukrainian regime : Lavrov claims Zelenskyy fears acceptable peace deal with US , Russia",
+      "url": "https://www.tribuneindia.com/news/world/end-of-ukrainian-regime-lavrov-claims-zelenskyy-fears-acceptable-peace-deal-with-us-russia/",
+      "domain": "tribuneindia.com",
+      "country": "India",
+      "published": "2026-10-20T00:30:00+00:00"
+     },
+     {
+      "title": "Trump holds up Patriot missiles for Ukraine as Russian strikes intensify , officials say",
+      "url": "https://investinglive.com/commodities/trump-holds-up-patriot-missiles-for-ukraine-as-russian-strikes-intensify-officials-say/",
+      "domain": "investinglive.com",
       "country": "",
-      "published": "2026-10-19T17:30:00+00:00"
+      "published": "2026-10-20T00:30:00+00:00"
      },
      {
-      "title": "Record ARC PLC Payments Near As Enrollment Reopens",
-      "url": "https://www.rfdtv.com/record-arc-plc-payments-near-as-enrollment-reopens",
+      "title": "Trump waives Russia sanctions , tariffs before they take effect",
+      "url": "http://www.chinanationalnews.com/news/279381461/trump-waives-russia-sanctions-tariffs-before-they-take-effect",
+      "domain": "chinanationalnews.com",
+      "country": "China",
+      "published": "2026-10-20T00:30:00+00:00"
+     },
+     {
+      "title": "End of Ukrainian regime : Lavrov claims Zelenskyy fears acceptable peace deal with US , Russia",
+      "url": "http://www.nepalnational.com/news/279386152/end-of-ukrainian-regime-lavrov-claims-zelenskyy-fears-acceptable-peace-deal-with-us-russia",
+      "domain": "nepalnational.com",
+      "country": "Nepal",
+      "published": "2026-10-20T00:15:00+00:00"
+     },
+     {
+      "title": "Nebraska farmers face high fuel costs , uncertain markets during harvest",
+      "url": "https://www.ketv.com/article/nebraska-farmers-face-high-fuel-costs-uncertain-markets-during-harvest/74185214",
+      "domain": "ketv.com",
+      "country": "United States",
+      "published": "2026-10-20T00:15:00+00:00"
+     },
+     {
+      "title": "Trump waives Russia sanctions , tariffs before they take effect",
+      "url": "http://www.nepalnational.com/news/279381461/trump-waives-russia-sanctions-tariffs-before-they-take-effect",
+      "domain": "nepalnational.com",
+      "country": "Nepal",
+      "published": "2026-10-20T00:15:00+00:00"
+     },
+     {
+      "title": "Trump waives Russia sanctions , tariffs before they take effect",
+      "url": "http://www.afghanistansun.com/news/279381461/trump-waives-russia-sanctions-tariffs-before-they-take-effect",
+      "domain": "afghanistansun.com",
+      "country": "Afghanistan",
+      "published": "2026-10-20T00:00:00+00:00"
+     },
+     {
+      "title": "GOP growing concerned over farmer votes",
+      "url": "https://www.mtairynews.com/ap/business/gop-growing-concerned-over-farmers-votes/article_0f498ac2-b1e7-58f8-9dbc-6e559a9e5bb8.html",
+      "domain": "mtairynews.com",
+      "country": "United States",
+      "published": "2026-10-20T00:00:00+00:00"
+     },
+     {
+      "title": "List of Republicans Breaking With Trump on Russia Sanctions Waiver",
+      "url": "https://www.newsweek.com/list-republicans-breaking-trump-russia-sanctions-waiver-12590802",
+      "domain": "newsweek.com",
+      "country": "United States",
+      "published": "2026-10-20T00:00:00+00:00"
+     },
+     {
+      "title": "Trump blocks new Russia sanctions and tariffs from taking effect",
+      "url": "http://www.laosnews.net/news/279381461/trump-blocks-new-russia-sanctions-and-tariffs-from-taking-effect",
+      "domain": "laosnews.net",
+      "country": "United States",
+      "published": "2026-10-20T00:00:00+00:00"
+     },
+     {
+      "title": "Marco Rubio to commence three - day visit to India ; trade deal , talks with Jaishankar on agenda",
+      "url": "http://www.heraldglobe.com/news/279385903/marco-rubio-to-commence-three-day-visit-to-india-trade-deal-talks-with-jaishankar-on-agenda",
+      "domain": "heraldglobe.com",
+      "country": "United States",
+      "published": "2026-10-20T00:00:00+00:00"
+     },
+     {
+      "title": "Trump waives Russia sanctions , tariffs before they take effect",
+      "url": "http://www.clevelandstar.com/news/279381461/trump-waives-russia-sanctions-tariffs-before-they-take-effect",
+      "domain": "clevelandstar.com",
+      "country": "United States",
+      "published": "2026-10-20T00:00:00+00:00"
+     },
+     {
+      "title": "Trump stumps for Montana delegation : President talks wildlife gaining weight , handsome guys ,  Dumbocrat  competition and  rigged  elections",
+      "url": "http://www.belgrade-news.com/news/state/trump-stumps-for-montana-delegation-president-talks-wildlife-gaining-weight-handsome-guys-dumbocrat-competition-and/article_48bd1eb3-455e-57b4-a6b3-631cede11216.html",
+      "domain": "belgrade-news.com",
+      "country": "United States",
+      "published": "2026-10-20T00:00:00+00:00"
+     },
+     {
+      "title": "Marco Rubio to commence three - day visit to India ; trade deal , talks with Jaishankar on agenda",
+      "url": "http://www.laosnews.net/news/279385903/marco-rubio-to-commence-three-day-visit-to-india-trade-deal-talks-with-jaishankar-on-agenda",
+      "domain": "laosnews.net",
+      "country": "United States",
+      "published": "2026-10-20T00:00:00+00:00"
+     },
+     {
+      "title": "End of Ukrainian regime : Lavrov claims Zelenskyy fears acceptable peace deal with US , Russia",
+      "url": "http://www.calcuttanews.net/news/279386152/end-of-ukrainian-regime-lavrov-claims-zelenskyy-fears-acceptable-peace-deal-with-us-russia",
+      "domain": "calcuttanews.net",
+      "country": "India",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "Marco Rubio to commence three - day visit to India ; trade deal , talks with Jaishankar on agenda",
+      "url": "http://www.pakistantelegraph.com/news/279385903/marco-rubio-to-commence-three-day-visit-to-india-trade-deal-talks-with-jaishankar-on-agenda",
+      "domain": "pakistantelegraph.com",
+      "country": "Pakistan",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "Trump waives Russia sanctions , tariffs before they take effect",
+      "url": "http://www.tucsonpost.com/news/279381461/trump-waives-russia-sanctions-tariffs-before-they-take-effect",
+      "domain": "tucsonpost.com",
+      "country": "United States",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "End of Ukrainian regime : Lavrov claims Zelenskyy fears acceptable peace deal with US , Russia",
+      "url": "http://www.pakistantelegraph.com/news/279386152/end-of-ukrainian-regime-lavrov-claims-zelenskyy-fears-acceptable-peace-deal-with-us-russia",
+      "domain": "pakistantelegraph.com",
+      "country": "Pakistan",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "Trump waives Russia sanctions , tariffs before they take effect",
+      "url": "http://www.pakistantelegraph.com/news/279381461/trump-waives-russia-sanctions-tariffs-before-they-take-effect",
+      "domain": "pakistantelegraph.com",
+      "country": "Pakistan",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "Trump waives Russia sanctions , tariffs before they take effect",
+      "url": "http://www.newyorktelegraph.com/news/279381461/trump-waives-russia-sanctions-tariffs-before-they-take-effect",
+      "domain": "newyorktelegraph.com",
+      "country": "United States",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "Kansas farmer : Trump policies cost Republicans his vote",
+      "url": "https://www.kmbc.com/article/kansas-farmer-says-trump-policies-cost-republican-senator-his-vote/74184851",
+      "domain": "kmbc.com",
+      "country": "United States",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "Ford F - 150 Lightning : How Trump EV Policies Hurt American Drivers .",
+      "url": "https://thyblackman.com/2026/10/19/ford-f150-lightning-trump-ev-policies/",
+      "domain": "thyblackman.com",
+      "country": "United States",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "Kansas farmer : Trump policies cost Republicans his vote",
+      "url": "https://www.gulfcoastnewsnow.com/article/kansas-farmer-says-trump-policies-cost-republican-senator-his-vote/74184851",
+      "domain": "gulfcoastnewsnow.com",
+      "country": "",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "Trump waives Russia sanctions , tariffs before they take effect",
+      "url": "http://www.texasguardian.com/news/279381461/trump-waives-russia-sanctions-tariffs-before-they-take-effect",
+      "domain": "texasguardian.com",
+      "country": "United States",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "Trump waives Russia sanctions , tariffs before they take effect",
+      "url": "http://www.haitisun.com/news/279381461/trump-waives-russia-sanctions-tariffs-before-they-take-effect",
+      "domain": "haitisun.com",
+      "country": "United States",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "Rubio in India : What the US secretary itinerary signals",
+      "url": "http://www.russiaherald.com/news/279385473/rubio-in-india-what-the-us-secretary-itinerary-signals",
+      "domain": "russiaherald.com",
+      "country": "Russia",
+      "published": "2026-10-19T23:30:00+00:00"
+     },
+     {
+      "title": "Kansas farmer : Trump policies cost Republicans his vote",
+      "url": "https://www.wapt.com/article/kansas-farmer-says-trump-policies-cost-republican-senator-his-vote/74184851",
+      "domain": "wapt.com",
+      "country": "United States",
+      "published": "2026-10-19T23:30:00+00:00"
+     },
+     {
+      "title": "Virginia Ranks # 14 for Food Import Exposure as Tariffs Threaten Grocery Bills",
+      "url": "https://www.insidenova.com/news/state/virginia-ranks-14-for-food-import-exposure-as-tariffs-threaten-grocery-bills/article_18a6c236-7d14-546f-8061-1847bc48b77b.html",
+      "domain": "insidenova.com",
+      "country": "United States",
+      "published": "2026-10-19T23:30:00+00:00"
+     },
+     {
+      "title": "End of Ukrainian regime : Lavrov claims Zelenskyy fears acceptable peace deal with US , Russia",
+      "url": "http://www.bignewsnetwork.com/news/279386152/end-of-ukrainian-regime-lavrov-claims-zelenskyy-fears-acceptable-peace-deal-with-us-russia",
+      "domain": "bignewsnetwork.com",
+      "country": "United States",
+      "published": "2026-10-19T23:30:00+00:00"
+     },
+     {
+      "title": "As a costly harvest season raises farm concerns , Trump heads to Kansas",
+      "url": "https://www.10news.com/politics/midterm-elections/the-gop-counts-on-farmers-votes-as-a-costly-harvest-season-raises-concerns-trump-heads-to-kansas",
+      "domain": "10news.com",
+      "country": "United States",
+      "published": "2026-10-19T23:30:00+00:00"
+     },
+     {
+      "title": "Trump blocks new Russia sanctions and tariffs from taking effect",
+      "url": "http://www.thailandnews.net/news/279381461/trump-blocks-new-russia-sanctions-and-tariffs-from-taking-effect",
+      "domain": "thailandnews.net",
+      "country": "Thailand",
+      "published": "2026-10-19T23:30:00+00:00"
+     },
+     {
+      "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
+      "url": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro",
+      "domain": "aljazeera.com",
+      "country": "United States",
+      "published": "2026-10-19T23:15:00+00:00"
+     }
+    ],
+    "riesgos_climaticos": [
+     {
+      "title": "Queensland grain harvest delayed by rain as graziers rejoice | Queensland Country Life",
+      "url": "https://www.queenslandcountrylife.com.au/story/9371397/queensland-grain-harvest-delayed-by-rain-as-graziers-rejoice/",
+      "domain": "queenslandcountrylife.com.au",
+      "country": "Australia",
+      "published": "2026-10-20T00:30:00+00:00"
+     },
+     {
+      "title": "Working with customers in challenging times",
+      "url": "https://ocj.com/2026/10/working-with-customers-in-challenging-times/",
+      "domain": "ocj.com",
+      "country": "United States",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "Season of fear : Escalating Israeli attacks on West Bank olive farmers , deadly strikes on Gaza Global Issues",
+      "url": "https://www.globalissues.org/news/2026/10/19/44379",
+      "domain": "globalissues.org",
+      "country": "United States",
+      "published": "2026-10-19T23:45:00+00:00"
+     },
+     {
+      "title": "Virginia Ranks # 14 for Food Import Exposure as Tariffs Threaten Grocery Bills",
+      "url": "https://www.insidenova.com/news/state/virginia-ranks-14-for-food-import-exposure-as-tariffs-threaten-grocery-bills/article_18a6c236-7d14-546f-8061-1847bc48b77b.html",
+      "domain": "insidenova.com",
+      "country": "United States",
+      "published": "2026-10-19T23:30:00+00:00"
+     },
+     {
+      "title": "Really traumatic : the postcode lottery of cancer care",
+      "url": "https://www.hardenexpress.com.au/story/9371521/really-traumatic-the-postcode-lottery-of-cancer-care/",
+      "domain": "hardenexpress.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T23:15:00+00:00"
+     },
+     {
+      "title": "Shipping : The El Niño Effect | Hellenic Shipping News Worldwide",
+      "url": "https://www.hellenicshippingnews.com/shipping-the-el-nino-effect/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-10-19T23:15:00+00:00"
+     },
+     {
+      "title": "The Prattsville Scoop : Gearing up for Halloween festivities",
+      "url": "https://www.dailygazette.com/hv360/hv360/the-prattsville-scoop-gearing-up-for-halloween-festivities/article_e4d2225a-ae0f-458a-97e7-8aa4ae718b69.html",
+      "domain": "dailygazette.com",
+      "country": "United States",
+      "published": "2026-10-19T22:45:00+00:00"
+     },
+     {
+      "title": "Really traumatic : the postcode lottery of cancer care",
+      "url": "https://www.lithgowmercury.com.au/story/9371521/really-traumatic-the-postcode-lottery-of-cancer-care/",
+      "domain": "lithgowmercury.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T22:45:00+00:00"
+     },
+     {
+      "title": "Really traumatic : the postcode lottery of cancer care",
+      "url": "https://www.areanews.com.au/story/9371521/really-traumatic-the-postcode-lottery-of-cancer-care/",
+      "domain": "areanews.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T22:45:00+00:00"
+     },
+     {
+      "title": "Zelenskiy asks neighbours to allow Ukrainian grain transit",
+      "url": "https://www.thepigsite.com/news/2026/10/zelenskiy-asks-neighbours-to-allow-ukrainian-grain-transit",
+      "domain": "thepigsite.com",
+      "country": "United Kingdom",
+      "published": "2026-10-19T22:15:00+00:00"
+     },
+     {
+      "title": "Really traumatic : the postcode lottery of cancer care",
+      "url": "https://www.naroomanewsonline.com.au/story/9371521/really-traumatic-the-postcode-lottery-of-cancer-care/",
+      "domain": "naroomanewsonline.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T22:15:00+00:00"
+     },
+     {
+      "title": "Really traumatic : the postcode lottery of cancer care",
+      "url": "https://www.edenmagnet.com.au/story/9371521/really-traumatic-the-postcode-lottery-of-cancer-care/",
+      "domain": "edenmagnet.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T22:15:00+00:00"
+     },
+     {
+      "title": "Really traumatic : the postcode lottery of cancer care",
+      "url": "https://www.camdencourier.com.au/story/9371521/really-traumatic-the-postcode-lottery-of-cancer-care/",
+      "domain": "camdencourier.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T21:45:00+00:00"
+     },
+     {
+      "title": "Really traumatic : the postcode lottery of cancer care",
+      "url": "https://www.dailyadvertiser.com.au/story/9371521/really-traumatic-the-postcode-lottery-of-cancer-care/",
+      "domain": "dailyadvertiser.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T21:30:00+00:00"
+     },
+     {
+      "title": "Congress to hold farmer rally in Morbi on Oct 22 | Rajkot News",
+      "url": "https://timesofindia.indiatimes.com/city/rajkot/congress-to-hold-farmers-rally-in-morbi-on-oct-22/articleshow/135055392.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-19T20:30:00+00:00"
+     },
+     {
+      "title": "Really traumatic : the postcode lottery of cancer care",
+      "url": "https://www.theleader.com.au/story/9371521/really-traumatic-the-postcode-lottery-of-cancer-care/",
+      "domain": "theleader.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T20:15:00+00:00"
+     },
+     {
+      "title": "Really traumatic : the postcode lottery of cancer care",
+      "url": "https://www.hepburnadvocate.com.au/story/9371521/really-traumatic-the-postcode-lottery-of-cancer-care/",
+      "domain": "hepburnadvocate.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T20:15:00+00:00"
+     },
+     {
+      "title": "Really traumatic : the postcode lottery of cancer care",
+      "url": "https://www.bunburymail.com.au/story/9371521/really-traumatic-the-postcode-lottery-of-cancer-care/",
+      "domain": "bunburymail.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T19:30:00+00:00"
+     },
+     {
+      "title": "Really traumatic : the postcode lottery of cancer care",
+      "url": "https://www.cootamundraherald.com.au/story/9371521/really-traumatic-the-postcode-lottery-of-cancer-care/",
+      "domain": "cootamundraherald.com.au",
+      "country": "Australia",
+      "published": "2026-10-19T19:30:00+00:00"
+     },
+     {
+      "title": "Texas Pumpkin Harvest Down 30 % to 40 % After Drought",
+      "url": "https://mykiss1031.com/ixp/156/p/texas-pumpkin-harvest-drought/",
+      "domain": "mykiss1031.com",
+      "country": "United States",
+      "published": "2026-10-19T19:15:00+00:00"
+     },
+     {
+      "title": "Illinois Ranks # 5 for Food Import Exposure as Tariffs Threaten Grocery Bills",
+      "url": "https://www.hometownregister.com/news/state/illinois-ranks-5-for-food-import-exposure-as-tariffs-threaten-grocery-bills/article_3d215b86-2e74-536e-ad2d-540157e63f07.html",
+      "domain": "hometownregister.com",
+      "country": "",
+      "published": "2026-10-19T17:45:00+00:00"
+     },
+     {
+      "title": "RFD - TV Weekly Crop Progress and Livestock Production Update Monday , October 19 , 2026",
+      "url": "https://www.rfdtv.com/rfd-tv-weekly-crop-progress-and-livestock-production-update-monday-october-19-2026",
       "domain": "rfdtv.com",
       "country": "United States",
       "published": "2026-10-19T17:30:00+00:00"
      },
      {
-      "title": "Pakistan : Farmer organisation calls for agricultural emergency , cites farmer mounting losses",
-      "url": "http://www.britainnews.net/news/279385520/pakistan-farmers-organisation-calls-for-agricultural-emergency-cites-farmers-mounting-losses",
-      "domain": "britainnews.net",
+      "title": "Arabica Coffee Touches One - Month High Amid Low Stocks , Strong Brazil Currency",
+      "url": "https://www.esmmagazine.com/supply-chain/arabica-coffee-touches-one-month-high-amid-low-stocks-strong-brazil-currency-324039",
+      "domain": "esmmagazine.com",
       "country": "United Kingdom",
       "published": "2026-10-19T17:30:00+00:00"
      },
      {
-      "title": "Pakistan : Farmer organisation calls for agricultural emergency , cites farmer mounting losses",
-      "url": "http://www.azerbaijannews.net/news/279385520/pakistan-farmers-organisation-calls-for-agricultural-emergency-cites-farmers-mounting-losses",
-      "domain": "azerbaijannews.net",
-      "country": "Azerbaijan",
+      "title": "USDA Watches for Cotton Damage Following Hurricane Isaias",
+      "url": "https://www.rfdtv.com/usda-watches-for-cotton-damage-following-hurricane-isaias",
+      "domain": "rfdtv.com",
+      "country": "United States",
       "published": "2026-10-19T17:30:00+00:00"
      },
      {
-      "title": "Pakistan : Farmer organisation calls for agricultural emergency , cites farmer mounting losses",
-      "url": "http://www.chinanationalnews.com/news/279385520/pakistan-farmers-organisation-calls-for-agricultural-emergency-cites-farmers-mounting-losses",
-      "domain": "chinanationalnews.com",
+      "title": "APO Group - Africa Newsroom / Press release | Resilience starts at home : Preparing communities for El Niño before disaster strikes",
+      "url": "https://www.africa-newsroom.com/press/resilience-starts-at-home-preparing-communities-for-el-nino-before-disaster-strikes",
+      "domain": "africa-newsroom.com",
+      "country": "South Africa",
+      "published": "2026-10-19T16:45:00+00:00"
+     },
+     {
+      "title": "El Niño threatens banana supply as growers face rising production costs",
+      "url": "https://www.freshplaza.com/north-america/article/9882784/el-nino-threatens-banana-supply-as-growers-face-rising-production-costs/",
+      "domain": "freshplaza.com",
       "country": "China",
-      "published": "2026-10-19T17:30:00+00:00"
+      "published": "2026-10-19T16:30:00+00:00"
      },
      {
-      "title": "From Bethesda Magazine : 21 Montgomery County breweries ,  wineries ,  distilleries and more to visit",
-      "url": "https://bethesdamagazine.com/2026/10/19/21-montgomery-county-breweries-wineries-distilleries/",
-      "domain": "bethesdamagazine.com",
+      "title": "12 Target Items You Need To Perfectly Organize Your RV Campsite",
+      "url": "https://www.islands.com/2289161/best-target-items-organize-rv-campsite/",
+      "domain": "islands.com",
       "country": "United States",
-      "published": "2026-10-19T16:45:00+00:00"
-     },
-     {
-      "title": "Harvest labour crunch hints at larger worker shortage",
-      "url": "https://www.manitobacooperator.ca/op-ed/yearly-call-out-for-harvest-workers-spotlights-farm-labour-shortage/",
-      "domain": "manitobacooperator.ca",
-      "country": "Canada",
-      "published": "2026-10-19T16:45:00+00:00"
-     },
-     {
-      "title": "Farm drones may lower costs for growers , but will shoppers save too ?",
-      "url": "https://www.thedigitalcourier.com/news/national/farm-drones-may-lower-costs-for-growers-but-will-shoppers-save-too/article_82b44994-90f2-5427-be24-a0eafd27b169.html",
-      "domain": "thedigitalcourier.com",
-      "country": "United States",
-      "published": "2026-10-19T16:45:00+00:00"
-     },
-     {
-      "title": "Pakistan : Farmer organisation calls for agricultural emergency , cites farmer mounting losses",
-      "url": "http://www.oklahomastar.com/news/279385520/pakistan-farmers-organisation-calls-for-agricultural-emergency-cites-farmers-mounting-losses",
-      "domain": "oklahomastar.com",
-      "country": "United States",
-      "published": "2026-10-19T16:45:00+00:00"
-     },
-     {
-      "title": "Farm drones may lower costs for growers , but will shoppers save too ?",
-      "url": "https://www.wyomingnewsnow.tv/news/national/farm-drones-may-lower-costs-for-growers-but-will-shoppers-save-too/article_094bd022-ba98-57ca-8150-294de6d762fa.html",
-      "domain": "wyomingnewsnow.tv",
-      "country": "",
       "published": "2026-10-19T16:15:00+00:00"
      },
      {
@@ -373,891 +895,88 @@
       "published": "2026-10-19T16:15:00+00:00"
      },
      {
-      "title": "India - New Zealand FTA kicks in October 20 , gives all Indian goods zero - duty access",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-new-zealand-free-trade-agreement-zero-duty-access-for-indian-goods-begins-october-20/articleshow/135051308.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-19T16:00:00+00:00"
+      "title": "Texas Pumpkin Harvest Down 30 % to 40 % After Drought",
+      "url": "https://kkyr.com/ixp/156/p/texas-pumpkin-harvest-drought/",
+      "domain": "kkyr.com",
+      "country": "United States",
+      "published": "2026-10-19T16:15:00+00:00"
      },
      {
-      "title": "Tales of History | The farmer and the railroads : A virtuous circle",
-      "url": "https://www.news-gazette.com/opinion/guest-commentary/tales-of-history-the-farmer-and-the-railroads-a-virtuous-circle/article_1da1a039-aba5-4d07-a974-258f15d35cbe.html",
-      "domain": "news-gazette.com",
+      "title": "Texas Pumpkin Harvest Down 30 % to 40 % After Drought",
+      "url": "https://us105fm.com/ixp/156/p/texas-pumpkin-harvest-drought/",
+      "domain": "us105fm.com",
       "country": "United States",
       "published": "2026-10-19T16:00:00+00:00"
      },
      {
-      "title": "Pakistan : Farmer organisation calls for agricultural emergency , cites farmer mounting losses",
-      "url": "https://aninews.in/news/world/asia/pakistan-farmers8217-organisation-calls-for-agricultural-emergency-cites-farmers8217-mounting-losses20261019203510/",
-      "domain": "aninews.in",
-      "country": "India",
+      "title": "Apres Le Deluge",
+      "url": "https://www.dailykos.com/stories/2026/10/19/800114441/community/apres-le-deluge/",
+      "domain": "dailykos.com",
+      "country": "United States",
       "published": "2026-10-19T16:00:00+00:00"
      },
      {
-      "title": "Food Deptt raises daily wheat release to 4 , 000 tonnes in KP",
-      "url": "https://arynews.tv/food-deptt-raises-daily-wheat-release-to-4000-tonnes-in-kp",
-      "domain": "arynews.tv",
-      "country": "Pakistan",
+      "title": "Ag Secretary warns Texas could lose farmers , offers solutions",
+      "url": "https://www.kwtx.com/2026/10/17/ag-secretary-warns-texas-could-lose-farmers-offers-solutions/",
+      "domain": "kwtx.com",
+      "country": "United States",
       "published": "2026-10-19T15:45:00+00:00"
      },
      {
-      "title": "Best Motion Sickness Relief for Kids",
-      "url": "https://www.sun-sentinel.com/2026/10/19/best-motion-sickness-relief-for-kids/",
-      "domain": "sun-sentinel.com",
+      "title": "Mexican table grapes : The challenge of recovering production after two years of weather anomalies",
+      "url": "https://www.freshfruitportal.com/news/2026/10/19/mx-table-grapes-ifpa/",
+      "domain": "freshfruitportal.com",
       "country": "United States",
       "published": "2026-10-19T15:30:00+00:00"
-     }
-    ],
-    "energia": [
-     {
-      "title": "Investors Bought the Dip After AI - Fueled Losses . Stocks Climbed .",
-      "url": "https://www.ibtimes.com/investors-bought-dip-after-ai-fueled-losses-stocks-climbed-3808749",
-      "domain": "ibtimes.com",
-      "country": "United States",
-      "published": "2026-10-19T21:15:00+00:00"
      },
      {
-      "title": "Louvre Shuts Down As Protests Escalate Across France",
-      "url": "https://kfab.iheart.com/content/2026-10-19-louvre-shuts-down-as-protests-escalate-across-france/",
-      "domain": "kfab.iheart.com",
-      "country": "United States",
-      "published": "2026-10-19T21:15:00+00:00"
-     },
-     {
-      "title": "Trump Revives Constitution Pipeline Blocked 12 Years by New York Democrats",
-      "url": "https://redstate.com/wardclark/2026/10/19/trump-revives-constitution-pipeline-blocked-12-years-by-new-york-democrats-n2208338",
-      "domain": "redstate.com",
-      "country": "United States",
-      "published": "2026-10-19T21:15:00+00:00"
-     },
-     {
-      "title": "Where to Watch 2026 WNBA Finals Orange Carpet Online : Stream for Free",
-      "url": "https://wwd.com/shop/shop-fashion/wnba-finals-orange-carpet-2026-where-to-watch-online-free-1239373683/",
-      "domain": "wwd.com",
-      "country": "United States",
-      "published": "2026-10-19T21:00:00+00:00"
-     },
-     {
-      "title": "Trump waives Russia sanctions , tariffs before they take effect",
-      "url": "http://www.indiagazette.com/news/279381461/trump-waives-russia-sanctions-tariffs-before-they-take-effect",
-      "domain": "indiagazette.com",
+      "title": "Karnataka drought crisis  extremely seriou ; third relief memorandum to Centre in two days : Deputy CM",
+      "url": "https://sahilonline.org/karnatakas-drought-crisis-extremely-serious-third-relief-memorandum-to-centre-in-two-days-deputy-cm",
+      "domain": "sahilonline.org",
       "country": "India",
-      "published": "2026-10-19T21:00:00+00:00"
+      "published": "2026-10-19T15:30:00+00:00"
      },
      {
-      "title": "Joint statement on convening ninth meeting of Qatar – Singapore High - level Joint Committee",
-      "url": "http://thepeninsulaqatar.com/article/19/10/2026/joint-statement-on-convening-ninth-meeting-of-qatarsingapore-high-level-joint-committee",
-      "domain": "thepeninsulaqatar.com",
-      "country": "Qatar",
-      "published": "2026-10-19T21:00:00+00:00"
-     },
-     {
-      "title": "Gov . Evers Blasts Trump Administration for Jeopardizing Millions of Dollars in Support for Wisconsin Dairy Farmers , Cheesemakers , and Processors",
-      "url": "https://wtaq.com/2026/10/19/gov-evers-blasts-trump-administration-for-jeopardizing-millions-of-dollars-in-support-for-wisconsin-dairy-farmers-cheesemakers-and-processors/",
-      "domain": "wtaq.com",
-      "country": "United States",
-      "published": "2026-10-19T20:45:00+00:00"
-     },
-     {
-      "title": "Louvre Shuts Down As Protests Escalate Across France",
-      "url": "https://943wsc.iheart.com/content/2026-10-19-louvre-shuts-down-as-protests-escalate-across-france/",
-      "domain": "943wsc.iheart.com",
-      "country": "United States",
-      "published": "2026-10-19T20:45:00+00:00"
-     },
-     {
-      "title": "Georgia gas prices fall",
-      "url": "https://www.covnews.com/news/georgia-gas-prices-fall/article_cc991677-d6cb-47cb-a94a-093899f32ad7.html",
-      "domain": "covnews.com",
-      "country": "United States",
-      "published": "2026-10-19T20:45:00+00:00"
-     },
-     {
-      "title": "Legacy of Armenia  Assets - for - Debt  Hinders Economic Decoupling from Russia ( Part Two )",
-      "url": "https://jamestown.org/legacy-of-armenias-assets-for-debt-hinders-economic-decoupling-from-russia-part-two/",
-      "domain": "jamestown.org",
-      "country": "Russia",
-      "published": "2026-10-19T20:45:00+00:00"
-     },
-     {
-      "title": "Reviewing Montauk Renewables ( NASDAQ : MNTK ) & Baytex Energy ( OTCMKTS : BTEGF )",
-      "url": "https://www.dailypolitical.com/2026/10/19/reviewing-montauk-renewables-nasdaqmntk-baytex-energy-otcmktsbtegf.html",
-      "domain": "dailypolitical.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "French minister admits police  lost control  of violent demonstrations as organizers call for more",
-      "url": "https://theprovince.com/news/france-police-lost-control-violent-demonstrations-louvre-blocked/wcm/bf92685e-9c34-438b-a4d2-1fd14458c475",
-      "domain": "theprovince.com",
-      "country": "Canada",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Expand Energy Names Daniel E . Brown CEO After Twin Eagle Acquisition",
-      "url": "https://econotimes.com/Expand-Energy-Names-Daniel-E-Brown-CEO-After-Twin-Eagle-Acquisition-1756854",
-      "domain": "econotimes.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Louvre Shuts Down As Protests Escalate Across France | NewsRadio 1450 / 1370 WKIP",
-      "url": "https://1450wkip.iheart.com/content/2026-10-19-louvre-shuts-down-as-protests-escalate-across-france/",
-      "domain": "1450wkip.iheart.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Western Midstream Announces Third - Quarter 2026 Distribution and Earnings Conference Call",
-      "url": "https://www.prnewswire.com/news-releases/western-midstream-announces-third-quarter-2026-distribution-and-earnings-conference-call-302912911.html",
-      "domain": "prnewswire.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Lavrov backs Iran , hours after Trump says Russia doing  very little  to help Tehran",
-      "url": "https://www.euronews.com/2026/10/19/lavrov-backs-iran-hours-after-trump-says-russia-doing-very-little-to-help-tehran",
-      "domain": "euronews.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Nvidia CEO urges German manufacturers to adopt AI , saying digital tech wont replace heavy industry",
-      "url": "https://www.therecord.com/business/nvidia-ceo-urges-german-manufacturers-to-adopt-ai-saying-digital-tech-won-t-replace-heavy-industry/article_335ff51f-17dd-5c78-b204-94590c1cf563.html",
-      "domain": "therecord.com",
-      "country": "Canada",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Chronicle Q & A : Senate hopefuls offer different takes in crowded race",
-      "url": "http://www.bozemandailychronicle.com/news/politics/chronicle-q-a-senate-hopefuls-offer-different-takes-in-crowded-race/article_a2bb13d1-de80-4a93-a328-1bd4cdd94591.html",
-      "domain": "bozemandailychronicle.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Gas prices in Idaho give drivers some relief at the pump",
-      "url": "https://www.kmvt.com/2026/10/19/gas-prices-idaho-give-drivers-relief-pump/",
-      "domain": "kmvt.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "First private player gets licence to distribute power in Gurgaon , Nuh",
-      "url": "https://timesofindia.indiatimes.com/city/gurgaon/first-private-player-gets-licence-to-distribute-power-in-gurgaon-nuh/articleshow/135055933.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Louvre Shuts Down As Protests Escalate Across France",
-      "url": "https://khvhradio.iheart.com/content/2026-10-19-louvre-shuts-down-as-protests-escalate-across-france/",
-      "domain": "khvhradio.iheart.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Field Marshal Asim Munir likely to Visit Iran this week to revive Stalled Diplomacy",
-      "url": "https://en.dailypakistan.com.pk/19-Oct-2026/field-marshal-asim-munir-likely-to-visit-iran-this-week-to-revive-stalled-diplomacy",
-      "domain": "en.dailypakistan.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Nvidia CEO urges German manufacturers to adopt AI , saying digital tech wont replace heavy industry",
-      "url": "http://www.idahopress.com/news/world/nvidia-ceo-urges-german-manufacturers-to-adopt-ai-saying-digital-tech-wont-replace-heavy-industry/article_0409fe70-b818-5e95-b255-c6b68432000e.html",
-      "domain": "idahopress.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Louvre Shuts Down As Protests Escalate Across France",
-      "url": "https://wbex.iheart.com/content/2026-10-19-louvre-shuts-down-as-protests-escalate-across-france/",
-      "domain": "wbex.iheart.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Oil Prices Hover Near Five - Month High",
-      "url": "https://www.rigzone.com/news/wire/oil_prices_hover_near_fivemonth_high-19-oct-2026-184878-article/",
-      "domain": "rigzone.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Louvre Shuts Down As Protests Escalate Across France | Newstalk 1400 , 104 . 5 , and 105 . 9 WJMX",
-      "url": "https://newstalk1400online.iheart.com/content/2026-10-19-louvre-shuts-down-as-protests-escalate-across-france/",
-      "domain": "newstalk1400online.iheart.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "2026 midterm elections live updates : Latest news , results , and analysis",
-      "url": "http://www.washingtonexaminer.com/live-blog/2026-midterm-elections-live-updates/?highlight=4770756",
-      "domain": "washingtonexaminer.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "The 5 future vehicles you need to watch for , according to Edmunds",
-      "url": "https://www.thereporteronline.com/2026/10/19/future-vehicles-edmunds/",
-      "domain": "thereporteronline.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Hickenlooper , Baisley compete in Colorado U . S . Senate race",
-      "url": "https://www.elpasoinc.com/news/national/hickenlooper-baisley-compete-in-colorados-u-s-senate-race/article_36d81e5a-84b1-5ded-8f95-8ce5fb43b52d.html",
-      "domain": "elpasoinc.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Better Oil Stock : Chevron ( CVX ) vs . ExxonMobil ( XOM )",
-      "url": "https://www.fool.com/investing/2026/10/19/better-oil-stock-chevron-vs-exxonmobil/?source=iedfolrf0000001",
-      "domain": "fool.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "US - Iran Peace Deal Hopes Rise as Bitcoin Eyes $90K",
-      "url": "https://econotimes.com/US-Iran-Peace-Deal-Hopes-Rise-as-Bitcoin-Eyes-90K-1756827",
-      "domain": "econotimes.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Dollar Trades Near ¥158 . 25 Against Yen Before Japan Inflation Data",
-      "url": "https://econotimes.com/Dollar-Trades-Near-158-25-Against-Yen-Before-Japan-Inflation-Data-1756823",
-      "domain": "econotimes.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "RTD coverage : diesel prices in Virginia",
-      "url": "https://richmond.com/news/state-regional/business/collection_5d506ba8-5c32-4017-80e0-3e58523cee26.html",
-      "domain": "richmond.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Gas prices in Eugene fall 8 cents to $4 . 89 a gallon",
-      "url": "https://nbc16.com/news/local/gas-prices-in-eugene-oregon-fall-8-cents-to-489-a-gallon-gasbuddy-report",
-      "domain": "nbc16.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Trump Defends Russia Policy , Blames Zelenskyy for Diesel Squeeze",
-      "url": "https://econotimes.com/Trump-Defends-Russia-Policy-Blames-Zelenskyy-for-Diesel-Squeeze-1756840",
-      "domain": "econotimes.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Poll position : Anti - Trump blue wave is predicted for the midterm elections",
-      "url": "https://www.keysnews.com/news/national/poll-position-anti-trump-blue-wave-is-predicted-for-the-midterm-elections/article_1036a8ea-d040-52b3-a747-3e6c93ee9139.html",
-      "domain": "keysnews.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "FinancialContent - Why SolarEdge ( SEDG ) Stock Is Down Today",
-      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-19-why-solaredge-sedg-stock-is-down-today",
-      "domain": "markets.financialcontent.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Louvre Shuts Down As Protests Escalate Across France",
-      "url": "https://wham1180.iheart.com/content/2026-10-19-louvre-shuts-down-as-protests-escalate-across-france/",
-      "domain": "wham1180.iheart.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Nvidia CEO urges German manufacturers to adopt AI , saying digital tech wont replace heavy industry",
-      "url": "http://www.leadertelegram.com/news/nation-world/nvidia-ceo-urges-german-manufacturers-to-adopt-ai-saying-digital-tech-wont-replace-heavy-industry/article_7deae6d4-4b85-5bb6-aa66-32964c6fd009.html",
-      "domain": "leadertelegram.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "FinancialContent - Why Is Transocean ( RIG ) Stock Rocketing Higher Today",
-      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-19-why-is-transocean-rig-stock-rocketing-higher-today",
-      "domain": "markets.financialcontent.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     }
-    ],
-    "geopolitica": [
-     {
-      "title": "China - Philippines War of Words Raises South China Sea Tensions",
-      "url": "https://www.voanews.com/a/china-philippines-war-of-words-raises-south-china-sea-tensions-20261019/8212818.html",
-      "domain": "voanews.com",
-      "country": "United States",
-      "published": "2026-10-19T21:15:00+00:00"
-     },
-     {
-      "title": "Iran urges U . S . to accept Hormuz reopening proposal | Hellenic Shipping News Worldwide",
-      "url": "https://www.hellenicshippingnews.com/iran-urges-u-s-to-accept-hormuz-reopening-proposal/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
-      "published": "2026-10-19T21:15:00+00:00"
-     },
-     {
-      "title": "Ukraine got no early warning from partners as Russia hits grid again – Zelensky",
-      "url": "https://www.dailyecho.co.uk/news/national/26647938.ukraine-got-no-early-warning-partners-russia-hits-grid---zelensky/",
-      "domain": "dailyecho.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-19T21:15:00+00:00"
-     },
-     {
-      "title": "Trump waives Russia sanctions , tariffs before they take effect",
-      "url": "http://www.indiagazette.com/news/279381461/trump-waives-russia-sanctions-tariffs-before-they-take-effect",
-      "domain": "indiagazette.com",
-      "country": "India",
-      "published": "2026-10-19T21:00:00+00:00"
-     },
-     {
-      "title": "Holiday airfare surges in 2026 : How to find the best deals before it too late",
-      "url": "https://krdo.com/stacker-travel/2026/10/19/holiday-airfare-surges-in-2026-how-to-find-the-best-deals-before-its-too-late/",
-      "domain": "krdo.com",
-      "country": "United States",
-      "published": "2026-10-19T21:00:00+00:00"
-     },
-     {
-      "title": "India - US trade deal  very close , says Rubio ahead of 3 - day visit",
-      "url": "https://www.tribuneindia.com/news/india/india-us-trade-deal-very-close-says-rubio-ahead-of-3-day-visit/",
-      "domain": "tribuneindia.com",
-      "country": "India",
-      "published": "2026-10-19T20:45:00+00:00"
-     },
-     {
-      "title": "Saudi Arabia Tourism Crisis : Riyadh Airport and Vision 2030",
-      "url": "https://eturbonews.com/saudi-arabia-tourism-crisis-riyadh-airport/",
-      "domain": "eturbonews.com",
-      "country": "United States",
-      "published": "2026-10-19T20:45:00+00:00"
-     },
-     {
-      "title": "News Analysis : Egypt pledge to help defend Saudi Arabia centers on shared interests , balanced deterrence",
-      "url": "http://www.kenyastar.com/news/279385739/news-analysis-egypt-pledge-to-help-defend-saudi-arabia-centers-on-shared-interests-balanced-deterrence",
-      "domain": "kenyastar.com",
-      "country": "Kenya",
-      "published": "2026-10-19T20:45:00+00:00"
-     },
-     {
-      "title": "Industry leaders optimistic after Rubio remarks on India - US trade deal finalisation",
-      "url": "http://www.kenyastar.com/news/279385524/industry-leaders-optimistic-after-rubio-remarks-on-india-us-trade-deal-finalisation",
-      "domain": "kenyastar.com",
-      "country": "Kenya",
-      "published": "2026-10-19T20:45:00+00:00"
-     },
-     {
-      "title": "Letter : Beck has my vote for rep of Oregon CD2",
-      "url": "https://eastoregonian.com/2026/10/19/letter-beck-has-my-vote-for-rep-of-oregons-cd2/",
-      "domain": "eastoregonian.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "A Harte Appetite :  Puttin  on the Ritz",
-      "url": "https://www.krcu.org/arts-culture/2026-10-19/a-harte-appetite-puttin-on-the-ritz",
-      "domain": "krcu.org",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Ukraine got no early warning from partners as Russia hits grid again – Zelensky",
-      "url": "https://www.readingchronicle.co.uk/news/national/26647938.ukraine-got-no-early-warning-partners-russia-hits-grid---zelensky/",
-      "domain": "readingchronicle.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Food Prices Face Fresh Pressure Into 2027 as Shipping Disruption and Drought Hit Supplies",
-      "url": "https://www.ibtimes.co.uk/global-food-prices-uk-inflation-forecast-2027-1826571",
-      "domain": "ibtimes.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "News Analysis : Egypt pledge to help defend Saudi Arabia centers on shared interests , balanced deterrence",
-      "url": "http://www.heraldglobe.com/news/279385739/news-analysis-egypt-pledge-to-help-defend-saudi-arabia-centers-on-shared-interests-balanced-deterrence",
-      "domain": "heraldglobe.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "News Analysis : Egypt pledge to help defend Saudi Arabia centers on shared interests , balanced deterrence",
-      "url": "http://www.laosnews.net/news/279385739/news-analysis-egypt-pledge-to-help-defend-saudi-arabia-centers-on-shared-interests-balanced-deterrence",
-      "domain": "laosnews.net",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Lavrov backs Iran , hours after Trump says Russia doing  very little  to help Tehran",
-      "url": "https://www.euronews.com/2026/10/19/lavrov-backs-iran-hours-after-trump-says-russia-doing-very-little-to-help-tehran",
-      "domain": "euronews.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Israel prepared to attack Iran without US",
-      "url": "http://www.israelherald.com/news/279385475/israel-prepared-to-attack-iran-without-us-netanyahu",
-      "domain": "israelherald.com",
-      "country": "Israel",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "1st LD : U . S . issues arrest warrant for Cuba Raul Castro",
-      "url": "http://www.caribbeanherald.com/news/279385678/1st-ld-us-issues-arrest-warrant-for-cuba-raul-castro",
-      "domain": "caribbeanherald.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Field Marshal Asim Munir likely to Visit Iran this week to revive Stalled Diplomacy",
-      "url": "https://en.dailypakistan.com.pk/19-Oct-2026/field-marshal-asim-munir-likely-to-visit-iran-this-week-to-revive-stalled-diplomacy",
-      "domain": "en.dailypakistan.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Saudi Arabia postpones its  Davos in the Desert  conference after attacks",
-      "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-postpones-its-davos-desert-conference-after-attacks",
-      "domain": "al-monitor.com",
-      "country": "Israel",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Houthi rebels strike Yemeni govt forces , killing 53",
-      "url": "https://www.dailyliberal.com.au/story/9371525/houthi-rebels-strike-yemeni-govt-forces-killing-53/",
-      "domain": "dailyliberal.com.au",
-      "country": "Australia",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Oil Prices Hover Near Five - Month High",
-      "url": "https://www.rigzone.com/news/wire/oil_prices_hover_near_fivemonth_high-19-oct-2026-184878-article/",
-      "domain": "rigzone.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "4 dead and dozens injured after major fire breaks out at one of Canada largest military bases | International News",
-      "url": "https://www.wxow.com/news/international/4-dead-and-dozens-injured-after-major-fire-breaks-out-at-one-of-canada-s/article_20c9c8b3-ac69-54d5-97ce-4330d9db13c0.html",
-      "domain": "wxow.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Saudi airport closure disrupts life in kingdom capital",
-      "url": "https://www.al-monitor.com/originals/2026/10/saudi-airport-closure-disrupts-life-kingdoms-capital",
-      "domain": "al-monitor.com",
-      "country": "Israel",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Local WWII Navy Airman killed at Battle of Leyte , Philippines",
-      "url": "https://www.lewistownsentinel.com/life/lifestyles/2026/10/local-wwii-navy-airman-killed-at-battle-of-leyte-philippines/",
-      "domain": "lewistownsentinel.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Israel prepared to attack Iran without US",
-      "url": "http://www.iranherald.com/news/279385475/israel-prepared-to-attack-iran-without-us-netanyahu",
-      "domain": "iranherald.com",
-      "country": "Iran",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Ukraine got no early warning from partners as Russia hits grid again – Zelensky",
-      "url": "https://www.thecomet.net/news/national/26647938.ukraine-got-no-early-warning-partners-russia-hits-grid---zelensky/",
-      "domain": "thecomet.net",
-      "country": "United Kingdom",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Susan Collin math doesnt add up",
-      "url": "https://www.sunjournal.com/2026/10/19/susan-collins-math-doesnt-add-up-letter/",
-      "domain": "sunjournal.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "US - Iran Peace Deal Hopes Rise as Bitcoin Eyes $90K",
-      "url": "https://econotimes.com/US-Iran-Peace-Deal-Hopes-Rise-as-Bitcoin-Eyes-90K-1756827",
-      "domain": "econotimes.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "News Analysis : Egypt pledge to help defend Saudi Arabia centers on shared interests , balanced deterrence",
-      "url": "http://www.iranherald.com/news/279385739/news-analysis-egypt-pledge-to-help-defend-saudi-arabia-centers-on-shared-interests-balanced-deterrence",
-      "domain": "iranherald.com",
-      "country": "Iran",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Canadian Dollar Gains as October Bank of Canada Rate Odds Reach 80 %",
-      "url": "https://econotimes.com/Canadian-Dollar-Gains-as-October-Bank-of-Canada-Rate-Odds-Reach-80-1756819",
-      "domain": "econotimes.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "WJTN News Headlines for Mon ., Oct . 19 , 2026",
-      "url": "https://wksn.com/news-and-closings/local-news-headlines/936581",
-      "domain": "wksn.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "FinancialContent - Why Is Transocean ( RIG ) Stock Rocketing Higher Today",
-      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-19-why-is-transocean-rig-stock-rocketing-higher-today",
-      "domain": "markets.financialcontent.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Houthi rebels strike Yemeni govt forces , killing 53",
-      "url": "https://www.theadvocate.com.au/story/9371525/houthi-rebels-strike-yemeni-govt-forces-killing-53/",
-      "domain": "theadvocate.com.au",
-      "country": "Australia",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Houthi rebels strike Yemeni govt forces , killing 53",
-      "url": "https://www.newcastleherald.com.au/story/9371525/houthi-rebels-strike-yemeni-govt-forces-killing-53/",
-      "domain": "newcastleherald.com.au",
-      "country": "",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "HEADLINES : DFA dresses down China envoy Jing | October 20 , 2026",
-      "url": "https://www.manilatimes.net/2026/10/20/podcasts/headlines-dfa-dresses-down-chinas-envoy-jing-october-20-2026/2448956",
-      "domain": "manilatimes.net",
-      "country": "Philippines",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Industry leaders optimistic after Rubio remarks on India - US trade deal finalisation",
-      "url": "http://www.iranherald.com/news/279385524/industry-leaders-optimistic-after-rubio-remarks-on-india-us-trade-deal-finalisation",
-      "domain": "iranherald.com",
-      "country": "Iran",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Chevron Just Hit a Record High . Is the Stock Still a Buy ?",
-      "url": "https://www.fool.com/investing/2026/10/19/chevron-just-hit-a-record-high-is-the-stock-still/?source=iedfolrf0000001",
-      "domain": "fool.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Trump is pushing Ukraine to surrender to Russia , Zelensky says",
-      "url": "https://www.inquirer.com/news/nation-world/trump-zelensky-putin-push-ukraine-surrender-russian-diesel-satellite-internet-20261019.html",
-      "domain": "inquirer.com",
-      "country": "",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Houthi rebels strike Yemeni govt forces , killing 53",
-      "url": "https://www.standard.net.au/story/9371525/houthi-rebels-strike-yemeni-govt-forces-killing-53/",
-      "domain": "standard.net.au",
-      "country": "Australia",
-      "published": "2026-10-19T20:15:00+00:00"
-     }
-    ],
-    "transporte_maritimo": [
-     {
-      "title": "Iran urges U . S . to accept Hormuz reopening proposal | Hellenic Shipping News Worldwide",
-      "url": "https://www.hellenicshippingnews.com/iran-urges-u-s-to-accept-hormuz-reopening-proposal/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
-      "published": "2026-10-19T21:15:00+00:00"
-     },
-     {
-      "title": "Joint statement on convening ninth meeting of Qatar – Singapore High - level Joint Committee",
-      "url": "http://thepeninsulaqatar.com/article/19/10/2026/joint-statement-on-convening-ninth-meeting-of-qatarsingapore-high-level-joint-committee",
-      "domain": "thepeninsulaqatar.com",
-      "country": "Qatar",
-      "published": "2026-10-19T21:00:00+00:00"
-     },
-     {
-      "title": "Saudi Arabia Tourism Crisis : Riyadh Airport and Vision 2030",
-      "url": "https://eturbonews.com/saudi-arabia-tourism-crisis-riyadh-airport/",
-      "domain": "eturbonews.com",
-      "country": "United States",
-      "published": "2026-10-19T20:45:00+00:00"
-     },
-     {
-      "title": "News Analysis : Egypt pledge to help defend Saudi Arabia centers on shared interests , balanced deterrence",
-      "url": "http://www.kenyastar.com/news/279385739/news-analysis-egypt-pledge-to-help-defend-saudi-arabia-centers-on-shared-interests-balanced-deterrence",
-      "domain": "kenyastar.com",
-      "country": "Kenya",
-      "published": "2026-10-19T20:45:00+00:00"
-     },
-     {
-      "title": "Food Prices Face Fresh Pressure Into 2027 as Shipping Disruption and Drought Hit Supplies",
-      "url": "https://www.ibtimes.co.uk/global-food-prices-uk-inflation-forecast-2027-1826571",
-      "domain": "ibtimes.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "News Analysis : Egypt pledge to help defend Saudi Arabia centers on shared interests , balanced deterrence",
-      "url": "http://www.heraldglobe.com/news/279385739/news-analysis-egypt-pledge-to-help-defend-saudi-arabia-centers-on-shared-interests-balanced-deterrence",
-      "domain": "heraldglobe.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "News Analysis : Egypt pledge to help defend Saudi Arabia centers on shared interests , balanced deterrence",
-      "url": "http://www.laosnews.net/news/279385739/news-analysis-egypt-pledge-to-help-defend-saudi-arabia-centers-on-shared-interests-balanced-deterrence",
-      "domain": "laosnews.net",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Lavrov backs Iran , hours after Trump says Russia doing  very little  to help Tehran",
-      "url": "https://www.euronews.com/2026/10/19/lavrov-backs-iran-hours-after-trump-says-russia-doing-very-little-to-help-tehran",
-      "domain": "euronews.com",
-      "country": "United States",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Israel prepared to attack Iran without US",
-      "url": "http://www.israelherald.com/news/279385475/israel-prepared-to-attack-iran-without-us-netanyahu",
-      "domain": "israelherald.com",
-      "country": "Israel",
-      "published": "2026-10-19T20:30:00+00:00"
-     },
-     {
-      "title": "Oil Prices Hover Near Five - Month High",
-      "url": "https://www.rigzone.com/news/wire/oil_prices_hover_near_fivemonth_high-19-oct-2026-184878-article/",
-      "domain": "rigzone.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Saudi airport closure disrupts life in kingdom capital",
-      "url": "https://www.al-monitor.com/originals/2026/10/saudi-airport-closure-disrupts-life-kingdoms-capital",
-      "domain": "al-monitor.com",
-      "country": "Israel",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "Israel prepared to attack Iran without US",
-      "url": "http://www.iranherald.com/news/279385475/israel-prepared-to-attack-iran-without-us-netanyahu",
-      "domain": "iranherald.com",
-      "country": "Iran",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "US - Iran Peace Deal Hopes Rise as Bitcoin Eyes $90K",
-      "url": "https://econotimes.com/US-Iran-Peace-Deal-Hopes-Rise-as-Bitcoin-Eyes-90K-1756827",
-      "domain": "econotimes.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "News Analysis : Egypt pledge to help defend Saudi Arabia centers on shared interests , balanced deterrence",
-      "url": "http://www.iranherald.com/news/279385739/news-analysis-egypt-pledge-to-help-defend-saudi-arabia-centers-on-shared-interests-balanced-deterrence",
-      "domain": "iranherald.com",
-      "country": "Iran",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "FinancialContent - Why Is Transocean ( RIG ) Stock Rocketing Higher Today",
-      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-19-why-is-transocean-rig-stock-rocketing-higher-today",
-      "domain": "markets.financialcontent.com",
-      "country": "United States",
-      "published": "2026-10-19T20:15:00+00:00"
-     },
-     {
-      "title": "You cant ask Moses to return to Egypt , Tinubu tells critics",
-      "url": "https://punchng.com/you-cant-ask-moses-to-return-to-egypt-tinubu-tells-subsidy-critics/",
-      "domain": "punchng.com",
+      "title": "Zimbabwe Women Cotton Farmers Stitch More Value From Their White Gold",
+      "url": "https://allafrica.com/stories/202610190476.html",
+      "domain": "allafrica.com",
       "country": "Nigeria",
-      "published": "2026-10-19T20:15:00+00:00"
+      "published": "2026-10-19T15:30:00+00:00"
      },
      {
-      "title": "The Sulfur Crisis Threatening the World Food Supply",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Sulfur-Crisis-Threatening-the-Worlds-Food-Supply.html",
-      "domain": "oilprice.com",
-      "country": "United States",
-      "published": "2026-10-19T19:45:00+00:00"
-     },
-     {
-      "title": "US  exhausted and worn out , lacks capability to launch new",
-      "url": "https://www.pakistantoday.com.pk/2026/10/19/us-exhausted-and-worn-out-lacks-capability-to-launch-new-conflict-irgc",
-      "domain": "pakistantoday.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-19T19:45:00+00:00"
-     },
-     {
-      "title": "Houthi rebels strike Yemen government forces , killing at least 53",
-      "url": "https://www.news-gazette.com/news/nation-world/houthi-rebels-strike-yemens-government-forces-killing-at-least-53/article_01ff507d-e6aa-58cf-9628-d6b664f16858.html",
-      "domain": "news-gazette.com",
-      "country": "United States",
-      "published": "2026-10-19T19:30:00+00:00"
-     },
-     {
-      "title": "BRICS 2026 : How Pragmatic Compromise Preserved Bloc Unity Diwakar Dhakal",
-      "url": "https://www.spotlightnepal.com/2026/10/19/brics-2026-how-pragmatic-compromise-preserved-bloc-unity-diwakar-dhakal/",
-      "domain": "spotlightnepal.com",
-      "country": "Nepal",
-      "published": "2026-10-19T19:30:00+00:00"
-     },
-     {
-      "title": "US blinks on Russia , India less fluttered - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/us-blinks-on-russia-india-less-fluttered/articleshow/135055487.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-19T19:30:00+00:00"
-     },
-     {
-      "title": "Qatar plans local defence production",
-      "url": "https://economictimes.indiatimes.com/news/defence/qatar-plans-local-defence-production/articleshow/135055415.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-19T19:30:00+00:00"
-     },
-     {
-      "title": "Drum - Tidbit",
-      "url": "https://www.postcourier.com.pg/drum201026/",
-      "domain": "postcourier.com.pg",
-      "country": "Papua New Guinea",
-      "published": "2026-10-19T19:15:00+00:00"
-     },
-     {
-      "title": "40 pc Afghans face acute food insecurity this winter , warn FAO and WFP",
-      "url": "https://morungexpress.com/40-pc-afghans-face-acute-food-insecurity-this-winter-warn-fao-and-wfp",
-      "domain": "morungexpress.com",
-      "country": "India",
-      "published": "2026-10-19T19:15:00+00:00"
-     },
-     {
-      "title": "Netanyahu map shows RSF  friendly  to Israel and UAE , backing for separatist movements",
-      "url": "https://www.middleeasteye.net/news/netanyahu-map-shows-rsf-friendly-israel-and-uae-backing-separatist-movements",
-      "domain": "middleeasteye.net",
-      "country": "Israel",
-      "published": "2026-10-19T19:15:00+00:00"
-     },
-     {
-      "title": "Iowa Great River Road : Best Fall Colors and Scenic Views",
-      "url": "https://koel.com/ixp/676/p/iowa-great-river-road-fall-colors/",
-      "domain": "koel.com",
-      "country": "United States",
-      "published": "2026-10-19T19:15:00+00:00"
-     },
-     {
-      "title": "Arab News | UAE , France discuss stronger coordination to protect maritime security , energy supplies",
-      "url": "https://www.arabnews.com/middle-east/uae-france-discuss-stronger-coordination-to-protect-maritime-security-energy-supplies-3007202",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-10-19T19:15:00+00:00"
-     },
-     {
-      "title": "News Analysis : Egypt pledge to help defend Saudi Arabia centers on shared interests , balanced deterrence",
-      "url": "http://www.pakistantelegraph.com/news/279385739/news-analysis-egypt-pledge-to-help-defend-saudi-arabia-centers-on-shared-interests-balanced-deterrence",
-      "domain": "pakistantelegraph.com",
-      "country": "Pakistan",
-      "published": "2026-10-19T19:15:00+00:00"
-     },
-     {
-      "title": "Ethiopia national security imperative : Alliance with Israel and Somaliland",
-      "url": "http://www.jpost.com/opinion/article-912123",
-      "domain": "jpost.com",
-      "country": "Israel",
-      "published": "2026-10-19T19:15:00+00:00"
-     },
-     {
-      "title": "Abundant P & C capacity shifts growth opportunity to new demand , say Everest Re leaders",
-      "url": "https://www.intelligentinsurer.com/baden-baden-today/abundant-pandc-capacity-shifts-growth-opportunity-to-new-demand-say-everest-re-leaders",
-      "domain": "intelligentinsurer.com",
-      "country": "United Kingdom",
-      "published": "2026-10-19T19:00:00+00:00"
-     },
-     {
-      "title": "Oil slips from 5 - month high as Trump Russia sanctions waiver may bring more supplies",
-      "url": "https://www.mvariety.com/business/business_news/oil-slips-from-5-month-high-as-trumps-russia-sanctions-waiver-may-bring-more-supplies/article_b38b9cd0-76c4-4555-88a3-fa3ffc29531c.html",
-      "domain": "mvariety.com",
-      "country": "United States",
-      "published": "2026-10-19T19:00:00+00:00"
-     },
-     {
-      "title": "Hormuz Is Turning Shipping Fuel Bill Into a Supply Crisis  | Peak Oil News and Message Boards",
-      "url": "https://peakoil.com/production/hormuz-is-turning-shippings-fuel-bill-into-a-supply-crisis",
+      "title": "Out of Hormuz Energy Shocks , the Ingredients for a Global Food Crisis  | Peak Oil News and Message Boards",
+      "url": "https://peakoil.com/publicpolicy/out-of-hormuz-energy-shocks-the-ingredients-for-a-global-food-crisis",
       "domain": "peakoil.com",
       "country": "United States",
-      "published": "2026-10-19T18:45:00+00:00"
+      "published": "2026-10-19T15:15:00+00:00"
      },
      {
-      "title": "Arab News | UAE , France call for stronger coordination to tackle regional escalation",
-      "url": "https://www.arabnews.com/middle-east/uae-france-call-for-stronger-coordination-to-tackle-regional-escalation-3007202",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-10-19T18:45:00+00:00"
-     },
-     {
-      "title": "Iraq - Türkiye corridor expected to contribute 55 bln USD to Turkish economy : minister - Xinhua",
-      "url": "https://english.news.cn/20261019/99d4f4262b754bb8b8b2480e180df1d7/c.html",
-      "domain": "english.news.cn",
-      "country": "",
-      "published": "2026-10-19T17:45:00+00:00"
-     },
-     {
-      "title": "Pakistan providing  whatever support needed  to defend Saudi Arabia : Army",
-      "url": "https://www.thehindu.com/news/international/pakistan-providing-whatever-support-needed-to-defend-saudi-arabia-army/article71603002.ece",
-      "domain": "thehindu.com",
-      "country": "India",
-      "published": "2026-10-19T17:45:00+00:00"
-     },
-     {
-      "title": "Pentagon Pete Navy Hit With Fresh Fury Over Sad Meals",
-      "url": "https://www.thedailybeast.com/pentagon-petes-navy-hit-with-fresh-fury-over-sad-meals",
-      "domain": "thedailybeast.com",
+      "title": "ISAAA , Inc . and DA - BPO Release Latest Issue of Pinoy Biotek Magazine",
+      "url": "https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=22045",
+      "domain": "isaaa.org",
       "country": "United States",
-      "published": "2026-10-19T17:45:00+00:00"
+      "published": "2026-10-19T15:00:00+00:00"
      },
      {
-      "title": "Houthi rebels strike a government military camp in southern Yemen , killing at least 53 fighters",
-      "url": "https://www.prpeak.com/world-news/houthi-rebels-strike-a-government-military-camp-in-southern-yemen-killing-at-least-53-fighters-12908838",
-      "domain": "prpeak.com",
-      "country": "Canada",
-      "published": "2026-10-19T17:45:00+00:00"
-     },
-     {
-      "title": "Iran blames US for Strait of Hormuz insecurity as Russia reaffirms strategic ties with Tehran",
-      "url": "https://www.moneycontrol.com/world/iran-blames-us-for-strait-of-hormuz-insecurity-as-russia-reaffirms-strategic-ties-with-tehran-article-14055743.html",
-      "domain": "moneycontrol.com",
+      "title": "Farm stability in the time of climate change",
+      "url": "http://www.governancenow.com/views/columns/farm-stability-in-the-time-of-climate-change",
+      "domain": "governancenow.com",
       "country": "India",
-      "published": "2026-10-19T17:45:00+00:00"
+      "published": "2026-10-19T15:00:00+00:00"
      },
      {
-      "title": "The Ghosts of Arsenal Island : The Confederate Soldier",
-      "url": "https://b100quadcities.com/ixp/712/p/ghosts-arsenal-island/",
-      "domain": "b100quadcities.com",
-      "country": "United States",
-      "published": "2026-10-19T17:30:00+00:00"
-     },
-     {
-      "title": "Lavrov holds Tehran talks as Russia presses for regional de - escalation",
-      "url": "https://paktribune.com/lavrov-holds-tehran-talks-as-russia-presses-for-regional-de-escalation/",
-      "domain": "paktribune.com",
-      "country": "Pakistan",
-      "published": "2026-10-19T17:30:00+00:00"
+      "title": "A Gay Romance Amid Dust and Longing",
+      "url": "https://thecolu.mn/5803/a-gay-romance-amid-dust-and-longing/",
+      "domain": "thecolu.mn",
+      "country": "Mongolia",
+      "published": "2026-10-19T15:00:00+00:00"
      }
     ]
    },
    "errors": {
-    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
