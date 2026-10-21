@@ -1,5 +1,22 @@
 [
  {
+  "id": "fbb9d8509ade",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-21",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 2 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Houthis step up attacks in Yemen as camp strike toll rises” (hurriyetdailynews.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "hurriyetdailynews.com",
+  "url": "https://www.hurriyetdailynews.com/houthis-step-up-attacks-in-yemen-as-camp-strike-toll-rises-228434",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-21T09:51:10-06:00"
+ },
+ {
   "id": "4ec53ae345da",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",

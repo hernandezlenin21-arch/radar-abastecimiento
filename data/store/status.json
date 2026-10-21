@@ -2,21 +2,21 @@
  "sources": {
   "nhc": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00"
+   "at": "2026-10-21T09:51:10-06:00"
   },
   "enso": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00"
+   "at": "2026-10-21T09:51:10-06:00"
   },
   "news": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00"
+   "at": "2026-10-21T09:51:10-06:00"
   }
  },
  "indicators": {
   "maiz": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
+   "at": "2026-10-21T09:51:10-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 141,
@@ -26,7 +26,7 @@
   },
   "soya": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
+   "at": "2026-10-21T09:51:10-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 141,
@@ -36,7 +36,7 @@
   },
   "harina_soya": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
+   "at": "2026-10-21T09:51:10-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 141,
@@ -48,11 +48,11 @@
    "ok": false,
    "error": "Falta la variable de entorno AMS_API_KEY",
    "kind": "credencial",
-   "at": "2026-10-21T07:00:35-06:00"
+   "at": "2026-10-21T09:51:10-06:00"
   },
   "trigo": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
+   "at": "2026-10-21T09:51:10-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 141,
@@ -62,7 +62,7 @@
   },
   "aceite_soya": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
+   "at": "2026-10-21T09:51:10-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 141,
@@ -72,7 +72,7 @@
   },
   "aceite_palma": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
+   "at": "2026-10-21T09:51:10-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 141,
@@ -82,7 +82,7 @@
   },
   "aceite_mani": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
+   "at": "2026-10-21T09:51:10-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 141,
@@ -92,33 +92,25 @@
   },
   "wti": {
    "ok": false,
-   "error": "SourceError: Sin respuesta tras 3 intentos: HTTP 502 en https://api.stlouisfed.org/fred/series",
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
    "kind": "fuente",
-   "at": "2026-10-21T07:00:35-06:00"
+   "at": "2026-10-21T09:51:10-06:00"
   },
   "brent": {
-   "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
-   "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
-   "published": "2026-10-15 15:12:36-05",
-   "received": 2992,
-   "added": 0,
-   "revised": 0,
-   "duplicates_in_batch": 0
+   "ok": false,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "fuente",
+   "at": "2026-10-21T09:51:10-06:00"
   },
   "diesel_nyh": {
-   "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
-   "url": "https://fred.stlouisfed.org/series/DDFUELNYH",
-   "published": "2026-10-15 15:12:34-05",
-   "received": 2948,
-   "added": 0,
-   "revised": 0,
-   "duplicates_in_batch": 0
+   "ok": false,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "fuente",
+   "at": "2026-10-21T09:51:10-06:00"
   },
   "diesel_retail_us": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
+   "at": "2026-10-21T09:51:10-06:00",
    "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMD_EPD2D_PTE_NUS_DPG&f=W",
    "published": null,
    "received": 616,
@@ -127,18 +119,14 @@
    "duplicates_in_batch": 0
   },
   "henry_hub": {
-   "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
-   "url": "https://fred.stlouisfed.org/series/DHHNGSP",
-   "published": "2026-10-15 15:14:29-05",
-   "received": 2971,
-   "added": 0,
-   "revised": 0,
-   "duplicates_in_batch": 0
+   "ok": false,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "fuente",
+   "at": "2026-10-21T09:51:10-06:00"
   },
   "carbon": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
+   "at": "2026-10-21T09:51:10-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 141,
@@ -148,7 +136,7 @@
   },
   "oro": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
+   "at": "2026-10-21T09:51:10-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 141,
@@ -158,7 +146,7 @@
   },
   "plata": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
+   "at": "2026-10-21T09:51:10-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 141,
@@ -168,7 +156,7 @@
   },
   "carne_bovina": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
+   "at": "2026-10-21T09:51:10-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 141,
@@ -180,31 +168,23 @@
    "ok": false,
    "error": "OSError: File contains no valid workbook part",
    "kind": "fuente",
-   "at": "2026-10-21T07:00:35-06:00"
+   "at": "2026-10-21T09:51:10-06:00"
   },
   "usd_index": {
-   "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
-   "url": "https://fred.stlouisfed.org/series/DTWEXBGS",
-   "published": "2026-10-19 15:17:07-05",
-   "received": 2940,
-   "added": 0,
-   "revised": 0,
-   "duplicates_in_batch": 0
+   "ok": false,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "fuente",
+   "at": "2026-10-21T09:51:10-06:00"
   },
   "tasa_10y": {
-   "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
-   "url": "https://fred.stlouisfed.org/series/DGS10",
-   "published": "2026-10-20 15:16:39-05",
-   "received": 2950,
-   "added": 0,
-   "revised": 0,
-   "duplicates_in_batch": 0
+   "ok": false,
+   "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+   "kind": "fuente",
+   "at": "2026-10-21T09:51:10-06:00"
   },
   "oni": {
    "ok": true,
-   "at": "2026-10-21T07:00:35-06:00",
+   "at": "2026-10-21T09:51:10-06:00",
    "url": "https://www.cpc.ncep.noaa.gov/data/indices/oni.ascii.txt",
    "published": null,
    "received": 140,
@@ -213,5 +193,5 @@
    "duplicates_in_batch": 0
   }
  },
- "run_at": "2026-10-21T07:00:35-06:00"
+ "run_at": "2026-10-21T09:51:10-06:00"
 }
