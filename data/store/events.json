@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-20T15:47:15-06:00",
+  "at": "2026-10-20T19:00:45-06:00",
   "data": {
    "storms": [],
    "url": "https://www.nhc.noaa.gov/"
@@ -9,7 +9,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-20T15:47:15-06:00",
+  "at": "2026-10-20T19:00:45-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -18,51 +18,142 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-20T15:47:15-06:00",
+  "at": "2026-10-20T19:00:45-06:00",
   "data": {
    "raw": {
-    "comercio_internacional": [
+    "commodities_agricolas": [
      {
-      "title": "Ritchie Bros . Brings More Ways to Buy and Sell to rbauction . com",
-      "url": "https://www.intelligencer.ca/press-releases/business-wire/ritchie-bros-brings-more-ways-to-buy-and-sell-to-rbauction-com/",
-      "domain": "intelligencer.ca",
+      "title": "Closing grain prices Tuesday , October 20",
+      "url": "https://www.620ckrm.com/2026/10/20/closing-grain-prices-tuesday-october-20/",
+      "domain": "620ckrm.com",
       "country": "Canada",
-      "published": "2026-10-20T21:30:00+00:00"
+      "published": "2026-10-21T00:30:00+00:00"
      },
      {
-      "title": "New Jersey food importer files lawsuit challenging Trump 50 % tariffs on Canadian goods",
-      "url": "https://www.republicanherald.com/2026/10/20/canada-tariffs-legality/",
-      "domain": "republicanherald.com",
+      "title": "Food Security : FG sets up committee to fast - track crop , livestock production",
+      "url": "https://quicknews-africa.net/food-security-fg-sets-up-committee-to-fast-track-crop-livestock-production/",
+      "domain": "quicknews-africa.net",
+      "country": "Nigeria",
+      "published": "2026-10-21T00:15:00+00:00"
+     },
+     {
+      "title": "Ontario News Today : Flour recall , electricity rates Oct . 20",
+      "url": "https://www.orangeville.com/news/ontario-news-today-oct-20-2026/article_93b475ec-394c-5340-908b-e1fcb3439f1c.html",
+      "domain": "orangeville.com",
+      "country": "Canada",
+      "published": "2026-10-21T00:15:00+00:00"
+     },
+     {
+      "title": "Community calendar of Norfolk and area events",
+      "url": "https://www.simcoereformer.ca/news/community-calendar-of-norfolk-and-area-events/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-10-21T00:15:00+00:00"
+     },
+     {
+      "title": "Hoofbeats to the yé  ii bi cheii - Navajo Times",
+      "url": "https://navajotimes.com/ae/community/hoofbeats-to-the-yeii-bi-cheii/",
+      "domain": "navajotimes.com",
       "country": "United States",
-      "published": "2026-10-20T21:30:00+00:00"
+      "published": "2026-10-21T00:15:00+00:00"
      },
      {
-      "title": "Trump faces lawsuit over tariffs on Canada",
-      "url": "https://news.az/news/trump-faces-lawsuit-over-tariffs-on-canada",
-      "domain": "news.az",
-      "country": "Azerbaijan",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "EVs Are the Future , No Matter How Far America Falls Behind",
-      "url": "https://www.cnet.com/tech/electric-vehicles-us-ev-hybrid-adoption-path-forward/",
-      "domain": "cnet.com",
-      "country": "Japan",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "Trump Admin Backed Alberta Separatists . Canadian Voters Rejected Secession .",
-      "url": "https://truthout.org/articles/trump-admin-backed-albertas-separatists-canadian-voters-rejected-secession/",
-      "domain": "truthout.org",
+      "title": "U . S . Sen . Roger Marshall close ties to Trump may hurt his chances with Kansas farmers",
+      "url": "https://www.kmuw.org/politics/2026-10-20/u-s-sen-roger-marshalls-close-ties-to-trump-may-hurt-his-chances-with-kansas-farmers",
+      "domain": "kmuw.org",
       "country": "United States",
-      "published": "2026-10-20T21:30:00+00:00"
+      "published": "2026-10-21T00:00:00+00:00"
      },
      {
-      "title": "MAGA voters lament Trump as  committed  allies abandon him :  Embarrassed on a world stage",
-      "url": "https://www.rawstory.com/trump-maga-2678113925/",
-      "domain": "rawstory.com",
+      "title": "Truck driver protest puts Italy pasta production at risk",
+      "url": "https://www.bnnbloomberg.ca/business/international/2026/10/20/protesting-truck-drivers-put-italys-pasta-production-at-risk/",
+      "domain": "bnnbloomberg.ca",
+      "country": "Canada",
+      "published": "2026-10-20T23:45:00+00:00"
+     },
+     {
+      "title": "USDA providing $1 . 39 billion in farm safety net , conservation payments to Iowa producers",
+      "url": "https://www.businessrecord.com/usda-providing-1-39-billion-in-farm-safety-net-conservation-payments-to-iowa-producers/",
+      "domain": "businessrecord.com",
       "country": "United States",
-      "published": "2026-10-20T21:30:00+00:00"
+      "published": "2026-10-20T23:45:00+00:00"
+     },
+     {
+      "title": "State Fair attendance trails last year as families navigate higher costs",
+      "url": "https://abc11.com/post/state-fair-attendance-trails-last-year-families-navigate-higher-costs/19961341/",
+      "domain": "abc11.com",
+      "country": "United States",
+      "published": "2026-10-20T23:45:00+00:00"
+     },
+     {
+      "title": "St . Mary Fall Festival to feature food and family fun - The Globe | News , weather , sports from Worthington , Minnesota",
+      "url": "https://www.dglobe.com/news/local/st-marys-fall-festival-to-feature-food-and-family-fun",
+      "domain": "dglobe.com",
+      "country": "United States",
+      "published": "2026-10-20T23:30:00+00:00"
+     },
+     {
+      "title": "Fact✓Check | Barr , Booker spar over tariffs and bourbon ahead of Kentucky Senate race",
+      "url": "https://www.wkyt.com/2026/10/20/factcheck-barr-booker-spar-over-tariffs-bourbon-ahead-kentucky-senate-race/",
+      "domain": "wkyt.com",
+      "country": "United States",
+      "published": "2026-10-20T23:15:00+00:00"
+     },
+     {
+      "title": "Wegmans responds to cost concern with T - giving meal",
+      "url": "https://www.supermarketnews.com/company-news/wegmans-responds-to-cost-concern-with-t-giving-meal",
+      "domain": "supermarketnews.com",
+      "country": "United States",
+      "published": "2026-10-20T22:45:00+00:00"
+     },
+     {
+      "title": "You can bet on elections , but not onion futures . Students want to change that .",
+      "url": "https://reason.com/2026/10/20/you-can-trade-contracts-on-elections-but-not-on-onions-these-college-students-want-to-fix-that/",
+      "domain": "reason.com",
+      "country": "United States",
+      "published": "2026-10-20T22:45:00+00:00"
+     },
+     {
+      "title": "War made planting difficult . Now it could boost farmer profits",
+      "url": "https://www.spokesman.com/stories/2026/oct/20/war-made-planting-difficult-now-it-could-boost-far/",
+      "domain": "spokesman.com",
+      "country": "United States",
+      "published": "2026-10-20T22:45:00+00:00"
+     },
+     {
+      "title": "Trump promises $8 billion in relief to farmers reeling from high diesel costs",
+      "url": "https://nypost.com/2026/10/20/business/trump-promises-8-billion-in-relief-to-farmers-reeling-from-high-diesel-costs/",
+      "domain": "nypost.com",
+      "country": "United States",
+      "published": "2026-10-20T22:45:00+00:00"
+     },
+     {
+      "title": "Harvest Fuel Relief Program Aims to Help Iowa Farmers Cope With Rising Costs – KIWA Radio",
+      "url": "https://kiwaradio.com/news/harvest-fuel-relief-program-aims-to-help-iowa-farmers-cope-with-rising-costs/",
+      "domain": "kiwaradio.com",
+      "country": "United States",
+      "published": "2026-10-20T22:15:00+00:00"
+     },
+     {
+      "title": "Northwest Iowa Sees Rain , Colder Nights as Harvest Remains Behind Statewide – KIWA Radio",
+      "url": "https://kiwaradio.com/news/northwest-iowa-sees-rain-colder-nights-as-harvest-remains-behind-statewide/",
+      "domain": "kiwaradio.com",
+      "country": "United States",
+      "published": "2026-10-20T22:15:00+00:00"
+     },
+     {
+      "title": "Interactive : Halloween candy is costing more , and companies are profiting",
+      "url": "https://www.lex18.com/interactive/interactive-halloween-candy-is-costing-more-and-companies-are-profiting",
+      "domain": "lex18.com",
+      "country": "United States",
+      "published": "2026-10-20T22:15:00+00:00"
+     },
+     {
+      "title": "Soybean Harvest Now More Than Halfway Done – KIWA Radio",
+      "url": "https://kiwaradio.com/news/soybean-harvest-now-more-than-halfway-done/",
+      "domain": "kiwaradio.com",
+      "country": "United States",
+      "published": "2026-10-20T22:15:00+00:00"
      },
      {
       "title": "From Soybeans to Data Centers , China Debate Hits US Midterm Campaigns",
@@ -72,523 +163,432 @@
       "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "Ritchie Bros . Brings More Ways to Buy and Sell to rbauction . com",
-      "url": "https://www.nugget.ca/press-releases/business-wire/ritchie-bros-brings-more-ways-to-buy-and-sell-to-rbauction-com/",
-      "domain": "nugget.ca",
-      "country": "Canada",
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers | WJBO Newsradio 1150 AM & 98 . 7 FM",
+      "url": "https://wjbo.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "wjbo.iheart.com",
+      "country": "United States",
       "published": "2026-10-20T21:30:00+00:00"
      },
      {
-      "title": "Brent falls as Iran president discusses mediation with CDF Munir",
-      "url": "https://tribune.com.pk/story/2635975/brent-falls-as-irans-president-discusses-mediation-with-cdf-munir",
-      "domain": "tribune.com.pk",
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://khow.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "khow.iheart.com",
+      "country": "United States",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "Credence Research Inc .: Food Emulsifiers Market to Reach USD 5 . 07 Billion by 2035",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69888420-credence-research-inc-food-emulsifiers-market-to-reach-usd-5-07-billion-by-2035-credence-research-008.htm",
+      "domain": "finanznachrichten.de",
+      "country": "Germany",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://1440wgig.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "1440wgig.iheart.com",
+      "country": "United States",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://wwnc.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "wwnc.iheart.com",
+      "country": "United States",
+      "published": "2026-10-20T21:30:00+00:00"
+     },
+     {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://newsradio967.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "newsradio967.iheart.com",
+      "country": "United States",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://newsradio1470.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "newsradio1470.iheart.com",
+      "country": "United States",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://wrak.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "wrak.iheart.com",
+      "country": "United States",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://wrko.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "wrko.iheart.com",
+      "country": "United States",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Credence Research Inc .: Dairy Blends Market to Reach USD 15 . 38 Billion by 2035",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69888320-credence-research-inc-dairy-blends-market-to-reach-usd-15-38-billion-by-2035-credence-research-008.htm",
+      "domain": "finanznachrichten.de",
+      "country": "Germany",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://kprcradio.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "kprcradio.iheart.com",
+      "country": "United States",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://1150wima.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "1150wima.iheart.com",
+      "country": "United States",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://943wsc.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "943wsc.iheart.com",
+      "country": "United States",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "Bulgaria - Romania Maritime Security Center Key to EU Response , Kallas Says - Novinite . com",
+      "url": "https://www.novinite.com/view_news.php?id=241151",
+      "domain": "novinite.com",
+      "country": "Bulgaria",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://710wor.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "710wor.iheart.com",
+      "country": "United States",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://newsradio910wltp.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "newsradio910wltp.iheart.com",
+      "country": "United States",
+      "published": "2026-10-20T21:15:00+00:00"
+     },
+     {
+      "title": "China New Long March Runs Through Rice Paddies and Rocket Nets",
+      "url": "https://www.lhrtimes.com/2026/10/20/chinas-new-long-march-runs-through-rice-paddies-and-rocket-nets/",
+      "domain": "lhrtimes.com",
       "country": "Pakistan",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "Cuban Ambassador Reveals Limits of Russian Oil Aid",
-      "url": "https://www.cubaheadlines.com/articles/343336",
-      "domain": "cubaheadlines.com",
-      "country": "Cuba",
       "published": "2026-10-20T21:15:00+00:00"
      },
      {
-      "title": "Ritchie Bros . Brings More Ways to Buy and Sell to rbauction . com",
-      "url": "https://www.owensoundsuntimes.com/press-releases/business-wire/ritchie-bros-brings-more-ways-to-buy-and-sell-to-rbauction-com/",
-      "domain": "owensoundsuntimes.com",
-      "country": "Canada",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "Breakfast briefing : US data weaker",
-      "url": "https://www.interest.co.nz/economy/140761/us-jobs-housing-falter-canada-eyes-rate-hike-china-lprs-unchanged-taiwan-export",
-      "domain": "interest.co.nz",
-      "country": "New Zealand",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "New lawsuit filed challenging Trump tariffs on Canada",
-      "url": "https://www.airdriecityview.com/national-business/new-lawsuit-filed-challenging-trumps-tariffs-on-canada-12916701",
-      "domain": "airdriecityview.com",
-      "country": "Canada",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "Froma Harrop - The Mining Gazette",
-      "url": "https://www.mininggazette.com/opinion/columns/2026/10/froma-harrop-67/",
-      "domain": "mininggazette.com",
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers",
+      "url": "https://1190talkradio.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "1190talkradio.iheart.com",
       "country": "United States",
       "published": "2026-10-20T21:15:00+00:00"
      },
      {
-      "title": "Ritchie Bros . Brings More Ways to Buy and Sell to rbauction . com",
-      "url": "https://www.timminspress.com/press-releases/business-wire/ritchie-bros-brings-more-ways-to-buy-and-sell-to-rbauction-com/",
-      "domain": "timminspress.com",
-      "country": "Canada",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "Intuitive Announces Third Quarter Earnings",
-      "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/intuitive-announces-third-quarter-earnings/2450225",
-      "domain": "manilatimes.net",
-      "country": "Philippines",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "Trump Announces Another $8 Billion Farm Bailout",
-      "url": "https://thenewamerican.com/us/trump-announces-another-8-billion-farm-bailout/",
-      "domain": "thenewamerican.com",
-      "country": "United States",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "New lawsuit filed challenging Trump tariffs on Canada",
-      "url": "https://www.airdriecityview.com/national-news/new-lawsuit-filed-challenging-trumps-tariffs-on-canada-12916790",
-      "domain": "airdriecityview.com",
-      "country": "Canada",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "Trump tariffs against Canada challenged in U . S . lawsuit",
-      "url": "https://www.cp24.com/news/canada/2026/10/20/new-lawsuit-filed-challenging-trumps-tariffs-on-canada/",
-      "domain": "cp24.com",
-      "country": "Canada",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "Ritchie Bros . Brings More Ways to Buy and Sell to rbauction . com",
-      "url": "https://www.standard-freeholder.com/press-releases/business-wire/ritchie-bros-brings-more-ways-to-buy-and-sell-to-rbauction-com/",
-      "domain": "standard-freeholder.com",
-      "country": "Canada",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "Miller - Meeks and Bohannan rematch in 1st District Race with new challenges",
-      "url": "https://www.iowapublicradio.org/political-news/2026-10-20/rematch-iowa-1st-congressional-district-house-race-miller-meeks-bohannan-bridgford",
-      "domain": "iowapublicradio.org",
+      "title": "President Trump Announces $8 Billion Aid Package For Farmers | NewsTalk WMEQ",
+      "url": "https://wmeq.iheart.com/content/2026-10-20-president-trump-announces-8-billion-aid-package-for-farmers/",
+      "domain": "wmeq.iheart.com",
       "country": "United States",
       "published": "2026-10-20T21:00:00+00:00"
      },
      {
-      "title": "Why we should vote  Ye on Question 3",
-      "url": "https://www.baltimoresun.com/2026/10/20/vote-yes-question-3-maryland/",
-      "domain": "baltimoresun.com",
-      "country": "United States",
-      "published": "2026-10-20T21:00:00+00:00"
-     },
-     {
-      "title": "Trump Russia moves could complicate lame - duck agenda – Redlands Daily Facts",
-      "url": "https://www.redlandsdailyfacts.com/2026/10/20/trumps-russia-moves-could-complicate-lame-duck-agenda/",
-      "domain": "redlandsdailyfacts.com",
-      "country": "United States",
-      "published": "2026-10-20T21:00:00+00:00"
-     },
-     {
-      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
-      "url": "https://www.wqcs.org/2026-10-20/why-these-5-everyday-items-fluctuate-in-price-at-the-grocery-store",
-      "domain": "wqcs.org",
-      "country": "United States",
-      "published": "2026-10-20T21:00:00+00:00"
-     },
-     {
-      "title": "Arab News | Rubio and India foreign minister hold talks in Mumbai as both sides aim to finalize a trade deal",
-      "url": "https://www.arabnews.com/world/rubio-and-indias-foreign-minister-hold-talks-in-mumbai-as-both-sides-aim-to-finalize-a-trade-deal-3007424",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-10-20T21:00:00+00:00"
-     },
-     {
-      "title": "Trump administration announces $8 billion farm relief plan | Nation & World News",
-      "url": "https://www.komu.com/news/nationworld/trump-administration-announces-8-billion-farm-relief-plan-as-fuel-fertilizer-costs-bite/article_c5df69a6-d7f0-5778-9986-fcb1737d0250.html",
-      "domain": "komu.com",
-      "country": "United States",
-      "published": "2026-10-20T21:00:00+00:00"
-     },
-     {
-      "title": "New lawsuit filed challenging Trump tariffs on Canada",
-      "url": "https://panow.com/2026/10/20/cp-newsalert-lawsuit-filed-challenging-trumps-tariffs-on-canada/",
-      "domain": "panow.com",
+      "title": "Ontario News Today : Flour recall , electricity rates Oct . 20",
+      "url": "https://www.theifp.ca/news/ontario-news-today-oct-20-2026/article_7f9a1876-5854-53c8-be15-5050fe29f14b.html",
+      "domain": "theifp.ca",
       "country": "Canada",
       "published": "2026-10-20T21:00:00+00:00"
-     },
-     {
-      "title": "Trump administration announces $8 billion farm relief plan as fuel , fertilizer costs bite",
-      "url": "https://www.kten.com/news/business/trump-administration-announces-8-billion-farm-relief-plan-as-fuel-fertilizer-costs-bite/article_cf10de37-4e12-5401-b6f1-a8addb3abb69.html",
-      "domain": "kten.com",
-      "country": "United States",
-      "published": "2026-10-20T21:00:00+00:00"
-     },
-     {
-      "title": "Trump Russia moves could complicate lame - duck agenda – Press Telegram",
-      "url": "https://www.presstelegram.com/2026/10/20/trumps-russia-moves-could-complicate-lame-duck-agenda/",
-      "domain": "presstelegram.com",
-      "country": "United States",
-      "published": "2026-10-20T21:00:00+00:00"
-     },
-     {
-      "title": "Alberta rejects secession referendum , remains part of Canada | Nation & World News",
-      "url": "https://www.komu.com/news/nationworld/alberta-rejects-secession-referendum-chooses-to-remain-part-of-canada/article_1a1c017b-8b3e-508a-98b7-81d21f8ba0bd.html",
-      "domain": "komu.com",
-      "country": "United States",
-      "published": "2026-10-20T21:00:00+00:00"
-     },
-     {
-      "title": "newsroomamerica . com",
-      "url": "https://newsroomamerica.com/?before=116211",
-      "domain": "newsroomamerica.com",
-      "country": "United States",
-      "published": "2026-10-20T21:00:00+00:00"
-     },
-     {
-      "title": "Lawsuit challenging Trump tariffs against Canada filed in U . S . Court of International Trade",
-      "url": "https://www.cbc.ca/news/world/trump-tariffs-lawsuit-9.7388900",
-      "domain": "cbc.ca",
-      "country": "Canada",
-      "published": "2026-10-20T20:45:00+00:00"
-     },
-     {
-      "title": "Indian American Lawmakers Criticize Trump Russia Sanctions Waiver",
-      "url": "https://indiawest.com/indian-american-lawmakers-lead-backlash-against-trump/",
-      "domain": "indiawest.com",
-      "country": "India",
-      "published": "2026-10-20T20:45:00+00:00"
-     },
-     {
-      "title": "newsroomamerica . com",
-      "url": "https://newsroomamerica.com/?before=116209",
-      "domain": "newsroomamerica.com",
-      "country": "United States",
-      "published": "2026-10-20T20:45:00+00:00"
-     },
-     {
-      "title": "In  the weave : a legislative agenda for Trump final years – Roll Call",
-      "url": "https://rollcall.com/2026/10/20/in-the-weave-a-legislative-agenda-for-trumps-final-years/",
-      "domain": "rollcall.com",
-      "country": "United States",
-      "published": "2026-10-20T20:45:00+00:00"
-     },
-     {
-      "title": "Trump supporters say they do not expect to get $5 , 000 checks after midterms",
-      "url": "https://www.kmvt.com/2026/10/20/gimmick-or-giveback-even-some-trump-supporters-dont-expect-get-5000-checks-after-midterms/",
-      "domain": "kmvt.com",
-      "country": "United States",
-      "published": "2026-10-20T20:45:00+00:00"
-     },
-     {
-      "title": "Rubio pitches Venezuelan oil to India , seeks better energy ties",
-      "url": "https://www.tribuneindia.com/news/india/rubio-pitches-venezuelan-oil-to-india-seeks-better-energy-ties/",
-      "domain": "tribuneindia.com",
-      "country": "India",
-      "published": "2026-10-20T20:45:00+00:00"
-     },
-     {
-      "title": "Buttigieg Rallies Virginia Voters : A Blueprint for Democratic Victory in Crucial Midterm Elections",
-      "url": "https://www.bearingdrift.com/2026/10/buttigieg-rallies-virginia-voters.html",
-      "domain": "bearingdrift.com",
-      "country": "United States",
-      "published": "2026-10-20T20:45:00+00:00"
-     },
-     {
-      "title": "Europe Rejected Tariffs on India , China , Says Bessent",
-      "url": "https://indiawest.com/europe-rejected-us-call-for-secondary-tariffs-on-india-bessent/",
-      "domain": "indiawest.com",
-      "country": "India",
-      "published": "2026-10-20T20:45:00+00:00"
-     },
-     {
-      "title": "New lawsuit filed challenging Trump tariffs on Canada",
-      "url": "https://www.kelownadailycourier.ca/news/national_news/article_35777ac6-aef2-5b50-be26-192348dbd340.html",
-      "domain": "kelownadailycourier.ca",
-      "country": "Canada",
-      "published": "2026-10-20T20:45:00+00:00"
      }
     ],
     "economia_mundial": [
      {
-      "title": "BOK Financial ( BOKF ) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/bok-financial-bokf-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "domain": "fool.com",
+      "title": "The Great Rare Earth Disconnect : Prices Up 23 %, Miners Down 28 %",
+      "url": "https://www.zerohedge.com/commodities/great-rare-earth-disconnect-prices-23-miners-down-28",
+      "domain": "zerohedge.com",
       "country": "United States",
-      "published": "2026-10-20T21:30:00+00:00"
+      "published": "2026-10-21T00:45:00+00:00"
      },
      {
-      "title": "EVs Are the Future , No Matter How Far America Falls Behind",
-      "url": "https://www.cnet.com/tech/electric-vehicles-us-ev-hybrid-adoption-path-forward/",
-      "domain": "cnet.com",
-      "country": "Japan",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "[ Editorial ] When rules bend",
-      "url": "https://www.koreaherald.com/article/10909008",
-      "domain": "koreaherald.com",
-      "country": "South Korea",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "Home Bancorp : 3 Key Takeaways for Long - Term Investors",
-      "url": "https://www.fool.com/earnings/takeaways/2026/10/20/home-bancorp-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
-      "domain": "fool.com",
+      "title": "U . S . homebuilding slumps as permits hit 3 - 1 / 2 - year low | Honolulu Star - Advertiser",
+      "url": "https://www.staradvertiser.com/2026/10/20/breaking-news/u-s-homebuilding-slumps-as-permits-hit-3-1-2-year-low/",
+      "domain": "staradvertiser.com",
       "country": "United States",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "Argentina country risk hits its highest level in 11 months",
-      "url": "https://buenosairesherald.com/economics/argentinas-country-risk-hits-its-highest-level-in-11-months",
-      "domain": "buenosairesherald.com",
-      "country": "Argentina",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "Stock Market Today , Oct . 20 : AGNC Investment Rises on Stronger Sector Tone Despite Book - Value Decline",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/20/stock-market-today-oct-20-agnc-investment-rises-on-stronger-sector-tone-despite-book-value-decline/?source=iedfolrf0000001",
-      "domain": "fool.com",
-      "country": "United States",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "Tennessee gas prices fall 10 cents",
-      "url": "https://www.wbbjtv.com/2026/10/20/tennessee-gas-prices-fall-10-cents/",
-      "domain": "wbbjtv.com",
-      "country": "United States",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "JAMIE MCGEEVER | Fed sneezes , but emerging markets havent caught a cold yet",
-      "url": "https://www.businessday.co.za/opinion/2026-10-21-jamie-mcgeever-fed-sneezes-but-emerging-markets-havent-caught-a-cold-yet/",
-      "domain": "businessday.co.za",
-      "country": "South Africa",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "SpaceX 3rd - Quarter Revenue Jumps 161 Percent",
-      "url": "https://www.theepochtimes.com/business/spacexs-3rd-quarter-revenue-jumps-161-percent-6106622",
-      "domain": "theepochtimes.com",
-      "country": "United States",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "Details on $8 billion in relief from USDA for farmers",
-      "url": "https://salinapost.com/posts/804327d9-c4fa-4c0c-b077-ba23b4c6db56",
-      "domain": "salinapost.com",
-      "country": "United States",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "U . S . stocks end on mixed note Tuesday , Dow Jones stars",
-      "url": "http://www.australiannews.net/news/279388196/u-s-stocks-end-on-mixed-note-tuesday-dow-jones-stars",
-      "domain": "australiannews.net",
-      "country": "Australia",
-      "published": "2026-10-20T21:30:00+00:00"
+      "published": "2026-10-21T00:30:00+00:00"
      },
      {
       "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
-      "url": "http://www.russiaherald.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
-      "domain": "russiaherald.com",
-      "country": "Russia",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
-      "url": "http://www.floridastatesman.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
-      "domain": "floridastatesman.com",
+      "url": "http://www.dallassun.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "dallassun.com",
       "country": "United States",
-      "published": "2026-10-20T21:30:00+00:00"
+      "published": "2026-10-21T00:30:00+00:00"
      },
      {
-      "title": "Dollar dips as traders weigh Iran , AI risks | Stock Market News",
-      "url": "https://www.livemint.com/market/dollar-dips-as-traders-weigh-iran-ai-risks-11792522097761.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
-      "url": "http://www.nigeriasun.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
-      "domain": "nigeriasun.com",
-      "country": "Nigeria",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "U . S . stocks end on mixed note Tuesday , Dow Jones stars",
-      "url": "http://www.calcuttanews.net/news/279388196/u-s-stocks-end-on-mixed-note-tuesday-dow-jones-stars",
-      "domain": "calcuttanews.net",
-      "country": "India",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
-      "url": "http://www.torontotelegraph.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
-      "domain": "torontotelegraph.com",
+      "title": "Discovery Mining : Drilling at Dome Continues to Confirm Large - Scale , Open - Pit Potential ; New , High - Grade Intersections Extend Mineralization 600 Metres to South",
+      "url": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/2171-tsx/dsv/213262-drilling-at-dome-continues-to-confirm-large-scale-open-pit-potential-new-high-grade-intersections-extend-mineralization-600-metres-to-south.html",
+      "domain": "juniorminingnetwork.com",
       "country": "Canada",
-      "published": "2026-10-20T21:30:00+00:00"
+      "published": "2026-10-21T00:30:00+00:00"
      },
      {
-      "title": "Markets today : Wall Street rises , oil drops ; ASX set to advance",
-      "url": "https://www.watoday.com.au/business/markets/asx-set-to-climb-as-wall-street-rises-a-over-us70c-20261021-p6179f.html",
-      "domain": "watoday.com.au",
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.batonrougepost.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "batonrougepost.com",
+      "country": "United States",
+      "published": "2026-10-21T00:30:00+00:00"
+     },
+     {
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.tucsonpost.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "tucsonpost.com",
+      "country": "United States",
+      "published": "2026-10-21T00:30:00+00:00"
+     },
+     {
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.sydneysun.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "sydneysun.com",
       "country": "Australia",
-      "published": "2026-10-20T21:30:00+00:00"
+      "published": "2026-10-21T00:30:00+00:00"
      },
      {
-      "title": "Valmont : 3 Key Takeaways for Long - Term Investors",
-      "url": "https://www.fool.com/earnings/takeaways/2026/10/20/valmont-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
-      "domain": "fool.com",
+      "title": "Most US stocks rise following strong profit reports from Equifax , Hasbro and other big companies",
+      "url": "https://www.2news.com/news/national/most-us-stocks-rise-following-strong-profit-reports-from-equifax-hasbro-and-other-big-companies/article_9e2cd775-df38-5bab-995d-c6d19682f939.html",
+      "domain": "2news.com",
+      "country": "",
+      "published": "2026-10-21T00:30:00+00:00"
+     },
+     {
+      "title": "newsroomamerica . com",
+      "url": "https://newsroomamerica.com/?before=116244",
+      "domain": "newsroomamerica.com",
       "country": "United States",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "Western Alliance ( WAL ) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/20/western-alliance-wal-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "domain": "fool.com",
-      "country": "United States",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "Outpoll Expands Beyond Prediction Markets With Crypto Futures Trading",
-      "url": "https://bravenewcoin.com/press-release/outpoll-expands-beyond-prediction-markets-with-crypto-futures-trading",
-      "domain": "bravenewcoin.com",
-      "country": "United States",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "Zions : 3 Key Takeaways for Long - Term Investors",
-      "url": "https://www.fool.com/earnings/takeaways/2026/10/20/zions-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
-      "domain": "fool.com",
-      "country": "United States",
-      "published": "2026-10-20T21:30:00+00:00"
-     },
-     {
-      "title": "Commodity currencies push higher , including the NZD",
-      "url": "https://www.interest.co.nz/currencies/140763/oil-prices-swing-around-headlines-only-modest-net-movements-markets-overall",
-      "domain": "interest.co.nz",
-      "country": "New Zealand",
-      "published": "2026-10-20T21:15:00+00:00"
+      "published": "2026-10-21T00:30:00+00:00"
      },
      {
       "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
-      "url": "http://www.oklahomastar.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
-      "domain": "oklahomastar.com",
-      "country": "United States",
-      "published": "2026-10-20T21:15:00+00:00"
+      "url": "http://www.mexicostar.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "mexicostar.com",
+      "country": "Mexico",
+      "published": "2026-10-21T00:30:00+00:00"
      },
      {
-      "title": "STERIS to Host a Conference Call for Fiscal 2027 Second Quarter on November 5 , 2026",
-      "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/steris-to-host-a-conference-call-for-fiscal-2027-second-quarter-on-november-5-2026/2450261",
-      "domain": "manilatimes.net",
-      "country": "Philippines",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "S & P / TSX composite rises on broad gains , U . S . stock markets see mixed results",
-      "url": "https://www.airdriecityview.com/national-business/sptsx-composite-rises-on-broad-gains-us-stock-markets-see-mixed-results-12914979",
-      "domain": "airdriecityview.com",
+      "title": "Kitchener candidates list their top priorities for this year municipal election",
+      "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/kitchener-municipal-election-candidates-survey-2026-9.7388562",
+      "domain": "cbc.ca",
       "country": "Canada",
-      "published": "2026-10-20T21:15:00+00:00"
+      "published": "2026-10-21T00:30:00+00:00"
+     },
+     {
+      "title": "China cross - border capital inflows ease to 40 . 7 bln USD in September - Xinhua",
+      "url": "https://english.news.cn/20261020/00b52c2b90ce466eb91b056387f3a873/c.html",
+      "domain": "english.news.cn",
+      "country": "",
+      "published": "2026-10-21T00:30:00+00:00"
      },
      {
       "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
-      "url": "http://www.malaysiasun.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
-      "domain": "malaysiasun.com",
-      "country": "Malaysia",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "Oberndorf Real Estate Management and The Bascom Group Acquire Museum Park Apartments in San Jose , CA for $53 . 1 Million",
-      "url": "https://www.prnewswire.com:443/news-releases/oberndorf-real-estate-management-and-the-bascom-group-acquire-museum-park-apartments-in-san-jose-ca-for-53-1-million-302914646.html",
-      "domain": "prnewswire.com",
+      "url": "http://www.theusnews.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "theusnews.com",
       "country": "United States",
-      "published": "2026-10-20T21:15:00+00:00"
+      "published": "2026-10-21T00:30:00+00:00"
      },
      {
-      "title": "1971 – a pivotal year and the true  Turning Point united states  – The Greanville Post",
-      "url": "https://www.greanvillepost.com/1971-a-pivotal-year-and-the-true-turning-point-usa/",
-      "domain": "greanvillepost.com",
+      "title": "US single - family housing starts plunge ; building permits hit 3 - 1 / 2 - year low",
+      "url": "https://www.sidneyherald.com/news/national/us-single-family-housing-starts-plunge-building-permits-hit-3-1-2-year-low",
+      "domain": "sidneyherald.com",
       "country": "United States",
-      "published": "2026-10-20T21:15:00+00:00"
+      "published": "2026-10-21T00:30:00+00:00"
      },
      {
-      "title": "QCR Holdings , Inc . Announces Net Income of $36 . 4 million for the Third Quarter of 2026",
-      "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/qcr-holdings-inc-announces-net-income-of-364-million-for-the-third-quarter-of-2026/2450221",
-      "domain": "manilatimes.net",
-      "country": "Philippines",
-      "published": "2026-10-20T21:15:00+00:00"
+      "title": "This AI Company Loaded with Debt Is Giving Everyone the Heebie Jeebies",
+      "url": "https://www.jezebel.com/this-ai-company-loaded-with-debt-is-giving-everyone-the-heebie-jeebies",
+      "domain": "jezebel.com",
+      "country": "United States",
+      "published": "2026-10-21T00:30:00+00:00"
      },
      {
-      "title": "Breakfast briefing : US data weaker",
-      "url": "https://www.interest.co.nz/economy/140761/us-jobs-housing-falter-canada-eyes-rate-hike-china-lprs-unchanged-taiwan-export",
-      "domain": "interest.co.nz",
-      "country": "New Zealand",
-      "published": "2026-10-20T21:15:00+00:00"
+      "title": "The Future of Finance : An Interview with Stanford Professor Darrell Duffie",
+      "url": "https://stanfordreview.org/the-future-of-finance-an-interview-with-stanford-professor-darrell-duffie/",
+      "domain": "stanfordreview.org",
+      "country": "United States",
+      "published": "2026-10-21T00:30:00+00:00"
      },
      {
-      "title": "Unretired at 68 and the Paycheck Is Back ? These 3 ETFs Decide What the New Money Should Do",
-      "url": "https://247wallst.com/investing/etf/2026/10/20/unretired-at-68-and-the-paycheck-is-back-these-3-etfs-decide-what-the-new-money-should-do/",
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.parisguardian.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "parisguardian.com",
+      "country": "France",
+      "published": "2026-10-21T00:15:00+00:00"
+     },
+     {
+      "title": "Dollar Index ( DXY00 ) Slides As Chinese Yuan Hits 4 - Year High And US Housing Data Disappoints",
+      "url": "https://www.foreignpolicyjournal.com/2026/10/20/dollar-index-dxy00-slides-as-chinese-yuan-hits-4-year-high-and-us-housing-data-disappoints/",
+      "domain": "foreignpolicyjournal.com",
+      "country": "Israel",
+      "published": "2026-10-21T00:15:00+00:00"
+     },
+     {
+      "title": "Media Construct Conspiracy Theories About Trump Diesel Deal",
+      "url": "https://thefederalist.com/2026/10/20/corporate-media-construct-conspiracy-theories-about-trump-bringing-down-diesel-prices/",
+      "domain": "thefederalist.com",
+      "country": "United States",
+      "published": "2026-10-21T00:15:00+00:00"
+     },
+     {
+      "title": "US single - family housing starts plunge ; building permits hit 3 - 1 / 2 - year low",
+      "url": "https://www.newscenter1.tv/news/national/us-single-family-housing-starts-plunge-building-permits-hit-3-1-2-year-low",
+      "domain": "newscenter1.tv",
+      "country": "United States",
+      "published": "2026-10-21T00:15:00+00:00"
+     },
+     {
+      "title": "Social Security Got a 3 . 6 % Raise for 2027 . DVY Payout Rose 10 . 24 %. The Dividend Aristocrats Fund Rose 9 . 09 %.",
+      "url": "https://247wallst.com/investing/etf/2026/10/20/social-security-got-a-3-6-raise-for-2027-dvys-payout-rose-10-24-the-dividend-aristocrats-funds-rose-9-09/",
       "domain": "247wallst.com",
       "country": "United States",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "The Bond Market Warning – and Three Stocks Worth Watching",
-      "url": "https://investorplace.com/dailylive/2026/10/the-bond-markets-warning-and-three-stocks-worth-watching/",
-      "domain": "investorplace.com",
-      "country": "United States",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "Unretired at 68 and the Paycheck Is Back ? These 3 ETFs Decide What the New Money Should Do",
-      "url": "https://www.aol.com/articles/unretired-68-paycheck-back-3-203322000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "Interparfums , Inc . Reports 2026 Third Quarter Net Sales",
-      "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/interparfums-inc-reports-2026-third-quarter-net-sales/2450227",
-      "domain": "manilatimes.net",
-      "country": "Philippines",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "Intuitive Announces Third Quarter Earnings",
-      "url": "https://www.manilatimes.net/2026/10/21/tmt-newswire/globenewswire/intuitive-announces-third-quarter-earnings/2450225",
-      "domain": "manilatimes.net",
-      "country": "Philippines",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "Trump Announces Another $8 Billion Farm Bailout",
-      "url": "https://thenewamerican.com/us/trump-announces-another-8-billion-farm-bailout/",
-      "domain": "thenewamerican.com",
-      "country": "United States",
-      "published": "2026-10-20T21:15:00+00:00"
-     },
-     {
-      "title": "U . S . stocks end on mixed note Tuesday , Dow Jones stars",
-      "url": "http://www.laosnews.net/news/279388196/u-s-stocks-end-on-mixed-note-tuesday-dow-jones-stars",
-      "domain": "laosnews.net",
-      "country": "United States",
-      "published": "2026-10-20T21:15:00+00:00"
+      "published": "2026-10-21T00:15:00+00:00"
      },
      {
       "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
-      "url": "http://www.trinidadtimes.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
-      "domain": "trinidadtimes.com",
-      "country": "Trinidad and Tobago",
-      "published": "2026-10-20T21:15:00+00:00"
+      "url": "http://www.hawaiitelegraph.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "hawaiitelegraph.com",
+      "country": "United States",
+      "published": "2026-10-21T00:15:00+00:00"
      },
      {
-      "title": "ELS Reports Third Quarter Results",
-      "url": "https://www.prnewswire.com/news-releases/els-reports-third-quarter-results-302914591.html",
-      "domain": "prnewswire.com",
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.caribbeanherald.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "caribbeanherald.com",
       "country": "United States",
-      "published": "2026-10-20T21:00:00+00:00"
+      "published": "2026-10-21T00:15:00+00:00"
+     },
+     {
+      "title": "Wall Street gains through whippy oil price movements",
+      "url": "https://www.nbr.co.nz/morning-brew/wall-street-gains-through-whippy-oil-price-movements/",
+      "domain": "nbr.co.nz",
+      "country": "New Zealand",
+      "published": "2026-10-21T00:15:00+00:00"
+     },
+     {
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.sierraleonetimes.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "sierraleonetimes.com",
+      "country": "Sierra Leone",
+      "published": "2026-10-21T00:00:00+00:00"
+     },
+     {
+      "title": "U . S . Sen . Roger Marshall close ties to Trump may hurt his chances with Kansas farmers",
+      "url": "https://www.kmuw.org/politics/2026-10-20/u-s-sen-roger-marshalls-close-ties-to-trump-may-hurt-his-chances-with-kansas-farmers",
+      "domain": "kmuw.org",
+      "country": "United States",
+      "published": "2026-10-21T00:00:00+00:00"
+     },
+     {
+      "title": "Your Money : Stay invested through market uncertainty",
+      "url": "https://www.waff.com/2026/10/20/your-money-stay-invested-through-market-uncertainty/",
+      "domain": "waff.com",
+      "country": "United States",
+      "published": "2026-10-21T00:00:00+00:00"
+     },
+     {
+      "title": "Brazil Stocks Jump 1 . 6 % as Dollar Slips 0 . 6 %",
+      "url": "https://www.riotimesonline.com/brazil-stocks-jump-dollar-slips-election-trade-oct-20-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-21T00:00:00+00:00"
+     },
+     {
+      "title": "The Great Silver Debate - The Daily Reckoning",
+      "url": "https://dailyreckoning.com/the-great-silver-debate/",
+      "domain": "dailyreckoning.com",
+      "country": "United States",
+      "published": "2026-10-21T00:00:00+00:00"
+     },
+     {
+      "title": "ADSQUIRE Named 2026 Microsoft Advertising Elite Partner",
+      "url": "https://www.adweek.com/adweek-wire/adsquire-named-2026-microsoft-advertising-elite-partner/",
+      "domain": "adweek.com",
+      "country": "United States",
+      "published": "2026-10-21T00:00:00+00:00"
+     },
+     {
+      "title": "Other editors : AI investors will demand a return sooner or later",
+      "url": "https://www.herald-dispatch.com/opinion/other-editors-ai-investors-will-demand-a-return-sooner-or-later/article_c6a6c5fc-12ab-4cdd-aff0-64bdaa3e0c61.html",
+      "domain": "herald-dispatch.com",
+      "country": "United States",
+      "published": "2026-10-21T00:00:00+00:00"
+     },
+     {
+      "title": "US single - family housing starts plunge ; building permits hit 3 - 1 / 2 - year low",
+      "url": "https://www.brainerddispatch.com/news/national/us-single-family-housing-starts-plunge-building-permits-hit-3-1-2-year-low",
+      "domain": "brainerddispatch.com",
+      "country": "United States",
+      "published": "2026-10-21T00:00:00+00:00"
+     },
+     {
+      "title": "Trump warns US could face France - like unrest if Democrats win midterm elections",
+      "url": "https://americanbazaaronline.com/2026/10/20/trump-warns-us-could-face-france-like-unrest-if-democrats-win-midterm-elections-490396/",
+      "domain": "americanbazaaronline.com",
+      "country": "United States",
+      "published": "2026-10-21T00:00:00+00:00"
+     },
+     {
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.iranherald.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "iranherald.com",
+      "country": "Iran",
+      "published": "2026-10-21T00:00:00+00:00"
+     },
+     {
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.newyorktelegraph.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "newyorktelegraph.com",
+      "country": "United States",
+      "published": "2026-10-21T00:00:00+00:00"
+     },
+     {
+      "title": "RYDE Stock Drop – Robbins LLP Reminds Investors They May Be Eligible to Lead the Class Action Lawsuit Against Ryde Group Ltd",
+      "url": "https://bubblear.com/ryde-stock-drop-robbins-llp-reminds-investors-they-may-be-eligible-to-lead-the-class-action-lawsuit-against-ryde-group-ltd/34584/",
+      "domain": "bubblear.com",
+      "country": "Argentina",
+      "published": "2026-10-21T00:00:00+00:00"
+     },
+     {
+      "title": "US single - family housing starts plunge ; building permits hit 3 - 1 / 2 - year low",
+      "url": "https://www.wadenapj.com/news/national/us-single-family-housing-starts-plunge-building-permits-hit-3-1-2-year-low",
+      "domain": "wadenapj.com",
+      "country": "United States",
+      "published": "2026-10-20T23:45:00+00:00"
+     },
+     {
+      "title": "newsroomamerica . com",
+      "url": "https://newsroomamerica.com/?before=116241",
+      "domain": "newsroomamerica.com",
+      "country": "United States",
+      "published": "2026-10-20T23:45:00+00:00"
+     },
+     {
+      "title": "Wall Street diverges Tuesday , industrials advance , techs slip",
+      "url": "http://www.texasguardian.com/news/279388196/wall-street-diverges-tuesday-industrials-advance-techs-slip",
+      "domain": "texasguardian.com",
+      "country": "United States",
+      "published": "2026-10-20T23:45:00+00:00"
+     },
+     {
+      "title": "US single - family housing starts plunge ; building permits hit 3 - 1 / 2 - year low",
+      "url": "https://www.inforum.com/news/national/us-single-family-housing-starts-plunge-building-permits-hit-3-1-2-year-low",
+      "domain": "inforum.com",
+      "country": "United States",
+      "published": "2026-10-20T23:45:00+00:00"
      }
     ]
    },
    "errors": {
-    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
