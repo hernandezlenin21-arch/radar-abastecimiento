@@ -1,5 +1,22 @@
 [
  {
+  "id": "5f80c466a990",
+  "indicator": "cp-ormuz",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-21",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Estrecho de Ormuz: 1 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Gulf exports more oil than it did before Iran war despite surge in Hormuz attacks” (middleeasteye.net). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "middleeasteye.net",
+  "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-exports-more-oil-it-did-iran-war-despite-surge-hormuz-attacks",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-21T15:49:36-06:00"
+ },
+ {
   "id": "2e1d5e92a392",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
