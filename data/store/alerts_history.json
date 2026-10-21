@@ -1,5 +1,22 @@
 [
  {
+  "id": "2e1d5e92a392",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-21",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 2 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Saudi , Jordanian FMs Discuss Houthi Attacks , Sign Protocol on Higher Coordination Council” (english.aawsat.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "english.aawsat.com",
+  "url": "https://english.aawsat.com/gulf/5332099-saudi-jordanian-fms-discuss-houthi-attacks-sign-protocol-higher-coordination-council",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-21T12:56:29-06:00"
+ },
+ {
   "id": "fbb9d8509ade",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
