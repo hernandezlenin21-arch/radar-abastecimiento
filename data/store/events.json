@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-21T21:49:54-06:00",
+  "at": "2026-10-22T01:03:23-06:00",
   "data": {
    "storms": [
     {
@@ -218,7 +218,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-21T21:49:54-06:00",
+  "at": "2026-10-22T01:03:23-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -227,23 +227,685 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-21T21:49:54-06:00",
+  "at": "2026-10-22T01:03:23-06:00",
   "data": {
    "raw": {
-    "commodities_agricolas": [
+    "geopolitica": [
      {
-      "title": "CPO prices seen staying above RM4 , 600 in November , says MPOC",
-      "url": "https://www.thestar.com.my/business/business-news/2026/10/22/malaysia-crude-palm-oil-prices-to-stay-above-rm4600-per-ton-in-november-mpoc-says",
-      "domain": "thestar.com.my",
-      "country": "Malaysia",
-      "published": "2026-10-22T03:15:00+00:00"
+      "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions",
+      "url": "https://www.asiaone.com/money/oil-rises-us-orders-diplomats-leave-saudi-arabia-amid-escalating-tensions",
+      "domain": "asiaone.com",
+      "country": "Singapore",
+      "published": "2026-10-22T06:45:00+00:00"
      },
      {
-      "title": "Saskatchewan farmers squeezed by high diesel costs , wet harvest",
-      "url": "https://www.cjme.com/2026/10/21/saskatchewan-farmers-squeezed-by-high-diesel-costs-wet-harvest/",
-      "domain": "cjme.com",
+      "title": "US orders diplomats to depart Saudi Arabia amid Houthi strikes",
+      "url": "https://www.channelnewsasia.com/world/us-diplomats-depart-saudi-arabia-houthi-strikes-6480341",
+      "domain": "channelnewsasia.com",
+      "country": "United States",
+      "published": "2026-10-22T06:45:00+00:00"
+     },
+     {
+      "title": "US weighs fresh strikes on Iran ; Tehran warns of",
+      "url": "http://www.arabherald.com/news/279391304/us-weighs-fresh-strikes-on-iran-tehran-warns-of-father-of-all-bombs-reports",
+      "domain": "arabherald.com",
+      "country": "Syria",
+      "published": "2026-10-22T06:45:00+00:00"
+     },
+     {
+      "title": "Putin pounds Ukraine with drone strikes",
+      "url": "https://www.dailymail.com/news/article-16228923/Putin-pounds-Ukraine-drone-strikes-just-hours-Trump-envoy-Steve-Witkoff-declared-humanitarian.html",
+      "domain": "dailymail.com",
+      "country": "United States",
+      "published": "2026-10-22T06:45:00+00:00"
+     },
+     {
+      "title": "Not negotiating : Trump says  something will happen fairly soon  with Iran , as US mulls fresh strikes",
+      "url": "http://www.russiaherald.com/news/279391425/not-negotiating-trump-says-something-will-happen-fairly-soon-with-iran-as-us-mulls-fresh-strikes",
+      "domain": "russiaherald.com",
+      "country": "Russia",
+      "published": "2026-10-22T06:45:00+00:00"
+     },
+     {
+      "title": "Crude oil price rises as Houthis intensify attacks on Saudi Arabia",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-rise-as-houthis-intensify-attacks-on-saudi-arabia/article71610032.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-10-22T06:45:00+00:00"
+     },
+     {
+      "title": "Trump war on electric vehicles boomerangs on us",
+      "url": "https://www.timesrepublican.com/opinion/columnists/2026/10/trumps-war-on-electric-vehicles-boomerangs-on-us/",
+      "domain": "timesrepublican.com",
+      "country": "United States",
+      "published": "2026-10-22T06:45:00+00:00"
+     },
+     {
+      "title": "Ukraine strikes on Russian data centers disrupt key services and derail AI research",
+      "url": "https://www.therecord.com/business/ukraine-s-strikes-on-russian-data-centers-disrupt-key-services-and-derail-ai-research/article_e1f31a75-5ab1-5a18-ac26-bd7696b11f59.html",
+      "domain": "therecord.com",
       "country": "Canada",
-      "published": "2026-10-22T03:15:00+00:00"
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "One killed , eight injured in attack on Saudi Arabia King Fahd airport",
+      "url": "https://www.orissapost.com/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport/",
+      "domain": "orissapost.com",
+      "country": "India",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "South Africa : Finance Minister Announces Fuel Levy Relief",
+      "url": "https://allafrica.com/stories/202610220090.html",
+      "domain": "allafrica.com",
+      "country": "Nigeria",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Asian shares retreat after strong profits lead a rally on Wall Street",
+      "url": "https://www.therecord.com/business/asian-shares-retreat-after-strong-profits-lead-a-rally-on-wall-street/article_12125f51-9061-5cad-8015-f89c8d2b1576.html",
+      "domain": "therecord.com",
+      "country": "Canada",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Iran IRGC says 4 ships hit , set ablaze in Gulf ; 3 others strike mines near Hormuz",
+      "url": "http://www.heraldglobe.com/news/279391539/iran-irgc-says-4-ships-hit-set-ablaze-in-gulf-3-others-strike-mines-near-hormuz",
+      "domain": "heraldglobe.com",
+      "country": "United States",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Not negotiating : Trump says  something will happen fairly soon  with Iran , as US mulls fresh strikes",
+      "url": "http://www.heraldglobe.com/news/279391425/not-negotiating-trump-says-something-will-happen-fairly-soon-with-iran-as-us-mulls-fresh-strikes",
+      "domain": "heraldglobe.com",
+      "country": "United States",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Asian shares retreat after strong profits lead a rally on Wall Street",
+      "url": "http://www.idahopress.com/ap_news/us/asian-shares-retreat-after-strong-profits-lead-a-rally-on-wall-street/article_aa3c99fd-4455-5179-83e2-8bfac7d99c94.html",
+      "domain": "idahopress.com",
+      "country": "United States",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "In New Mexico governor race , Deb Haaland historic bid tests Democrat political hold",
+      "url": "https://www.ksat.com/news/politics/2026/10/22/in-new-mexico-governors-race-deb-haalands-historic-bid-tests-democrats-political-hold/",
+      "domain": "ksat.com",
+      "country": "United States",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Asian shares retreat after strong profits lead a rally on Wall Street",
+      "url": "https://www.clickondetroit.com/business/2026/10/22/asian-shares-retreat-after-strong-profits-lead-a-rally-on-wall-street/",
+      "domain": "clickondetroit.com",
+      "country": "United States",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Three killed , 10 injured in attacks on Saudi Arabia",
+      "url": "https://arynews.tv/news/liveblog/iran-war-2026-live-updates-trump-us-israel?update=22-Oct-2026-05-26-00",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Iran IRGC Navy says seven vessels hit , warns US of wider response",
+      "url": "https://tribune.com.pk/story/2636274/irans-irgc-navy-says-seven-vessels-hit-warns-us-of-wider-response",
+      "domain": "tribune.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Jackdaw wont cut our bills – so why are we still hooked on gas ?",
+      "url": "https://www.thenational.scot/politics/26659068.jackdaw-wont-cut-bills---still-hooked-gas/",
+      "domain": "thenational.scot",
+      "country": "United Kingdom",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Three killed , 10 injured including Pakistani in attacks on Dammam airport , Saudi Aramco facility",
+      "url": "https://arynews.tv/three-killed-10-injured-including-pakistani-in-attacks-on-dammam-airport-saudi-aramco-facility",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Not negotiating : Trump says  something will happen fairly soon  with Iran , as US mulls fresh strikes",
+      "url": "https://www.hindustantimes.com/world-news/not-negotiating-trump-says-something-will-happen-fairly-soon-with-iran-as-us-mulls-fresh-strikes-101792644050289.html",
+      "domain": "hindustantimes.com",
+      "country": "India",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "In New Mexico governor race , Deb Haaland historic bid tests Democrat political hold",
+      "url": "https://www.clickondetroit.com/news/politics/2026/10/22/in-new-mexico-governors-race-deb-haalands-historic-bid-tests-democrats-political-hold/",
+      "domain": "clickondetroit.com",
+      "country": "United States",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Ukraine strikes on Russian data centers disrupt key services and derail AI research",
+      "url": "https://www.clickondetroit.com/business/2026/10/22/ukraines-strikes-on-russian-data-centers-disrupt-key-services-and-derail-ai-research/",
+      "domain": "clickondetroit.com",
+      "country": "United States",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Coastal construction projects threaten the mangrove forest that protects Vietnam biggest city",
+      "url": "https://www.therecord.com/business/coastal-construction-projects-threaten-the-mangrove-forest-that-protects-vietnam-s-biggest-city/article_4162db21-56b3-5ee9-93ee-267b7b258965.html",
+      "domain": "therecord.com",
+      "country": "Canada",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "US weighs fresh strikes on Iran ; Tehran warns of",
+      "url": "http://www.heraldglobe.com/news/279391304/us-weighs-fresh-strikes-on-iran-tehran-warns-of-father-of-all-bombs-reports",
+      "domain": "heraldglobe.com",
+      "country": "United States",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "In New Mexico governor race , Deb Haaland historic bid tests Democrat political hold | National",
+      "url": "https://www.dailygazette.com/ap/national/in-new-mexico-governor-s-race-deb-haaland-s-historic-bid-tests-democrats-political-hold/article_a8f77d6f-5621-5454-9584-8cacd424789f.html",
+      "domain": "dailygazette.com",
+      "country": "United States",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "The one area Putin could strike to paralyse whole of united kingdom as Britain warned of  2030 attack",
+      "url": "https://www.aol.co.uk/articles/one-area-putin-could-strike-060000000.html",
+      "domain": "aol.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "US orders departure of some embassy staff and families from Saudi Arabia amid Houthi threat",
+      "url": "https://www.kitv.com/news/national/us-orders-departure-of-some-embassy-staff-and-families-from-saudi-arabia-amid-houthi-threat/article_8f5ebbb2-9cd9-5dc6-81e5-78e984f21346.html",
+      "domain": "kitv.com",
+      "country": "United States",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Ukraine strikes on Russian data centers disrupt key services and derail AI research",
+      "url": "https://www.ksat.com/business/2026/10/22/ukraines-strikes-on-russian-data-centers-disrupt-key-services-and-derail-ai-research/",
+      "domain": "ksat.com",
+      "country": "United States",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Thursday briefing : The crisis putting maternity units in England at risk of closure",
+      "url": "https://www.aol.co.uk/articles/thursday-briefing-crisis-putting-maternity-054219000.html",
+      "domain": "aol.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "In New Mexico governor race , Deb Haaland historic bid tests Democrat political hold | National / World News",
+      "url": "https://www.news-gazette.com/news/nation-world/in-new-mexico-governor-s-race-deb-haaland-s-historic-bid-tests-democrats-political-hold/article_10b5f66a-c5c4-57c1-a927-4de8725b24ad.html",
+      "domain": "news-gazette.com",
+      "country": "United States",
+      "published": "2026-10-22T06:15:00+00:00"
+     },
+     {
+      "title": "Seoul holds key rate steady at 3 pc after 2 consecutive rate hikes",
+      "url": "https://www.prokerala.com/news/articles/a1827280.html",
+      "domain": "prokerala.com",
+      "country": "India",
+      "published": "2026-10-22T06:15:00+00:00"
+     },
+     {
+      "title": "Report : U . S ., Israel Draft Plans for Renewed Iran Strikes After Midterms",
+      "url": "https://www.breitbart.com/politics/2026/10/21/report-u-s-israel-draft-plans-renewed-iran-strikes-after-midterms/",
+      "domain": "breitbart.com",
+      "country": "United States",
+      "published": "2026-10-22T06:15:00+00:00"
+     },
+     {
+      "title": "Congress should support the Biden administration effort to sell defensive missiles to Saudi Arabia",
+      "url": "https://www.defensenews.com/opinion/commentary/2021/11/24/congress-should-support-the-biden-administrations-effort-to-sell-defensive-missiles-to-saudi-arabia/",
+      "domain": "defensenews.com",
+      "country": "United States",
+      "published": "2026-10-22T06:15:00+00:00"
+     },
+     {
+      "title": "Asian shares retreat after strong profits lead a rally on Wall Street",
+      "url": "https://www.union-bulletin.com/news/national/asian-shares-retreat-after-strong-profits-lead-a-rally-on-wall-street/article_89de8b89-42fb-5a31-9b3d-cc5493e37603.html",
+      "domain": "union-bulletin.com",
+      "country": "United States",
+      "published": "2026-10-22T06:15:00+00:00"
+     },
+     {
+      "title": "Alberta overwhelmingly votes to remain part of Canada : What does it mean for PM Mark Carney and his feud with Trump ?",
+      "url": "https://economictimes.indiatimes.com/world/us/alberta-overwhelmingly-votes-to-remain-part-of-canada-what-does-it-mean-for-pm-mark-carney-and-his-feud-with-trump/articleshow/135107618.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-22T06:15:00+00:00"
+     },
+     {
+      "title": "No company is immune : Supply chain woes weigh on defense firms",
+      "url": "https://www.defensenews.com/air/2021/11/23/no-company-is-immune-supply-chain-woes-weigh-on-defense-firms/",
+      "domain": "defensenews.com",
+      "country": "United States",
+      "published": "2026-10-22T06:15:00+00:00"
+     },
+     {
+      "title": "Asian shares retreat after strong profits lead a rally on Wall Street",
+      "url": "https://www.niagarafallsreview.ca/business/asian-shares-retreat-after-strong-profits-lead-a-rally-on-wall-street/article_de48990d-b332-5f6c-84a4-defb4b3ad9cd.html",
+      "domain": "niagarafallsreview.ca",
+      "country": "Canada",
+      "published": "2026-10-22T06:00:00+00:00"
+     },
+     {
+      "title": "Haaland historic bid for governor tests Democrat hold on New Mexico",
+      "url": "https://www.wdbo.com/news/politics/new-mexico-governors/JETAURA7DY7QTF7SXY7JZC4JRI/",
+      "domain": "wdbo.com",
+      "country": "United States",
+      "published": "2026-10-22T06:00:00+00:00"
+     },
+     {
+      "title": "Coastal construction projects threaten the mangrove forest that protects Vietnam biggest city",
+      "url": "https://www.niagarafallsreview.ca/business/coastal-construction-projects-threaten-the-mangrove-forest-that-protects-vietnam-s-biggest-city/article_9b187f66-0f0b-59a9-aaee-2ed6d37363fa.html",
+      "domain": "niagarafallsreview.ca",
+      "country": "Canada",
+      "published": "2026-10-22T06:00:00+00:00"
+     }
+    ],
+    "transporte_maritimo": [
+     {
+      "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions",
+      "url": "https://www.asiaone.com/money/oil-rises-us-orders-diplomats-leave-saudi-arabia-amid-escalating-tensions",
+      "domain": "asiaone.com",
+      "country": "Singapore",
+      "published": "2026-10-22T06:45:00+00:00"
+     },
+     {
+      "title": "US weighs fresh strikes on Iran ; Tehran warns of",
+      "url": "http://www.arabherald.com/news/279391304/us-weighs-fresh-strikes-on-iran-tehran-warns-of-father-of-all-bombs-reports",
+      "domain": "arabherald.com",
+      "country": "Syria",
+      "published": "2026-10-22T06:45:00+00:00"
+     },
+     {
+      "title": "Not negotiating : Trump says  something will happen fairly soon  with Iran , as US mulls fresh strikes",
+      "url": "http://www.russiaherald.com/news/279391425/not-negotiating-trump-says-something-will-happen-fairly-soon-with-iran-as-us-mulls-fresh-strikes",
+      "domain": "russiaherald.com",
+      "country": "Russia",
+      "published": "2026-10-22T06:45:00+00:00"
+     },
+     {
+      "title": "Somalia : Somaliland Leads Abraham Accords Predictions On Polymarket",
+      "url": "https://allafrica.com/stories/202610220051.html",
+      "domain": "allafrica.com",
+      "country": "Nigeria",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Iran IRGC says 4 ships hit , set ablaze in Gulf ; 3 others strike mines near Hormuz",
+      "url": "http://www.heraldglobe.com/news/279391539/iran-irgc-says-4-ships-hit-set-ablaze-in-gulf-3-others-strike-mines-near-hormuz",
+      "domain": "heraldglobe.com",
+      "country": "United States",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Not negotiating : Trump says  something will happen fairly soon  with Iran , as US mulls fresh strikes",
+      "url": "http://www.heraldglobe.com/news/279391425/not-negotiating-trump-says-something-will-happen-fairly-soon-with-iran-as-us-mulls-fresh-strikes",
+      "domain": "heraldglobe.com",
+      "country": "United States",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Iran IRGC Navy says seven vessels hit , warns US of wider response",
+      "url": "https://tribune.com.pk/story/2636274/irans-irgc-navy-says-seven-vessels-hit-warns-us-of-wider-response",
+      "domain": "tribune.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Not negotiating : Trump says  something will happen fairly soon  with Iran , as US mulls fresh strikes",
+      "url": "https://www.hindustantimes.com/world-news/not-negotiating-trump-says-something-will-happen-fairly-soon-with-iran-as-us-mulls-fresh-strikes-101792644050289.html",
+      "domain": "hindustantimes.com",
+      "country": "India",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "US weighs fresh strikes on Iran ; Tehran warns of",
+      "url": "http://www.heraldglobe.com/news/279391304/us-weighs-fresh-strikes-on-iran-tehran-warns-of-father-of-all-bombs-reports",
+      "domain": "heraldglobe.com",
+      "country": "United States",
+      "published": "2026-10-22T06:30:00+00:00"
+     },
+     {
+      "title": "Report : U . S ., Israel Draft Plans for Renewed Iran Strikes After Midterms",
+      "url": "https://www.breitbart.com/politics/2026/10/21/report-u-s-israel-draft-plans-renewed-iran-strikes-after-midterms/",
+      "domain": "breitbart.com",
+      "country": "United States",
+      "published": "2026-10-22T06:15:00+00:00"
+     },
+     {
+      "title": "EU energy measures fall short of tackling high prices , warns Cypriot expert",
+      "url": "https://cyprus-mail.com/2026/10/22/eu-energy-measures-fall-short-of-tackling-high-prices-warns-cypriot-expert",
+      "domain": "cyprus-mail.com",
+      "country": "Cyprus",
+      "published": "2026-10-22T06:00:00+00:00"
+     },
+     {
+      "title": "Tanker Struck by Projectile Off the Coast of Oman : UKMTO",
+      "url": "https://shipandbunker.com/news/world/503624-tanker-struck-by-projectile-off-the-coast-of-oman-ukmto",
+      "domain": "shipandbunker.com",
+      "country": "Singapore",
+      "published": "2026-10-22T06:00:00+00:00"
+     },
+     {
+      "title": "Egypt : Moody Upgrades Egypt Credit Rating As Debt Falls , Reserves Rise",
+      "url": "https://allafrica.com/stories/202610220016.html",
+      "domain": "allafrica.com",
+      "country": "Nigeria",
+      "published": "2026-10-22T06:00:00+00:00"
+     },
+     {
+      "title": "China plan to never run out of food",
+      "url": "https://dotchuoinon.com/2026/10/21/chinas-plan-to-never-run-out-of-food/",
+      "domain": "dotchuoinon.com",
+      "country": "Vietnam",
+      "published": "2026-10-22T06:00:00+00:00"
+     },
+     {
+      "title": "Saudi oil exports rise to five - month high despite regional disruptions",
+      "url": "https://tradearabia.com:443/News/488346/Saudi-oil-exports-rise-to-five-month-high-despite-regional-disruptions",
+      "domain": "tradearabia.com",
+      "country": "United Arab Emirates",
+      "published": "2026-10-22T06:00:00+00:00"
+     },
+     {
+      "title": "Iran IRGC Navy says seven vessels hit , warns US of wider response",
+      "url": "https://whbl.com/2026/10/21/irans-irgc-navy-says-seven-vessels-hit-warns-us-of-wider-response/",
+      "domain": "whbl.com",
+      "country": "United States",
+      "published": "2026-10-22T06:00:00+00:00"
+     },
+     {
+      "title": "Azerbaijan must move beyond transit to become a regional manufacturing and logistics hub",
+      "url": "https://news.az/news/azerbaijan-must-move-beyond-transit-to-become-a-regional-manufacturing-and-logistics-hub",
+      "domain": "news.az",
+      "country": "Azerbaijan",
+      "published": "2026-10-22T06:00:00+00:00"
+     },
+     {
+      "title": "Ontario drivers to get more relief at the pumps",
+      "url": "https://www.muskokaregion.com/news/ontario-gas-price-prediction-for-oct-22-23/article_3f66c7e3-9004-56d7-aebd-f6c901e93232.html",
+      "domain": "muskokaregion.com",
+      "country": "Canada",
+      "published": "2026-10-22T06:00:00+00:00"
+     },
+     {
+      "title": "US troops evacuate bases across Middle East due to ongoing threats as Trump mulls major strike on Iran",
+      "url": "https://www.dailymail.com/news/article-16228719/US-troops-evacuate-Middle-East-Trump-Iran.html",
+      "domain": "dailymail.com",
+      "country": "United States",
+      "published": "2026-10-22T06:00:00+00:00"
+     },
+     {
+      "title": "Saudi oil exports rise to five - month high despite regional disruptions",
+      "url": "https://tradearabia.com:443/News/488346/Saudi-oil-exports-rise-to-five-month-high-despite-regional-disruptions/OGN",
+      "domain": "tradearabia.com",
+      "country": "United Arab Emirates",
+      "published": "2026-10-22T06:00:00+00:00"
+     },
+     {
+      "title": "South Africa fiscal plan links R10bn fuel levy cut to new infrastructure financing agency",
+      "url": "https://english.pravda.ru/news/world/170459-south-africa-fuel-levy-reduction-ifisa/",
+      "domain": "english.pravda.ru",
+      "country": "Russia",
+      "published": "2026-10-22T06:00:00+00:00"
+     },
+     {
+      "title": "Oceans are different : Trump says Sundar Pichai rejected proposal to rename Atlantic Ocean  Trump Ocean",
+      "url": "https://www.moneycontrol.com/world/oceans-are-different-trump-says-sundar-pichai-rejected-proposal-to-rename-atlantic-ocean-trump-ocean-article-14057347.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-10-22T05:45:00+00:00"
+     },
+     {
+      "title": "US weighs fresh strikes on Iran ; Tehran warns of",
+      "url": "http://www.asiabulletin.com/news/279391304/us-weighs-fresh-strikes-on-iran-tehran-warns-of-father-of-all-bombs-reports",
+      "domain": "asiabulletin.com",
+      "country": "China",
+      "published": "2026-10-22T05:45:00+00:00"
+     },
+     {
+      "title": "US embassy staff and families ordered to leave Saudi Arabia",
+      "url": "https://thefrontierpost.com/us-embassy-staff-and-families-ordered-to-leave-saudi-arabia/",
+      "domain": "thefrontierpost.com",
+      "country": "Pakistan",
+      "published": "2026-10-22T05:45:00+00:00"
+     },
+     {
+      "title": "Sarah Compton running campaign like she  10 points behind",
+      "url": "https://www.keysnews.com/news/government/sarah-compton-running-campaign-like-shes-10-points-behind/article_5fe67a0f-c0b3-493a-8381-822a90037ce8.html",
+      "domain": "keysnews.com",
+      "country": "United States",
+      "published": "2026-10-22T05:30:00+00:00"
+     },
+     {
+      "title": "Washington orders US embassy staff , families to leave Saudi Arabia",
+      "url": "https://www.thestar.com.my/news/world/2026/10/22/washington-orders-us-embassy-staff-families-to-leave-saudi-arabia",
+      "domain": "thestar.com.my",
+      "country": "Malaysia",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "Sissi says Egypt to  defend Saudi territory  and will not attack Yemen",
+      "url": "https://www.koreaherald.com/article/10911378",
+      "domain": "koreaherald.com",
+      "country": "South Korea",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "The Alberta independence referendum and the fight against Trump and the far right",
+      "url": "https://www.wsws.org/en/articles/2026/10/22/ssjl-o22.html",
+      "domain": "wsws.org",
+      "country": "United States",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "US weighs fresh strikes on Iran ; Tehran warns of",
+      "url": "http://www.israelherald.com/news/279391304/us-weighs-fresh-strikes-on-iran-tehran-warns-of-father-of-all-bombs-reports",
+      "domain": "israelherald.com",
+      "country": "Israel",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "Gulf exports more oil than it did before Iran war despite surge in Hormuz attacks",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gulf-exports-more-oil-it-did-iran-war-despite-surge-hormuz-attacks-0",
+      "domain": "middleeasteye.net",
+      "country": "Israel",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "Gold : Up or Down ? - ActionForex",
+      "url": "https://www.actionforex.com/contributors/fundamental-analysis/658287-gold-up-or-down/",
+      "domain": "actionforex.com",
+      "country": "United Kingdom",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "Dwaipayan Barua – Asia News Network",
+      "url": "https://asianews.network/author/dwaipayan_barua/",
+      "domain": "asianews.network",
+      "country": "China",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "UN Agencies Appeal For Help To Protect Weakest From Unprecedented El Niño",
+      "url": "https://www.scoop.co.nz/stories/WO2610/S00161/un-agencies-appeal-for-help-to-protect-weakest-from-unprecedented-el-nino.htm",
+      "domain": "scoop.co.nz",
+      "country": "New Zealand",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "Not negotiating : Trump says  something will happen fairly soon  with Iran , as US mulls fresh strikes",
+      "url": "http://www.bignewsnetwork.com/news/279391425/not-negotiating-trump-says-something-will-happen-fairly-soon-with-iran-as-us-mulls-fresh-strikes",
+      "domain": "bignewsnetwork.com",
+      "country": "United States",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "Not negotiating : Trump says  something will happen fairly soon  with Iran , as US mulls fresh strikes",
+      "url": "http://www.israelherald.com/news/279391425/not-negotiating-trump-says-something-will-happen-fairly-soon-with-iran-as-us-mulls-fresh-strikes",
+      "domain": "israelherald.com",
+      "country": "Israel",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "Africa : UN Agencies Appeal for Help to Protect Weakest From Unprecedented El Niño",
+      "url": "https://allafrica.com/stories/202610220011.html",
+      "domain": "allafrica.com",
+      "country": "Nigeria",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "21 of the best things to do in Egypt",
+      "url": "https://www.thetimes.com/travel/destinations/africa-travel/egypt/best-things-to-do-in-egypt-66mqrs56s",
+      "domain": "thetimes.com",
+      "country": "",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "Trump Tilt Towards Putin Over Ukraine",
+      "url": "http://www.rhema.co.nz/media/podcast/trumps-tilt-towards-putin-over-ukraine",
+      "domain": "rhema.co.nz",
+      "country": "New Zealand",
+      "published": "2026-10-22T05:00:00+00:00"
+     },
+     {
+      "title": "US weighs fresh strikes on Iran ; Tehran warns of",
+      "url": "http://www.batonrougepost.com/news/279391304/us-weighs-fresh-strikes-on-iran-tehran-warns-of-father-of-all-bombs-reports",
+      "domain": "batonrougepost.com",
+      "country": "United States",
+      "published": "2026-10-22T05:00:00+00:00"
+     },
+     {
+      "title": "Not negotiating : Trump says  something will happen fairly soon  with Iran , as US mulls fresh strikes",
+      "url": "https://aninews.in/news/world/us/not-negotiating-trump-says-something-will-happen-fairly-soon-with-iran-as-us-mulls-fresh-strikes20261022095515/",
+      "domain": "aninews.in",
+      "country": "India",
+      "published": "2026-10-22T05:00:00+00:00"
+     }
+    ],
+    "riesgos_climaticos": [
+     {
+      "title": "What do heat storms mean for the price of everyday foods ?",
+      "url": "https://insideretail.asia/2026/10/22/what-do-heat-storms-mean-for-the-price-of-everyday-foods/",
+      "domain": "insideretail.asia",
+      "country": "China",
+      "published": "2026-10-22T06:00:00+00:00"
+     },
+     {
+      "title": "Sixty years of fighting hunger yielded results but another food crisis looms",
+      "url": "https://www.irishtimes.com/environment/climate-crisis/2026/10/22/sixty-years-of-fighting-hunger-yielded-results-but-another-food-crisis-looms/",
+      "domain": "irishtimes.com",
+      "country": "Ireland",
+      "published": "2026-10-22T05:30:00+00:00"
+     },
+     {
+      "title": "Country diary : From Mexico Day of the Dead to a Shropshire allotment | Plants",
+      "url": "https://www.theguardian.com/environment/2026/oct/22/country-diary-from-mexicos-day-of-the-dead-to-a-shropshire-allotment",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "Why some of France most famous cheeses are in peril",
+      "url": "https://www.guardian.co.tt/article/why-some-of-frances-most-famous-cheeses-are-in-peril-6.2.2691837.0bc7b7547b",
+      "domain": "guardian.co.tt",
+      "country": "Trinidad and Tobago",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "UN Agencies Appeal For Help To Protect Weakest From Unprecedented El Niño",
+      "url": "https://www.scoop.co.nz/stories/WO2610/S00161/un-agencies-appeal-for-help-to-protect-weakest-from-unprecedented-el-nino.htm",
+      "domain": "scoop.co.nz",
+      "country": "New Zealand",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "Africa : UN Agencies Appeal for Help to Protect Weakest From Unprecedented El Niño",
+      "url": "https://allafrica.com/stories/202610220011.html",
+      "domain": "allafrica.com",
+      "country": "Nigeria",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "VB - G RAM G : Restrictions lifted ; workers to get work in all 38 districts of Bihar",
+      "url": "https://www.thehindu.com/news/national/bihar/vb-g-ram-g-restrictions-lifted-workers-to-get-work-in-all-38-districts-of-bihar/article71607565.ece",
+      "domain": "thehindu.com",
+      "country": "India",
+      "published": "2026-10-22T05:15:00+00:00"
+     },
+     {
+      "title": "Country diary : From Mexico Day of the Dead to a Shropshire allotment",
+      "url": "https://www.aol.co.uk/articles/country-diary-mexico-day-dead-043005000.html",
+      "domain": "aol.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-22T05:00:00+00:00"
+     },
+     {
+      "title": "18 again : I returned to my life in 1983 – to reckless adventures , in a world soaked in alcohol",
+      "url": "https://www.aol.co.uk/articles/18-again-returned-life-1983-040007000.html",
+      "domain": "aol.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-22T05:00:00+00:00"
+     },
+     {
+      "title": "From drought to deluge :  Super  El Niño expanding reach",
+      "url": "https://pina.com.fj/2026/10/22/from-drought-to-deluge-super-el-ninos-expanding-reach/",
+      "domain": "pina.com.fj",
+      "country": "Fiji",
+      "published": "2026-10-22T04:45:00+00:00"
+     },
+     {
+      "title": "18 again : I returned to my life in 1983 – to reckless adventures , in a world soaked in alcohol",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/22/18-again-i-returned-to-my-life-in-1983-to-reckless-adventures-in-a-world-soaked-in-alcohol",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-10-22T04:30:00+00:00"
+     },
+     {
+      "title": "What El Nino ? This ground up farmer cooperative continues to reap dividends | Hyderabad News",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/what-el-nino-this-ground-up-farmers-cooperative-continues-to-reap-dividends/articleshow/135098883.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-22T04:15:00+00:00"
+     },
+     {
+      "title": "El Nino could be unprecedented , may rise to 3 . 8°C above average between Nov - Jan : WMO",
+      "url": "https://www.hindustantimes.com/india-news/el-nino-could-be-unprecedented-may-rise-to-3-8-c-above-average-between-nov-jan-wmo-101792636927904.html",
+      "domain": "hindustantimes.com",
+      "country": "India",
+      "published": "2026-10-22T03:45:00+00:00"
+     },
+     {
+      "title": "How pollution in Delhi surged on Dussehra night",
+      "url": "https://www.hindustantimes.com/india-news/how-pollution-surged-on-dussehra-night-delhi-air-pollution-aqi-levels-101792606689255.html",
+      "domain": "hindustantimes.com",
+      "country": "India",
+      "published": "2026-10-22T03:45:00+00:00"
+     },
+     {
+      "title": "Concerns over stop sign raised 16 months before train - truck crash in regional SA",
+      "url": "https://www.abc.net.au/news/2026-10-22/ceduna-farmer-concerned-about-stop-sign-before-train-truck-crash/107158642",
+      "domain": "abc.net.au",
+      "country": "Australia",
+      "published": "2026-10-22T03:45:00+00:00"
+     },
+     {
+      "title": "As winter comes , a drought - hit district in Maharashtra fears the worst",
+      "url": "https://scroll.in/article/1096534/as-winter-comes-a-drought-hit-district-in-maharashtra-fears-the-worst",
+      "domain": "scroll.in",
+      "country": "India",
+      "published": "2026-10-22T03:30:00+00:00"
      },
      {
       "title": "Looking ahead after a dry growing season",
@@ -253,27 +915,6 @@
       "published": "2026-10-22T03:00:00+00:00"
      },
      {
-      "title": "Entertainment around town",
-      "url": "https://northplattebulletin.com/entertainment-around-town-401/",
-      "domain": "northplattebulletin.com",
-      "country": "United States",
-      "published": "2026-10-22T03:00:00+00:00"
-     },
-     {
-      "title": "Govt moves to ensure wheat availability , price stability",
-      "url": "https://pakobserver.net/govt-moves-to-ensure-wheat-availability-price-stability/",
-      "domain": "pakobserver.net",
-      "country": "Pakistan",
-      "published": "2026-10-22T02:45:00+00:00"
-     },
-     {
-      "title": "Delhi Air Pollution : Why only target cars - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/toi-blogs/from-toi-print/why-only-target-cars/articleshow/135104061.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-22T02:45:00+00:00"
-     },
-     {
       "title": "Russian wheat shifts to Baltic ports as exports hit 2 . 8Mt | Stock Journal",
       "url": "https://www.stockjournal.com.au/story/9371752/russian-wheat-shifts-to-baltic-ports-as-exports-hit-28mt/",
       "domain": "stockjournal.com.au",
@@ -281,24 +922,24 @@
       "published": "2026-10-22T02:45:00+00:00"
      },
      {
-      "title": "Ontario Halloween cost 2026 : How much are people spending ?",
-      "url": "https://www.niagarafallsreview.ca/news/ontario-halloween-spending-survey-2026/article_b3f6bc5e-341a-5e24-aeaa-c6d34e018d8c.html",
-      "domain": "niagarafallsreview.ca",
-      "country": "Canada",
+      "title": "Subtropical Storm Josephine Forms Off Mid - Atlantic Coast , Gale Winds Possible Near Bahamas",
+      "url": "https://bocanewsnow.com/2026/10/21/subtropical-storm-josephine-forms-off-mid-atlantic-coast-gale-winds-possible-near-bahamas/",
+      "domain": "bocanewsnow.com",
+      "country": "United States",
       "published": "2026-10-22T02:00:00+00:00"
      },
      {
-      "title": "13 Spooktacular Halloween Events Around B . C . 2026",
-      "url": "https://bcliving.ca/entertainment/events/13-spooktacular-halloween-events-around-bc/",
-      "domain": "bcliving.ca",
-      "country": "Canada",
+      "title": "Honduras authorities hope to make it rain using cloud seeding",
+      "url": "https://www.bostonherald.com/2026/10/21/cloud-seeding-honduras-drought/",
+      "domain": "bostonherald.com",
+      "country": "United States",
       "published": "2026-10-22T02:00:00+00:00"
      },
      {
-      "title": "[ INTERVIEW ] Kentucky bourbon master eyes global expansion with Korean bartenders",
-      "url": "https://www.koreatimes.co.kr/business/companies/20261022/kentucky-bourbon-master-eyes-global-expansion-with-korean-bartenders",
-      "domain": "koreatimes.co.kr",
-      "country": "South Korea",
+      "title": "U . N . Urges Early Action as El Niño Raises Food Security Risks",
+      "url": "https://econotimes.com/U-N-Urges-Early-Action-as-El-Ni-o-Raises-Food-Security-Risks-1759684",
+      "domain": "econotimes.com",
+      "country": "United States",
       "published": "2026-10-22T01:45:00+00:00"
      },
      {
@@ -309,44 +950,9 @@
       "published": "2026-10-22T01:15:00+00:00"
      },
      {
-      "title": "What driving persistent inflation ?",
-      "url": "https://www.interest.co.nz/economy/140783/%C5%9Febnem-kalemli-%C3%B6zcan-argues-concerns-over-ai-buildout-bond-yields-and-public-debt",
-      "domain": "interest.co.nz",
-      "country": "New Zealand",
-      "published": "2026-10-22T01:15:00+00:00"
-     },
-     {
-      "title": "Ontario Halloween cost 2026 : How much are people spending ?",
-      "url": "https://www.stcatharinesstandard.ca/news/ontario-halloween-spending-survey-2026/article_b382c486-6450-5e26-a7cc-a0571335000c.html",
-      "domain": "stcatharinesstandard.ca",
-      "country": "Canada",
-      "published": "2026-10-22T01:00:00+00:00"
-     },
-     {
-      "title": "16 of the Best Pasta Dishes in Sonoma County",
-      "url": "https://www.sonomamag.com/the-best-pasta-dishes-in-sonoma-county/",
-      "domain": "sonomamag.com",
-      "country": "United States",
-      "published": "2026-10-22T01:00:00+00:00"
-     },
-     {
-      "title": "Trump announces the Harvest Fuel Relief program , a $8 billion plan to provide relief for farmers",
-      "url": "https://www.kait8.com/2026/10/21/trump-announces-8b-plan-provide-relief-farmers/",
-      "domain": "kait8.com",
-      "country": "United States",
-      "published": "2026-10-22T01:00:00+00:00"
-     },
-     {
-      "title": "Eagle County Charter Academy to throw a Halloween Bash open to everyone",
-      "url": "https://www.vaildaily.com/news/eagle-county-charter-academy-to-throw-a-halloween-bash-open-to-everyone/",
-      "domain": "vaildaily.com",
-      "country": "United States",
-      "published": "2026-10-22T01:00:00+00:00"
-     },
-     {
-      "title": "Craft flour mill opens on Umatilla Indian Reservation . It could be a boon for Northwest wheat",
-      "url": "https://www.nrtoday.com/news/state/craft-flour-mill-opens-on-umatilla-indian-reservation-it-could-be-a-boon-for-northwest/article_f7cc2f5d-f2b1-4ec2-9c8e-62e92e9cb20b.html",
-      "domain": "nrtoday.com",
+      "title": "CSX ( CSX ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/21/csx-csx-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "domain": "fool.com",
       "country": "United States",
       "published": "2026-10-22T01:00:00+00:00"
      },
@@ -365,27 +971,6 @@
       "published": "2026-10-22T00:45:00+00:00"
      },
      {
-      "title": "Corn prices rally despite lack of news headlines",
-      "url": "https://kxel.com/2026/10/21/corn-prices-rally-despite-lack-of-news-headlines/",
-      "domain": "kxel.com",
-      "country": "United States",
-      "published": "2026-10-22T00:45:00+00:00"
-     },
-     {
-      "title": "Market Wrap - Up : Wednesday , Oct . 21",
-      "url": "https://www.wlj.net/market-wrap-up-wednesday-oct-21/",
-      "domain": "wlj.net",
-      "country": "United States",
-      "published": "2026-10-22T00:45:00+00:00"
-     },
-     {
-      "title": "First fields of corn , soybean harvest complete",
-      "url": "https://www.agrinews-pubs.com:443/news/science/2026/10/21/first-fields-of-corn-soybean-harvest-complete/",
-      "domain": "agrinews-pubs.com",
-      "country": "United States",
-      "published": "2026-10-22T00:45:00+00:00"
-     },
-     {
       "title": "Earth biggest heat storm scorched nearly 85 % of the planet",
       "url": "https://www.staradvertiser.com/2026/10/21/breaking-news/earths-biggest-heat-storm-scorched-nearly-85-of-the-planet/",
       "domain": "staradvertiser.com",
@@ -393,72 +978,51 @@
       "published": "2026-10-22T00:30:00+00:00"
      },
      {
-      "title": "Student Group , Sponsored by Kalshi , Protests Onion Futures Act at Chicago Mercantile Exchange",
-      "url": "https://chicagomaroon.com/54210/news/student-group-sponsored-by-kalshi-protests-onion-futures-act-at-chicago-mercantile-exchange/",
-      "domain": "chicagomaroon.com",
+      "title": "Fires fuelled by El Nino leave 12 dead in Peru",
+      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/22/fires-fuelled-by-el-nino-leave-12-dead-in-peru",
+      "domain": "freemalaysiatoday.com",
+      "country": "Malaysia",
+      "published": "2026-10-22T00:30:00+00:00"
+     },
+     {
+      "title": "Funding shortages and growing demand stall Illinois conservation efforts",
+      "url": "https://www.tspr.org/illinois-public-radio/2026-10-21/funding-shortages-and-growing-demand-stall-illinois-conservation-efforts",
+      "domain": "tspr.org",
       "country": "United States",
-      "published": "2026-10-22T00:30:00+00:00"
-     },
-     {
-      "title": "Closing grain prices Wednesday , October 21",
-      "url": "https://www.620ckrm.com/2026/10/21/closing-grain-prices-wednesday-october-21/",
-      "domain": "620ckrm.com",
-      "country": "Canada",
-      "published": "2026-10-22T00:30:00+00:00"
-     },
-     {
-      "title": "Reserve Bank and interest rates : Food inflation is a bigger issue than oil and the RBA knows it",
-      "url": "https://www.watoday.com.au/politics/federal/food-inflation-is-a-bigger-issue-than-oil-and-the-reserve-bank-knows-it-20261022-p6177i.html",
-      "domain": "watoday.com.au",
-      "country": "Australia",
       "published": "2026-10-21T23:15:00+00:00"
      },
      {
-      "title": "Fall is a time to assess farm goals and the goals of the corn industry",
-      "url": "https://www.agrinews-pubs.com/opinion/columnists/2026/10/21/fall-is-a-time-to-assess-farm-goals-and-the-goals-of-the-corn-industry/",
-      "domain": "agrinews-pubs.com",
+      "title": "Agri - food Supply Chain Overhaul Needed to Tackle Shortages",
+      "url": "https://www.miragenews.com/agri-food-supply-chain-overhaul-needed-to-1764531/",
+      "domain": "miragenews.com",
       "country": "United States",
-      "published": "2026-10-21T23:00:00+00:00"
+      "published": "2026-10-21T23:15:00+00:00"
      },
      {
-      "title": "10 % inflation splits rate call predictions",
-      "url": "https://tribune.com.pk/story/2636192/10-inflation-splits-rate-call-predictions",
-      "domain": "tribune.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-21T23:00:00+00:00"
-     },
-     {
-      "title": "First fields of corn , soybean harvest complete",
-      "url": "https://www.agrinews-pubs.com/news/science/2026/10/21/first-fields-of-corn-soybean-harvest-complete/",
-      "domain": "agrinews-pubs.com",
-      "country": "United States",
-      "published": "2026-10-21T23:00:00+00:00"
-     },
-     {
-      "title": "LPG , flour , chicken and milk prices surge across Pakistan",
-      "url": "https://dunyanews.tv/en/Business/978948-lpg-flour-chicken-and-milk-prices-surge-across-pakistan",
-      "domain": "dunyanews.tv",
-      "country": "Pakistan",
-      "published": "2026-10-21T23:00:00+00:00"
-     },
-     {
-      "title": "After devastating floods , Way Farms finds faith in tomorrow",
-      "url": "https://ocj.com/2026/10/after-devastating-floods-way-farms-finds-faith-in-tomorrow/",
-      "domain": "ocj.com",
+      "title": "Why Did Jesus Cry Out ?",
+      "url": "https://afr.net:443/podcasts/exploring-the-word-with-bert-harper-and-alex-mcfarland/2026/october/why-did-jesus-cry-out/",
+      "domain": "afr.net",
       "country": "United States",
       "published": "2026-10-21T22:45:00+00:00"
      },
      {
-      "title": "Yu Tok - Post Courier",
-      "url": "https://www.postcourier.com.pg/yu-tok-221026/",
-      "domain": "postcourier.com.pg",
-      "country": "Papua New Guinea",
+      "title": "UN agencies appeal for help to protect weakest from unprecedented El Niño",
+      "url": "https://www.globalissues.org/news/2026/10/21/44399",
+      "domain": "globalissues.org",
+      "country": "United States",
       "published": "2026-10-21T22:45:00+00:00"
      },
      {
-      "title": "Genea - Musings",
-      "url": "https://www.geneamusings.com/search?updated-max=2026-10-20T08:59:00-07:00&max-results=10",
-      "domain": "geneamusings.com",
+      "title": "Multiple flood rescues as heavy rainfall sets in across south - east Queensland",
+      "url": "https://www.abc.net.au/news/2026-10-22/queensland-south-east-storm-warning/107294406",
+      "domain": "abc.net.au",
+      "country": "Australia",
+      "published": "2026-10-21T22:15:00+00:00"
+     },
+     {
+      "title": "Climate predictions through spring - Great Bend Tribune",
+      "url": "https://www.gbtribune.com/news/business/oil-gas/climate-predictions-through-spring/",
+      "domain": "gbtribune.com",
       "country": "United States",
       "published": "2026-10-21T22:15:00+00:00"
      },
@@ -470,617 +1034,53 @@
       "published": "2026-10-21T22:15:00+00:00"
      },
      {
-      "title": "UADA , FSA host Oct . 22 webinar on ARC , PLC | Stuttgart Daily Leader",
-      "url": "https://www.stuttgartdailyleader.com/uada-fsa-host-oct-22-webinar-on-arc-plc/",
-      "domain": "stuttgartdailyleader.com",
-      "country": "United States",
+      "title": "How Milk Addresses Calcium Deficiency in Apple Trees",
+      "url": "https://english.pravda.ru/news/gardening/170448-apple-tree-calcium-milk-application/",
+      "domain": "english.pravda.ru",
+      "country": "Russia",
       "published": "2026-10-21T22:15:00+00:00"
      },
      {
-      "title": "Trump to America : Ill Only Do My Job if Republicans Win",
-      "url": "https://www.rollingstone.com/politics/politics-news/trump-america-only-do-job-republicans-win-1235646122/",
-      "domain": "rollingstone.com",
-      "country": "United States",
+      "title": "Jamaica Earns Major Tourism Honours Amid Hurricane Recovery",
+      "url": "https://jamaicans.com/jamaica-celebrates-10-tourism-awards-and-top-travel-rankings-amid-hurricane-recovery/",
+      "domain": "jamaicans.com",
+      "country": "Jamaica",
       "published": "2026-10-21T21:45:00+00:00"
      },
      {
-      "title": "The Jam Man turns family preserving traditions into a business",
-      "url": "https://www.mitchellrepublic.com/news/local/the-jam-man-turns-family-preserving-traditions-into-a-business",
-      "domain": "mitchellrepublic.com",
-      "country": "United States",
-      "published": "2026-10-21T21:45:00+00:00"
-     },
-     {
-      "title": "Trump announces the Harvest Fuel Relief program , a $8 billion plan to provide relief for farmers",
-      "url": "https://www.walb.com/2026/10/21/trump-announces-8b-plan-provide-relief-farmers/",
-      "domain": "walb.com",
-      "country": "United States",
-      "published": "2026-10-21T21:45:00+00:00"
-     },
-     {
-      "title": "As Iowa harvest picks up , state officials urge farmers to vote early",
-      "url": "https://www.ktiv.com/2026/10/20/iowa-harvest-picks-up-state-officials-urge-farmers-vote-early/",
-      "domain": "ktiv.com",
-      "country": "United States",
-      "published": "2026-10-21T21:45:00+00:00"
-     },
-     {
-      "title": "Harvest inches further ahead",
-      "url": "https://730ckdm.com/news-now/34676-harvest-inches-further-ahead",
-      "domain": "730ckdm.com",
-      "country": "Canada",
-      "published": "2026-10-21T21:30:00+00:00"
-     }
-    ],
-    "energia": [
-     {
-      "title": "Ontario drivers to get more relief at the pumps",
-      "url": "https://www.orangeville.com/news/ontario-gas-price-prediction-for-oct-22-23/article_15acf1b3-9be2-592c-a67c-dd8e8b364d1d.html",
-      "domain": "orangeville.com",
-      "country": "Canada",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "Macron Criticizes Trump For Blaming Riots On Migrants",
-      "url": "https://talk1200boston.iheart.com/content/2026-10-22-macron-criticizes-trump-for-blaming-riots-on-migrants/",
-      "domain": "talk1200boston.iheart.com",
-      "country": "United States",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "Trump announces $8 billion plan to give economic aid to farmers",
-      "url": "https://cbs4local.com/news/nation-world/trump-announces-8-billion-plan-to-give-economic-aid-to-farmers-brooke-rollins-kansas-roger-marshall",
-      "domain": "cbs4local.com",
-      "country": "United States",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "NCPI unchanged at 8 . 1 % in Sept .",
-      "url": "https://www.ft.lk/front-page/NCPI-unchanged-at-8-1-in-Sept/44-798977",
-      "domain": "ft.lk",
-      "country": "Sri Lanka",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "Macron Criticizes Trump For Blaming Riots On Migrants | News Radio 920 AM & 104 . 7 FM",
-      "url": "https://newsradiori.iheart.com/content/2026-10-22-macron-criticizes-trump-for-blaming-riots-on-migrants/",
-      "domain": "newsradiori.iheart.com",
-      "country": "United States",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "How the Iran war reshaped OPEC+ oil output : Saudi Arabia , Iraq and gulf supply in focus",
-      "url": "https://www.businesstoday.in/world/story/how-the-iran-war-reshaped-opec-oil-output-saudi-arabia-iraq-and-gulf-supply-in-focus-562914-2026-10-22",
-      "domain": "businesstoday.in",
-      "country": "India",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "LPG prices hit Rs580 / kg amid gas shortages",
-      "url": "https://tribune.com.pk/story/2636253/lpg-prices-hit-rs580kg-amid-gas-shortages",
-      "domain": "tribune.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "Kansas Sen . Roger Marshall says the Ukraine war , not the Iran war , has caused high diesel prices",
-      "url": "http://www.gazettextra.com/news/nation_world/kansas-sen-roger-marshall-says-the-ukraine-war-not-the-iran-war-has-caused-high/article_0d81aa82-b164-5aa9-afe4-6d21b13ba2ed.html",
-      "domain": "gazettextra.com",
-      "country": "United States",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "Iran fleet of shadow tankers has run out of oil after monthslong US blockade",
-      "url": "https://www.livemint.com/global/irans-fleet-of-shadow-tankers-has-run-out-of-oil-after-monthslong-us-blockade-11792631943159.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "Ontario drivers to get more relief at the pumps",
-      "url": "https://www.northbaynipissing.com/news/ontario-gas-price-prediction-for-oct-22-23/article_c5d4ba22-38ee-5aae-9aa5-b2d08779503d.html",
-      "domain": "northbaynipissing.com",
-      "country": "Canada",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "Macron Criticizes Trump For Blaming Riots On Migrants",
-      "url": "https://klvi.iheart.com/content/2026-10-22-macron-criticizes-trump-for-blaming-riots-on-migrants/",
-      "domain": "klvi.iheart.com",
-      "country": "United States",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "Top stocks to watch today : Swiggy , Adani Green , Eternal , GMDC , BEL shares in focus on Thurs , 22 Oct | Full list",
-      "url": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-swiggy-adani-green-eternal-gmdc-bel-shares-in-focus-on-thurs-22-oct-full-list-11792632766011.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "ODonnell Says U . S . Lost Cold War , Alleges Trump Helped Russia and Iran",
-      "url": "https://www.newsbusters.org/blogs/nb/emily-keegan/2026/10/21/ms-nows-odonnell-claims-us-lost-cold-war-touts-trump-russia",
-      "domain": "newsbusters.org",
-      "country": "United States",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "Curious What Canada PM Considers Threat to  Peace",
-      "url": "https://original.antiwar.com/yves_engler/2026/10/21/curious-what-canadas-pm-considers-threat-to-peace/",
-      "domain": "original.antiwar.com",
-      "country": "United States",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "Venezuelan crude , Russian oil , trade deal : What US Secretary of State Marco Rubio India visit signalled",
-      "url": "https://www.hindustantimes.com/india-news/us-secretary-of-state-marco-rubio-india-visit-mumbai-delhi-reliance-oil-venezuela-tariffs-russia-101792637197910.html",
-      "domain": "hindustantimes.com",
-      "country": "India",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "Trading Plan : Can Nifty 50 hold 22 , 800 , Bank Nifty sustain 54 , 700 amid bearish market breadth ?",
-      "url": "https://www.moneycontrol.com/news/business/markets/trading-plan-can-nifty-50-hold-22-800-bank-nifty-sustain-54-700-amid-bearish-market-breadth-14057084.html",
-      "domain": "moneycontrol.com",
-      "country": "India",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Trump announces $8 billion plan to give economic aid to farmers",
-      "url": "https://fox4beaumont.com/news/nation-world/trump-announces-8-billion-plan-to-give-economic-aid-to-farmers-brooke-rollins-kansas-roger-marshall",
-      "domain": "fox4beaumont.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Trump announces $8 billion plan to give economic aid to farmers",
-      "url": "https://abc3340.com/news/nation-world/trump-announces-8-billion-plan-to-give-economic-aid-to-farmers-brooke-rollins-kansas-roger-marshall",
-      "domain": "abc3340.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Head to Head Analysis : U - Haul ( NYSE : UHAL ) and FTAI Infrastructure ( NASDAQ : FIP )",
-      "url": "https://www.dailypolitical.com/2026/10/21/head-to-head-analysis-u-haul-nyseuhal-and-ftai-infrastructure-nasdaqfip.html",
-      "domain": "dailypolitical.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Fact - checking Roger Marshall , Adam Hamilton on diesel prices , SNAP in Kansas U . S . Senate debate – PolitiFact",
-      "url": "https://politifact.com/article/2026/oct/21/midterms-kansas-senate-marshall-hamilton-diesel/",
-      "domain": "politifact.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Roger Marshall and Adam Hamilton face off in fiery final Kansas Senate debate",
-      "url": "https://www.aol.com/articles/roger-marshall-adam-hamilton-face-015336000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Stocks to Watch Today : Indian Hotels , PC Jeweller , Seamec , Bharat Electronics , Tata Communications , Persistent Systems , Fusion CX , Mahindra Finance in focus on 22 October",
-      "url": "https://www.moneycontrol.com/news/business/technicals/stocks-to-watch-today-indian-hotels-pc-jeweller-seamec-bharat-electronics-tata-communications-persistent-systems-fusion-cx-mahindra-finance-in-focus-on-22-october-14057041.html",
-      "domain": "moneycontrol.com",
-      "country": "India",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Trump announces $8 billion plan to give economic aid to farmers",
-      "url": "https://local21news.com/news/nation-world/trump-announces-8-billion-plan-to-give-economic-aid-to-farmers-brooke-rollins-kansas-roger-marshall",
-      "domain": "local21news.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Critical Survey : International Seaways ( NYSE : INSW ) & Tourmaline Oil ( OTCMKTS : TRMLF )",
-      "url": "https://www.themarketsdaily.com/2026/10/22/critical-survey-international-seaways-nyseinsw-tourmaline-oil-otcmktstrmlf.html",
-      "domain": "themarketsdaily.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Twelve Million Have Lost Access to Health Care Under Trump 2 . 0 , But the Worst is Yet to Come :  BradCast  10 / 21 / 2026",
-      "url": "https://www.dailykos.com/stories/2026/10/21/800115857/community/twelve-million-have-lost-access-to-health-care-under-trump-2-0-but-the-worst-is-yet-to-come-bradcast-10-21-2026guest-alice-miranda-ollstein-of-politico-also-dojs-case-for-200/",
-      "domain": "dailykos.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Let Me Finish",
-      "url": "https://www.dailykos.com/stories/2026/10/21/800115581/community/let-me-finish/",
-      "domain": "dailykos.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "CPO prices seen staying above RM4 , 600 in November , says MPOC",
-      "url": "https://www.thestar.com.my/business/business-news/2026/10/22/malaysia-crude-palm-oil-prices-to-stay-above-rm4600-per-ton-in-november-mpoc-says",
-      "domain": "thestar.com.my",
-      "country": "Malaysia",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "This is great new : Maine Senators praise decision to release Northeast oil reserves",
-      "url": "https://fox23maine.com/newsletter-daily/this-is-great-news-maine-senators-praise-decision-to-release-northeast-oil-reserves-susan-collins-angus-king-president-donald-trump-iran-war",
-      "domain": "fox23maine.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Daily Voice : Global reset creates opportunities , Fed to hold rates in October , says Groww Nirav Karkera",
-      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-global-reset-creates-opportunities-fed-to-hold-rates-in-october-says-groww-s-nirav-karkera-14057079.html",
-      "domain": "moneycontrol.com",
-      "country": "India",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "First Tick : Top global cues to watch in today trade",
-      "url": "https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-22-14056699.html",
-      "domain": "moneycontrol.com",
-      "country": "India",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Kansas Sen . Roger Marshall says the Ukraine war , not the Iran war , has caused high diesel prices",
-      "url": "https://www.dailygazette.com/the_recorder/ap/national/kansas-sen-roger-marshall-says-the-ukraine-war-not-the-iran-war-has-caused-high/article_cbc210d9-15c6-5172-9682-cafaa16b5791.html",
-      "domain": "dailygazette.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Granite Ridge Resources ( NYSE : GRNT ) vs . Clean Energy Fuels ( NASDAQ : CLNE ) Critical Contrast",
-      "url": "https://www.dailypolitical.com/2026/10/21/granite-ridge-resources-nysegrnt-vs-clean-energy-fuels-nasdaqclne-critical-contrast.html",
-      "domain": "dailypolitical.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Gloves come off between PetroSA and ex - partner",
-      "url": "https://www.dailymaverick.co.za/article/2026-10-22-gloves-come-off-between-petrosa-and-ex-partner-nako-energy/",
-      "domain": "dailymaverick.co.za",
-      "country": "South Africa",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Trump announces $8 billion plan to give economic aid to farmers",
-      "url": "https://fox23maine.com/news/nation-world/trump-announces-8-billion-plan-to-give-economic-aid-to-farmers-brooke-rollins-kansas-roger-marshall",
-      "domain": "fox23maine.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Gold and silver price today , October 22 : Check rates of 24K , 22K gold in Delhi , Mumbai , Kolkata other cities",
-      "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-price-today-october-22-check-rates-of-24k-22k-gold-in-delhi-mumbai-kolkata-other-cities-14057225.html",
-      "domain": "moneycontrol.com",
-      "country": "India",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "SBI Research retains call for 50 - bps December rate hike amid broadening inflationary pressures",
-      "url": "http://www.middleeaststar.com/news/279391301/sbi-research-retains-call-for-50-bps-december-rate-hike-amid-broadening-inflationary-pressures",
-      "domain": "middleeaststar.com",
-      "country": "Syria",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Oil Price Today ( October 22 ): Crude oil above $110 as energy infra attacks heighten supply fears . More tension ahead ?",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-22-crude-oil-above-110-as-energy-infra-attacks-heighten-supply-fears-more-tension-ahead/articleshow/135104474.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "A strong profit report from SpaceX helps lift tech stocks and Wall Street",
-      "url": "https://www.eldoradonews.com/news/2026/oct/21/a-strong-profit-report-from-spacex-helps-lift/",
-      "domain": "eldoradonews.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Saskatchewan farmers squeezed by high diesel costs , wet harvest",
-      "url": "https://www.cjme.com/2026/10/21/saskatchewan-farmers-squeezed-by-high-diesel-costs-wet-harvest/",
-      "domain": "cjme.com",
-      "country": "Canada",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Meuser , Wallace clash over data centers , health care , and stocks in only debate",
-      "url": "https://www.ashleycountyledger.com/news/national/meuser-wallace-clash-over-data-centers-health-care-and-stocks-in-only-debate/article_daecfaa1-4695-5ce4-9ff8-8f0bf925f3f7.html",
-      "domain": "ashleycountyledger.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     }
-    ],
-    "comercio_internacional": [
-     {
-      "title": "What Could Democrats Do If They Win The Midterms ?",
-      "url": "http://www.zerohedge.com/political/what-could-democrats-do-if-they-win-midterms",
-      "domain": "zerohedge.com",
-      "country": "United States",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "Venezuelan crude , Russian oil , trade deal : What US Secretary of State Marco Rubio India visit signalled",
-      "url": "https://www.hindustantimes.com/india-news/us-secretary-of-state-marco-rubio-india-visit-mumbai-delhi-reliance-oil-venezuela-tariffs-russia-101792637197910.html",
-      "domain": "hindustantimes.com",
-      "country": "India",
-      "published": "2026-10-22T03:30:00+00:00"
-     },
-     {
-      "title": "Fact - checking Roger Marshall , Adam Hamilton on diesel prices , SNAP in Kansas U . S . Senate debate – PolitiFact",
-      "url": "https://politifact.com/article/2026/oct/21/midterms-kansas-senate-marshall-hamilton-diesel/",
-      "domain": "politifact.com",
-      "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Asia stocks fall on mixed megacap earnings , oil rises",
-      "url": "https://www.moneycontrol.com/news/markets/global-markets/asia-stocks-slip-after-mixed-megacap-results-oil-rises-14057089.html",
-      "domain": "moneycontrol.com",
-      "country": "India",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Mexico Renews Voluntary PACIC Basket Pact at MXN 910 Target",
-      "url": "https://econotimes.com/Mexico-Renews-Voluntary-PACIC-Basket-Pact-at-MXN-910-Target-1759745",
-      "domain": "econotimes.com",
-      "country": "United States",
-      "published": "2026-10-22T03:00:00+00:00"
-     },
-     {
-      "title": "Tesla Reports A Great 3rd Quarter , Robotaxi & FSD Finally Taking Off",
-      "url": "https://cleantechnica.com/2026/10/21/tesla-reports-a-great-3rd-quarter-robotaxi-fsd-finally-taking-off/",
-      "domain": "cleantechnica.com",
-      "country": "United States",
-      "published": "2026-10-22T03:00:00+00:00"
-     },
-     {
-      "title": "India Us Trade Deal : Firmness pays - The Times of India",
-      "url": "https://timesofindia.indiatimes.com/toi-blogs/from-toi-print/firmness-pays/articleshow/135104136.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-22T02:45:00+00:00"
-     },
-     {
-      "title": "Honduras authorities hope to make it rain using cloud seeding",
-      "url": "https://www.bostonherald.com/2026/10/21/cloud-seeding-honduras-drought/",
-      "domain": "bostonherald.com",
-      "country": "United States",
-      "published": "2026-10-22T02:00:00+00:00"
-     },
-     {
-      "title": "US Consulate , Who Hosted An Alberta Separatist at a July 4 Event , warns Canada Not to Interfere in US Elections .",
-      "url": "https://www.dailykos.com/stories/2026/10/21/800115769/community/us-consulate-who-hosted/",
-      "domain": "dailykos.com",
-      "country": "United States",
-      "published": "2026-10-22T02:00:00+00:00"
-     },
-     {
-      "title": "How to Ensure # BlueWave2026 : Preview Investigations Into Seditious Conspiracy THIS MONTH",
-      "url": "https://www.dailykos.com/stories/2026/10/21/800115801/community/how-dems-can-ensure-bluewave2026-preview-upcoming-investigations-into-seditious-conspiracy-this-month/",
-      "domain": "dailykos.com",
-      "country": "United States",
-      "published": "2026-10-22T02:00:00+00:00"
-     },
-     {
-      "title": "2026 In Review Fast Facts",
-      "url": "https://krdo.com/news/national-world/cnn-national/2026/10/21/2026-in-review-fast-facts/",
-      "domain": "krdo.com",
-      "country": "United States",
-      "published": "2026-10-22T02:00:00+00:00"
-     },
-     {
-      "title": "India may overtake US as top Scotch whisky market by value as tariff cuts spur premium demand",
-      "url": "https://www.livemint.com/industry/india-may-overtake-us-as-top-scotch-whisky-market-by-value-as-tariff-cuts-spur-premium-demand-11792514777843.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-10-22T01:45:00+00:00"
-     },
-     {
-      "title": "India needs more than Quad revival",
-      "url": "https://www.hindustantimes.com/editorials/india-needs-more-than-quad-revival-101792610840605.html",
-      "domain": "hindustantimes.com",
-      "country": "India",
-      "published": "2026-10-22T01:45:00+00:00"
-     },
-     {
-      "title": "DOJ New Fraud Division Issues Corporate Enforcement Directive - White Collar Crime , Anti - Corruption & Fraud",
-      "url": "https://www.mondaq.com:443/unitedstates/white-collar-crime-anti-corruption-fraud/1858044/dojs-new-fraud-division-issues-corporate-enforcement-directive",
-      "domain": "mondaq.com",
-      "country": "United States",
-      "published": "2026-10-22T01:45:00+00:00"
-     },
-     {
-      "title": "The Republican Identity Is In A Crisis",
-      "url": "https://psuvanguard.com/the-republican-identity-is-in-a-crisis/",
-      "domain": "psuvanguard.com",
-      "country": "United States",
-      "published": "2026-10-22T01:30:00+00:00"
-     },
-     {
-      "title": "Texa 2026 Senate race : What to know about Ken Paxton vs James Talarico",
-      "url": "https://www.fox10phoenix.com/news/texas-2026-senate-race-what-know-about-james-talarico-vs-ken-paxton",
-      "domain": "fox10phoenix.com",
-      "country": "United States",
-      "published": "2026-10-22T01:15:00+00:00"
-     },
-     {
-      "title": "Texa 2026 Senate race : What to know about Ken Paxton vs James Talarico",
-      "url": "https://www.fox9.com/news/texas-2026-senate-race-what-know-about-james-talarico-vs-ken-paxton",
-      "domain": "fox9.com",
-      "country": "United States",
-      "published": "2026-10-22T01:15:00+00:00"
-     },
-     {
-      "title": "Battle for Border Voters",
-      "url": "https://kvia.com/news/puente-news-collaborative/2026/10/21/battle-for-border-voters/",
-      "domain": "kvia.com",
-      "country": "United States",
-      "published": "2026-10-22T01:15:00+00:00"
-     },
-     {
-      "title": "What Could Democrats Do If They Win The Midterms ?",
-      "url": "https://www.zerohedge.com/political/what-could-democrats-do-if-they-win-midterms",
-      "domain": "zerohedge.com",
-      "country": "United States",
-      "published": "2026-10-22T01:15:00+00:00"
-     },
-     {
-      "title": "What driving persistent inflation ?",
-      "url": "https://www.interest.co.nz/economy/140783/%C5%9Febnem-kalemli-%C3%B6zcan-argues-concerns-over-ai-buildout-bond-yields-and-public-debt",
-      "domain": "interest.co.nz",
-      "country": "New Zealand",
-      "published": "2026-10-22T01:15:00+00:00"
-     },
-     {
-      "title": "The Latest : Trump rallies for Darline Graham in South Carolina US Senate race | Nation",
-      "url": "http://www.rockymounttelegram.com/news/national/the-latest-trump-rallies-for-darline-graham-in-south-carolina-s-us-senate-race/article_23c9f86b-2713-5f8a-a72b-7e3aac6704b2.html",
-      "domain": "rockymounttelegram.com",
-      "country": "United States",
-      "published": "2026-10-22T01:00:00+00:00"
-     },
-     {
-      "title": "Economic stability must become shared prosperity",
-      "url": "https://punchng.com/economic-stability-must-become-shared-prosperity/",
-      "domain": "punchng.com",
-      "country": "Nigeria",
-      "published": "2026-10-22T01:00:00+00:00"
-     },
-     {
-      "title": "Texa 2026 Senate race : What to know about Ken Paxton vs James Talarico",
-      "url": "https://www.fox7austin.com/news/texas-2026-senate-race-what-know-about-james-talarico-vs-ken-paxton",
-      "domain": "fox7austin.com",
-      "country": "United States",
-      "published": "2026-10-22T01:00:00+00:00"
-     },
-     {
-      "title": "On Affordability : Can a Politician Make Your Groceries Cheaper ?",
-      "url": "https://www.hometownregister.com/news/national/on-affordability-can-a-politician-make-your-groceries-cheaper/article_f029c78f-77ea-5e4f-8bbc-c031d4b010c9.html",
-      "domain": "hometownregister.com",
-      "country": "",
-      "published": "2026-10-22T01:00:00+00:00"
-     },
-     {
-      "title": "On Affordability : Can a Politician Make Your Groceries Cheaper ?",
-      "url": "https://www.wyomingnewsnow.tv/news/national/on-affordability-can-a-politician-make-your-groceries-cheaper/article_0f00bd5c-f6e4-595c-87b4-94dc8cc60b75.html",
-      "domain": "wyomingnewsnow.tv",
-      "country": "",
-      "published": "2026-10-22T01:00:00+00:00"
-     },
-     {
-      "title": "Why is Rubio visiting world largest oil refinery in India – Ya Libnan",
-      "url": "https://yalibnan.com/2026/10/22/why-is-rubio-visiting-worlds-largest-oil-refinery-in-india/",
-      "domain": "yalibnan.com",
-      "country": "Syria",
-      "published": "2026-10-22T01:00:00+00:00"
-     },
-     {
-      "title": "Trump announces the Harvest Fuel Relief program , a $8 billion plan to provide relief for farmers",
-      "url": "https://www.kait8.com/2026/10/21/trump-announces-8b-plan-provide-relief-farmers/",
-      "domain": "kait8.com",
-      "country": "United States",
-      "published": "2026-10-22T01:00:00+00:00"
-     },
-     {
-      "title": "CSX ( CSX ) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/21/csx-csx-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "domain": "fool.com",
-      "country": "United States",
-      "published": "2026-10-22T01:00:00+00:00"
-     },
-     {
-      "title": "Cuba in the dark , China brings the sun",
-      "url": "https://punchng.com/cuba-in-the-dark-china-brings-the-sun/",
-      "domain": "punchng.com",
-      "country": "Nigeria",
-      "published": "2026-10-22T01:00:00+00:00"
-     },
-     {
-      "title": "Supernus Announces Orphan Drug Exclusivity for ONAPGO™ ( apomorphine HCl )",
-      "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/supernus-announces-orphan-drug-exclusivity-for-onapgo-apomorphine-hcl/2451335",
+      "title": "Sonoco Reports Third Quarter 2026 Results",
+      "url": "https://www.manilatimes.net/2026/10/22/tmt-newswire/globenewswire/sonoco-reportsthird-quarter-2026-results/2451282",
       "domain": "manilatimes.net",
       "country": "Philippines",
-      "published": "2026-10-22T00:45:00+00:00"
+      "published": "2026-10-21T21:30:00+00:00"
      },
      {
-      "title": "GOP governor candidate Ryan Fazio Q & A",
-      "url": "https://westfaironline.com/fairfield/gop-governor-candidate-ryan-fazio-qa/",
-      "domain": "westfaironline.com",
-      "country": "United States",
-      "published": "2026-10-22T00:45:00+00:00"
-     },
-     {
-      "title": "GOLDSTEIN : PBO says federal spending , borrowing and debt up",
-      "url": "https://torontosun.com/opinion/columnists/pbo-says-federal-spending-borrowing-and-debt-up-economic-growth-down",
-      "domain": "torontosun.com",
+      "title": "Sonoco Reports Third Quarter 2026 Results",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/sonoco-reports-third-quarter-2026-results/",
+      "domain": "simcoereformer.ca",
       "country": "Canada",
-      "published": "2026-10-22T00:45:00+00:00"
+      "published": "2026-10-21T21:30:00+00:00"
      },
      {
-      "title": "Cattle remain in high demand , short supply",
-      "url": "https://www.choteauacantha.com/news/article_bc869b01-fc3d-4873-8592-7e819d95a958.html",
-      "domain": "choteauacantha.com",
+      "title": "Fact Check Team : What is red - dyed diesel , and how could it help farmers ?",
+      "url": "https://wjla.com/news/nation-world/fact-check-team-what-is-red-dyed-diesel-and-how-could-it-help-farmers-restriction-relief",
+      "domain": "wjla.com",
       "country": "United States",
-      "published": "2026-10-22T00:45:00+00:00"
+      "published": "2026-10-21T20:45:00+00:00"
      },
      {
-      "title": "The Latest : Trump rallies for Darline Graham in South Carolina US Senate race | National News",
-      "url": "http://www.postregister.com/news/national/the-latest-trump-rallies-for-darline-graham-in-south-carolina-s-us-senate-race/article_731d8f3e-63d2-55eb-aa79-3f0a261d41a7.html",
-      "domain": "postregister.com",
+      "title": "Fact Check Team : What is red - dyed diesel , and how could it help farmers ?",
+      "url": "https://newschannel9.com/news/nation-world/fact-check-team-what-is-red-dyed-diesel-and-how-could-it-help-farmers-restriction-relief",
+      "domain": "newschannel9.com",
       "country": "United States",
-      "published": "2026-10-22T00:45:00+00:00"
-     },
-     {
-      "title": "Fact - checking Trump talking points at rallies in North Carolina , other key midterm states",
-      "url": "https://www.wral.com/news/state/fact-check-trump-midterm-rally-talking-point-october-21/",
-      "domain": "wral.com",
-      "country": "United States",
-      "published": "2026-10-22T00:30:00+00:00"
-     },
-     {
-      "title": "The Latest : Trump rallies for Darline Graham in South Carolina US Senate race | Associated Press National",
-      "url": "https://www.nvdaily.com/associated_press_national/the-latest-trump-rallies-for-darline-graham-in-south-carolina-s-us-senate-race/article_3300d84f-8729-54d4-b001-933bc842544d.html",
-      "domain": "nvdaily.com",
-      "country": "United States",
-      "published": "2026-10-22T00:30:00+00:00"
-     },
-     {
-      "title": "Dow Jones Top Markets Headlines at 7 PM ET : U . S . Stocks Rise as SpaceX Spurs AI Relief Rally | NYSE ...",
-      "url": "https://www.morningstar.com/news/dow-jones/2026102112052/dow-jones-top-markets-headlines-at-7-pm-et-us-stocks-rise-as-spacex-spurs-ai-relief-rally-nyse",
-      "domain": "morningstar.com",
-      "country": "China",
-      "published": "2026-10-22T00:30:00+00:00"
-     },
-     {
-      "title": "PODCAST : Alberta vote strengthens national unity as Prairie leaders push east - west trade",
-      "url": "https://www.620ckrm.com/2026/10/21/podcast-alberta-vote-strengthens-national-unity-as-prairie-leaders-push-east-west-trade/",
-      "domain": "620ckrm.com",
-      "country": "Canada",
-      "published": "2026-10-22T00:30:00+00:00"
-     },
-     {
-      "title": "The Latest : Trump rallies for Darline Graham in South Carolina US Senate race | Elections",
-      "url": "https://www.messenger-inquirer.com/ap/elections/the-latest-trump-rallies-for-darline-graham-in-south-carolina-s-us-senate-race/article_5a9334c9-df94-5523-8567-1baaccb121c5.html",
-      "domain": "messenger-inquirer.com",
-      "country": "United States",
-      "published": "2026-10-22T00:30:00+00:00"
-     },
-     {
-      "title": "The Latest : Trump rallies for Darline Graham in South Carolina US Senate race | National News",
-      "url": "https://www.2news.com/news/national/the-latest-trump-rallies-for-darline-graham-in-south-carolina-s-us-senate-race/article_72759233-5044-5451-a01a-0cede7b64323.html",
-      "domain": "2news.com",
-      "country": "",
-      "published": "2026-10-22T00:15:00+00:00"
+      "published": "2026-10-21T20:45:00+00:00"
      }
     ]
    },
    "errors": {
-    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
