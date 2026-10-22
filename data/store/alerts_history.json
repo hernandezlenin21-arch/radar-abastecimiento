@@ -1,5 +1,22 @@
 [
  {
+  "id": "5840594eee02",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-22",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 1 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “US orders embassy staff to evacuate Saudi amid Houthi attacks” (organiser.org). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "organiser.org",
+  "url": "https://organiser.org/2026/10/22/419090/world/west-asia-conflict-us-orders-embassy-officials-in-saudi-arabia-to-evacuate-amid-deadly-houthi-strikes/",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-22T03:51:28-06:00"
+ },
+ {
   "indicator": "wti",
   "name": "Petróleo WTI (Cushing, spot)",
   "group": "energia",
