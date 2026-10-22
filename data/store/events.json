@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-22T07:00:40-06:00",
+  "at": "2026-10-22T09:49:45-06:00",
   "data": {
    "storms": [
     {
@@ -11,98 +11,98 @@
      "classification": "STS",
      "intensity": "55",
      "pressure": "988",
-     "latitude": "38.7N",
-     "longitude": "68.3W",
-     "latitudeNumeric": 38.7,
-     "longitudeNumeric": -68.3,
-     "movementDir": 40,
-     "movementSpeed": 13,
-     "lastUpdate": "2026-10-22T09:00:00.000Z",
+     "latitude": "39.2N",
+     "longitude": "67.3W",
+     "latitudeNumeric": 39.2,
+     "longitudeNumeric": -67.3,
+     "movementDir": 45,
+     "movementSpeed": 12,
+     "lastUpdate": "2026-10-22T15:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "003",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:47:10.028Z",
+      "advNum": "004",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:35:41.970Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCPAT5.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "003",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:46:39.073Z",
+      "advNum": "004",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:35:15.274Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCMAT5.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "003",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:47:38.110Z",
+      "advNum": "004",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:36:12.898Z",
       "url": "https://www.nhc.noaa.gov/text/MIAPWSAT5.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "003",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:48:08.690Z",
+      "advNum": "004",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:36:43.752Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCDAT5.shtml"
      },
      "forecastGraphics": {
-      "advNum": "003",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:47:10.028Z",
+      "advNum": "004",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:35:41.970Z",
       "url": "https://www.nhc.noaa.gov/graphics_at5.shtml"
      },
      "forecastTrack": {
-      "advNum": "003",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:50:10.902Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al102026_5day_003.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL102026_003adv_TRACK.kmz"
+      "advNum": "004",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:39:02.428Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al102026_5day_004.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL102026_004adv_TRACK.kmz"
      },
      "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "003",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:50:04.779Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al102026_5day_003.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL102026_003adv_CONE.kmz"
+      "advNum": "004",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:38:56.188Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al102026_5day_004.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL102026_004adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "003",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:50:40.292Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al102026_fcst_003.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL102026_initialradii_003adv.kmz"
+      "advNum": "004",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:39:33.928Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al102026_fcst_004.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL102026_initialradii_004adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "003",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:50:36.461Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al102026_fcst_003.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL102026_forecastradii_003adv.kmz"
+      "advNum": "004",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:39:29.611Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/al102026_fcst_004.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL102026_forecastradii_004adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:50:20.291Z",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:39:12.623Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/al102026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/al102026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "003",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:50:06.827Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL102026_003adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "004",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:38:58.286Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL102026_004adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "003",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:50:08.846Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL102026_003adv_most_likely_toa_34.kmz"
+      "advNum": "004",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:39:00.327Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/AL102026_004adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-10-22T06:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T09:22:58.952Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102206_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102206_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102206_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102206_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102206_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-10-22T12:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T15:23:12.743Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102212_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102212_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102212_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102212_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102212_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -113,100 +113,100 @@
      "binNumber": "EP2",
      "name": "Vance",
      "classification": "TS",
-     "intensity": "45",
-     "pressure": "1000",
+     "intensity": "50",
+     "pressure": "997",
      "latitude": "9.7N",
-     "longitude": "101.5W",
+     "longitude": "101.0W",
      "latitudeNumeric": 9.7,
-     "longitudeNumeric": -101.5,
-     "movementDir": 275,
-     "movementSpeed": 7,
-     "lastUpdate": "2026-10-22T09:00:00.000Z",
+     "longitudeNumeric": -101,
+     "movementDir": 305,
+     "movementSpeed": 3,
+     "lastUpdate": "2026-10-22T15:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "004",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:47:10.024Z",
+      "advNum": "005",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:46:41.617Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "004",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:46:39.079Z",
+      "advNum": "005",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:46:10.668Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCMEP2.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "004",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:47:38.210Z",
+      "advNum": "005",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:47:12.823Z",
       "url": "https://www.nhc.noaa.gov/text/MIAPWSEP2.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "004",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:48:08.744Z",
+      "advNum": "005",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:48:40.487Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCDEP2.shtml"
      },
      "forecastGraphics": {
-      "advNum": "004",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:47:10.024Z",
+      "advNum": "005",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:46:41.617Z",
       "url": "https://www.nhc.noaa.gov/graphics_ep2.shtml"
      },
      "forecastTrack": {
-      "advNum": "004",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:49:22.028Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_004.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_004adv_TRACK.kmz"
+      "advNum": "005",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:50:00.428Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_005.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_005adv_TRACK.kmz"
      },
      "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "004",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:49:16.355Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_004.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_004adv_CONE.kmz"
+      "advNum": "005",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:49:54.263Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_005.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_005adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "004",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:49:51.552Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_004.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_004adv.kmz"
+      "advNum": "005",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:50:35.303Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_005.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_005adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "004",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:49:47.751Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_004.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_004adv.kmz"
+      "advNum": "005",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:50:30.765Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_005.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_005adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:49:31.543Z",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:50:11.484Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "004",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:49:18.267Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_004adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "005",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:49:56.295Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_005adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "004",
-      "issuance": "2026-10-22T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T08:49:20.145Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_004adv_most_likely_toa_34.kmz"
+      "advNum": "005",
+      "issuance": "2026-10-22T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T14:49:58.341Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_005adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-10-22T06:00:00.000Z",
-      "fileUpdateTime": "2026-10-22T09:22:58.952Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102206_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102206_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102206_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102206_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102206_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-10-22T12:00:00.000Z",
+      "fileUpdateTime": "2026-10-22T15:23:12.743Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102212_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102212_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102212_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102212_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102212_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -218,7 +218,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-22T07:00:40-06:00",
+  "at": "2026-10-22T09:49:45-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -227,574 +227,313 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-22T07:00:40-06:00",
+  "at": "2026-10-22T09:49:45-06:00",
   "data": {
    "raw": {
     "energia": [
      {
-      "title": "Iran Balochistan border region sees growing unrest",
-      "url": "https://www.dw.com/en/irans-balochistan-border-region-sees-growing-unrest/a-79716399",
-      "domain": "dw.com",
-      "country": "Germany",
-      "published": "2026-10-22T12:15:00+00:00"
-     },
-     {
-      "title": "Russia hits Ukraine with missiles , drones after agreeing to peace talks",
-      "url": "https://www.wvtm13.com/article/russia-ukraine-missiles-drones-peace-talks/74213360",
-      "domain": "wvtm13.com",
+      "title": "United States Brent Oil Fund ( NYSEARCA : BNO ) Sets New 52 - Week High – Here What Happened",
+      "url": "https://www.themarketsdaily.com/2026/10/22/united-states-brent-oil-fund-nysearcabno-sets-new-52-week-high-heres-what-happened.html",
+      "domain": "themarketsdaily.com",
       "country": "United States",
-      "published": "2026-10-22T12:15:00+00:00"
+      "published": "2026-10-22T15:30:00+00:00"
      },
      {
-      "title": "Palm oil glut lures Indian buyers as price gap to rivals widens",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/22/palm-oil-glut-lures-indian-buyers-as-price-gap-to-rivals-widens",
-      "domain": "freemalaysiatoday.com",
-      "country": "Malaysia",
-      "published": "2026-10-22T12:15:00+00:00"
-     },
-     {
-      "title": "EU Better Hope Global Warming Is Real As NatGas Withdrawals Begin With Dangerously Low Reserves",
-      "url": "http://www.zerohedge.com/energy/eu-better-hope-global-warming-real-natgas-withdrawals-begin-dangerously-low-reserves",
-      "domain": "zerohedge.com",
+      "title": "Geodrill Sees Gold , Copper Drilling Boom as Pricing Actions Target Margin Recovery",
+      "url": "https://www.themarketsdaily.com/2026/10/22/geodrill-sees-gold-copper-drilling-boom-as-pricing-actions-target-margin-recovery.html",
+      "domain": "themarketsdaily.com",
       "country": "United States",
-      "published": "2026-10-22T12:15:00+00:00"
+      "published": "2026-10-22T15:30:00+00:00"
      },
      {
-      "title": "Should You Buy GE Vernova Stock With $1 , 000 Right Now ?",
-      "url": "https://www.fool.com/investing/2026/10/22/should-you-buy-ge-vernova-stock-with-1000-right-no/?source=iedfolrf0000001",
-      "domain": "fool.com",
+      "title": "Voters put costs , Iran over investigating Trump for next Congress : poll",
+      "url": "https://www.sbsun.com/2026/10/22/next-congress-priorities-poll/",
+      "domain": "sbsun.com",
       "country": "United States",
-      "published": "2026-10-22T12:15:00+00:00"
+      "published": "2026-10-22T15:30:00+00:00"
      },
      {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.hamhigh.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "hamhigh.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T12:15:00+00:00"
-     },
-     {
-      "title": "Putin Says Iran Deal Still Possible After Talks With US Envoy",
-      "url": "http://www.iraqsun.com/news/279391781/putin-says-iran-deal-still-possible-after-talks-with-us-envoy",
-      "domain": "iraqsun.com",
-      "country": "Iraq",
-      "published": "2026-10-22T12:15:00+00:00"
-     },
-     {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.milfordmercury.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "milfordmercury.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T12:15:00+00:00"
-     },
-     {
-      "title": "Russia signals new talks next month with Ukraine",
-      "url": "http://www.taiwansun.com/news/279390452/russia-signals-new-talks-next-month-with-ukraine",
-      "domain": "taiwansun.com",
-      "country": "China",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "Ukraine hits Russian data centers and experts say it sets back AI research",
-      "url": "https://www.wsbradio.com/news/business/ukraines-strikes/43RRP4QNME4H5BRK5LAOG3JXRA/",
-      "domain": "wsbradio.com",
-      "country": "United States",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "HSBC Initiates Coverage on Public Service Enterprise Group ( NYSE : PEG )",
-      "url": "https://www.tickerreport.com/banking-finance/13630359/hsbc-initiates-coverage-on-public-service-enterprise-group-nysepeg.html",
-      "domain": "tickerreport.com",
-      "country": "United States",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "Russia signals new talks next month with Ukraine",
-      "url": "http://www.brazilsun.com/news/279390452/russia-signals-new-talks-next-month-with-ukraine",
-      "domain": "brazilsun.com",
-      "country": "Brazil",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "Too little , too late : Trump takes on gas prices as fuel costs hamper his midterm hopes",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
-      "domain": "theguardian.com",
-      "country": "United Kingdom",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "Russia pounds Kyiv with missiles and Moscow stops 800 drones",
-      "url": "https://www.wsbradio.com/news/business/russia-pounds/FTADJE3Z6U5GLGZ6IYSYHQWPTM/",
-      "domain": "wsbradio.com",
-      "country": "United States",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "Renewable Fuel Standards 2026 : where US D4 supply stands against the biomass - based diesel requirement",
-      "url": "https://www.fastmarkets.com/insights/renewable-fuel-standards-2026-where-us-d4-supply-stands-against-the-biomass-based-diesel-requirement/",
-      "domain": "fastmarkets.com",
-      "country": "China",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "Alliant Energy ( NASDAQ : LNT ) Now Covered by HSBC",
-      "url": "https://www.dailypolitical.com/2026/10/22/alliant-energy-nasdaqlnt-now-covered-by-hsbc.html",
+      "title": "United States Oil Fund ( NYSEARCA : USO ) Sets New 52 - Week High – Time to Buy ?",
+      "url": "https://www.dailypolitical.com/2026/10/22/united-states-oil-fund-nysearcauso-sets-new-52-week-high-time-to-buy.html",
       "domain": "dailypolitical.com",
       "country": "United States",
-      "published": "2026-10-22T11:30:00+00:00"
+      "published": "2026-10-22T15:30:00+00:00"
      },
      {
-      "title": "GRNT Stock Gets Lower EPS Estimate from Northland Securities",
-      "url": "https://www.tickerreport.com/banking-finance/13630372/grnt-stock-gets-lower-eps-estimate-from-northland-securities.html",
-      "domain": "tickerreport.com",
+      "title": "Voters put costs , Iran over investigating Trump for next Congress : poll",
+      "url": "https://www.timescall.com/2026/10/22/next-congress-priorities-poll/",
+      "domain": "timescall.com",
       "country": "United States",
-      "published": "2026-10-22T11:30:00+00:00"
+      "published": "2026-10-22T15:30:00+00:00"
      },
      {
-      "title": "Strait of Hormuz sees spike in oil tanker incidents amid rising tensions",
-      "url": "https://www.wsbradio.com/news/world/iran-says-7-oil/4XT3675AEM725CIFQCCZRG5HLA/",
-      "domain": "wsbradio.com",
-      "country": "United States",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "AP News Summary at 6 : 57 a . m . EDT",
-      "url": "http://www.hngnews.com/nation_world/ap-news-summary-at-6-57-a-m-edt/article_a3de5c80-e61d-54b1-bab2-55310a3e7d6e.html",
-      "domain": "hngnews.com",
-      "country": "United States",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "Stock Market Today : Sensex Falls 460 Points , Nifty Closes Below 22 , 700 ; Media , FMCG and IT Stocks Drag",
-      "url": "https://www.indiainfoline.com/news/markets/stock-market-today-sensex-falls-460-points-nifty-closes-below-22700-media-fmcg-and-it-stocks-drag",
-      "domain": "indiainfoline.com",
-      "country": "India",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "Farm country has beef with Trump as midterms approach",
-      "url": "https://www.kenw.org/npr-news/2026-10-22/farm-country-has-beef-with-trump-as-midterms-approach",
-      "domain": "kenw.org",
-      "country": "United States",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "Farm country has beef with Trump as midterms approach",
-      "url": "https://www.wxpr.org/2026-10-22/farm-country-has-beef-with-trump-as-midterms-approach",
-      "domain": "wxpr.org",
-      "country": "United States",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "CAQM invokes Stage - I of GRAP in Delhi - NCR with immediate effect amid sharp rise in AQI",
-      "url": "https://orissadiary.com/caqm-invokes-stage-i-of-grap-in-delhi-ncr-with-immediate-effect-amid-sharp-rise-in-aqi/",
-      "domain": "orissadiary.com",
-      "country": "India",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Russia frees American Stephen Hubbard after over 4 years behind bars",
-      "url": "https://www.texarkanagazette.com/news/2026/oct/22/russia-frees-american-stephen-hubbard-after-over/",
-      "domain": "texarkanagazette.com",
-      "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.thurrockgazette.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "thurrockgazette.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Russia pounds Kyiv with missiles as Moscow says 808 drones downed in Russian cities",
-      "url": "https://www.ksat.com/business/2026/10/22/russia-pounds-ukraines-capital-kyiv-with-missiles-and-drones-hours-after-agreeing-to-peace-talks/",
-      "domain": "ksat.com",
-      "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.dunmowbroadcast.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "dunmowbroadcast.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Ecopetrol  New Era  Advances with the Appointment of the Executive Vice President of Energies for the Transition and Two Legal Representatives",
-      "url": "http://www.prnewswire.com/news-releases/ecopetrols-new-era-advances-with-the-appointment-of-the-executive-vice-president-of-energies-for-the-transition-and-two-legal-representatives-302916821.html",
-      "domain": "prnewswire.com",
-      "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Oil supply improves as Middle East crude exports recover , but high fuel costs may persist : Jefferies",
-      "url": "http://www.singaporestar.com/news/279391807/oil-supply-improves-as-middle-east-crude-exports-recover-but-high-fuel-costs-may-persist-jefferies",
-      "domain": "singaporestar.com",
-      "country": "Singapore",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Global stocks fall , bonds gain as Meta dents tech optimism",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/22/global-stocks-fall-bonds-gain-as-meta-dents-tech-optimism",
-      "domain": "freemalaysiatoday.com",
-      "country": "Malaysia",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.london-now.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "london-now.co.uk",
-      "country": "",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.denbighshirefreepress.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "denbighshirefreepress.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "World shares retreat as report of damage to oil tankers pushes oil prices higher",
-      "url": "https://www.union-bulletin.com/news/national/world-shares-retreat-as-report-of-damage-to-oil-tankers-pushes-oil-prices-higher/article_89de8b89-42fb-5a31-9b3d-cc5493e37603.html",
-      "domain": "union-bulletin.com",
-      "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "ExxonMobil Corporation $XOM Stock Purchased by Integrated Advisors Network LLC",
-      "url": "https://www.tickerreport.com/banking-finance/13630320/exxonmobil-corporation-xom-stock-purchased-by-integrated-advisors-network-llc.html",
-      "domain": "tickerreport.com",
-      "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Cocoa and Chocolate Market worth $216 . 42 billion by 2031 - Exclusive Report by MarketsandMarkets",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69906869-cocoa-and-chocolate-market-worth-dollar-216-42-billion-by-2031-exclusive-report-by-marketsandmarkets-008.htm",
-      "domain": "finanznachrichten.de",
-      "country": "Germany",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Bulgarian Watchdog Flags Food Markups of Up to 135 % - Novinite . com",
-      "url": "https://www.novinite.com/articles/241189/Bulgarian+Watchdog+Flags+Food+Markups+of+Up+to+135",
-      "domain": "novinite.com",
-      "country": "Bulgaria",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "MARKETS LIVE : European stocks remain down as oil prices surge , AI concerns weigh on Wall Street futures",
-      "url": "https://www.proactiveinvestors.com/companies/news/1100523/markets-live-european-stocks-remain-down-as-oil-prices-surge-ai-concerns-weigh-on-wall-street-futures-1100523.html",
+      "title": "The box that could crack the green hydrogen problem",
+      "url": "https://www.proactiveinvestors.com/companies/news/1100555/the-box-that-could-crack-the-green-hydrogen-problem-1100555.html",
       "domain": "proactiveinvestors.com",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T15:30:00+00:00"
      },
      {
-      "title": "Abdul El - Sayed , Mike Rogers talk policy , lob attacks in final Michigan U . S . Senate debate",
-      "url": "https://upnorthlive.com/news/local/abdul-el-sayed-mike-rogers-politics-michigan-us-senate-debate-election-midterms-republican-democrat-detroit-government",
-      "domain": "upnorthlive.com",
+      "title": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed",
+      "url": "https://thefrontierpost.com/russian-missiles-pound-kyiv-as-moscow-says-over-800-ukrainian-drones-downed/",
+      "domain": "thefrontierpost.com",
+      "country": "Pakistan",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "Beyond South Africa Economic Shadow : How Zimbabwe , Zambia and Malawi Can Build a New African Industrial Powerhouse Within COMESA - The Zimbabwe Mail Beyond South Africa Economic Shadow : How Zimbabwe , Zambia and Malawi Can Build a New African Indu...",
+      "url": "https://thezimbabwemail.com/our-insights/slug-zimbabwe-comesa-regional-industrialisation-trade-integration/",
+      "domain": "thezimbabwemail.com",
+      "country": "Zimbabwe",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "Voters put costs , Iran over investigating Trump for next Congress : poll",
+      "url": "https://www.advocate-news.com/2026/10/22/next-congress-priorities-poll/",
+      "domain": "advocate-news.com",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T15:30:00+00:00"
      },
      {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.gazette-news.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "gazette-news.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T11:15:00+00:00"
+      "title": "World Bank presents economic growth forecast and inflation outlook for Pakistan",
+      "url": "https://en.dailypakistan.com.pk/22-Oct-2026/world-bank-presents-economic-growth-forecast-and-inflation-outlook-for-pakistan",
+      "domain": "en.dailypakistan.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-22T15:30:00+00:00"
      },
      {
-      "title": "World shares retreat as report of damage to oil tankers pushes oil prices higher",
-      "url": "https://www.yakimaherald.com/news/nation_and_world/business/world-shares-retreat-as-report-of-damage-to-oil-tankers-pushes-oil-prices-higher/article_af1b09ad-92d3-57a6-948e-0a8305091b4b.html",
-      "domain": "yakimaherald.com",
+      "title": "Fossil fuels could account for 70 % of new power in the U . S . by 2030",
+      "url": "https://www.kunc.org/2026-10-21/fossil-fuels-could-account-for-70-of-new-power-in-the-u-s-by-2030",
+      "domain": "kunc.org",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
-     }
-    ],
-    "geopolitica": [
-     {
-      "title": "Zelenskiy pushes for November talks , Kyiv hit by attack",
-      "url": "https://www.edenmagnet.com.au/story/9373029/zelenskiy-pushes-for-november-talks-kyiv-hit-by-attack/",
-      "domain": "edenmagnet.com.au",
-      "country": "Australia",
-      "published": "2026-10-22T12:15:00+00:00"
+      "published": "2026-10-22T15:30:00+00:00"
      },
      {
-      "title": "Everyone Has Blown Up : London Macro Traders Carried - Out As French Carry Trade Implodes ( Again )",
-      "url": "http://www.zerohedge.com/markets/everyone-has-blown-london-macro-traders-carried-out-french-carry-trade-implodes-again",
-      "domain": "zerohedge.com",
+      "title": "DeFi tokens lead crypto lower as bitcoin ( BTC ) price gives up Wednesday surge",
+      "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-slides-below-usd82-000-as-ai-doubts-return-with-defi-tokens-leading-declines",
+      "domain": "coindesk.com",
       "country": "United States",
-      "published": "2026-10-22T12:15:00+00:00"
+      "published": "2026-10-22T15:15:00+00:00"
      },
      {
-      "title": "Rand pressured by rising oil prices as investors weigh budget review",
-      "url": "https://www.channelafrica.co.za/channelafrica/news/rand-pressured-by-rising-oil-prices-as-investors-weigh-budget-review/",
-      "domain": "channelafrica.co.za",
-      "country": "South Africa",
-      "published": "2026-10-22T12:15:00+00:00"
-     },
-     {
-      "title": "Action against Iran has a cost : Iran Supreme National Security Council Secretary Rezaei warns US",
-      "url": "http://www.iraqsun.com/news/279392009/action-against-iran-has-a-cost-iran-supreme-national-security-council-secretary-rezaei-warns-us",
-      "domain": "iraqsun.com",
-      "country": "Iraq",
-      "published": "2026-10-22T12:15:00+00:00"
-     },
-     {
-      "title": "India condemns attacks on Saudi Arabia civilian and energy infrastructure , hopes peace returns to region",
-      "url": "http://www.iraqsun.com/news/279392078/india-condemns-attacks-on-saudi-arabia-civilian-and-energy-infrastructure-hopes-peace-returns-to-region",
-      "domain": "iraqsun.com",
-      "country": "Iraq",
-      "published": "2026-10-22T12:15:00+00:00"
-     },
-     {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.hamhigh.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "hamhigh.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T12:15:00+00:00"
-     },
-     {
-      "title": "Putin Says Iran Deal Still Possible After Talks With US Envoy",
-      "url": "http://www.iraqsun.com/news/279391781/putin-says-iran-deal-still-possible-after-talks-with-us-envoy",
-      "domain": "iraqsun.com",
-      "country": "Iraq",
-      "published": "2026-10-22T12:15:00+00:00"
-     },
-     {
-      "title": "Arab News | India condemns deadly attacks on Saudi Arabia Eastern Province",
-      "url": "https://www.arabnews.com/world/india-condemns-deadly-attacks-on-saudi-arabias-eastern-province-3007706",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-10-22T12:15:00+00:00"
-     },
-     {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.milfordmercury.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "milfordmercury.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T12:15:00+00:00"
-     },
-     {
-      "title": "Ukraine hits Russian data centers and experts say it sets back AI research",
-      "url": "https://www.wsbradio.com/news/business/ukraines-strikes/43RRP4QNME4H5BRK5LAOG3JXRA/",
-      "domain": "wsbradio.com",
+      "title": "FinancialContent - Why Allegion ( ALLE ) stock is up today",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-22-why-allegion-alle-stock-is-up-today",
+      "domain": "markets.financialcontent.com",
       "country": "United States",
-      "published": "2026-10-22T11:30:00+00:00"
+      "published": "2026-10-22T15:15:00+00:00"
      },
      {
-      "title": "Too little , too late : Trump takes on gas prices as fuel costs hamper his midterm hopes",
-      "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
-      "domain": "theguardian.com",
-      "country": "United Kingdom",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "Strait of Hormuz sees spike in oil tanker incidents amid rising tensions",
-      "url": "https://www.wsbradio.com/news/world/iran-says-7-oil/4XT3675AEM725CIFQCCZRG5HLA/",
-      "domain": "wsbradio.com",
-      "country": "United States",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "AP News Summary at 6 : 57 a . m . EDT",
-      "url": "http://www.hngnews.com/nation_world/ap-news-summary-at-6-57-a-m-edt/article_a3de5c80-e61d-54b1-bab2-55310a3e7d6e.html",
-      "domain": "hngnews.com",
-      "country": "United States",
-      "published": "2026-10-22T11:30:00+00:00"
-     },
-     {
-      "title": "Stock Market Today : Sensex Falls 460 Points , Nifty Closes Below 22 , 700 ; Media , FMCG and IT Stocks Drag",
-      "url": "https://www.indiainfoline.com/news/markets/stock-market-today-sensex-falls-460-points-nifty-closes-below-22700-media-fmcg-and-it-stocks-drag",
-      "domain": "indiainfoline.com",
+      "title": "CPCL Q2 profit more than triples to ₹2 , 271 crore on higher refining margins",
+      "url": "https://www.thehindubusinessline.com/companies/cpcl-q2-profit-more-than-triples-to-2271-crore-on-higher-refining-margins/article71611564.ece",
+      "domain": "thehindubusinessline.com",
       "country": "India",
-      "published": "2026-10-22T11:30:00+00:00"
+      "published": "2026-10-22T15:15:00+00:00"
      },
      {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.thurrockgazette.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "thurrockgazette.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T11:15:00+00:00"
+      "title": "U . S . Promotes Small Nuclear Reactors in Uzbekistan - The Times Of Central Asia",
+      "url": "https://timesca.com/u-s-promotes-small-nuclear-reactors-in-uzbekistan/",
+      "domain": "timesca.com",
+      "country": "Kyrgyzstan",
+      "published": "2026-10-22T15:00:00+00:00"
      },
      {
-      "title": "Russia agrees to resume three - way talks on Ukraine war with Kyiv and Washington , Kremlin says",
-      "url": "https://www.texarkanagazette.com/news/2026/oct/22/russia-agrees-to-resume-three-way-talks-on/",
-      "domain": "texarkanagazette.com",
+      "title": "Rising Global Oil Prices Spark Fresh Fuel Cost Fears in Sri Lanka",
+      "url": "https://www.lankanewspapers.com/2026/10/22/rising-global-oil-prices-spark-fresh-fuel-cost-fears-in-sri-lanka",
+      "domain": "lankanewspapers.com",
+      "country": "Sri Lanka",
+      "published": "2026-10-22T15:00:00+00:00"
+     },
+     {
+      "title": "Bloom Energy vs . Constellation Energy : Which AI Power Stock Is the Better Buy ?",
+      "url": "https://www.fool.com/investing/2026/10/22/bloom-energy-vs-constellation-energy-which-stock/",
+      "domain": "fool.com",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T15:00:00+00:00"
      },
      {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.dunmowbroadcast.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "dunmowbroadcast.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T11:15:00+00:00"
+      "title": "QatarEnergy signs deal to buy 4 million tons of US LNG annually",
+      "url": "https://news.az/news/qatarenergy-signs-deal-to-buy-4-million-tons-of-us-lng-annually",
+      "domain": "news.az",
+      "country": "Azerbaijan",
+      "published": "2026-10-22T15:00:00+00:00"
      },
      {
-      "title": "Murdoch Paper Shreds Trump Goon Over Putin  Smooch",
-      "url": "https://www.thedailybeast.com/murdoch-paper-shreds-trump-goon-over-putin-smooch",
-      "domain": "thedailybeast.com",
+      "title": "Bloom Energy vs . Constellation Energy : Which AI Power Stock Is the Better Buy ?",
+      "url": "https://www.aol.com/articles/bloom-energy-vs-constellation-energy-140500000.html",
+      "domain": "aol.com",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T15:00:00+00:00"
      },
      {
-      "title": "Oil supply improves as Middle East crude exports recover , but high fuel costs may persist : Jefferies",
-      "url": "http://www.singaporestar.com/news/279391807/oil-supply-improves-as-middle-east-crude-exports-recover-but-high-fuel-costs-may-persist-jefferies",
-      "domain": "singaporestar.com",
-      "country": "Singapore",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Global stocks fall , bonds gain as Meta dents tech optimism",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/22/global-stocks-fall-bonds-gain-as-meta-dents-tech-optimism",
-      "domain": "freemalaysiatoday.com",
-      "country": "Malaysia",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Do not repeat tax increases at Budget , Sainsbury boss urges Chancellor",
-      "url": "https://www.darlingtonandstocktontimes.co.uk/news/national/26659665.not-repeat-tax-increases-budget-sainsburys-boss-urges-chancellor/",
-      "domain": "darlingtonandstocktontimes.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Do not repeat tax increases at Budget , Sainsbury boss urges Chancellor",
-      "url": "https://www.ludlowadvertiser.co.uk/news/national/26659665.not-repeat-tax-increases-budget-sainsburys-boss-urges-chancellor/",
-      "domain": "ludlowadvertiser.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Do not repeat tax increases at Budget , Sainsbury boss urges Chancellor",
-      "url": "https://www.dunmowbroadcast.co.uk/news/national/26659665.not-repeat-tax-increases-budget-sainsburys-boss-urges-chancellor/",
-      "domain": "dunmowbroadcast.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.london-now.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "london-now.co.uk",
-      "country": "",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.denbighshirefreepress.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "denbighshirefreepress.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "The Essex Files : Trump Gets It Done Russian Prisoner Release Proves Peace Through Strength Works",
-      "url": "https://redstate.com/brad-essex/2026/10/22/the-essex-files-trump-gets-it-done-russian-prisoner-release-proves-peace-through-strength-works-n2208411",
-      "domain": "redstate.com",
+      "title": "Vår Energi AS ( OTCMKTS : VARRY ) Issues Earnings Results",
+      "url": "https://www.tickerreport.com/banking-finance/13630758/var-energi-as-otcmktsvarry-issues-earnings-results.html",
+      "domain": "tickerreport.com",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T15:00:00+00:00"
      },
      {
-      "title": "World shares retreat as report of damage to oil tankers pushes oil prices higher",
-      "url": "https://www.union-bulletin.com/news/national/world-shares-retreat-as-report-of-damage-to-oil-tankers-pushes-oil-prices-higher/article_89de8b89-42fb-5a31-9b3d-cc5493e37603.html",
-      "domain": "union-bulletin.com",
+      "title": "This Trash Company Just Raised Its Dividend 10 %. Its Stock Is Up 266 % in 10 Years",
+      "url": "https://www.aol.com/articles/trash-company-just-raised-dividend-141546000.html",
+      "domain": "aol.com",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T15:00:00+00:00"
      },
      {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.gazette-news.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "gazette-news.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "World shares retreat as report of damage to oil tankers pushes oil prices higher",
-      "url": "https://www.yakimaherald.com/news/nation_and_world/business/world-shares-retreat-as-report-of-damage-to-oil-tankers-pushes-oil-prices-higher/article_af1b09ad-92d3-57a6-948e-0a8305091b4b.html",
-      "domain": "yakimaherald.com",
+      "title": "How will the next 12 days shape the outcome of the midterm elections ?",
+      "url": "https://www.mynbc5.com/article/how-next-12-days-shape-midterm-elections-results/74214678",
+      "domain": "mynbc5.com",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T15:00:00+00:00"
      },
      {
-      "title": "Elon Musk SpaceX - Tesla merger math doesnt add up",
-      "url": "https://fortune.com/2026/10/22/elon-musk-spacex-tesla-merger-math-doesnt-add-up/",
+      "title": "US refineries run above 95 % of capacity as diesel supplies tighten",
+      "url": "https://econotimes.com/US-refineries-run-above-95-of-capacity-as-diesel-supplies-tighten-1760227",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-22T15:00:00+00:00"
+     },
+     {
+      "title": "Current price of oil as of Oct . 22 , 2026",
+      "url": "https://fortune.com/article/price-of-oil-10-22-2026/",
       "domain": "fortune.com",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "Iran says seven oil tankers damaged overnight in Strait of Hormuz",
-      "url": "https://www.darlingtonandstocktontimes.co.uk/news/national/26659299.iran-says-seven-oil-tankers-damaged-overnight-strait-hormuz/",
-      "domain": "darlingtonandstocktontimes.co.uk",
+      "title": "What is the tax - free personal allowance and will John Healey increase it to £15 , 570 in the Budget ?",
+      "url": "https://www.mirror.co.uk/money/personal-allowance-tax-budget-healey-37800083",
+      "domain": "mirror.co.uk",
       "country": "United Kingdom",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "A strong profit report from SpaceX helps lift AI stocks and Wall Street",
-      "url": "https://www.texarkanagazette.com/news/2026/oct/22/a-strong-profit-report-from-spacex-helps-lift-ai/",
-      "domain": "texarkanagazette.com",
+      "title": "How will the next 12 days shape the outcome of the midterm elections ?",
+      "url": "https://www.wjcl.com/article/how-next-12-days-shape-midterm-elections-results/74214678",
+      "domain": "wjcl.com",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "MAGA Billionaire Peter Thiel Caught Turning on Trump in Leaked Audio",
-      "url": "https://www.thedailybeast.com/maga-billionaire-peter-thiel-caught-turning-on-trump-in-leaked-audio",
-      "domain": "thedailybeast.com",
+      "title": "INTEL FROM THE IVORY TOWER : Killers of American Military Personnel – Pagosa Daily Post News Events & Video for Pagosa Springs Colorado",
+      "url": "https://pagosadailypost.com/2026/10/22/intel-from-the-ivory-tower-killers-of-american-military-personnel/",
+      "domain": "pagosadailypost.com",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "Mark Carney lands in Turkey to forge a new partnership as Canada looks beyond the US",
-      "url": "https://www.newsday.com/news/nation/turkey-canada-carney-erdogan-visit-d17265",
-      "domain": "newsday.com",
+      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
+      "url": "https://www.greeleytribune.com/2026/10/22/ai-stocks-financial-markets/",
+      "domain": "greeleytribune.com",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "Europe , Mideast top diplomats to meet in Istanbul Friday : Turkish source",
-      "url": "https://arynews.tv/europe-mideast-top-diplomats-meet-istanbul-friday-turkish-source",
-      "domain": "arynews.tv",
-      "country": "Pakistan",
-      "published": "2026-10-22T11:15:00+00:00"
+      "title": "Pentwater Capital Management LP - Form 8 . 3",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69910075-pentwater-capital-management-lp-form-8-3-vesuvius-plc-008.htm",
+      "domain": "finanznachrichten.de",
+      "country": "Germany",
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "Action against Iran has a cost : Iran Supreme National Security Council Secretary Rezaei warns US",
-      "url": "http://www.bignewsnetwork.com/news/279392009/action-against-iran-has-a-cost-iran-supreme-national-security-council-secretary-rezaei-warns-us",
-      "domain": "bignewsnetwork.com",
+      "title": "Experts cast doubt on Venezuela longtime claim of 300 billion barrels of reserve oil :: WRAL . com",
+      "url": "https://www.wral.com/news/ap/6d1ec-venezuela-claims-to-have-300-billion-barrels-of-oil-in-the-ground-but-experts-say-thats-a-stretch/",
+      "domain": "wral.com",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "Trump Russia deals are not his to make – European Council on Foreign Relations",
-      "url": "https://ecfr.eu/article/trumps-russia-deals-are-not-his-to-make/",
-      "domain": "ecfr.eu",
-      "country": "Russia",
-      "published": "2026-10-22T11:15:00+00:00"
+      "title": "TransAlta Advances Portfolio Rotation Through Sale of Minority Interest in Oklahoma Wind Portfolio for US$305 Million and Closes Acquisition of Colorado Gas Assets for US$1 Billion",
+      "url": "https://www.timminspress.com/press-releases/globe-newswire/transalta-advances-portfolio-rotation-through-sale-of-minority-interest-in-oklahoma-wind-portfolio-for-us305-million-and-closes-acquisition-of-colorado-gas-assets-for-us1-billion/",
+      "domain": "timminspress.com",
+      "country": "Canada",
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "Top European , Middle East diplomats to meet in Istanbul Friday",
-      "url": "https://www.freemalaysiatoday.com/category/world/2026/10/22/top-european-middle-east-diplomats-to-meet-in-istanbul-friday",
-      "domain": "freemalaysiatoday.com",
-      "country": "Malaysia",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "Kaitlan Collins Schools Trump After His Deranged Attack",
-      "url": "https://www.thedailybeast.com/kaitlan-collins-schools-trump-after-his-deranged-attack",
-      "domain": "thedailybeast.com",
+      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
+      "url": "https://www.elpasoinc.com/news/ap_wire/ai-stocks-tumble-and-drag-down-markets-worldwide-as-oil-prices-climb/article_cf16164f-22c0-5027-a729-bc4ac35b2dee.html",
+      "domain": "elpasoinc.com",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "Iran says 7 oil tankers are on fire or damaged in a key strait as fears grow of a return to war",
-      "url": "https://www.union-bulletin.com/news/national/iran-says-7-oil-tankers-are-on-fire-or-damaged-in-a-key-strait-as/article_1f893367-0f25-585b-8cc3-22a5d8350ba9.html",
-      "domain": "union-bulletin.com",
+      "title": "Elektros , Inc .: Elektros Explores a Bold Domestic Supply Vision for the Next Era of American Energy",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69909950-elektros-inc-elektros-explores-a-bold-domestic-supply-vision-for-the-next-era-of-american-energy-200.htm",
+      "domain": "finanznachrichten.de",
+      "country": "Germany",
+      "published": "2026-10-22T14:45:00+00:00"
+     },
+     {
+      "title": "Shell court records : dismissals , continuing disputes and the limits of a PACER search – Royal Dutch Shell Plc . com",
+      "url": "https://royaldutchshellplc.com/2026/10/21/shell-court-records-dismissals-continuing-disputes-and-the-limits-of-a-pacer-search/",
+      "domain": "royaldutchshellplc.com",
+      "country": "Netherlands",
+      "published": "2026-10-22T14:45:00+00:00"
+     },
+     {
+      "title": "Ukraine drones hit three Russian data centers and derails key services",
+      "url": "https://fortune.com/2026/10/22/ukraine-russia-drones-data-centers-ai-race/",
+      "domain": "fortune.com",
       "country": "United States",
-      "published": "2026-10-22T11:15:00+00:00"
+      "published": "2026-10-22T14:45:00+00:00"
+     },
+     {
+      "title": "Unit 5 working to solve problem of some buses arriving late for school",
+      "url": "https://www.wglt.org/local-news/2026-10-22/unit-5-working-to-solve-issue-of-some-buses-arriving-late-for-school",
+      "domain": "wglt.org",
+      "country": "United States",
+      "published": "2026-10-22T14:45:00+00:00"
+     },
+     {
+      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
+      "url": "https://www.orlandosentinel.com/2026/10/22/ai-stocks-financial-markets/",
+      "domain": "orlandosentinel.com",
+      "country": "United States",
+      "published": "2026-10-22T14:45:00+00:00"
+     },
+     {
+      "title": "How will the next 12 days shape the outcome of the midterm elections ?",
+      "url": "https://www.kcra.com/article/how-next-12-days-shape-midterm-elections-results/74214678",
+      "domain": "kcra.com",
+      "country": "United States",
+      "published": "2026-10-22T14:45:00+00:00"
+     },
+     {
+      "title": "Aberforth Partners LLP - Form 8 . 3 - Ashtead Technology Holdings plc",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69909998-aberforth-partners-llp-form-8-3-ashtead-technology-holdings-plc-008.htm",
+      "domain": "finanznachrichten.de",
+      "country": "Germany",
+      "published": "2026-10-22T14:45:00+00:00"
+     },
+     {
+      "title": "Italy mozzarella production halted by trucker strike , costing $3 . 4 million",
+      "url": "https://fortune.com/2026/10/22/italy-mozzarella-production-truckers-strike-iran-war-diesel-prices/",
+      "domain": "fortune.com",
+      "country": "United States",
+      "published": "2026-10-22T14:45:00+00:00"
      }
     ],
     "riesgos_climaticos": [
+     {
+      "title": "Bangkok Post - CP Group , True showcase  frontier tech  at CP Innovation Exposition 2026",
+      "url": "https://www.bangkokpost.com/thailand/pr/3341674/cp-group-true-showcase-frontier-tech-at-cp-innovation-exposition-2026",
+      "domain": "bangkokpost.com",
+      "country": "Thailand",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "World Food Day - The Innovations Helping Africa Women Farmers Grow More Food",
+      "url": "https://allafrica.com/stories/202610220359.html",
+      "domain": "allafrica.com",
+      "country": "Nigeria",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "Farmlands Crack In Odisha Keonjhar As farmers Block Road For Irrigation Water",
+      "url": "https://www.deccanchronicle.com/nation/farmlands-crack-in-odishas-keonjhar-as-farmers-block-road-for-irrigation-water-1997921",
+      "domain": "deccanchronicle.com",
+      "country": "India",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
      {
       "title": "Self - Fertile Pears Save Space but Heavy Croppers Need Thinning to Survive Their Own Yield",
       "url": "https://english.pravda.ru/news/gardening/170481-self-fertile-pears-space-thinning-yield/",
@@ -957,16 +696,16 @@
       "published": "2026-10-22T02:45:00+00:00"
      },
      {
-      "title": "Subtropical Storm Josephine Forms Off Mid - Atlantic Coast , Gale Winds Possible Near Bahamas",
-      "url": "https://bocanewsnow.com/2026/10/21/subtropical-storm-josephine-forms-off-mid-atlantic-coast-gale-winds-possible-near-bahamas/",
-      "domain": "bocanewsnow.com",
+      "title": "Honduras authorities hope to make it rain using cloud seeding",
+      "url": "https://www.bostonherald.com/2026/10/21/cloud-seeding-honduras-drought/",
+      "domain": "bostonherald.com",
       "country": "United States",
       "published": "2026-10-22T02:00:00+00:00"
      },
      {
-      "title": "Honduras authorities hope to make it rain using cloud seeding",
-      "url": "https://www.bostonherald.com/2026/10/21/cloud-seeding-honduras-drought/",
-      "domain": "bostonherald.com",
+      "title": "Subtropical Storm Josephine Forms Off Mid - Atlantic Coast , Gale Winds Possible Near Bahamas",
+      "url": "https://bocanewsnow.com/2026/10/21/subtropical-storm-josephine-forms-off-mid-atlantic-coast-gale-winds-possible-near-bahamas/",
+      "domain": "bocanewsnow.com",
       "country": "United States",
       "published": "2026-10-22T02:00:00+00:00"
      },
@@ -1006,17 +745,17 @@
       "published": "2026-10-22T00:45:00+00:00"
      },
      {
-      "title": "Earth biggest heat storm scorched nearly 85 % of the planet",
-      "url": "https://www.staradvertiser.com/2026/10/21/breaking-news/earths-biggest-heat-storm-scorched-nearly-85-of-the-planet/",
-      "domain": "staradvertiser.com",
-      "country": "United States",
-      "published": "2026-10-22T00:30:00+00:00"
-     },
-     {
       "title": "Fires fuelled by El Nino leave 12 dead in Peru",
       "url": "https://www.freemalaysiatoday.com/category/world/2026/10/22/fires-fuelled-by-el-nino-leave-12-dead-in-peru",
       "domain": "freemalaysiatoday.com",
       "country": "Malaysia",
+      "published": "2026-10-22T00:30:00+00:00"
+     },
+     {
+      "title": "Earth biggest heat storm scorched nearly 85 % of the planet",
+      "url": "https://www.staradvertiser.com/2026/10/21/breaking-news/earths-biggest-heat-storm-scorched-nearly-85-of-the-planet/",
+      "domain": "staradvertiser.com",
+      "country": "United States",
       "published": "2026-10-22T00:30:00+00:00"
      },
      {
@@ -1053,317 +792,297 @@
       "domain": "abc.net.au",
       "country": "Australia",
       "published": "2026-10-21T22:15:00+00:00"
-     },
-     {
-      "title": "Climate predictions through spring - Great Bend Tribune",
-      "url": "https://www.gbtribune.com/news/business/oil-gas/climate-predictions-through-spring/",
-      "domain": "gbtribune.com",
-      "country": "United States",
-      "published": "2026-10-21T22:15:00+00:00"
-     },
-     {
-      "title": "Fact Check Team : What is red - dyed diesel , and how could it help farmers ?",
-      "url": "https://fox4beaumont.com/news/nation-world/fact-check-team-what-is-red-dyed-diesel-and-how-could-it-help-farmers-restriction-relief",
-      "domain": "fox4beaumont.com",
-      "country": "United States",
-      "published": "2026-10-21T22:15:00+00:00"
-     },
-     {
-      "title": "How Milk Addresses Calcium Deficiency in Apple Trees",
-      "url": "https://english.pravda.ru/news/gardening/170448-apple-tree-calcium-milk-application/",
-      "domain": "english.pravda.ru",
-      "country": "Russia",
-      "published": "2026-10-21T22:15:00+00:00"
      }
     ],
-    "produccion_agroindustrial": [
+    "economia_mundial": [
      {
-      "title": "Palm oil glut lures Indian buyers as price gap to rivals widens",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/22/palm-oil-glut-lures-indian-buyers-as-price-gap-to-rivals-widens",
-      "domain": "freemalaysiatoday.com",
-      "country": "Malaysia",
-      "published": "2026-10-22T12:15:00+00:00"
+      "title": "US weekly jobless claims near 57 - year lows amid low layoffs",
+      "url": "https://kelo.com/2026/10/22/us-weekly-jobless-claims-near-57-year-lows/",
+      "domain": "kelo.com",
+      "country": "United States",
+      "published": "2026-10-22T15:30:00+00:00"
      },
      {
-      "title": "Renewable Fuel Standards 2026 : where US D4 supply stands against the biomass - based diesel requirement",
-      "url": "https://www.fastmarkets.com/insights/renewable-fuel-standards-2026-where-us-d4-supply-stands-against-the-biomass-based-diesel-requirement/",
-      "domain": "fastmarkets.com",
+      "title": "AI credit risk grows as debt finances the infrastructure build - out",
+      "url": "https://www.cnbc.com/2026/10/22/ai-credit-risk-debt.html",
+      "domain": "cnbc.com",
+      "country": "United States",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "How long does it take to save up for a starter home ? Twice as long as it did in 2019",
+      "url": "https://www.wshu.org/npr-news/2026-10-22/how-long-does-it-take-to-save-up-for-a-starter-home-twice-as-long-as-it-did-in-2019",
+      "domain": "wshu.org",
+      "country": "United States",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "RBC flags downside risks for gold shares ahead of quarterly results",
+      "url": "https://www.proactiveinvestors.com/companies/news/1100553/rbc-flags-downside-risks-for-gold-shares-ahead-of-quarterly-results-1100553.html",
+      "domain": "proactiveinvestors.com",
+      "country": "United States",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "Beyond the Payroll : Expanding Pension Coverage to Informal Workers",
+      "url": "https://www.cgap.org/research/podcast/beyond-payroll-expanding-pension-coverage-to-informal-workers",
+      "domain": "cgap.org",
+      "country": "United States",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
+      "url": "https://www.advocate-news.com/2026/10/22/ai-stocks-financial-markets/",
+      "domain": "advocate-news.com",
+      "country": "United States",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "AI stocks undercut markets worldwide as oil climbs to its highest price since May",
+      "url": "https://www.union-bulletin.com/news/national/ai-stocks-undercut-markets-worldwide-as-oil-climbs-to-its-highest-price-since-may/article_89de8b89-42fb-5a31-9b3d-cc5493e37603.html",
+      "domain": "union-bulletin.com",
+      "country": "United States",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
+      "url": "https://www.timescall.com/2026/10/22/ai-stocks-financial-markets/",
+      "domain": "timescall.com",
+      "country": "United States",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "XCF Global ( NASDAQ : SAFX ) Highlights potential $21 million Annual Clean Fuel Credit Opportunity by Expanding State Clean Fuel Programs",
+      "url": "http://www.tennesseedaily.com/news/279392305/xcf-global-nasdaq-safx-highlights-potential-21-million-annual-clean-fuel-credit-opportunity-by-expanding-state-clean-fuel-programs",
+      "domain": "tennesseedaily.com",
+      "country": "United States",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "MARKETS LIVE : Wall Street opens lower as AI spending doubts and oil price surge weigh on sentiment",
+      "url": "https://www.proactiveinvestors.com/companies/news/1100523/markets-live-wall-street-opens-lower-as-ai-spending-doubts-and-oil-price-surge-weigh-on-sentiment-1100523.html",
+      "domain": "proactiveinvestors.com",
+      "country": "United States",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "Caledonia Jumps 13 % as VFEX Outperforms Zimbabwe Stock Exchange - The Zimbabwe Mail Caledonia Jumps 13 % as VFEX Outperforms Zimbabwe Stock Exchange | Zimbabwe News",
+      "url": "https://thezimbabwemail.com/markets/caledonia-jumps-13-as-vfex-outperforms-zimbabwe-stock-exchange/",
+      "domain": "thezimbabwemail.com",
+      "country": "Zimbabwe",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "US weekly jobless claims near 57 - year lows amid low layoffs",
+      "url": "https://whtc.com/2026/10/22/us-weekly-jobless-claims-near-57-year-lows/",
+      "domain": "whtc.com",
+      "country": "United States",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "Nasdaq 100 drops 1 . 8 % as Meta tumbles and oil prices climb",
+      "url": "https://www.moneycontrol.com/news/business/markets/nasdaq-100-drops-1-8-as-meta-tumbles-and-oil-prices-climb-14057948.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "Coca - Cola India Brought Refreshment and Local Experiences to Pujo Celebrations",
+      "url": "http://www.calcuttanews.net/news/279392427/coca-cola-india-brought-refreshment-and-local-experiences-to-pujo-celebrations",
+      "domain": "calcuttanews.net",
+      "country": "India",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "Pakistanis Could Become 3 Times Richer in next 20 years , World Bank predicts",
+      "url": "https://en.dailypakistan.com.pk/22-Oct-2026/pakistanis-could-become-3-times-richer-in-next-20-years-world-bank-predicts",
+      "domain": "en.dailypakistan.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-22T15:30:00+00:00"
+     },
+     {
+      "title": "Coca - Cola India Brought Refreshment and Local Experiences to Pujo Celebrations",
+      "url": "http://www.asiabulletin.com/news/279392427/coca-cola-india-brought-refreshment-and-local-experiences-to-pujo-celebrations",
+      "domain": "asiabulletin.com",
       "country": "China",
-      "published": "2026-10-22T11:30:00+00:00"
+      "published": "2026-10-22T15:30:00+00:00"
      },
      {
-      "title": "Trouw Nutrition highlights strategies for Feeding the Future Sustainably at EuroTier 2026",
-      "url": "https://www.thecattlesite.com/news/trouw-nutrition-highlights-strategies-for-feeding-the-future-sustainably-at-eurotier-2026",
-      "domain": "thecattlesite.com",
-      "country": "United Kingdom",
-      "published": "2026-10-22T11:15:00+00:00"
-     },
-     {
-      "title": "A trucker protest halts the production of Italy famed buffalo mozzarella",
-      "url": "https://abcnews.com/Business/wireStory/truckers-protest-halts-production-italys-famed-buffalo-mozzarella-137469866",
-      "domain": "abcnews.com",
+      "title": "Beyond Access : Thailand and the Frontiers of Financial Inclusion",
+      "url": "https://www.cgap.org/research/beyond-access-thailand-and-frontiers-of-financial-inclusion",
+      "domain": "cgap.org",
       "country": "United States",
-      "published": "2026-10-22T11:00:00+00:00"
+      "published": "2026-10-22T15:30:00+00:00"
      },
      {
-      "title": "USDA surprises and a refresher on crop coverage",
-      "url": "https://www.agweek.com/opinion/usda-surprises-and-a-refresher-on-crop-coverage",
-      "domain": "agweek.com",
+      "title": "UTMD Reports Financial Performance for Third Calendar Quarter and Nine Months 2026",
+      "url": "http://www.tennesseedaily.com/news/279392243/utmd-reports-financial-performance-for-third-calendar-quarter-and-nine-months-2026",
+      "domain": "tennesseedaily.com",
       "country": "United States",
-      "published": "2026-10-22T11:00:00+00:00"
+      "published": "2026-10-22T15:30:00+00:00"
      },
      {
-      "title": "SP Energy Networks makes major generator investment | Chester and District Standard",
-      "url": "https://www.chesterstandard.co.uk/news/26660013.sp-energy-networks-makes-major-generator-investment/",
-      "domain": "chesterstandard.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-22T10:30:00+00:00"
+      "title": "Sensex plunges over 400 points , Nifty slips below 22 , 700 amid rising crude prices , geopolitical tensions",
+      "url": "http://www.milwaukeesun.com/news/279392082/sensex-plunges-over-400-points-nifty-slips-below-22700-amid-rising-crude-prices-geopolitical-tensions",
+      "domain": "milwaukeesun.com",
+      "country": "United States",
+      "published": "2026-10-22T15:30:00+00:00"
      },
      {
-      "title": "Brazil Chicken Exports : EU Plans to Lift Ban , Not Beef",
-      "url": "https://www.riotimesonline.com/eu-plans-brazil-chicken-honey-return-beef-stays-out-2026/",
+      "title": "How long does it take to save up for a starter home ? Twice as long as it did in 2019",
+      "url": "https://www.ksfr.org/npr-news/2026-10-22/how-long-does-it-take-to-save-up-for-a-starter-home-twice-as-long-as-it-did-in-2019",
+      "domain": "ksfr.org",
+      "country": "United States",
+      "published": "2026-10-22T15:15:00+00:00"
+     },
+     {
+      "title": "FinancialContent - Why Lazard ( LAZ ) stock is trading lower today",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-22-why-lazard-laz-stock-is-trading-lower-today",
+      "domain": "markets.financialcontent.com",
+      "country": "United States",
+      "published": "2026-10-22T15:15:00+00:00"
+     },
+     {
+      "title": "Goldman Sachs Group vs . JPMorgan Chase : Which Financial Stock Is a Better Buy in 2026 ?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/22/goldman-sachs-group-vs-jpmorgan-chase-which-financial-stock-is-a-better-buy-in-2026/",
+      "domain": "fool.com",
+      "country": "United States",
+      "published": "2026-10-22T15:00:00+00:00"
+     },
+     {
+      "title": "US weekly jobless claims near 57 - year lows amid low layoffs",
+      "url": "https://www.aol.com/articles/us-weekly-jobless-claims-near-123641000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-22T15:00:00+00:00"
+     },
+     {
+      "title": "Ruto hands over COMESA chairmanship , pushes for levy to fund regional programmes",
+      "url": "https://www.standardmedia.co.ke/article/2001560659/ruto-hands-over-comesa-chairmanship-pushes-for-levy-to-fund-regional-programmes",
+      "domain": "standardmedia.co.ke",
+      "country": "Kenya",
+      "published": "2026-10-22T15:00:00+00:00"
+     },
+     {
+      "title": "Cardtonic South Africa : ZAR & USD Wallet on Every Account",
+      "url": "https://ventureburn.com/cardtonic-goes-live-in-south-africa-with-a-zar-and-usd-wallet-on-every-account/",
+      "domain": "ventureburn.com",
+      "country": "South Africa",
+      "published": "2026-10-22T15:00:00+00:00"
+     },
+     {
+      "title": "This Trash Company Just Raised Its Dividend 10 %. Its Stock Is Up 266 % in 10 Years",
+      "url": "https://www.aol.com/articles/trash-company-just-raised-dividend-141546000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-22T15:00:00+00:00"
+     },
+     {
+      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
+      "url": "https://www.greeleytribune.com/2026/10/22/ai-stocks-financial-markets/",
+      "domain": "greeleytribune.com",
+      "country": "United States",
+      "published": "2026-10-22T14:45:00+00:00"
+     },
+     {
+      "title": "Afreximbank Forum Pitches Benin Zone 21 Oct",
+      "url": "https://www.riotimesonline.com/afreximbank-forum-benin-glo-djigbe-zone-2026/",
       "domain": "riotimesonline.com",
       "country": "Brazil",
-      "published": "2026-10-22T08:45:00+00:00"
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "Ward 1 candidates provide their voices - Fairmont Sentinel",
-      "url": "https://www.fairmontsentinel.com/news/local-news/2026/10/22/ward-1-candidates-provide-their-voices/",
-      "domain": "fairmontsentinel.com",
+      "title": "Corinthians vs Botafogo in São Paulo 2026",
+      "url": "https://www.riotimesonline.com/corinthians-vs-botafogo-sao-paulo-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-22T14:45:00+00:00"
+     },
+     {
+      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
+      "url": "https://www.elpasoinc.com/news/ap_wire/ai-stocks-tumble-and-drag-down-markets-worldwide-as-oil-prices-climb/article_cf16164f-22c0-5027-a729-bc4ac35b2dee.html",
+      "domain": "elpasoinc.com",
       "country": "United States",
-      "published": "2026-10-22T08:30:00+00:00"
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "Trouw Nutrition brings feed innovation and digital tools to EuroTier 2026",
-      "url": "https://www.thecattlesite.com/articles/trouw-nutrition-will-brings-feed-innovation-and-digital-tools-to-eurotier-2026",
-      "domain": "thecattlesite.com",
-      "country": "United Kingdom",
-      "published": "2026-10-22T07:00:00+00:00"
-     },
-     {
-      "title": "Punjab forum Flags Risks of Sugarcane Ethanol Exclusion",
-      "url": "https://www.indiancooperative.com/co-op-news-snippets/punjab-forum-flags-risks-of-sugarcane-ethanol-exclusion/",
-      "domain": "indiancooperative.com",
+      "title": "Hatsun Agro Product Q2 Profit Rises 5 . 61 Per Cent To ₹115 . 69 Crore , Total Income Jumps 19 . 35 Pc",
+      "url": "https://www.freepressjournal.in/business/hatsun-agro-product-q2-profit-rises-561-per-cent-to-11569-crore-total-income-jumps-1935-pc",
+      "domain": "freepressjournal.in",
       "country": "India",
-      "published": "2026-10-22T06:30:00+00:00"
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "Trouw Nutrition will brings feed innovation and digital tools to EuroTier 2026",
-      "url": "https://www.thepoultrysite.com/articles/trouw-nutrition-will-brings-feed-innovation-and-digital-tools-to-eurotier-2026",
-      "domain": "thepoultrysite.com",
+      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
+      "url": "https://www.orlandosentinel.com/2026/10/22/ai-stocks-financial-markets/",
+      "domain": "orlandosentinel.com",
       "country": "United States",
-      "published": "2026-10-22T06:15:00+00:00"
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "Governor Guyo calls for an end to banditry and cattle rustlin",
-      "url": "https://www.the-star.co.ke/counties/rift-valley/2026-10-22-governor-guyo-calls-for-an-end-to-banditry-and-cattle-rustlin",
-      "domain": "the-star.co.ke",
-      "country": "Kenya",
-      "published": "2026-10-22T05:00:00+00:00"
+      "title": "Mexico Inflation Rises to 3 . 62 % Mid - October",
+      "url": "https://www.riotimesonline.com/mexico-inflation-first-half-october-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "BL Agro Ambitious Rs 7 , 000 Cr Investment in Tanzania : Aiming for Rs 30 , 000 Cr Revenue by FY29 , ETRetail",
-      "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/bl-agro-plans-rs-7000-cr-tanzania-investment-targets-rs-30000-cr-revenue-by-fy29/135104525",
-      "domain": "retail.economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-22T04:30:00+00:00"
+      "title": "Kenya World Bank Debt Tops US$15 . 7 Billion",
+      "url": "https://www.riotimesonline.com/kenya-world-bank-debt-tops-15-billion-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "B . C . food banks see usage double since 2019",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/bc-food-banks-usage-doubled-2026-9.7391059",
-      "domain": "cbc.ca",
-      "country": "Canada",
-      "published": "2026-10-22T03:45:00+00:00"
+      "title": "Fonseca Medellín Concert 2027 Guide",
+      "url": "https://www.riotimesonline.com/fonseca-medellin-concert-2027-guide-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "Punjab targets over $1 . 8billion in food exports to Saudi Arabia",
-      "url": "https://dunyanews.tv/en/Business/978979-punjab-targets-over-18billion-in-food-exports-to-saudi-arabia",
-      "domain": "dunyanews.tv",
-      "country": "Pakistan",
-      "published": "2026-10-22T03:45:00+00:00"
-     },
-     {
-      "title": "Let Me Finish",
-      "url": "https://www.dailykos.com/stories/2026/10/21/800115581/community/let-me-finish/",
-      "domain": "dailykos.com",
+      "title": "Gia Binh Airport : Vietnam New Global Aviation Hub Ambition",
+      "url": "https://eturbonews.com/gia-binh-airport-vietnam-airlines-tourism-hub/",
+      "domain": "eturbonews.com",
       "country": "United States",
-      "published": "2026-10-22T03:15:00+00:00"
+      "published": "2026-10-22T14:45:00+00:00"
      },
      {
-      "title": "CPO prices seen staying above RM4 , 600 in November , says MPOC",
-      "url": "https://www.thestar.com.my/business/business-news/2026/10/22/malaysia-crude-palm-oil-prices-to-stay-above-rm4600-per-ton-in-november-mpoc-says",
-      "domain": "thestar.com.my",
-      "country": "Malaysia",
-      "published": "2026-10-22T03:15:00+00:00"
-     },
-     {
-      "title": "Elusive evidence : Probiotics backed by strong science but still lacking on - farm proof – review",
-      "url": "https://www.agnavigator.com/Article/2026/10/22/elusive-evidence-probiotics-backed-by-strong-science-but-still-lacking-on-farm-proof-review/",
-      "domain": "agnavigator.com",
-      "country": "",
-      "published": "2026-10-22T02:45:00+00:00"
-     },
-     {
-      "title": "Missing in the ethanol substitution vision",
-      "url": "https://www.hindustantimes.com/editorials/missing-in-the-ethanol-substitution-vision-101792610845869.html",
-      "domain": "hindustantimes.com",
-      "country": "India",
-      "published": "2026-10-22T01:45:00+00:00"
-     },
-     {
-      "title": "Oxford American | The Dream in the Valley",
-      "url": "https://oxfordamerican.org/magazine/issue-133-134-summer-fall-2026/the-dream-in-the-valley",
-      "domain": "oxfordamerican.org",
+      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
+      "url": "https://www.canoncitydailyrecord.com/2026/10/22/ai-stocks-financial-markets/",
+      "domain": "canoncitydailyrecord.com",
       "country": "United States",
-      "published": "2026-10-22T00:45:00+00:00"
+      "published": "2026-10-22T14:30:00+00:00"
      },
      {
-      "title": "Yu Tok - Post Courier",
-      "url": "https://www.postcourier.com.pg/yu-tok-221026/",
-      "domain": "postcourier.com.pg",
-      "country": "Papua New Guinea",
-      "published": "2026-10-21T22:45:00+00:00"
-     },
-     {
-      "title": "New York college plans 1 . 2 – 1 . 5 MW of elevated solar panels above cattle pasture and corn , with room for harvesters",
-      "url": "https://www.ecoportal.net/en/new-york-agrivoltaics-farm-land/43280/",
-      "domain": "ecoportal.net",
+      "title": "How long does it take to save up for a starter home ? Twice as long as it did in 2019",
+      "url": "https://www.wncw.org/2026-10-22/how-long-does-it-take-to-save-up-for-a-starter-home-twice-as-long-as-it-did-in-2019",
+      "domain": "wncw.org",
       "country": "United States",
-      "published": "2026-10-21T22:15:00+00:00"
+      "published": "2026-10-22T14:30:00+00:00"
      },
      {
-      "title": "Genea - Musings",
-      "url": "https://www.geneamusings.com/search?updated-max=2026-10-20T08:59:00-07:00&max-results=10",
-      "domain": "geneamusings.com",
+      "title": "How long does it take to save up for a starter home ? Twice as long as it did in 2019",
+      "url": "https://www.kzyx.org/npr-news/2026-10-22/how-long-does-it-take-to-save-up-for-a-starter-home-twice-as-long-as-it-did-in-2019",
+      "domain": "kzyx.org",
       "country": "United States",
-      "published": "2026-10-21T22:15:00+00:00"
+      "published": "2026-10-22T14:30:00+00:00"
      },
      {
-      "title": "Fact Check Team : What is red - dyed diesel , and how could it help farmers ?",
-      "url": "https://fox4beaumont.com/news/nation-world/fact-check-team-what-is-red-dyed-diesel-and-how-could-it-help-farmers-restriction-relief",
-      "domain": "fox4beaumont.com",
-      "country": "United States",
-      "published": "2026-10-21T22:15:00+00:00"
-     },
-     {
-      "title": "Agrofert expects chicken to overtake pork in Europe",
-      "url": "https://www.thepigsite.com/news/2026/10/agrofert-expects-chicken-to-overtake-pork-in-europe",
-      "domain": "thepigsite.com",
-      "country": "United Kingdom",
-      "published": "2026-10-21T21:30:00+00:00"
-     },
-     {
-      "title": "The World Wastes 500 , 000 Tons of Ice Cream Every Year . A Surprisingly Simple Solution Could Change That",
-      "url": "https://www.zmescience.com/science/news-science/the-world-wastes-500000-tons-of-ice-cream-every-year-a-surprisingly-simple-solution-could-change-that/",
-      "domain": "zmescience.com",
-      "country": "United States",
-      "published": "2026-10-21T21:30:00+00:00"
-     },
-     {
-      "title": "Smokeless Oil Palm Frond Briquettes : Can Plantation Residues Provide Cleaner Fuel ? - Analysis",
-      "url": "https://www.eurasiareview.com/21102026-smokeless-oil-palm-frond-briquettes-can-plantation-residues-provide-cleaner-fuel-analysis/",
-      "domain": "eurasiareview.com",
-      "country": "United States",
-      "published": "2026-10-21T21:30:00+00:00"
-     },
-     {
-      "title": "Fact Check Team : What is red - dyed diesel , and how could it help farmers ?",
-      "url": "https://wjla.com/news/nation-world/fact-check-team-what-is-red-dyed-diesel-and-how-could-it-help-farmers-restriction-relief",
-      "domain": "wjla.com",
-      "country": "United States",
-      "published": "2026-10-21T20:45:00+00:00"
-     },
-     {
-      "title": "Fact Check Team : What is red - dyed diesel , and how could it help farmers ?",
-      "url": "https://newschannel9.com/news/nation-world/fact-check-team-what-is-red-dyed-diesel-and-how-could-it-help-farmers-restriction-relief",
-      "domain": "newschannel9.com",
-      "country": "United States",
-      "published": "2026-10-21T20:45:00+00:00"
-     },
-     {
-      "title": "Cheaper chicken , vegetable oil drive 11 . 5 % fall in jollof rice cost",
-      "url": "https://www.premiumtimesng.com/business/business-news/919003-cheaper-chicken-vegetable-oil-drive-11-5-fall-in-jollof-rice-cost-report.html",
-      "domain": "premiumtimesng.com",
-      "country": "Nigeria",
-      "published": "2026-10-21T20:30:00+00:00"
-     },
-     {
-      "title": "Engineering inclusion : The missing link in agricultural growth",
-      "url": "https://sundayworld.co.za/news/opinion/mathews-phosa-engineering-inclusion-the-missing-link-in-agricultural-growth/",
-      "domain": "sundayworld.co.za",
+      "title": "Organisation slams MTBPS as  anti - poor : Here why",
+      "url": "https://www.citizen.co.za/business/organisation-slams-mtbps-as-anti-poor-heres-why/",
+      "domain": "citizen.co.za",
       "country": "South Africa",
-      "published": "2026-10-21T20:30:00+00:00"
-     },
-     {
-      "title": "Uganda Plans Busoga Oil Palm Expansion to Close 370 , 000 - Tonne Deficit , Cut Shs 1 . 25 Tn Import Bill",
-      "url": "https://chimpreports.com/uganda-plans-busoga-oil-palm-expansion-to-close-370000-tonne-deficit-cut-shs-1-25-tn-import-bill/",
-      "domain": "chimpreports.com",
-      "country": "Uganda",
-      "published": "2026-10-21T20:30:00+00:00"
-     },
-     {
-      "title": "Fact Check Team : What is red - dyed diesel , and how could it help farmers ?",
-      "url": "https://wwmt.com/news/nation-world/fact-check-team-what-is-red-dyed-diesel-and-how-could-it-help-farmers-restriction-relief",
-      "domain": "wwmt.com",
-      "country": "United States",
-      "published": "2026-10-21T20:15:00+00:00"
-     },
-     {
-      "title": "Fact Check Team : What is red - dyed diesel , and how could it help farmers ?",
-      "url": "https://foxreno.com/news/nation-world/fact-check-team-what-is-red-dyed-diesel-and-how-could-it-help-farmers-restriction-relief",
-      "domain": "foxreno.com",
-      "country": "United States",
-      "published": "2026-10-21T20:15:00+00:00"
-     },
-     {
-      "title": "Fact Check Team : What is red - dyed diesel , and how could it help farmers ?",
-      "url": "https://cbs6albany.com/news/nation-world/fact-check-team-what-is-red-dyed-diesel-and-how-could-it-help-farmers-restriction-relief",
-      "domain": "cbs6albany.com",
-      "country": "United States",
-      "published": "2026-10-21T20:15:00+00:00"
-     },
-     {
-      "title": "Fact Check Team : What is red - dyed diesel , and how could it help farmers ?",
-      "url": "https://kfdm.com/news/nation-world/fact-check-team-what-is-red-dyed-diesel-and-how-could-it-help-farmers-restriction-relief",
-      "domain": "kfdm.com",
-      "country": "United States",
-      "published": "2026-10-21T20:15:00+00:00"
-     },
-     {
-      "title": "Fact Check Team : What is red - dyed diesel , and how could it help farmers ?",
-      "url": "https://wgxa.tv/news/nation-world/fact-check-team-what-is-red-dyed-diesel-and-how-could-it-help-farmers-restriction-relief",
-      "domain": "wgxa.tv",
-      "country": "United States",
-      "published": "2026-10-21T20:15:00+00:00"
-     },
-     {
-      "title": "Fact Check Team : What is red - dyed diesel , and how could it help farmers ?",
-      "url": "https://ktul.com/news/nation-world/fact-check-team-what-is-red-dyed-diesel-and-how-could-it-help-farmers-restriction-relief",
-      "domain": "ktul.com",
-      "country": "United States",
-      "published": "2026-10-21T19:45:00+00:00"
-     },
-     {
-      "title": "U . S . ranks third in global protein security index",
-      "url": "https://www.agri-pulse.com/articles/25398-us-ranks-third-in-global-protein-security-index",
-      "domain": "agri-pulse.com",
-      "country": "United States",
-      "published": "2026-10-21T19:45:00+00:00"
-     },
-     {
-      "title": "2026 Voter Guide : Indiana 3rd Congressional District",
-      "url": "https://www.wfyi.org/statewide/2026-09-21/2026-voter-guide-indianas-3rd-congressional-district",
-      "domain": "wfyi.org",
-      "country": "United States",
-      "published": "2026-10-21T18:00:00+00:00"
+      "published": "2026-10-22T14:30:00+00:00"
      }
     ]
    },
    "errors": {
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
