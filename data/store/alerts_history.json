@@ -1,5 +1,22 @@
 [
  {
+  "id": "46611a8dc4ba",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-22",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 1 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Oil climbs over $1 on more Houthi attacks in Saudi Arabia” (mvariety.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "mvariety.com",
+  "url": "https://www.mvariety.com/business/business_news/oil-climbs-over-1-on-more-houthi-attacks-in-saudi-arabia/article_1e33214d-5917-43c5-a07d-17e813070a27.html",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-22T12:56:50-06:00"
+ },
+ {
   "id": "5840594eee02",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
