@@ -1,5 +1,22 @@
 [
  {
+  "id": "17cc14564e50",
+  "indicator": "cp-ormuz",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-23",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Estrecho de Ormuz: 1 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Iran says 7 oil tankers were attacked in the Strait of Hormuz as fears grow of a return to war” (kfyrtv.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "kfyrtv.com",
+  "url": "https://www.kfyrtv.com/2026/10/22/iran-says-7-oil-tankers-were-attacked-strait-hormuz-fears-grow-return-war/",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-23T01:00:52-06:00"
+ },
+ {
   "id": "24c341db6ab3",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
