@@ -1,5 +1,21 @@
 [
  {
+  "indicator": "tasa_10y",
+  "name": "Bono del Tesoro EE.UU. 10 años",
+  "group": "macro",
+  "date": "2026-10-22",
+  "source": "FRED — Federal Reserve Bank of St. Louis",
+  "url": "https://fred.stlouisfed.org/series/DGS10",
+  "frequency": "diaria",
+  "id": "d37f61751899",
+  "rule": "cambio_diario",
+  "severity": "informativo",
+  "title": "Bono del Tesoro EE.UU. 10 años: -3.3% en una sesión (movimiento a la baja)",
+  "evidence": "5.13 (2026-10-21) → 4.96 (2026-10-22). Umbral ±3.0%.",
+  "action": "Confirmar si el movimiento persiste en las próximas sesiones antes de ajustar órdenes de compra.",
+  "first_seen": "2026-10-23T15:47:07-06:00"
+ },
+ {
   "id": "8470b2db8c5a",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",

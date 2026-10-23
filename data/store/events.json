@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-23T12:55:36-06:00",
+  "at": "2026-10-23T15:47:07-06:00",
   "data": {
    "storms": [
     {
@@ -9,100 +9,100 @@
      "binNumber": "EP2",
      "name": "Vance",
      "classification": "HU",
-     "intensity": "80",
-     "pressure": "979",
-     "latitude": "10.7N",
-     "longitude": "102.1W",
-     "latitudeNumeric": 10.7,
-     "longitudeNumeric": -102.1,
+     "intensity": "90",
+     "pressure": "971",
+     "latitude": "11.2N",
+     "longitude": "102.3W",
+     "latitudeNumeric": 11.2,
+     "longitudeNumeric": -102.3,
      "movementDir": 325,
      "movementSpeed": 5,
-     "lastUpdate": "2026-10-23T15:00:00.000Z",
+     "lastUpdate": "2026-10-23T21:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "009",
-      "issuance": "2026-10-23T15:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T14:42:27.616Z",
+      "advNum": "010",
+      "issuance": "2026-10-23T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-23T20:39:00.961Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "009",
-      "issuance": "2026-10-23T15:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T14:42:03.164Z",
+      "advNum": "010",
+      "issuance": "2026-10-23T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-23T20:38:33.263Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCMEP2.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "009",
-      "issuance": "2026-10-23T15:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T14:42:27.685Z",
+      "advNum": "010",
+      "issuance": "2026-10-23T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-23T20:39:00.399Z",
       "url": "https://www.nhc.noaa.gov/text/MIAPWSEP2.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "009",
-      "issuance": "2026-10-23T15:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T14:43:26.460Z",
+      "advNum": "010",
+      "issuance": "2026-10-23T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-23T20:40:32.916Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCDEP2.shtml"
      },
      "forecastGraphics": {
-      "advNum": "009",
-      "issuance": "2026-10-23T15:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T14:42:27.616Z",
+      "advNum": "010",
+      "issuance": "2026-10-23T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-23T20:39:00.961Z",
       "url": "https://www.nhc.noaa.gov/graphics_ep2.shtml"
      },
      "forecastTrack": {
-      "advNum": "009",
-      "issuance": "2026-10-23T15:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T14:45:18.911Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_009.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_009adv_TRACK.kmz"
+      "advNum": "010",
+      "issuance": "2026-10-23T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-23T20:42:30.334Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_010.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_010adv_TRACK.kmz"
      },
      "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "009",
-      "issuance": "2026-10-23T15:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T14:45:12.732Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_009.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_009adv_CONE.kmz"
+      "advNum": "010",
+      "issuance": "2026-10-23T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-23T20:42:24.767Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_010.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_010adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "009",
-      "issuance": "2026-10-23T15:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T14:45:50.840Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_009.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_009adv.kmz"
+      "advNum": "010",
+      "issuance": "2026-10-23T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-23T20:42:59.210Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_010.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_010adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "009",
-      "issuance": "2026-10-23T15:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T14:45:46.711Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_009.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_009adv.kmz"
+      "advNum": "010",
+      "issuance": "2026-10-23T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-23T20:42:55.475Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_010.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_010adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-10-23T15:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T14:45:28.988Z",
+      "issuance": "2026-10-23T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-23T20:42:39.463Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "009",
-      "issuance": "2026-10-23T15:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T14:45:14.860Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_009adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "010",
+      "issuance": "2026-10-23T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-23T20:42:26.639Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_010adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "009",
-      "issuance": "2026-10-23T15:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T14:45:16.928Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_009adv_most_likely_toa_34.kmz"
+      "advNum": "010",
+      "issuance": "2026-10-23T21:00:00.000Z",
+      "fileUpdateTime": "2026-10-23T20:42:28.490Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_010adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-10-23T12:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T15:23:12.938Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102312_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102312_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102312_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102312_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102312_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-10-23T18:00:00.000Z",
+      "fileUpdateTime": "2026-10-23T21:23:05.551Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102318_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102318_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102318_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102318_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102318_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-23T12:55:36-06:00",
+  "at": "2026-10-23T15:47:07-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,291 +123,9 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-23T12:55:36-06:00",
+  "at": "2026-10-23T15:47:07-06:00",
   "data": {
    "raw": {
-    "commodities_agricolas": [
-     {
-      "title": "A scientist was pushed out for studying Iowa water . Now he running to regulate it .",
-      "url": "https://cedarrepublican.com/syndicated/a-scientist-was-pushed-out-for-studying-iowas-water-now-hes-running-to-regulate-it",
-      "domain": "cedarrepublican.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "The ultimate Wasatch Front fall map & Halloween fun guide",
-      "url": "https://www.ksl.com/article/51638988",
-      "domain": "ksl.com",
-      "country": "United States",
-      "published": "2026-10-23T13:00:00+00:00"
-     },
-     {
-      "title": "Ag Matters : Selling Beans and Storing Corn ?",
-      "url": "https://kchanews.com/2026/10/23/ag-matters-selling-beans-and-storing-corn/",
-      "domain": "kchanews.com",
-      "country": "United States",
-      "published": "2026-10-23T13:00:00+00:00"
-     },
-     {
-      "title": "Bangladeshi high commissioner sees multi - billion - dollar potential in Pakistan trade",
-      "url": "https://pakobserver.net/bangladeshi-high-commissioner-sees-multi-billion-dollar-potential-in-pakistan-trade/",
-      "domain": "pakobserver.net",
-      "country": "Pakistan",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "Karnataka flour mills seek higher wheat allocation under OMSS",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/karnataka-flour-mills-seek-higher-wheat-allocation-under-omss/article71615680.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
-      "published": "2026-10-23T12:00:00+00:00"
-     },
-     {
-      "title": "Soybeans Rebound on Strong Export Demand | Hellenic Shipping News Worldwide",
-      "url": "https://www.hellenicshippingnews.com/soybeans-rebound-on-strong-export-demand/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
-      "published": "2026-10-23T12:00:00+00:00"
-     },
-     {
-      "title": "Why a Texas Election Could Affect Every American Energy Bill – RedState",
-      "url": "https://redstate.com/redstate-guest-editorial/2026/10/23/why-a-texas-election-could-affect-every-americans-energy-bill-n2208507",
-      "domain": "redstate.com",
-      "country": "United States",
-      "published": "2026-10-23T11:30:00+00:00"
-     },
-     {
-      "title": "Darkness of Hunger Amid the Glitter of Development",
-      "url": "https://countercurrents.org/2026/10/darkness-of-hunger-amid-the-glitter-of-development/",
-      "domain": "countercurrents.org",
-      "country": "India",
-      "published": "2026-10-23T11:30:00+00:00"
-     },
-     {
-      "title": "Gujarat farmers sell 3 . 2 crore quintals of produce worth Rs 12 , 740 crore through  eNAM",
-      "url": "https://www.prokerala.com/news/articles/a1827892.html",
-      "domain": "prokerala.com",
-      "country": "India",
-      "published": "2026-10-23T11:00:00+00:00"
-     },
-     {
-      "title": "Food - delivery charity will wrap up operations by end of year , founder says",
-      "url": "https://www.cbc.ca/news/canada/new-brunswick/operation-feed-saint-john-ending-9.7391903",
-      "domain": "cbc.ca",
-      "country": "Canada",
-      "published": "2026-10-23T11:00:00+00:00"
-     },
-     {
-      "title": "Environmental risk factors for cancer presented during meeting in Toledo | News , Sports , Jobs",
-      "url": "https://www.tamatoledonews.com/news/local-news/2026/10/23/environmental-risk-factors-for-cancer-presented-during-meeting-in-toledo/",
-      "domain": "tamatoledonews.com",
-      "country": "United States",
-      "published": "2026-10-23T11:00:00+00:00"
-     },
-     {
-      "title": "How an Entrepreneur Used Facebook Marketplace to Grow Her Catering Company",
-      "url": "https://www.businessinsider.com/catering-company-used-facebook-marketplace-small-business-growth-2026-10",
-      "domain": "businessinsider.com",
-      "country": "United States",
-      "published": "2026-10-23T11:00:00+00:00"
-     },
-     {
-      "title": "Sudan Army Presses Air War in Darfur",
-      "url": "https://www.riotimesonline.com/sudan-army-air-war-darfur-kordofan-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-23T09:30:00+00:00"
-     },
-     {
-      "title": "Britain barley harvest slumps to lowest level in 15 years",
-      "url": "https://www.farminguk.com/news/britain-s-barley-harvest-slumps-to-lowest-level-in-15-years_69353.html",
-      "domain": "farminguk.com",
-      "country": "United Kingdom",
-      "published": "2026-10-23T09:30:00+00:00"
-     },
-     {
-      "title": "Punjab CM directs to ensure wheat cultivation on all Govt - owned land",
-      "url": "https://www.radio.gov.pk/23-10-2026/punjab-cm-directs-to-ensure-wheat-cultivation-on-all-govt-owned-land",
-      "domain": "radio.gov.pk",
-      "country": "Pakistan",
-      "published": "2026-10-23T07:45:00+00:00"
-     },
-     {
-      "title": "Life of a Husker commuting to and from school | Culture",
-      "url": "https://www.dailynebraskan.com/culture/life-of-a-husker-commuter-connecting-outside-of-the-car/article_6744dae4-b0e9-4a0a-a7b5-9900dbc68afa.html",
-      "domain": "dailynebraskan.com",
-      "country": "United States",
-      "published": "2026-10-23T06:45:00+00:00"
-     },
-     {
-      "title": "Wheat futures : what being long or short means for growers | The Land",
-      "url": "https://www.theland.com.au/story/9371656/wheat-futures-what-being-long-or-short-means-for-growers/",
-      "domain": "theland.com.au",
-      "country": "Australia",
-      "published": "2026-10-23T06:30:00+00:00"
-     },
-     {
-      "title": "Chicken meat price soars to Rs720 / kg in Hyderabad",
-      "url": "https://tribune.com.pk/story/2636450/chicken-meat-price-soars-to-rs720kg-in-hyderabad",
-      "domain": "tribune.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-23T06:00:00+00:00"
-     },
-     {
-      "title": "Kenya : Mombasa Port Receives Seven Tankers Carrying Fuel , Palm Oil",
-      "url": "https://allafrica.com/stories/202610230045.html",
-      "domain": "allafrica.com",
-      "country": "Nigeria",
-      "published": "2026-10-23T06:00:00+00:00"
-     },
-     {
-      "title": "Wheat futures : what being long or short means for growers | Farm Weekly",
-      "url": "https://www.farmweekly.com.au/story/9371656/wheat-futures-what-being-long-or-short-means-for-growers/",
-      "domain": "farmweekly.com.au",
-      "country": "Australia",
-      "published": "2026-10-23T05:00:00+00:00"
-     },
-     {
-      "title": "Exports face growing pressure to go green",
-      "url": "https://vir.com.vn/exports-face-growing-pressure-to-go-green-163465.html",
-      "domain": "vir.com.vn",
-      "country": "Vietnam",
-      "published": "2026-10-23T05:00:00+00:00"
-     },
-     {
-      "title": "Wheat futures : what being long or short means for growers | Queensland Country Life",
-      "url": "https://www.queenslandcountrylife.com.au/story/9371656/wheat-futures-what-being-long-or-short-means-for-growers/",
-      "domain": "queenslandcountrylife.com.au",
-      "country": "Australia",
-      "published": "2026-10-23T05:00:00+00:00"
-     },
-     {
-      "title": "US backs Philippine ube push with $34 . 1 million funding",
-      "url": "https://bworldonline.com/top-stories/2026/10/23/788868/us-backs-philippines-ube-push-with-34-1-million-funding/",
-      "domain": "bworldonline.com",
-      "country": "Philippines",
-      "published": "2026-10-23T04:45:00+00:00"
-     },
-     {
-      "title": "UAE Grocery Prices : Find the Best Deals on Rice , Eggs , and Cooking Oil",
-      "url": "https://gulfnews.com/business/retail/uae-grocery-prices-where-to-find-lower-costs-for-rice-eggs-and-oil-this-october-1.500718672",
-      "domain": "gulfnews.com",
-      "country": "United Arab Emirates",
-      "published": "2026-10-23T04:30:00+00:00"
-     },
-     {
-      "title": "Two Georgia restaurants earn new Michelin stars in 2026 guide",
-      "url": "https://www.fox5atlanta.com/news/two-georgia-restaurants-earn-new-michelin-stars-2026-guide",
-      "domain": "fox5atlanta.com",
-      "country": "United States",
-      "published": "2026-10-23T04:00:00+00:00"
-     },
-     {
-      "title": "Boo Baskets : 9 things to get someone who loves Halloween",
-      "url": "https://fox23.com/shopping/boo-basket-halloween-gift-candy-treats-snacks-self-care-clothes-fashion-accessories-movies-books-goodies-girlfriend-boyfriend-kid-spooky-season",
-      "domain": "fox23.com",
-      "country": "United States",
-      "published": "2026-10-23T04:00:00+00:00"
-     },
-     {
-      "title": "Oysters and crabs farmed in saline - alkali ponds in China Xinjiang",
-      "url": "https://asianews.network/oysters-and-crabs-farmed-in-saline-alkali-ponds-in-chinas-xinjiang/",
-      "domain": "asianews.network",
-      "country": "China",
-      "published": "2026-10-23T04:00:00+00:00"
-     },
-     {
-      "title": "Boo Baskets : 9 things to get someone who loves Halloween",
-      "url": "https://abc6onyourside.com/shopping/boo-basket-halloween-gift-candy-treats-snacks-self-care-clothes-fashion-accessories-movies-books-goodies-girlfriend-boyfriend-kid-spooky-season",
-      "domain": "abc6onyourside.com",
-      "country": "United States",
-      "published": "2026-10-23T04:00:00+00:00"
-     },
-     {
-      "title": "Boo Baskets : 9 things to get someone who loves Halloween",
-      "url": "https://13wham.com/shopping/boo-basket-halloween-gift-candy-treats-snacks-self-care-clothes-fashion-accessories-movies-books-goodies-girlfriend-boyfriend-kid-spooky-season",
-      "domain": "13wham.com",
-      "country": "United States",
-      "published": "2026-10-23T04:00:00+00:00"
-     },
-     {
-      "title": "Five measures proposed to rescue Thailand Oil Fuel Fund – Asia News Network",
-      "url": "https://asianews.network/five-measures-proposed-to-rescue-thailands-oil-fuel-fund/",
-      "domain": "asianews.network",
-      "country": "China",
-      "published": "2026-10-23T04:00:00+00:00"
-     },
-     {
-      "title": "Farming by data : how smart agriculture is reshaping China fields -- China Economic Net",
-      "url": "http://en.ce.cn/main/latest/202610/t20261023_3268975.shtml",
-      "domain": "en.ce.cn",
-      "country": "China",
-      "published": "2026-10-23T03:30:00+00:00"
-     },
-     {
-      "title": "Boo Baskets : 9 things to get someone who loves Halloween",
-      "url": "https://fox4beaumont.com/shopping/boo-basket-halloween-gift-candy-treats-snacks-self-care-clothes-fashion-accessories-movies-books-goodies-girlfriend-boyfriend-kid-spooky-season",
-      "domain": "fox4beaumont.com",
-      "country": "United States",
-      "published": "2026-10-23T03:30:00+00:00"
-     },
-     {
-      "title": "Boo Baskets : 9 things to get someone who loves Halloween",
-      "url": "https://krcgtv.com/shopping/boo-basket-halloween-gift-candy-treats-snacks-self-care-clothes-fashion-accessories-movies-books-goodies-girlfriend-boyfriend-kid-spooky-season",
-      "domain": "krcgtv.com",
-      "country": "United States",
-      "published": "2026-10-23T03:30:00+00:00"
-     },
-     {
-      "title": "TRHL set to open season on Saturday with new member",
-      "url": "https://panow.com/2026/10/22/trhl-set-to-open-season-on-saturday-with-new-member/",
-      "domain": "panow.com",
-      "country": "Canada",
-      "published": "2026-10-23T03:30:00+00:00"
-     },
-     {
-      "title": "Boo Baskets : 9 things to get someone who loves Halloween",
-      "url": "https://fox23maine.com/shopping/boo-basket-halloween-gift-candy-treats-snacks-self-care-clothes-fashion-accessories-movies-books-goodies-girlfriend-boyfriend-kid-spooky-season",
-      "domain": "fox23maine.com",
-      "country": "United States",
-      "published": "2026-10-23T03:15:00+00:00"
-     },
-     {
-      "title": "Boo Baskets : 9 things to get someone who loves Halloween",
-      "url": "https://news4sanantonio.com/shopping/boo-basket-halloween-gift-candy-treats-snacks-self-care-clothes-fashion-accessories-movies-books-goodies-girlfriend-boyfriend-kid-spooky-season",
-      "domain": "news4sanantonio.com",
-      "country": "United States",
-      "published": "2026-10-23T03:15:00+00:00"
-     },
-     {
-      "title": "Boo Baskets : 9 things to get someone who loves Halloween",
-      "url": "https://wset.com/shopping/boo-basket-halloween-gift-candy-treats-snacks-self-care-clothes-fashion-accessories-movies-books-goodies-girlfriend-boyfriend-kid-spooky-season",
-      "domain": "wset.com",
-      "country": "United States",
-      "published": "2026-10-23T03:15:00+00:00"
-     },
-     {
-      "title": "Boo Baskets : 9 things to get someone who loves Halloween",
-      "url": "https://local21news.com/shopping/boo-basket-halloween-gift-candy-treats-snacks-self-care-clothes-fashion-accessories-movies-books-goodies-girlfriend-boyfriend-kid-spooky-season",
-      "domain": "local21news.com",
-      "country": "United States",
-      "published": "2026-10-23T03:15:00+00:00"
-     },
-     {
-      "title": "Boo Baskets : 9 things to get someone who loves Halloween",
-      "url": "https://kval.com/shopping/boo-basket-halloween-gift-candy-treats-snacks-self-care-clothes-fashion-accessories-movies-books-goodies-girlfriend-boyfriend-kid-spooky-season",
-      "domain": "kval.com",
-      "country": "United States",
-      "published": "2026-10-23T03:15:00+00:00"
-     },
-     {
-      "title": "Boo Baskets : 9 things to get someone who loves Halloween",
-      "url": "https://cbs4local.com/shopping/boo-basket-halloween-gift-candy-treats-snacks-self-care-clothes-fashion-accessories-movies-books-goodies-girlfriend-boyfriend-kid-spooky-season",
-      "domain": "cbs4local.com",
-      "country": "United States",
-      "published": "2026-10-23T02:30:00+00:00"
-     }
-    ],
     "energia": [
      {
       "title": "US designates helium as a critical material , citing its importance for semiconductors",
@@ -690,308 +408,12 @@
       "published": "2026-10-23T13:30:00+00:00"
      }
     ],
-    "comercio_internacional": [
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.lancashiretelegraph.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "lancashiretelegraph.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.peeblesshirenews.com/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "peeblesshirenews.com",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
-      "url": "https://www.ksut.org/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
-      "domain": "ksut.org",
-      "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "U . S . Diesel at $6 . 30 a Gallon as First Russian Cargo Sets Sail for New York",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Diesel-at-630-a-Gallon-as-First-Russian-Cargo-Sets-Sail-for-New-York.html",
-      "domain": "oilprice.com",
-      "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.keighleynews.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "keighleynews.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.heraldseries.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "heraldseries.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.salisburyjournal.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "salisburyjournal.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.midweekherald.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "midweekherald.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
-      "url": "https://www.wdiy.org/npr-news/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
-      "domain": "wdiy.org",
-      "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.somersetcountygazette.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "somersetcountygazette.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.gazette-news.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "gazette-news.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.worcesternews.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "worcesternews.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
-      "url": "https://www.wshu.org/npr-news/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
-      "domain": "wshu.org",
-      "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Could the president rallies impact the outcome of the midterms ?",
-      "url": "https://www.ketv.com/article/busy-weekend-president-trump-could-rallies-impact-midterms/74226112",
-      "domain": "ketv.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine protests",
-      "url": "https://www.stcatharinesstandard.ca/business/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraine-s-protests/article_f48ecb13-a889-5b4b-a801-d1f42b1d9cc6.html",
-      "domain": "stcatharinesstandard.ca",
-      "country": "Canada",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.thetelegraphandargus.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "thetelegraphandargus.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Analysis - Trump diesel price relief efforts grow costlier as election nears | WSAU News / Talk 550 AM · 99 . 9 FM",
-      "url": "https://wsau.com/2026/10/23/analysis-trumps-diesel-price-relief-efforts-grow-costlier-as-election-nears/",
-      "domain": "wsau.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Kazakhstan Cuts Base Rate to 15 . 75 % as Annual Inflation Falls to 9 . 3 %",
-      "url": "https://astanatimes.com/2026/10/kazakhstan-cuts-base-rate-to-15-75-as-annual-inflation-falls-to-9-3/",
-      "domain": "astanatimes.com",
-      "country": "Kazakhstan",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Opinion : Protecting the American harvest starts with ending tariffs on off - road working vehicles",
-      "url": "https://www.agri-pulse.com/articles/25415-opinion-protecting-the-american-harvest-starts-with-ending-tariffs-on-off-road-working-vehicles",
-      "domain": "agri-pulse.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.wiltsglosstandard.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "wiltsglosstandard.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.barryanddistrictnews.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "barryanddistrictnews.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Lula has defined Brazil left for decades . Can his movement survive another Bolsonaro ?",
-      "url": "https://kvia.com/news/us-world/cnn-world/2026/10/23/lula-has-defined-brazils-left-for-decades-can-his-movement-survive-another-bolsonaro/",
-      "domain": "kvia.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Crude benchmarks firmer amidst ongoing tensions in the Middle East ; EUR digests poor PMI metrics - Newsquawk US Market Open",
-      "url": "http://www.zerohedge.com/markets/crude-benchmarks-firmer-amidst-ongoing-tensions-middle-east-eur-digests-poor-pmi-metrics",
-      "domain": "zerohedge.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine protests",
-      "url": "https://www.clickondetroit.com/business/2026/10/23/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraines-protests/",
-      "domain": "clickondetroit.com",
-      "country": "United States",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
-      "title": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine protests",
-      "url": "http://www.cecildaily.com/ap/nation/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite/article_8267070d-bba3-5aaf-a9de-90081ad9c100.html",
-      "domain": "cecildaily.com",
-      "country": "United States",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
-      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
-      "url": "https://www.wsiu.org/politics-elections/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
-      "domain": "wsiu.org",
-      "country": "United States",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
-      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
-      "url": "https://www.wmra.org/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
-      "domain": "wmra.org",
-      "country": "United States",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
-      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
-      "url": "https://www.tspr.org/npr-news/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
-      "domain": "tspr.org",
-      "country": "United States",
-      "published": "2026-10-23T13:00:00+00:00"
-     },
-     {
-      "title": "Ukraine news : Russian diesel headed for U . S ., Kremlin says",
-      "url": "https://www.bnnbloomberg.ca/markets/oil/2026/10/23/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraines-protests/",
-      "domain": "bnnbloomberg.ca",
-      "country": "Canada",
-      "published": "2026-10-23T13:00:00+00:00"
-     },
-     {
-      "title": "Infosys : Differentiated AI strategy and a sharp focus on value unlock propels 29 % sequential growth in AI revenues",
-      "url": "https://www.prnewswire.com/news-releases/infosys-differentiated-ai-strategy-and-a-sharp-focus-on-value-unlock-propels-29-sequential-growth-in-ai-revenues-302918081.html",
-      "domain": "prnewswire.com",
-      "country": "United States",
-      "published": "2026-10-23T13:00:00+00:00"
-     },
-     {
-      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
-      "url": "https://www.kvnf.org/npr-news/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
-      "domain": "kvnf.org",
-      "country": "United States",
-      "published": "2026-10-23T13:00:00+00:00"
-     },
-     {
-      "title": "Trump willingness to sacrifice LA is familiar to Native Californians",
-      "url": "https://www.salon.com/2026/10/23/trumps-willingness-to-sacrifice-la-is-familiar-to-native-californians/",
-      "domain": "salon.com",
-      "country": "United States",
-      "published": "2026-10-23T13:00:00+00:00"
-     },
-     {
-      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
-      "url": "https://www.kwbu.org/latest-from-npr/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
-      "domain": "kwbu.org",
-      "country": "United States",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine protests",
-      "url": "https://www.wboc.com/news/international/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite/article_31e66dc7-4f3e-5d19-b234-b951a7d82e20.html",
-      "domain": "wboc.com",
-      "country": "United States",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
-      "url": "https://www.wutc.org/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
-      "domain": "wutc.org",
-      "country": "United States",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "Tag : bbc newsroomamerica . com",
-      "url": "https://newsroomamerica.com/tag/bbc",
-      "domain": "newsroomamerica.com",
-      "country": "United States",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "Chancellor pledges to save united kingdom SMEs £800m a year in admin costs",
-      "url": "https://www.icaew.com/insights/viewpoints-on-the-news/2026/oct-2026/chancellor-pledges-to-save-uk-smes-800m-a-year-in-admin-costs",
-      "domain": "icaew.com",
-      "country": "United Kingdom",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine protests",
-      "url": "https://www.clickorlando.com/business/2026/10/23/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraines-protests/",
-      "domain": "clickorlando.com",
-      "country": "United States",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "Could the president rallies impact the outcome of the midterms ?",
-      "url": "https://www.wvtm13.com/article/busy-weekend-president-trump-could-rallies-impact-midterms/74226112",
-      "domain": "wvtm13.com",
-      "country": "United States",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "The Eradication of Extreme Poverty by 2030 : a Key UN goal will be a Missed Target",
-      "url": "https://www.globalissues.org/news/2026/10/23/44411",
-      "domain": "globalissues.org",
-      "country": "United States",
-      "published": "2026-10-23T12:30:00+00:00"
-     }
-    ],
-    "geopolitica": [
+    "transporte_maritimo": [
      {
       "title": "US designates helium as a critical material , citing its importance for semiconductors",
       "url": "https://www.dailygazette.com/ade/ap/business/us-designates-helium-as-a-critical-material-citing-its-importance-for-semiconductors/article_cedc5e66-1a9b-5f8b-b19f-061ba794e374.html",
       "domain": "dailygazette.com",
       "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.lancashiretelegraph.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "lancashiretelegraph.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.peeblesshirenews.com/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "peeblesshirenews.com",
-      "country": "United Kingdom",
       "published": "2026-10-23T15:00:00+00:00"
      },
      {
@@ -1009,62 +431,6 @@
       "published": "2026-10-23T15:00:00+00:00"
      },
      {
-      "title": "Wall Street loses ground under pressure from rising oil prices , more swings for Big Tech stocks",
-      "url": "https://www.courant.com/2026/10/23/us-financial-markets-crude-prices/",
-      "domain": "courant.com",
-      "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "New Zealand potato shipment to Taiwan marks fresh export opportunity after years of market - access work",
-      "url": "https://www.potatonewstoday.com/2026/10/23/new-zealand-potato-shipment-to-taiwan-marks-fresh-export-opportunity-after-years-of-market-access-work/",
-      "domain": "potatonewstoday.com",
-      "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "20 states have seen gas prices increase more than 50 % in 2026",
-      "url": "https://www.wyff4.com/article/gas-price-calculator-since-iran-war/74220943",
-      "domain": "wyff4.com",
-      "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "I helped create Occupy Wall Street . Here what Ive learned about why protests fail",
-      "url": "https://www.theglobeandmail.com/opinion/article-occupy-wall-street-france-why-protests-fail/",
-      "domain": "theglobeandmail.com",
-      "country": "Canada",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.keighleynews.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "keighleynews.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.heraldseries.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "heraldseries.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.salisburyjournal.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "salisburyjournal.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.midweekherald.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "midweekherald.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
       "title": "The Hidden $40 - Per - Barrel Cost Driving Oil Prices Higher",
       "url": "https://oilprice.com/Energy/Energy-General/The-Hidden-40-Per-Barrel-Cost-Driving-Oil-Prices-Higher.html",
       "domain": "oilprice.com",
@@ -1079,31 +445,10 @@
       "published": "2026-10-23T15:00:00+00:00"
      },
      {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.somersetcountygazette.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "somersetcountygazette.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
       "title": "Arab News | Oil spill off UAE coast prompts beach closures , cleanup effort",
       "url": "https://www.arabnews.com/middle-east/oil-spill-off-uae-coast-prompts-beach-closures-cleanup-effort-3007833",
       "domain": "arabnews.com",
       "country": "Saudi Arabia",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.gazette-news.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "gazette-news.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.worcesternews.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "worcesternews.co.uk",
-      "country": "United Kingdom",
       "published": "2026-10-23T15:00:00+00:00"
      },
      {
@@ -1114,59 +459,10 @@
       "published": "2026-10-23T15:00:00+00:00"
      },
      {
-      "title": "Could the president rallies impact the outcome of the midterms ?",
-      "url": "https://www.ketv.com/article/busy-weekend-president-trump-could-rallies-impact-midterms/74226112",
-      "domain": "ketv.com",
+      "title": "Newly listed homes for sale in La Crosse area Updated Oct . 23 , 2026",
+      "url": "https://lacrossetribune.com/life-entertainment/local/home-gardening/collection_37bdd124-f546-5bcb-9f12-e47890b50a12.html",
+      "domain": "lacrossetribune.com",
       "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine protests",
-      "url": "https://www.stcatharinesstandard.ca/business/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraine-s-protests/article_f48ecb13-a889-5b4b-a801-d1f42b1d9cc6.html",
-      "domain": "stcatharinesstandard.ca",
-      "country": "Canada",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.thetelegraphandargus.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "thetelegraphandargus.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Analysis - Trump diesel price relief efforts grow costlier as election nears | WSAU News / Talk 550 AM · 99 . 9 FM",
-      "url": "https://wsau.com/2026/10/23/analysis-trumps-diesel-price-relief-efforts-grow-costlier-as-election-nears/",
-      "domain": "wsau.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.wiltsglosstandard.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "wiltsglosstandard.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Tanker with Russian diesel sets sail for US following Trump deal",
-      "url": "https://www.barryanddistrictnews.co.uk/news/national/26665346.tanker-russian-diesel-sets-sail-us-following-trump-deal/",
-      "domain": "barryanddistrictnews.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "20 states have seen gas prices increase more than 50 % in 2026",
-      "url": "https://www.ketv.com/article/gas-price-calculator-since-iran-war/74220943",
-      "domain": "ketv.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "More swings for Big Tech pull Wall Street lower in early trading",
-      "url": "https://www.2news.com/news/national/more-swings-for-big-tech-pull-wall-street-lower-in-early-trading/article_988f2ae8-5099-5ef8-a4ca-3f259ee60dbb.html",
-      "domain": "2news.com",
-      "country": "",
       "published": "2026-10-23T14:30:00+00:00"
      },
      {
@@ -1177,30 +473,9 @@
       "published": "2026-10-23T14:30:00+00:00"
      },
      {
-      "title": "Russian diesel tanker heads to the U . S ., the first since Trump deal with Putin",
-      "url": "https://www.nbcnews.com/business/energy/russian-diesel-tanker-heads-us-trump-deal-putin-ukraine-war-rcna605187",
-      "domain": "nbcnews.com",
-      "country": "United States",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
-      "title": "Why Meta is charging to post more hyperlinks",
-      "url": "https://www.wmra.org/2026-10-23/why-meta-is-charging-to-post-more-hyperlinks",
-      "domain": "wmra.org",
-      "country": "United States",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
-      "title": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine protests",
-      "url": "https://www.clickondetroit.com/business/2026/10/23/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite-ukraines-protests/",
-      "domain": "clickondetroit.com",
-      "country": "United States",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
-      "title": "The Kremlin says a first tanker of Russian diesel sets sail for the US despite Ukraine protests",
-      "url": "http://www.cecildaily.com/ap/nation/the-kremlin-says-a-first-tanker-of-russian-diesel-sets-sail-for-the-us-despite/article_8267070d-bba3-5aaf-a9de-90081ad9c100.html",
-      "domain": "cecildaily.com",
+      "title": "Despite falling prices , it will be most expensive October ever in state",
+      "url": "https://www.dailyrepublic.com/news/despite-falling-prices-it-will-be-most-expensive-october-ever-in-state/article_f706e442-7467-4a41-9138-d5ac4d8352a7.html",
+      "domain": "dailyrepublic.com",
       "country": "United States",
       "published": "2026-10-23T13:30:00+00:00"
      },
@@ -1212,24 +487,10 @@
       "published": "2026-10-23T13:30:00+00:00"
      },
      {
-      "title": "20 states have seen gas prices increase more than 50 % in 2026",
-      "url": "https://www.wmtw.com/article/gas-price-calculator-since-iran-war/74220943",
-      "domain": "wmtw.com",
-      "country": "United States",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
       "title": "India can emerge as",
       "url": "http://www.sierraleonetimes.com/news/279394204/india-can-emerge-as-strong-and-reliable-global-rice-trade-hub-amid-geopolitical-tensions-iref-president-prem-garg",
       "domain": "sierraleonetimes.com",
       "country": "Sierra Leone",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
-      "title": "Drone hits another ship in Black Sea near Romania , killing at least 1 sailor",
-      "url": "https://www.politico.eu/article/drone-hits-another-ship-in-black-sea-near-romania-killing-at-least-one-sailor/",
-      "domain": "politico.eu",
-      "country": "United States",
       "published": "2026-10-23T13:30:00+00:00"
      },
      {
@@ -1252,6 +513,181 @@
       "domain": "wmra.org",
       "country": "United States",
       "published": "2026-10-23T13:30:00+00:00"
+     },
+     {
+      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
+      "url": "https://www.tspr.org/npr-news/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
+      "domain": "tspr.org",
+      "country": "United States",
+      "published": "2026-10-23T13:00:00+00:00"
+     },
+     {
+      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
+      "url": "https://www.kvnf.org/npr-news/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
+      "domain": "kvnf.org",
+      "country": "United States",
+      "published": "2026-10-23T13:00:00+00:00"
+     },
+     {
+      "title": "Tigray rebel leader vows to continue war against Ethiopian forces despite territorial losses",
+      "url": "https://aa.com.tr/en/africa/tigray-rebel-leader-vows-to-continue-war-against-ethiopian-forces-despite-territorial-losses/4098511",
+      "domain": "aa.com.tr",
+      "country": "Turkey",
+      "published": "2026-10-23T13:00:00+00:00"
+     },
+     {
+      "title": "Saudi Arabia Postpones UN Forum Until 2027 Amid Regional Tensions",
+      "url": "http://www.pakistantelegraph.com/news/279394261/saudi-arabia-postpones-un-forum-until-2027-amid-regional-tensions",
+      "domain": "pakistantelegraph.com",
+      "country": "Pakistan",
+      "published": "2026-10-23T13:00:00+00:00"
+     },
+     {
+      "title": "Oil races higher amid high tensions as retail sales stumble",
+      "url": "https://www.actuarialpost.co.uk/article/oil-races-higher-amid-high-tensions-as-retail-sales-stumble-27336.htm",
+      "domain": "actuarialpost.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-23T12:30:00+00:00"
+     },
+     {
+      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
+      "url": "https://www.kwbu.org/latest-from-npr/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
+      "domain": "kwbu.org",
+      "country": "United States",
+      "published": "2026-10-23T12:30:00+00:00"
+     },
+     {
+      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
+      "url": "https://www.wutc.org/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
+      "domain": "wutc.org",
+      "country": "United States",
+      "published": "2026-10-23T12:30:00+00:00"
+     },
+     {
+      "title": "Oil hits five - month high amid fears US will renew strikes on Iran",
+      "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-10-23T12:30:00+00:00"
+     },
+     {
+      "title": "The stock market is splitting in two . Is that signaling trouble ahead , or just a new set of winners ?",
+      "url": "https://www.morningstar.com/news/marketwatch/20261023111/the-stock-market-is-splitting-in-two-is-that-signaling-trouble-ahead-or-just-a-new-set-of-winners",
+      "domain": "morningstar.com",
+      "country": "China",
+      "published": "2026-10-23T12:30:00+00:00"
+     },
+     {
+      "title": "Oil Headed For Third Weekly Gain",
+      "url": "https://www.rttnews.com/3702339/oil-headed-for-third-weekly-gain.aspx",
+      "domain": "rttnews.com",
+      "country": "United States",
+      "published": "2026-10-23T12:00:00+00:00"
+     },
+     {
+      "title": "China and Djibouti stress need to protect Red Sea shipping lanes | Hellenic Shipping News Worldwide",
+      "url": "https://www.hellenicshippingnews.com/china-and-djibouti-stress-need-to-protect-red-sea-shipping-lanes/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-10-23T12:00:00+00:00"
+     },
+     {
+      "title": "Diesel arbitrage : why freight has shut the Europe import window | Hellenic Shipping News Worldwide",
+      "url": "https://www.hellenicshippingnews.com/diesel-arbitrage-why-freight-has-shut-the-europe-import-window/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-10-23T12:00:00+00:00"
+     },
+     {
+      "title": "Saudi Arabia crude exports rise 7 . 9 % in August to 4 - month high | Hellenic Shipping News Worldwide",
+      "url": "https://www.hellenicshippingnews.com/saudi-arabia-crude-exports-rise-7-9-in-august-to-4-month-high/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-10-23T12:00:00+00:00"
+     },
+     {
+      "title": "Military reinforcements move to Mideast . And , millions of Americans vote early",
+      "url": "https://www.wbaa.org/npr-news/2026-10-23/military-reinforcements-move-to-mideast-and-millions-of-americans-vote-early",
+      "domain": "wbaa.org",
+      "country": "United States",
+      "published": "2026-10-23T12:00:00+00:00"
+     },
+     {
+      "title": "الخارجية الباكستانية : استكملنا التصديق على اتفاقية مكة للدفاع المشترك",
+      "url": "https://www.okaz.com.sa/politics/na/2272099",
+      "domain": "okaz.com.sa",
+      "country": "Saudi Arabia",
+      "published": "2026-10-23T12:00:00+00:00"
+     },
+     {
+      "title": "Yemen , Bab al - Mandab and Saudi Arabia : Tehran strategic calculus in the balance",
+      "url": "https://www.middleeasteye.net/news/yemen-bab-al-mandab-and-saudi-arabia-tehrans-strategic-calculus",
+      "domain": "middleeasteye.net",
+      "country": "Israel",
+      "published": "2026-10-23T12:00:00+00:00"
+     },
+     {
+      "title": "Today in History : October 23 , thousands march in New York City for women suffrage",
+      "url": "https://www.denverpost.com/2026/10/23/today-in-history-october-23-thousands-march-in-new-york-city-for-womens-suffrage/",
+      "domain": "denverpost.com",
+      "country": "United States",
+      "published": "2026-10-23T12:00:00+00:00"
+     },
+     {
+      "title": "Arab News | Meeting of foreign ministers of Turkiye , Pakistan , Saudi Arabia , and Egypt begins in Istanbul",
+      "url": "https://www.arabnews.com/middle-east/meeting-of-foreign-ministers-of-turkiye-pakistan-saudi-arabia-and-egypt-begins-in-istanbul-3007885",
+      "domain": "arabnews.com",
+      "country": "Saudi Arabia",
+      "published": "2026-10-23T11:30:00+00:00"
+     },
+     {
+      "title": "India can emerge as",
+      "url": "http://www.taiwansun.com/news/279394204/india-can-emerge-as-strong-and-reliable-global-rice-trade-hub-amid-geopolitical-tensions-iref-president-prem-garg",
+      "domain": "taiwansun.com",
+      "country": "China",
+      "published": "2026-10-23T11:30:00+00:00"
+     },
+     {
+      "title": "Today in History : October 23 , thousands march in New York City for women suffrage",
+      "url": "https://www.greeleytribune.com/2026/10/23/today-in-history-october-23-thousands-march-in-new-york-city-for-womens-suffrage/",
+      "domain": "greeleytribune.com",
+      "country": "United States",
+      "published": "2026-10-23T11:30:00+00:00"
+     },
+     {
+      "title": "14 Indian nationals on board yacht that was attacked in Yemen waters reported safe",
+      "url": "http://www.heraldglobe.com/news/279394080/14-indian-nationals-on-board-yacht-that-was-attacked-in-yemen-waters-reported-safe",
+      "domain": "heraldglobe.com",
+      "country": "United States",
+      "published": "2026-10-23T11:00:00+00:00"
+     },
+     {
+      "title": "Sri Lanka Hambantota port eyes new opportunities from return of Suez container traffic",
+      "url": "http://www.srilankasource.com/news/279393825/sri-lanka-hambantota-port-eyes-new-opportunities-from-return-of-suez-container-traffic",
+      "domain": "srilankasource.com",
+      "country": "Sri Lanka",
+      "published": "2026-10-23T11:00:00+00:00"
+     },
+     {
+      "title": "Deadline",
+      "url": "https://deadline.com/print-article/1237171551/",
+      "domain": "deadline.com",
+      "country": "United States",
+      "published": "2026-10-23T11:00:00+00:00"
+     },
+     {
+      "title": "Oil spill hits UAE beaches as tanker attacks multiply near Hormuz",
+      "url": "https://www.euronews.com/2026/10/23/oil-spill-hits-uae-beaches-as-tanker-attacks-multiply-near-hormuz",
+      "domain": "euronews.com",
+      "country": "United States",
+      "published": "2026-10-23T11:00:00+00:00"
+     },
+     {
+      "title": "Today in History : October 23 , thousands march in New York City for women suffrage",
+      "url": "https://www.sun-sentinel.com/2026/10/23/today-in-history-october-23-thousands-march-in-new-york-city-for-womens-suffrage/",
+      "domain": "sun-sentinel.com",
+      "country": "United States",
+      "published": "2026-10-23T11:00:00+00:00"
      }
     ],
     "riesgos_climaticos": [
@@ -1535,574 +971,14 @@
       "country": "United States",
       "published": "2026-10-22T19:30:00+00:00"
      }
-    ],
-    "produccion_agroindustrial": [
-     {
-      "title": "Entitled Mom Asks Widow To Help Pay For Groceries After Seeing Her Full Cart",
-      "url": "https://www.boredpanda.com/entitled-mom-demands-shoppers-money/?cexp_id=163549&_f=homepage_featured&cexp_var=4",
-      "domain": "boredpanda.com",
-      "country": "United States",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
-      "title": "Blockchain in supply chains : Building trust , traceability , trade in SA",
-      "url": "https://www.itweb.co.za/article/blockchain-in-supply-chains-building-trust-traceability-trade-in-sa/Gb3BwMWa9Bnv2k6V",
-      "domain": "itweb.co.za",
-      "country": "South Africa",
-      "published": "2026-10-23T13:00:00+00:00"
-     },
-     {
-      "title": "Millions in cheese revenue lost as protest torpedoes Italy buffalo mozzarella output",
-      "url": "https://abc7.com/story/millions-cheese-revenue-lost-protest-torpedoes-italys-buffalo-mozzarella-output/19972078/",
-      "domain": "abc7.com",
-      "country": "United States",
-      "published": "2026-10-23T13:00:00+00:00"
-     },
-     {
-      "title": "Millions in cheese revenue lost as protest torpedoes Italy buffalo mozzarella output",
-      "url": "https://abc30.com/story/millions-cheese-revenue-lost-protest-torpedoes-italys-buffalo-mozzarella-output/19972078/",
-      "domain": "abc30.com",
-      "country": "United States",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "Entitled Mom Asks Widow To Help Pay For Groceries After Seeing Her Full Cart",
-      "url": "https://www.boredpanda.com/entitled-mom-demands-shoppers-money/?cexp_id=163554&_f=homepage_featured&cexp_var=3",
-      "domain": "boredpanda.com",
-      "country": "United States",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "Youth - led agribusiness venture rewrites Kenya farming narrative",
-      "url": "https://www.standardmedia.co.ke/smart-harvest/article/2001560716/youth-led-agribusiness-venture-rewrites-kenyas-farming-narrative",
-      "domain": "standardmedia.co.ke",
-      "country": "Kenya",
-      "published": "2026-10-23T12:00:00+00:00"
-     },
-     {
-      "title": "Something to cluck about",
-      "url": "https://www.theunion.com/news/something-to-cluck-about/article_a0c627d7-c6eb-428d-9ce1-212e60712bc7.html",
-      "domain": "theunion.com",
-      "country": "United States",
-      "published": "2026-10-23T11:30:00+00:00"
-     },
-     {
-      "title": "Edo woos Saudi investors for 2027 agric , livestock summit",
-      "url": "https://punchng.com/edo-woos-saudi-investors-for-2027-agric-livestock-summit/",
-      "domain": "punchng.com",
-      "country": "Nigeria",
-      "published": "2026-10-23T10:00:00+00:00"
-     },
-     {
-      "title": "Britain barley harvest slumps to lowest level in 15 years",
-      "url": "https://www.farminguk.com/news/britain-s-barley-harvest-slumps-to-lowest-level-in-15-years_69353.html",
-      "domain": "farminguk.com",
-      "country": "United Kingdom",
-      "published": "2026-10-23T09:30:00+00:00"
-     },
-     {
-      "title": "Publisher Platform : Fifty people sick , a known supplier , and FDA still wont say its name . That is wrong , and here is how we fix it .",
-      "url": "https://www.foodsafetynews.com/2026/10/fifty-people-sick-a-known-supplier-and-fda-still-wont-say-its-name-that-is-wrong-and-here-is-how-we-fix-it/",
-      "domain": "foodsafetynews.com",
-      "country": "United States",
-      "published": "2026-10-23T08:30:00+00:00"
-     },
-     {
-      "title": "An Australian chicken farmer found a way to turn 35 , 000 tonnes of poultry waste into electricity , fertiliser and natural food dye ; a larger plant could power 1 , 200 homes",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/an-australian-chicken-farmer-found-a-way-to-turn-35000-tonnes-of-poultry-waste-into-electricity-fertiliser-and-natural-food-dye-a-larger-plant-could-power-1200-homes/articleshow/135137336.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-23T07:15:00+00:00"
-     },
-     {
-      "title": "COMMUNITY NOTES",
-      "url": "https://www.suncommercial.com/gcdailyworld/gcdailyworld/article_d214671c-178c-57d0-810f-87c8cb5b2964.html",
-      "domain": "suncommercial.com",
-      "country": "United States",
-      "published": "2026-10-23T06:30:00+00:00"
-     },
-     {
-      "title": "Chicken meat price soars to Rs720 / kg in Hyderabad",
-      "url": "https://tribune.com.pk/story/2636450/chicken-meat-price-soars-to-rs720kg-in-hyderabad",
-      "domain": "tribune.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-23T06:00:00+00:00"
-     },
-     {
-      "title": "FG targets livestock emissions , warns climate change threatens",
-      "url": "https://thesun.ng/fg-targets-livestock-emissions-warns-climate-change-threatens-food-security/",
-      "domain": "thesun.ng",
-      "country": "",
-      "published": "2026-10-23T05:30:00+00:00"
-     },
-     {
-      "title": "Washington faces critical veterinarian shortage",
-      "url": "https://www.fox13seattle.com/news/renton-wa-alpaca-fighting-vet-shortages",
-      "domain": "fox13seattle.com",
-      "country": "",
-      "published": "2026-10-23T04:30:00+00:00"
-     },
-     {
-      "title": "Food Outbreaks Abound : Is Your Recall Plan Ready ?",
-      "url": "https://www.powderbulksolids.com/product-recalls/as-outbreaks-abound-are-you-prepared-5-tips-for-recall-readiness",
-      "domain": "powderbulksolids.com",
-      "country": "United States",
-      "published": "2026-10-23T03:15:00+00:00"
-     },
-     {
-      "title": "Turkmenistan Boosts Food Security with New 60 , 000 - Ton Vegetable Oil Facility in Dashoguz Region",
-      "url": "https://www.newscentralasia.net/2026/10/23/turkmenistan-boosts-food-security-with-new-60000-ton-vegetable-oil-facility-in-dashoguz-region/",
-      "domain": "newscentralasia.net",
-      "country": "Turkmenistan",
-      "published": "2026-10-23T02:30:00+00:00"
-     },
-     {
-      "title": "Cargill invests US$130m to expand poultry operations in Asia",
-      "url": "https://www.foodprocessing.com.au/content/processing/news/cargill-invests-us-130m-to-expand-poultry-operations-in-asia-52896162",
-      "domain": "foodprocessing.com.au",
-      "country": "Australia",
-      "published": "2026-10-23T02:30:00+00:00"
-     },
-     {
-      "title": "Barron County poultry flock quarantined after highly pathogenic bird flu confirmed",
-      "url": "https://www.wxow.com/news/wisconsin-news/barron-county-poultry-flock-quarantined-after-highly-pathogenic-bird-flu-confirmed/article_4804d843-d941-4cd6-b595-d46724b70a6a.html",
-      "domain": "wxow.com",
-      "country": "United States",
-      "published": "2026-10-22T23:45:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.wxii12.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "wxii12.com",
-      "country": "United States",
-      "published": "2026-10-22T23:15:00+00:00"
-     },
-     {
-      "title": "Critical Comparison : ONEOK ( NYSE : OKE ) vs . Hafnia ( NYSE : HAFN )",
-      "url": "https://www.dailypolitical.com/2026/10/22/critical-comparison-oneok-nyseoke-vs-hafnia-nysehafn.html",
-      "domain": "dailypolitical.com",
-      "country": "United States",
-      "published": "2026-10-22T22:45:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.kcci.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "kcci.com",
-      "country": "United States",
-      "published": "2026-10-22T22:30:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.wvtm13.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "wvtm13.com",
-      "country": "United States",
-      "published": "2026-10-22T22:15:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.wgal.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "wgal.com",
-      "country": "United States",
-      "published": "2026-10-22T22:00:00+00:00"
-     },
-     {
-      "title": "Millions in revenue lost as protest torpedoes Italy mozzarella output",
-      "url": "https://www.sandiegouniontribune.com/2026/10/22/italy-mozzarella-protest/",
-      "domain": "sandiegouniontribune.com",
-      "country": "United States",
-      "published": "2026-10-22T21:30:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.wmtw.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "wmtw.com",
-      "country": "United States",
-      "published": "2026-10-22T21:15:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.wapt.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "wapt.com",
-      "country": "United States",
-      "published": "2026-10-22T21:15:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.koat.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "koat.com",
-      "country": "United States",
-      "published": "2026-10-22T21:00:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.wcvb.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "wcvb.com",
-      "country": "United States",
-      "published": "2026-10-22T21:00:00+00:00"
-     },
-     {
-      "title": "Millions in cheese revenue lost as protest torpedoes Italy buffalo mozzarella output",
-      "url": "https://www.mykxlg.com/news/world/millions-in-cheese-revenue-lost-as-protest-torpedoes-italys-buffalo-mozzarella-output/article_57071878-3d49-5b2b-865f-a7c3091771d0.html",
-      "domain": "mykxlg.com",
-      "country": "United States",
-      "published": "2026-10-22T21:00:00+00:00"
-     },
-     {
-      "title": "FG pledges climate - smart livestock production as Nigeria launches NDC 3 . 0",
-      "url": "https://thesun.ng/fg-pledges-climate-smart-livestock-production-as-nigeria-launches-ndc-3-0/",
-      "domain": "thesun.ng",
-      "country": "",
-      "published": "2026-10-22T20:15:00+00:00"
-     },
-     {
-      "title": "Millions in revenue lost as protest torpedoes Italy mozzarella output",
-      "url": "https://www.journal-advocate.com/2026/10/22/italy-mozzarella-protest/",
-      "domain": "journal-advocate.com",
-      "country": "United States",
-      "published": "2026-10-22T20:00:00+00:00"
-     },
-     {
-      "title": "Tractor Supply ( TSCO ) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.aol.com/articles/tractor-supply-tsco-q3-2026-181525000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-22T19:15:00+00:00"
-     },
-     {
-      "title": "Agri damage , losses due to El Niño hit P8B | The Manila Times",
-      "url": "https://www.manilatimes.net/2026/10/23/business/top-business/agri-damage-losses-due-to-el-nio-hit-p8b/2452241",
-      "domain": "manilatimes.net",
-      "country": "Philippines",
-      "published": "2026-10-22T19:00:00+00:00"
-     },
-     {
-      "title": "Millions in cheese revenue lost as protest torpedoes Italy buffalo mozzarella output",
-      "url": "https://www.mankatofreepress.com/news/business/millions-in-cheese-revenue-lost-as-protest-torpedoes-italys-buffalo-mozzarella-output/article_4419e71f-1bf7-596d-84b1-39e2aceda652.html",
-      "domain": "mankatofreepress.com",
-      "country": "United States",
-      "published": "2026-10-22T17:30:00+00:00"
-     },
-     {
-      "title": "World Food Day - The Innovations Helping Africa Women Farmers Grow More Food",
-      "url": "https://allafrica.com/stories/202610220359.html",
-      "domain": "allafrica.com",
-      "country": "Nigeria",
-      "published": "2026-10-22T15:30:00+00:00"
-     },
-     {
-      "title": "Italy mozzarella production halted by trucker strike , costing $3 . 4 million",
-      "url": "https://fortune.com/2026/10/22/italy-mozzarella-production-truckers-strike-iran-war-diesel-prices/",
-      "domain": "fortune.com",
-      "country": "United States",
-      "published": "2026-10-22T14:45:00+00:00"
-     },
-     {
-      "title": "Journey | imagines Roman life for London Museum experience",
-      "url": "https://blooloop.com/news/journey-london-museum",
-      "domain": "blooloop.com",
-      "country": "United States",
-      "published": "2026-10-22T14:00:00+00:00"
-     },
-     {
-      "title": "Palm oil glut lures Indian buyers as price gap to rivals widens",
-      "url": "https://www.freemalaysiatoday.com/category/business/2026/10/22/palm-oil-glut-lures-indian-buyers-as-price-gap-to-rivals-widens",
-      "domain": "freemalaysiatoday.com",
-      "country": "Malaysia",
-      "published": "2026-10-22T12:15:00+00:00"
-     },
-     {
-      "title": "Renewable Fuel Standards 2026 : where US D4 supply stands against the biomass - based diesel requirement",
-      "url": "https://www.fastmarkets.com/insights/renewable-fuel-standards-2026-where-us-d4-supply-stands-against-the-biomass-based-diesel-requirement/",
-      "domain": "fastmarkets.com",
-      "country": "China",
-      "published": "2026-10-22T11:30:00+00:00"
-     }
-    ],
-    "economia_mundial": [
-     {
-      "title": "Today inflation is really an energy shock | Local News",
-      "url": "https://www.bedfordgazette.com/news/local/today-s-inflation-is-really-an-energy-shock/article_e52b8a09-e370-40a0-a468-44bce1cc60e2.html",
-      "domain": "bedfordgazette.com",
-      "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Wall Street loses ground under pressure from rising oil prices , more swings for Big Tech stocks",
-      "url": "https://www.courant.com/2026/10/23/us-financial-markets-crude-prices/",
-      "domain": "courant.com",
-      "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "The Live Nation empire that music fans hate is at risk of a breakup",
-      "url": "https://www.courant.com/2026/10/23/the-live-nation-empire-that-music-fans-hate-is-at-risk-of-a-breakup/",
-      "domain": "courant.com",
-      "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "FinancialContent - Why Bloom Energy ( BE ) shares are falling today",
-      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-23-why-bloom-energy-be-shares-are-falling-today",
-      "domain": "markets.financialcontent.com",
-      "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "SOC as a Service ( SOCaaS ) Market worth $16 . 68 billion by 2031 - Report by MarketsandMarkets™",
-      "url": "https://www.prnewswire.com/news-releases/soc-as-a-service-socaas-market-worth-16-68-billion-by-2031--report-by-marketsandmarkets-302917993.html",
-      "domain": "prnewswire.com",
-      "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "SOC as a Service ( SOCaaS ) Market worth $16 . 68 billion by 2031 - Report by MarketsandMarkets",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69922332-soc-as-a-service-socaas-market-worth-dollar-16-68-billion-by-2031-report-by-marketsandmarkets-008.htm",
-      "domain": "finanznachrichten.de",
-      "country": "Germany",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "U . S . Crude Benchmark Advances 5 . 02 % to Reach $102 Per Barrel",
-      "url": "https://econotimes.com/U-S-Crude-Benchmark-Advances-5-02-to-Reach-102-Per-Barrel-1761318",
-      "domain": "econotimes.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "U . S . Stocks May See Further Downside Following Yesterday Sell - Off",
-      "url": "https://www.rttnews.com/3702448/u-s-stocks-may-see-further-downside-following-yesterday-s-sell-off.aspx",
-      "domain": "rttnews.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Sensex , Nifty extend losses as crude surges to USD 114 , all sectors close in red",
-      "url": "http://www.sanantoniopost.com/news/279394370/sensex-nifty-extend-losses-as-crude-surges-to-usd-114-all-sectors-close-in-red",
-      "domain": "sanantoniopost.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "First Canadian Graphite Inc . Announces Flow - Through Financing",
-      "url": "http://www.tennesseedaily.com/news/279394333/first-canadian-graphite-inc-announces-flow-through-financing",
-      "domain": "tennesseedaily.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Lula has defined Brazil left for decades . Can his movement survive another Bolsonaro ?",
-      "url": "https://kvia.com/news/us-world/cnn-world/2026/10/23/lula-has-defined-brazils-left-for-decades-can-his-movement-survive-another-bolsonaro/",
-      "domain": "kvia.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "RBI does not target any specific Rupee level , focuses on curbing volatility : Governor Malhotra",
-      "url": "https://www.prokerala.com/news/articles/a1828003.html",
-      "domain": "prokerala.com",
-      "country": "India",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "More swings for Big Tech pull Wall Street lower in early trading",
-      "url": "https://www.2news.com/news/national/more-swings-for-big-tech-pull-wall-street-lower-in-early-trading/article_988f2ae8-5099-5ef8-a4ca-3f259ee60dbb.html",
-      "domain": "2news.com",
-      "country": "",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Crude benchmarks firmer amidst ongoing tensions in the Middle East ; EUR digests poor PMI metrics - Newsquawk US Market Open",
-      "url": "http://www.zerohedge.com/markets/crude-benchmarks-firmer-amidst-ongoing-tensions-middle-east-eur-digests-poor-pmi-metrics",
-      "domain": "zerohedge.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "A scientist was pushed out for studying Iowa water . Now he running to regulate it .",
-      "url": "https://cedarrepublican.com/syndicated/a-scientist-was-pushed-out-for-studying-iowas-water-now-hes-running-to-regulate-it",
-      "domain": "cedarrepublican.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "How scrutiny of private - credit valuations will impact banks",
-      "url": "https://www.americanbanker.com/news/how-scrutiny-of-private-credit-valuations-will-impact-banks",
-      "domain": "americanbanker.com",
-      "country": "United States",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
-      "title": "XCF Global ( NASDAQ : SAFX ) Outlines Strategy to Scale , Integrate and Deliver Following Completion of Business Combination",
-      "url": "http://www.newjerseytelegraph.com/news/279394386/xcf-global-nasdaqsafx-outlines-strategy-to-scale-integrate-and-deliver-following-completion-of-business-combination",
-      "domain": "newjerseytelegraph.com",
-      "country": "United States",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
-      "title": "Buffalo Bills series shares glimpse into psyche of Bills Mafia",
-      "url": "https://dailycampus.com/2026/10/23/buffalo-bills-series-shares-glimpse-into-psyche-of-bills-mafia/",
-      "domain": "dailycampus.com",
-      "country": "United States",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
-      "title": "Barry Smith to receive Lifetime Achievement Award",
-      "url": "https://www.anglocelt.ie/2026/10/23/barry-smith-to-receive-lifetime-achievement-award/",
-      "domain": "anglocelt.ie",
-      "country": "Ireland",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
-      "title": "Sensex , Nifty extend losses as crude surges to USD 114 , all sectors close in red",
-      "url": "http://www.hongkongherald.com/news/279394370/sensex-nifty-extend-losses-as-crude-surges-to-usd-114-all-sectors-close-in-red",
-      "domain": "hongkongherald.com",
-      "country": "China",
-      "published": "2026-10-23T13:00:00+00:00"
-     },
-     {
-      "title": "Bank Indonesia says rupiah remains manageable after MSCI market shock",
-      "url": "https://en.antaranews.com/news/437531/bank-indonesia-says-rupiah-remains-manageable-after-msci-market-shock",
-      "domain": "en.antaranews.com",
-      "country": "Indonesia",
-      "published": "2026-10-23T13:00:00+00:00"
-     },
-     {
-      "title": "Saudi Arabia Postpones UN Forum Until 2027 Amid Regional Tensions",
-      "url": "http://www.pakistantelegraph.com/news/279394261/saudi-arabia-postpones-un-forum-until-2027-amid-regional-tensions",
-      "domain": "pakistantelegraph.com",
-      "country": "Pakistan",
-      "published": "2026-10-23T13:00:00+00:00"
-     },
-     {
-      "title": "Oil races higher amid high tensions as retail sales stumble",
-      "url": "https://www.actuarialpost.co.uk/article/oil-races-higher-amid-high-tensions-as-retail-sales-stumble-27336.htm",
-      "domain": "actuarialpost.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "Indian markets snap 1 - week rally following surge in crude , FII outflows",
-      "url": "https://www.thehindu.com/business/markets/indian-markets-snap-1-week-rally-following-surge-in-crude-fii-outflows/article71615820.ece",
-      "domain": "thehindu.com",
-      "country": "India",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "IT spend will breach $7trn for the first time in 2027",
-      "url": "https://it-online.co.za/2026/10/23/it-spend-will-breach-7trn-for-the-first-time-in-2027/",
-      "domain": "it-online.co.za",
-      "country": "South Africa",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "How Elon Musk went from Tesla CEO to the  most powerful civilian , non - governmental actor in history",
-      "url": "https://finance.yahoo.com/technology/article/how-elon-musk-went-from-tesla-ceo-to-the-most-powerful-civilian-non-governmental-actor-in-history-100000227.html",
-      "domain": "finance.yahoo.com",
-      "country": "United States",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "Why Bonds Stumbled and Stocks ( Mostly ) Stood Strong in Q3 , and What Lies Ahead for Investors",
-      "url": "https://www.morningstar.com/markets/why-bonds-stumbled-stocks-mostly-stood-strong-q3-what-lies-ahead-investors",
-      "domain": "morningstar.com",
-      "country": "China",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "Sensex , Nifty extend losses as crude surges to USD 114 , all sectors close in red",
-      "url": "http://www.calcuttanews.net/news/279394370/sensex-nifty-extend-losses-as-crude-surges-to-usd-114-all-sectors-close-in-red",
-      "domain": "calcuttanews.net",
-      "country": "India",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "The stock market is splitting in two . Is that signaling trouble ahead , or just a new set of winners ?",
-      "url": "https://www.morningstar.com/news/marketwatch/20261023111/the-stock-market-is-splitting-in-two-is-that-signaling-trouble-ahead-or-just-a-new-set-of-winners",
-      "domain": "morningstar.com",
-      "country": "China",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "Markets Worry About AI Valuations , Geopolitics",
-      "url": "https://www.rttnews.com/3702392/markets-worry-about-ai-valuations-geopolitics.aspx",
-      "domain": "rttnews.com",
-      "country": "United States",
-      "published": "2026-10-23T12:00:00+00:00"
-     },
-     {
-      "title": "Rogers Communications Reports Third Quarter 2026 Results",
-      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/rogers-communications-reports-third-quarter-2026-results/2452700",
-      "domain": "manilatimes.net",
-      "country": "Philippines",
-      "published": "2026-10-23T12:00:00+00:00"
-     },
-     {
-      "title": "A stronger rupee , shrinking dollar reserve : The balancing act facing RBI",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/a-stronger-rupee-shrinking-dollar-reserve-the-balancing-act-facing-rbi/articleshow/135143408.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-23T12:00:00+00:00"
-     },
-     {
-      "title": "Atari Begins Trading on OTCQX Best Market",
-      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/atari-begins-trading-on-otcqx-best-market/2452690",
-      "domain": "manilatimes.net",
-      "country": "Philippines",
-      "published": "2026-10-23T12:00:00+00:00"
-     },
-     {
-      "title": "Lula has defined Brazil left for decades . Can his movement survive another Bolsonaro ? - LocalNews8 . com",
-      "url": "https://localnews8.com/news/national-world/cnn-world/2026/10/23/lula-has-defined-brazils-left-for-decades-can-his-movement-survive-another-bolsonaro/",
-      "domain": "localnews8.com",
-      "country": "United States",
-      "published": "2026-10-23T12:00:00+00:00"
-     },
-     {
-      "title": "Balchem Corporation Reports Third Quarter 2026 Financial Results",
-      "url": "https://www.manilatimes.net/2026/10/23/tmt-newswire/globenewswire/balchem-corporation-reports-third-quarter-2026-financial-results/2452697",
-      "domain": "manilatimes.net",
-      "country": "Philippines",
-      "published": "2026-10-23T12:00:00+00:00"
-     },
-     {
-      "title": "Rupee falls 12 paise to close at 94 . 93 against US dollar - The HinduBusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-12-paise-to-close-at-9493-against-us-dollar/article71615829.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
-      "published": "2026-10-23T12:00:00+00:00"
-     },
-     {
-      "title": "Chris Pratt $1 . 6 Billion Sci - Fi Reboot Officially Heads to a New Streamer",
-      "url": "https://collider.com/chris-pratt-jurassic-world-streaming-starz-november-2026/",
-      "domain": "collider.com",
-      "country": "United States",
-      "published": "2026-10-23T12:00:00+00:00"
-     },
-     {
-      "title": "Barlow Research Roundup : TD analyst sees buying opportunity in REITs",
-      "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-barlows-research-roundup-td-analyst-sees-buying-opportunity-in-reits/",
-      "domain": "theglobeandmail.com",
-      "country": "Canada",
-      "published": "2026-10-23T12:00:00+00:00"
-     },
-     {
-      "title": "FX Daily : Dollar has lost its safe - haven crown | Hellenic Shipping News Worldwide",
-      "url": "https://www.hellenicshippingnews.com/fx-daily-dollar-has-lost-its-safe-haven-crown/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
-      "published": "2026-10-23T12:00:00+00:00"
-     },
-     {
-      "title": "Lula has defined Brazil left for decades . Can his movement survive another Bolsonaro ?",
-      "url": "https://krdo.com/news/national-world/cnn-world/2026/10/23/lula-has-defined-brazils-left-for-decades-can-his-movement-survive-another-bolsonaro/",
-      "domain": "krdo.com",
-      "country": "United States",
-      "published": "2026-10-23T11:30:00+00:00"
-     }
     ]
    },
    "errors": {
-    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
