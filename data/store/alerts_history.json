@@ -1,5 +1,22 @@
 [
  {
+  "id": "6f15660e29a1",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-23",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 2 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Airstrike Destroys Vessel Carrying Contraband Near Zuqar Island in Red Sea” (khabaragency.net). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "khabaragency.net",
+  "url": "https://www.khabaragency.net/news254716.html",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-22T19:03:11-06:00"
+ },
+ {
   "id": "46611a8dc4ba",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
