@@ -1,5 +1,22 @@
 [
  {
+  "id": "8470b2db8c5a",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-23",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 2 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Houthis claim Saudi attack on yacht with 14 Indians ; India seeks details” (dailypioneer.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "dailypioneer.com",
+  "url": "https://dailypioneer.com/world/houthis-claim-saudi-forces-targeted-yacht-carrying-14-indians-in-red-sea-india-seeks-details",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-23T03:49:20-06:00"
+ },
+ {
   "id": "17cc14564e50",
   "indicator": "cp-ormuz",
   "name": "Punto crítico logístico",
