@@ -1,5 +1,22 @@
 [
  {
+  "id": "42ca0002de59",
+  "indicator": "cp-ormuz",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-24",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Estrecho de Ormuz: 1 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “IRGC claims full control over Hormuz as US contemplates fresh strikes on Iran” (nigeriasun.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "nigeriasun.com",
+  "url": "http://www.nigeriasun.com/news/279395973/irgc-claims-full-control-over-hormuz-as-us-contemplates-fresh-strikes-on-iran",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-24T09:45:01-06:00"
+ },
+ {
   "id": "799a7ec75cc6",
   "indicator": "cp-ormuz",
   "name": "Punto crítico logístico",
