@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-24T09:45:01-06:00",
+  "at": "2026-10-24T12:48:32-06:00",
   "data": {
    "storms": [
     {
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-24T09:45:01-06:00",
+  "at": "2026-10-24T12:48:32-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,856 +123,609 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-24T09:45:01-06:00",
+  "at": "2026-10-24T12:48:32-06:00",
   "data": {
    "raw": {
-    "commodities_agricolas": [
+    "geopolitica": [
      {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.winknews.com/news/international/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_b9cffd45-ba43-5628-b9b7-2aac4fab968b.html",
-      "domain": "winknews.com",
-      "country": "United States",
-      "published": "2026-10-24T15:15:00+00:00"
-     },
-     {
-      "title": "Mating season pushes elk to eastern Nebraska",
-      "url": "https://www.ksnblocal4.com/2026/10/23/mating-season-pushes-elk-eastern-nebraska/",
-      "domain": "ksnblocal4.com",
-      "country": "United States",
-      "published": "2026-10-24T15:15:00+00:00"
-     },
-     {
-      "title": "Tariff wars : When Canada faced becoming the  45th State",
-      "url": "https://www.wellandtribune.ca/life/niagara-region/brian-narhi-history-column-tariffs-canada-us-annexation/article_f1f27623-eb7b-5fae-a88a-664312fccb7f.html",
-      "domain": "wellandtribune.ca",
-      "country": "Canada",
-      "published": "2026-10-24T15:15:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.wsls.com/news/politics/2026/10/24/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is-dysfunctional/",
-      "domain": "wsls.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.ksat.com/news/politics/2026/10/24/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is-dysfunctional/",
-      "domain": "ksat.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "LankaWeb – Iran - Russia Trade Strategy : Gilan Caspian Gateway and Moscow Growing Pivot to West Asia and Middle East",
-      "url": "https://www.lankaweb.com/news/items/2026/10/24/iran-russia-trade-strategy-gilans-caspian-gateway-and-moscows-growing-pivot-to-west-asia-and-middle-east/",
-      "domain": "lankaweb.com",
-      "country": "Sri Lanka",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "Mating season pushes elk to eastern Nebraska",
-      "url": "https://www.wowt.com/2026/10/23/mating-season-pushes-elk-eastern-nebraska/",
-      "domain": "wowt.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Idaho top 10 farm commodities in 2025 | Western Livestock Journal",
-      "url": "https://www.wlj.net/idahos-top-10-farm-commodities-in-2025/",
-      "domain": "wlj.net",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.click2houston.com/news/politics/2026/10/24/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is-dysfunctional/",
-      "domain": "click2houston.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://isp.netscape.com:443/news/story/0001/20261024/608be19e4c6359d1590717dbead13940",
-      "domain": "isp.netscape.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Swing US House districts are rapidly disappearing",
-      "url": "https://www.wgauradio.com/news/politics/this-us-house/3SHAMWPR7A5ADJCEEVZP5YW2SQ/",
-      "domain": "wgauradio.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Grain marketing strategies : Sell high , then sell higher",
-      "url": "https://www.manitobacooperator.ca/crops/sell-high-then-sell-higher-grain-marketing-strategies-for-manitoba-farmers-managing-risk/",
-      "domain": "manitobacooperator.ca",
-      "country": "Canada",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "D . C . Memo : As election nears , corruption tops voter concerns",
-      "url": "http://www.minnpost.com/dc-memo/2026/10/d-c-memo-as-midterm-election-nears-corruption-tops-voter-concerns-beating-out-inflation-healthcare/",
-      "domain": "minnpost.com",
-      "country": "United States",
-      "published": "2026-10-24T14:30:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.fox21online.com/news/us-world/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_38627e3d-6741-5d19-a825-ece93707bfeb.html",
-      "domain": "fox21online.com",
-      "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
-     },
-     {
-      "title": "Mating season pushes elk to eastern Nebraska",
-      "url": "https://www.knopnews2.com/2026/10/23/mating-season-pushes-elk-eastern-nebraska/",
-      "domain": "knopnews2.com",
-      "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "http://www.rockymounttelegram.com/news/state/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_1a9e78be-08ac-510f-9f22-88b76aff7769.html",
-      "domain": "rockymounttelegram.com",
-      "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.yankton.net/news/national_ap/article_eb558b2b-58ce-5d2b-bdc9-629a0b078491.html",
-      "domain": "yankton.net",
-      "country": "United States",
-      "published": "2026-10-24T14:00:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.dailygazette.com/leader_herald/ap/national/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_5135d716-e470-5308-b353-db44f4c22e0c.html",
-      "domain": "dailygazette.com",
-      "country": "United States",
-      "published": "2026-10-24T13:45:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.winchesterstar.com/associated_press/virginia/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_bb83c73f-f661-5ed4-9fad-0103ce788e96.html",
-      "domain": "winchesterstar.com",
-      "country": "United States",
-      "published": "2026-10-24T13:30:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.khqa.com/news/nation-world/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_6bd63936-d759-57a4-8ee6-cbf90490c082.html",
-      "domain": "khqa.com",
-      "country": "United States",
-      "published": "2026-10-24T13:30:00+00:00"
-     },
-     {
-      "title": "Britannia Fined Rs 1 Lakh For Misleading  100 % Whole Wheat Bread  Claim By Consumer Protection Authority",
-      "url": "https://www.newsx.com/india/britannia-fined-rs-1-lakh-for-misleading-100-whole-wheat-bread-claim-by-consumer-protection-authority-286649/",
-      "domain": "newsx.com",
-      "country": "India",
-      "published": "2026-10-24T13:15:00+00:00"
-     },
-     {
-      "title": "Producers should make ARC - PLC election decisions by Dec . 11",
-      "url": "https://www.jamestownsun.com/business/producers-should-make-arc-plc-election-decisions-by-dec-11",
-      "domain": "jamestownsun.com",
-      "country": "United States",
-      "published": "2026-10-24T12:45:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/world/2026/10/24/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is-dysfunctional",
-      "domain": "winnipegfreepress.com",
-      "country": "Canada",
-      "published": "2026-10-24T12:45:00+00:00"
-     },
-     {
-      "title": "Nebraska race sees focus on wealth gap | The Arkansas Democrat - Gazette",
-      "url": "https://www.arkansasonline.com/news/2026/oct/24/nebraska-race-sees-focus-on-wealth-gap/",
-      "domain": "arkansasonline.com",
-      "country": "United States",
-      "published": "2026-10-24T12:15:00+00:00"
-     },
-     {
-      "title": "The Hunter Moon lights up our nights this weekend - The Weather Network",
-      "url": "https://www.theweathernetwork.com/en/news/science/space/full-hunters-moon-2026-lights-our-night-skies-this-weekend",
-      "domain": "theweathernetwork.com",
-      "country": "United States",
-      "published": "2026-10-24T12:15:00+00:00"
-     },
-     {
-      "title": "2026 Holiday Bazaar Blast",
-      "url": "http://www.idahopress.com/community/2026-holiday-bazaar-blast/article_1c85dc67-d91b-4c73-b2db-e6557ffcff04.html",
-      "domain": "idahopress.com",
-      "country": "United States",
-      "published": "2026-10-24T11:30:00+00:00"
-     },
-     {
-      "title": "Want Cheaper Groceries ? Stop Making Food More Expensive to Produce",
-      "url": "https://redstate.com/jenvanlaar/2026/10/24/affordability-why-the-grocery-bill-is-really-a-supply-chain-story-n2208545",
-      "domain": "redstate.com",
-      "country": "United States",
-      "published": "2026-10-24T11:30:00+00:00"
-     },
-     {
-      "title": "The best thing Kiki Aranita ate this week : Yakitori at dancerobot",
-      "url": "https://www.inquirer.com/food/best-things-yakitori-set-dancerobot-20261024.html",
-      "domain": "inquirer.com",
-      "country": "",
-      "published": "2026-10-24T10:30:00+00:00"
-     },
-     {
-      "title": "Around the Bluhmin  Town : State fair",
-      "url": "https://www.peoriatimes.com/opinion/around-the-bluhmin-town-state-fair/article_4cf1c67f-4d84-4c57-ade6-a0730ada6ea3.html",
-      "domain": "peoriatimes.com",
-      "country": "United States",
-      "published": "2026-10-24T10:30:00+00:00"
-     },
-     {
-      "title": "Dakar NOLA tasting menu and new Terrace menu review | Where NOLA Eats",
-      "url": "https://www.nola.com/entertainment_life/eat-drink/dakar-nola-reveiw/article_1f34823a-345e-496d-94e0-c3e85daa90fa.html",
-      "domain": "nola.com",
-      "country": "United States",
-      "published": "2026-10-24T10:15:00+00:00"
-     },
-     {
-      "title": "Wheat acreage likely to remain steady despite weak monsoon rainfall",
-      "url": "https://www.business-standard.com/industry/agriculture/wheat-acreage-likely-to-remain-steady-despite-weak-monsoon-rainfall-126102400528_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-10-24T10:15:00+00:00"
-     },
-     {
-      "title": "While fuel pumps ran dry , Australia sold megalitres of homegrown fuel overseas  | Peak Oil News and Message Boards",
-      "url": "https://peakoil.com/production/while-fuel-pumps-ran-dry-australia-sold-megalitres-of-homegrown-fuel-overseas",
-      "domain": "peakoil.com",
-      "country": "United States",
-      "published": "2026-10-24T08:45:00+00:00"
-     },
-     {
-      "title": "Wallowa County harvest  lackluster  | Wallowa County Chieftain",
-      "url": "https://wallowa.com/2026/10/23/wallowa-county-harvest-lackluster/",
-      "domain": "wallowa.com",
-      "country": "United States",
-      "published": "2026-10-24T06:45:00+00:00"
-     },
-     {
-      "title": "The 3 nightmares haunting Andy Burnham and John Healey before crunch Budget",
-      "url": "https://www.aol.co.uk/articles/3-nightmares-haunting-andy-burnham-060000000.html",
-      "domain": "aol.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-24T06:45:00+00:00"
-     },
-     {
-      "title": "Maharashtra Drought : Why A Crisis Suits Everyone",
-      "url": "https://www.rediff.com/news/column/maharashtra-drought-why-a-crisis-suits-everyone/20261024.htm",
-      "domain": "rediff.com",
-      "country": "India",
-      "published": "2026-10-24T06:45:00+00:00"
-     },
-     {
-      "title": "Russia Grain Export Shift : 10 , 000 Ruble Floor and New Corridors",
-      "url": "https://english.pravda.ru/news/business/170664-russia-grain-export-shift-price-floor-corridors/",
-      "domain": "english.pravda.ru",
-      "country": "Russia",
-      "published": "2026-10-24T06:45:00+00:00"
-     },
-     {
-      "title": "Over 10kg flour bags to be banned",
-      "url": "https://tribune.com.pk/story/2636589/over-10kg-flour-bags-to-be-banned",
-      "domain": "tribune.com.pk",
+      "title": "Global petrol market in turmoil ; crude oil hits $117",
+      "url": "https://dailythepatriot.com/global-petrol-market-in-turmoil-crude-oil-hits-117/",
+      "domain": "dailythepatriot.com",
       "country": "Pakistan",
-      "published": "2026-10-24T05:30:00+00:00"
+      "published": "2026-10-24T18:00:00+00:00"
      },
      {
-      "title": "Diesel prices impacting farming",
-      "url": "https://ktul.com/news/local/diesel-prices-impacting-farming",
-      "domain": "ktul.com",
-      "country": "United States",
-      "published": "2026-10-24T05:15:00+00:00"
+      "title": "Uganda Shilling Hits 33 - Year Low as Treasury Warns",
+      "url": "https://www.riotimesonline.com/uganda-shilling-33-year-low-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-24T18:00:00+00:00"
      },
      {
-      "title": "Need a Halloween boo - st ? 8 last - minute ways to get spooky in Seattle",
-      "url": "https://www.kuow.org/arts-life/2026-10-23/need-a-halloween-boo-st-8-ways-to-get-spooky-in-seattle-this-october",
-      "domain": "kuow.org",
-      "country": "United States",
-      "published": "2026-10-24T03:00:00+00:00"
+      "title": "Nigerian Oil Near US$115 a Barrel on Hormuz Attacks",
+      "url": "https://www.riotimesonline.com/nigerian-oil-bonny-light-115-barrel-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-24T18:00:00+00:00"
      },
      {
-      "title": "Cattle prices hit  a new gear  this week as rain tumbled down",
-      "url": "https://www.abc.net.au/news/2026-10-24/australian-cattle-prices-hit-record-highs-as-rain-tumbles-down/107303254",
-      "domain": "abc.net.au",
-      "country": "Australia",
-      "published": "2026-10-24T03:00:00+00:00"
-     }
-    ],
-    "energia": [
+      "title": "Egypt Targets 6 Billion Cubic Feet of Gas a Day",
+      "url": "https://www.riotimesonline.com/egypt-targets-6-billion-cubic-feet-gas-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
      {
       "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.nigeriasun.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "nigeriasun.com",
-      "country": "Nigeria",
-      "published": "2026-10-24T15:15:00+00:00"
+      "url": "http://www.coloradostar.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "coloradostar.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
      },
      {
-      "title": "Proposed Senate Probe of Russian Diesel Deal Would be  Pure Sabotage  Against US Citizens – Analyst",
-      "url": "https://sputnikglobe.com/20261024/senate-probe-of-russian-diesel-deal-would-be-pure-sabotage-against-us-citizens--analyst-1124931502.html",
-      "domain": "sputnikglobe.com",
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.venezuelastar.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "venezuelastar.com",
+      "country": "Venezuela",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Voters angry about high prices may get little relief from the next Congress",
+      "url": "https://www.adn.com/nation-world/2026/10/24/voters-angry-about-high-prices-may-get-little-relief-from-the-next-congress/",
+      "domain": "adn.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "UAE oil spill : Ras Al Khaimah closes all beaches  until further notice",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/24/uae-oil-spill-ras-al-khaimah-closes-all-beaches-until-further-notice/",
+      "domain": "thenationalnews.com",
       "country": "",
-      "published": "2026-10-24T15:15:00+00:00"
+      "published": "2026-10-24T18:00:00+00:00"
      },
      {
-      "title": "US double game in Ukraine as Trump pressures Zelensky while the CIA coordinates strikes",
-      "url": "https://www.bankingnews.gr/diethni/articles/906990/us-double-game-in-ukraine-as-trump-pressures-zelensky-while-the-cia-coordinates-strikes",
-      "domain": "bankingnews.gr",
-      "country": "Greece",
-      "published": "2026-10-24T15:15:00+00:00"
+      "title": "Inflation , earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
+      "url": "http://www.idahostatejournal.com/news/national/inflation-earnings-reports-and-the-mood-of-consumers-and-the-federal-reserve-fill-out-a/article_c6bfe07e-b9fb-5695-b36d-b762a28ea441.html",
+      "domain": "idahostatejournal.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "U . S . Senate candidate Peltola calls the economy  the only plot line that matters",
+      "url": "https://www.adn.com/politics/2026/10/24/us-senate-candidate-peltola-calls-the-economy-the-only-plot-line-that-matters/",
+      "domain": "adn.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Israel imposes closures across a West Bank city after attacks , and other Mideast news",
+      "url": "https://www.erienewsnow.com/news/national/israel-imposes-closures-across-a-west-bank-city-after-attacks-and-other-mideast-news/article_6c7f1e5e-ebd0-59a7-90f2-a13f6b460e0d.html",
+      "domain": "erienewsnow.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Abu Dhabi Firm in Talks for Eni Libya Stake",
+      "url": "https://www.riotimesonline.com/abu-dhabi-firm-eni-libya-stake-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "India can emerge as",
+      "url": "http://www.bangladeshsun.com/news/279394204/india-can-emerge-as-strong-and-reliable-global-rice-trade-hub-amid-geopolitical-tensions-iref-president-prem-garg",
+      "domain": "bangladeshsun.com",
+      "country": "Bangladesh",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Ballistic missile attacks rock Yemen Aden",
+      "url": "https://morungexpress.com/ballistic-missile-attacks-rock-yemens-aden",
+      "domain": "morungexpress.com",
+      "country": "India",
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
       "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.texasguardian.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "texasguardian.com",
+      "url": "http://www.bangladeshsun.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "bangladeshsun.com",
+      "country": "Bangladesh",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "PH energy crisis needs solutions , not soirées",
+      "url": "https://www.manilatimes.net/2026/10/25/opinion/columns/ph-energy-crisis-needs-solutions-not-soirees/2453300",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Iran says wont allow US warships to get close as Trump ponders new attacks | US - Israel war on Iran News",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
+      "domain": "aljazeera.com",
       "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Iran remains open to talks with US under Pakistan - brokered deal , envoy says",
+      "url": "http://www.stardem.com/ap/world/iran-remains-open-to-talks-with-us-under-pakistan-brokered-deal-envoy-says/article_c7376a83-73f1-5b86-a08c-57d3a3fbf6e1.html",
+      "domain": "stardem.com",
+      "country": "United States",
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
       "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.cambodiantimes.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "cambodiantimes.com",
-      "country": "Cambodia",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "This decade has been missing its big - impact midterm",
-      "url": "https://www.kpbs.org/news/politics/2026/10/24/this-decade-has-been-missing-its-big-impact-midterm",
-      "domain": "kpbs.org",
+      "url": "http://www.newyorkstatesman.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "newyorkstatesman.com",
       "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
-      "title": "Entrenched US and Iranian Strategies Make Renewed War Inevitable",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/entrenched-us-and-iranian-strategies-make-renewed-war-inevitable/",
-      "domain": "fairobserver.com",
+      "title": "Naga Vision : From Village Republics to a Nation",
+      "url": "https://morungexpress.com/naga-vision-from-village-republics-to-a-nation",
+      "domain": "morungexpress.com",
+      "country": "India",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Embassies on alert as Iran ramps up threats , U . S . elections loom",
+      "url": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+      "domain": "cnbc.com",
       "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
-      "title": "Sterling Capital Management LLC Sells 2 , 315 Shares of Casey General Stores , Inc . $CASY",
-      "url": "https://www.tickerreport.com/banking-finance/13635130/sterling-capital-management-llc-sells-2315-shares-of-caseys-general-stores-inc-casy.html",
-      "domain": "tickerreport.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "How much does Ukraine still rely on US support ?",
-      "url": "https://www.wyff4.com/article/how-reliant-ukraine-us-support-kyiv-russia-war/74237015",
-      "domain": "wyff4.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.israelherald.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "israelherald.com",
-      "country": "Israel",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.ohiostandard.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "ohiostandard.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "LankaWeb – Why Is Russia Redefining Its ASEAN Strategy by Prioritizing a New Level of Engagement ?",
-      "url": "https://www.lankaweb.com/news/items/2026/10/24/why-is-russia-redefining-its-asean-strategy-by-prioritizing-a-new-level-of-engagement/",
-      "domain": "lankaweb.com",
-      "country": "Sri Lanka",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "Ukraine and Russia eye new peace talks and Melania Trump mission but steep obstacles remain",
-      "url": "https://www.the-messenger.com/news/world/article_99be7dac-381d-5fe0-85c6-c1eeb1785f08.html",
-      "domain": "the-messenger.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "CF Industries Holdings , Inc . $CF Position Lifted by Sterling Capital Management LLC",
-      "url": "https://www.themarketsdaily.com/2026/10/24/cf-industries-holdings-inc-cf-position-lifted-by-sterling-capital-management-llc.html",
-      "domain": "themarketsdaily.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.britainnews.net/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "britainnews.net",
-      "country": "United Kingdom",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "End antidemocratic  debanking  and more : Letters",
-      "url": "https://nypost.com/2026/10/24/opinion/end-antidemocratic-debanking-and-more-letters/",
+      "title": "Trump advisors see opportunity even if Bibi Netanyahu loses",
+      "url": "https://nypost.com/2026/10/24/us-news/trump-advisors-see-opportunity-even-if-bibi-netanyahu-loses/",
       "domain": "nypost.com",
       "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
-      "title": "How much does Ukraine still rely on US support ?",
-      "url": "https://www.wjcl.com/article/how-reliant-ukraine-us-support-kyiv-russia-war/74237015",
-      "domain": "wjcl.com",
+      "title": "Dastardly betrayal : Falklands row erupts as Israel - UK tensions spill into the South Atlantic - London Business News",
+      "url": "https://londonlovesbusiness.com/dastardly-betrayal-falklands-row-erupts-as-israel-uk-tensions-spill-into-the-south-atlantic/",
+      "domain": "londonlovesbusiness.com",
+      "country": "United Kingdom",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "RFK Jr . and MAHA measles reckoning",
+      "url": "https://www.salon.com/2026/10/24/measles-is-a-reckoning-for-rfk-jr-and-maha/",
+      "domain": "salon.com",
       "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
-      "title": "RBI Rs 2 . 5 lakh crore liquidity infusion raises questions over tightening policy signal : SBI Report",
-      "url": "http://www.cambodiantimes.com/news/279394812/rbi-rs-25-lakh-crore-liquidity-infusion-raises-questions-over-tightening-policy-signal-sbi-report",
-      "domain": "cambodiantimes.com",
-      "country": "Cambodia",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "As winter nears , heating oil emerges as hurdle for Republicans in US Senate races",
-      "url": "https://kfgo.com/2026/10/24/as-winter-nears-heating-oil-emerges-as-hurdle-for-republicans-in-us-senate-races/",
-      "domain": "kfgo.com",
+      "title": "Canada Chief Trade Negotiator Accepts That Tariff Free Trade Will Never Exist Again , and May Get Much Worse",
+      "url": "https://theconservativetreehouse.com/blog/2026/10/24/canadas-chief-trade-negotiator-accepts-that-tariff-free-trade-will-never-exist-again-and-may-get-much-worse/",
+      "domain": "theconservativetreehouse.com",
       "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
-      "title": "5 Top Dividend Stocks Yielding 5 % or More to Buy Right Now for Passive Income",
-      "url": "https://www.aol.com/articles/5-top-dividend-stocks-yielding-133500000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
+      "title": "Hard , hungry times | The Manila Times",
+      "url": "https://www.manilatimes.net/2026/10/25/opinion/columns/hard-hungry-times/2453303",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
-      "title": "Germany Wants to Stop More Oil Refinery Closures",
-      "url": "https://www.rigzone.com/news/wire/germany_wants_to_stop_more_oil_refinery_closures-24-oct-2026-184919-article/",
-      "domain": "rigzone.com",
+      "title": "Sudan soaring fuel prices make getting by harder for workers | Energy",
+      "url": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers",
+      "domain": "aljazeera.com",
       "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Average long - term US mortgage rate eases to 7 . 32 % in first pullback since late August",
+      "url": "https://www.eagletribune.com/news/average-long-term-us-mortgage-rate-eases-to-7-32-in-first-pullback-since-late/article_c964d886-3a01-4e79-9764-39d88851f9f4.html",
+      "domain": "eagletribune.com",
+      "country": "United States",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Iran Pezeshkian blames US for interim deal failure , calls for fresh talks",
+      "url": "https://www.moneycontrol.com/world/iran-s-pezeshkian-blames-us-for-interim-deal-failure-calls-for-fresh-talks-article-14059236.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "How reliant is Ukraine on US support – and could Kyiv carry on without it ?",
+      "url": "https://abc17news.com/news/national-world/cnn-world/2026/10/24/how-reliant-is-ukraine-on-us-support-and-could-kyiv-carry-on-without-it/",
+      "domain": "abc17news.com",
+      "country": "United States",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Every Day We  Wake Up Poorer : Iranians Battle Economic Woes",
+      "url": "http://www.bangladeshsun.com/news/279394881/every-day-we-wake-up-poorer-iranians-battle-economic-woes",
+      "domain": "bangladeshsun.com",
+      "country": "Bangladesh",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Zelenskyy Says Starlink Is Working Again in Ukraine",
+      "url": "https://www.businessinsider.com/starlink-ukraine-zelenskyy-elon-musk-trump-2026-10",
+      "domain": "businessinsider.com",
+      "country": "United States",
+      "published": "2026-10-24T17:00:00+00:00"
+     },
+     {
+      "title": "newsroomamerica . com",
+      "url": "https://newsroomamerica.com/?before=117153",
+      "domain": "newsroomamerica.com",
+      "country": "United States",
+      "published": "2026-10-24T17:00:00+00:00"
+     },
+     {
+      "title": "Marco Rubio Publicly Offers CIA Partnership To Cuban Citizens Frustrated By  Failed Promises",
+      "url": "https://www.foreignpolicyjournal.com/2026/10/24/marco-rubio-publicly-offers-cia-partnership-to-cuban-citizens-frustrated-by-failed-promises/",
+      "domain": "foreignpolicyjournal.com",
+      "country": "Israel",
+      "published": "2026-10-24T16:15:00+00:00"
      },
      {
       "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.trinidadtimes.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "trinidadtimes.com",
-      "country": "Trinidad and Tobago",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.myanmarnews.net/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "myanmarnews.net",
-      "country": "Myanmar",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Indonesia cuts natural gas exports to Singapore",
-      "url": "https://www.channelnewsasia.com/watch/indonesia-cuts-natural-gas-exports-singapore-6488991",
-      "domain": "channelnewsasia.com",
+      "url": "http://www.sandiegosun.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "sandiegosun.com",
       "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
+      "published": "2026-10-24T16:15:00+00:00"
      },
      {
-      "title": "Attorney General Receives More Than 470 N . C . Fuel Check Complaints ; Begins Sending Letters To Gas Stations",
-      "url": "https://whky.com/attorney-general-receives-more-than-470-n-c-fuel-check-complaints-begins-sending-letters-to-gas-stations/",
-      "domain": "whky.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
+      "title": "Melania Trump brokers localized truce in Ukraine",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/25/2003866567",
+      "domain": "taipeitimes.com",
+      "country": "Taiwan",
+      "published": "2026-10-24T16:15:00+00:00"
      },
      {
-      "title": "Five takeaways from Trump midterm campaign rallies | The Mighty 790 KFGO",
-      "url": "https://kfgo.com/2026/10/24/five-takeaways-from-trumps-midterm-campaign-rallies/",
-      "domain": "kfgo.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Malaysia Keeps RON95 at RM1 . 99 as Fuel Subsidy Bill Could Reach RM45 Billion",
-      "url": "https://econotimes.com/Malaysia-Keeps-RON95-at-RM1-99-as-Fuel-Subsidy-Bill-Could-Reach-RM45-Billion-1762509",
+      "title": "U . S . Treasury Highlights Post on Iran - Focused Operation Economic Outcast",
+      "url": "https://econotimes.com/U-S-Treasury-Highlights-Post-on-Iran-Focused-Operation-Economic-Outcast-1762583",
       "domain": "econotimes.com",
       "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "How much does Ukraine still rely on US support ?",
-      "url": "https://www.wmur.com/article/how-reliant-ukraine-us-support-kyiv-russia-war/74237015",
-      "domain": "wmur.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "As winter nears , heating oil emerges as hurdle for Republicans in US Senate races",
-      "url": "https://whbl.com/2026/10/24/as-winter-nears-heating-oil-emerges-as-hurdle-for-republicans-in-us-senate-races/",
-      "domain": "whbl.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "How much does Ukraine still rely on US support ?",
-      "url": "https://www.4029tv.com/article/how-reliant-ukraine-us-support-kyiv-russia-war/74237015",
-      "domain": "4029tv.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Ukraine and Russia eye new peace talks and Melania Trump mission but steep obstacles remain",
-      "url": "https://isp.netscape.com:443/news/world/story/0001/20261024/94e0aee5d56bcd164f8cbae0918ed1f8",
-      "domain": "isp.netscape.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Five takeaways from Trump midterm campaign rallies | WTVB | 1590 AM · 95 . 5 FM",
-      "url": "https://wtvbam.com/2026/10/24/five-takeaways-from-trumps-midterm-campaign-rallies/",
-      "domain": "wtvbam.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "As winter nears , heating oil emerges as hurdle for Republicans in US Senate races",
-      "url": "https://wtvbam.com/2026/10/24/as-winter-nears-heating-oil-emerges-as-hurdle-for-republicans-in-us-senate-races/",
-      "domain": "wtvbam.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "The Puzzle Pieces for a Stock Market Crash Are Taking Shape , With 4 Historically Flawless Indicators Now Sounding the Alarm",
-      "url": "https://www.aol.com/articles/puzzle-pieces-stock-market-crash-132602000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Iran says wont allow US warships to get close as Trump ponders new attacks - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-      "url": "https://dominicanrepublicpost.com/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks/",
-      "domain": "dominicanrepublicpost.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
+      "published": "2026-10-24T16:15:00+00:00"
      },
      {
       "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.calcuttanews.net/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "calcuttanews.net",
-      "country": "India",
-      "published": "2026-10-24T14:45:00+00:00"
+      "url": "http://www.taiwansun.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "taiwansun.com",
+      "country": "China",
+      "published": "2026-10-24T16:15:00+00:00"
      },
      {
-      "title": "Artmarket . com : Artprice and its CEO , thierry Ehrmann , congratulate Brognon Rollin , winners of the 2026 Marcel Duchamp Prize .",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69926572-artmarket-com-artprice-and-its-ceo-thierry-ehrmann-congratulate-brognon-rollin-winners-of-the-2026-marcel-duchamp-prize-650.htm",
-      "domain": "finanznachrichten.de",
-      "country": "Germany",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Iran Claims Parliament Speaker Has Met with Missing  Supreme Leader",
-      "url": "https://www.breitbart.com/national-security/2026/10/23/iran-claims-parliament-speaker-has-met-with-missing-supreme-leader/",
-      "domain": "breitbart.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "This decade has been missing its big - impact midterm",
-      "url": "https://radio.wpsu.org/2026-10-24/this-decade-has-been-missing-its-big-impact-midterm",
-      "domain": "radio.wpsu.org",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
+      "title": "« We will take Novorossiya » - Trump : 200 % tariffs on Ukraine and Russia - Fierce clash between Musk and Polish foreign minister",
+      "url": "https://www.bankingnews.gr/diethni/articles/906995/we-will-take-novorossiya-trump-200-tariffs-on-ukraine-and-russia-fierce-clash-between-musk-and-polish-foreign-minister",
+      "domain": "bankingnews.gr",
+      "country": "Greece",
+      "published": "2026-10-24T16:15:00+00:00"
      },
      {
       "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.batonrougepost.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "batonrougepost.com",
+      "url": "http://www.oklahomacitysun.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "oklahomacitysun.com",
       "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
+      "published": "2026-10-24T16:15:00+00:00"
      }
     ],
     "transporte_maritimo": [
      {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.nigeriasun.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "nigeriasun.com",
-      "country": "Nigeria",
-      "published": "2026-10-24T15:15:00+00:00"
+      "title": "Global petrol market in turmoil ; crude oil hits $117",
+      "url": "https://dailythepatriot.com/global-petrol-market-in-turmoil-crude-oil-hits-117/",
+      "domain": "dailythepatriot.com",
+      "country": "Pakistan",
+      "published": "2026-10-24T18:00:00+00:00"
      },
      {
-      "title": "IRGC claims full control over Hormuz as US contemplates fresh strikes on Iran",
-      "url": "http://www.nigeriasun.com/news/279395973/irgc-claims-full-control-over-hormuz-as-us-contemplates-fresh-strikes-on-iran",
-      "domain": "nigeriasun.com",
-      "country": "Nigeria",
-      "published": "2026-10-24T15:15:00+00:00"
-     },
-     {
-      "title": "US double game in Ukraine as Trump pressures Zelensky while the CIA coordinates strikes",
-      "url": "https://www.bankingnews.gr/diethni/articles/906990/us-double-game-in-ukraine-as-trump-pressures-zelensky-while-the-cia-coordinates-strikes",
-      "domain": "bankingnews.gr",
-      "country": "Greece",
-      "published": "2026-10-24T15:15:00+00:00"
-     },
-     {
-      "title": "Global blackout nightmare as Iran plans to destroy undersea cables in Persian Gulf",
-      "url": "https://www.bankingnews.gr/diethni/articles/906980/global-blackout-nightmare-as-iran-plans-to-destroy-undersea-cables-in-persian-gulf",
-      "domain": "bankingnews.gr",
-      "country": "Greece",
-      "published": "2026-10-24T15:15:00+00:00"
-     },
-     {
-      "title": "IRGC claims full control over Hormuz as US contemplates fresh strikes on Iran",
-      "url": "http://www.cambodiantimes.com/news/279395973/irgc-claims-full-control-over-hormuz-as-us-contemplates-fresh-strikes-on-iran",
-      "domain": "cambodiantimes.com",
-      "country": "Cambodia",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.texasguardian.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "texasguardian.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.cambodiantimes.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "cambodiantimes.com",
-      "country": "Cambodia",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "IRGC claims full control over Hormuz as US contemplates fresh strikes on Iran",
-      "url": "http://www.britainnews.net/news/279395973/irgc-claims-full-control-over-hormuz-as-us-contemplates-fresh-strikes-on-iran",
-      "domain": "britainnews.net",
-      "country": "United Kingdom",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "Every Day We  Wake Up Poorer : Iranians Battle Economic Woes",
-      "url": "http://www.cambodiantimes.com/news/279394881/every-day-we-wake-up-poorer-iranians-battle-economic-woes",
-      "domain": "cambodiantimes.com",
-      "country": "Cambodia",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "Entrenched US and Iranian Strategies Make Renewed War Inevitable",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/entrenched-us-and-iranian-strategies-make-renewed-war-inevitable/",
-      "domain": "fairobserver.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "IRGC claims full control over Hormuz as US contemplates fresh strikes on Iran",
-      "url": "http://www.ohiostandard.com/news/279395973/irgc-claims-full-control-over-hormuz-as-us-contemplates-fresh-strikes-on-iran",
-      "domain": "ohiostandard.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "Ethiopia Calls for Shared Red Sea Security",
-      "url": "https://www.riotimesonline.com/ethiopia-calls-for-shared-red-sea-security-2026/",
+      "title": "Nigerian Oil Near US$115 a Barrel on Hormuz Attacks",
+      "url": "https://www.riotimesonline.com/nigerian-oil-bonny-light-115-barrel-2026/",
       "domain": "riotimesonline.com",
       "country": "Brazil",
-      "published": "2026-10-24T15:00:00+00:00"
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.coloradostar.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "coloradostar.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.venezuelastar.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "venezuelastar.com",
+      "country": "Venezuela",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Inflation , earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
+      "url": "http://www.idahostatejournal.com/news/national/inflation-earnings-reports-and-the-mood-of-consumers-and-the-federal-reserve-fill-out-a/article_c6bfe07e-b9fb-5695-b36d-b762a28ea441.html",
+      "domain": "idahostatejournal.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "U . S . Senate candidate Peltola calls the economy  the only plot line that matters",
+      "url": "https://www.adn.com/politics/2026/10/24/us-senate-candidate-peltola-calls-the-economy-the-only-plot-line-that-matters/",
+      "domain": "adn.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Israel imposes closures across a West Bank city after attacks , and other Mideast news",
+      "url": "https://www.erienewsnow.com/news/national/israel-imposes-closures-across-a-west-bank-city-after-attacks-and-other-mideast-news/article_6c7f1e5e-ebd0-59a7-90f2-a13f6b460e0d.html",
+      "domain": "erienewsnow.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Indian 5 pc broken rice prices may rise by USD 60 per tonne amid freight costs , global supply risks : IREF",
+      "url": "http://www.bangladeshsun.com/news/279394921/indian-5-pc-broken-rice-prices-may-rise-by-usd-60-per-tonne-amid-freight-costs-global-supply-risks-iref",
+      "domain": "bangladeshsun.com",
+      "country": "Bangladesh",
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
       "title": "India can emerge as",
-      "url": "http://www.cambodiantimes.com/news/279394204/india-can-emerge-as-strong-and-reliable-global-rice-trade-hub-amid-geopolitical-tensions-iref-president-prem-garg",
-      "domain": "cambodiantimes.com",
-      "country": "Cambodia",
-      "published": "2026-10-24T15:00:00+00:00"
+      "url": "http://www.bangladeshsun.com/news/279394204/india-can-emerge-as-strong-and-reliable-global-rice-trade-hub-amid-geopolitical-tensions-iref-president-prem-garg",
+      "domain": "bangladeshsun.com",
+      "country": "Bangladesh",
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.israelherald.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "israelherald.com",
-      "country": "Israel",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "IRGC claims full control over Hormuz as US contemplates fresh strikes on Iran",
-      "url": "http://www.texasguardian.com/news/279395973/irgc-claims-full-control-over-hormuz-as-us-contemplates-fresh-strikes-on-iran",
-      "domain": "texasguardian.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.ohiostandard.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "ohiostandard.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "On Egypt visit , UN chief Guterres says",
-      "url": "http://www.israelherald.com/news/279396017/on-egypt-visit-un-chief-guterres-says-we-need-to-stop-the-widening-of-war",
-      "domain": "israelherald.com",
-      "country": "Israel",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.britainnews.net/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "britainnews.net",
-      "country": "United Kingdom",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "IRGC claims full control over Hormuz as US contemplates fresh strikes on Iran",
-      "url": "http://www.israelherald.com/news/279395973/irgc-claims-full-control-over-hormuz-as-us-contemplates-fresh-strikes-on-iran",
-      "domain": "israelherald.com",
-      "country": "Israel",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "IRGC claims full control over Hormuz as US contemplates fresh strikes on Iran",
-      "url": "http://www.brazilsun.com/news/279395973/irgc-claims-full-control-over-hormuz-as-us-contemplates-fresh-strikes-on-iran",
-      "domain": "brazilsun.com",
-      "country": "Brazil",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "IRGC claims full control over Hormuz as US contemplates fresh strikes on Iran",
-      "url": "http://www.azerbaijannews.net/news/279395973/irgc-claims-full-control-over-hormuz-as-us-contemplates-fresh-strikes-on-iran",
-      "domain": "azerbaijannews.net",
-      "country": "Azerbaijan",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.trinidadtimes.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "trinidadtimes.com",
-      "country": "Trinidad and Tobago",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.myanmarnews.net/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "myanmarnews.net",
-      "country": "Myanmar",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Iran says wont allow US warships to get close as Trump ponders new attacks - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-      "url": "https://dominicanrepublicpost.com/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks/",
-      "domain": "dominicanrepublicpost.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.calcuttanews.net/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "calcuttanews.net",
+      "title": "Ballistic missile attacks rock Yemen Aden",
+      "url": "https://morungexpress.com/ballistic-missile-attacks-rock-yemens-aden",
+      "domain": "morungexpress.com",
       "country": "India",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Central Michigan University Art Gallery to feature two local artists",
-      "url": "https://www.themorningsun.com/2026/10/24/central-michigan-universitys-art-gallery-to-feature-two-local-artists/",
-      "domain": "themorningsun.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Did aliens build the pyramids ? Fact check",
-      "url": "https://www.ancient-origins.net/comment/48662",
-      "domain": "ancient-origins.net",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
       "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.batonrougepost.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "batonrougepost.com",
+      "url": "http://www.bangladeshsun.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "bangladeshsun.com",
+      "country": "Bangladesh",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "PH energy crisis needs solutions , not soirées",
+      "url": "https://www.manilatimes.net/2026/10/25/opinion/columns/ph-energy-crisis-needs-solutions-not-soirees/2453300",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Iran says wont allow US warships to get close as Trump ponders new attacks | US - Israel war on Iran News",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
+      "domain": "aljazeera.com",
       "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Iran remains open to talks with US under Pakistan - brokered deal , envoy says",
+      "url": "http://www.stardem.com/ap/world/iran-remains-open-to-talks-with-us-under-pakistan-brokered-deal-envoy-says/article_c7376a83-73f1-5b86-a08c-57d3a3fbf6e1.html",
+      "domain": "stardem.com",
+      "country": "United States",
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
       "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.azerbaijannews.net/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "azerbaijannews.net",
-      "country": "Azerbaijan",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "On Egypt visit , UN chief Guterres says",
-      "url": "http://www.azerbaijannews.net/news/279396017/on-egypt-visit-un-chief-guterres-says-we-need-to-stop-the-widening-of-war",
-      "domain": "azerbaijannews.net",
-      "country": "Azerbaijan",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "IRGC claims full control over Hormuz as US contemplates fresh strikes on Iran",
-      "url": "http://www.myanmarnews.net/news/279395973/irgc-claims-full-control-over-hormuz-as-us-contemplates-fresh-strikes-on-iran",
-      "domain": "myanmarnews.net",
-      "country": "Myanmar",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "IRGC claims full control over Hormuz as US contemplates fresh strikes on Iran",
-      "url": "http://www.batonrougepost.com/news/279395973/irgc-claims-full-control-over-hormuz-as-us-contemplates-fresh-strikes-on-iran",
-      "domain": "batonrougepost.com",
+      "url": "http://www.newyorkstatesman.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "newyorkstatesman.com",
       "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.brazilsun.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "brazilsun.com",
-      "country": "Brazil",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Kamala Harris returns to campaign trail for US midterms amid speculation over 2028 presidential bid",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/kamala-harris-returns-to-campaign-trail-for-us-midterms-amid-speculation-over-2028-presidential-bid/articleshow/135172049.cms",
-      "domain": "timesofindia.indiatimes.com",
+      "title": "India holds 40 pc of global rice exports , key to world food security : Experts",
+      "url": "https://morungexpress.com/india-holds-40-pc-of-global-rice-exports-key-to-world-food-security-experts",
+      "domain": "morungexpress.com",
       "country": "India",
-      "published": "2026-10-24T14:45:00+00:00"
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
-      "title": "D . C . Memo : As election nears , corruption tops voter concerns",
-      "url": "http://www.minnpost.com/dc-memo/2026/10/d-c-memo-as-midterm-election-nears-corruption-tops-voter-concerns-beating-out-inflation-healthcare/",
-      "domain": "minnpost.com",
-      "country": "United States",
-      "published": "2026-10-24T14:30:00+00:00"
+      "title": "Every Day We  Wake Up Poorer : Iranians Battle Economic Woes",
+      "url": "http://www.bangladeshsun.com/news/279394881/every-day-we-wake-up-poorer-iranians-battle-economic-woes",
+      "domain": "bangladeshsun.com",
+      "country": "Bangladesh",
+      "published": "2026-10-24T17:15:00+00:00"
      },
      {
       "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.bignewsnetwork.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "bignewsnetwork.com",
+      "url": "http://www.sandiegosun.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "sandiegosun.com",
       "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
+      "published": "2026-10-24T16:15:00+00:00"
      },
      {
-      "title": "Anadolu Opinion Piece Says U . S . Support for Far Right Impedes Shared Defense",
-      "url": "https://econotimes.com/Anadolu-Opinion-Piece-Says-U-S-Support-for-Far-Right-Impedes-Shared-Defense-1762487",
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.taiwansun.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "taiwansun.com",
+      "country": "China",
+      "published": "2026-10-24T16:15:00+00:00"
+     },
+     {
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.oklahomacitysun.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "oklahomacitysun.com",
+      "country": "United States",
+      "published": "2026-10-24T16:15:00+00:00"
+     },
+     {
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.mainemirror.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "mainemirror.com",
+      "country": "United States",
+      "published": "2026-10-24T16:15:00+00:00"
+     },
+     {
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.austinglobe.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "austinglobe.com",
+      "country": "United States",
+      "published": "2026-10-24T16:15:00+00:00"
+     },
+     {
+      "title": "Read the memo : Iran plotting attacks on American citizens",
+      "url": "https://hayspost.com/posts/245cfd4f-bdb2-4c88-8b34-bf556451421a",
+      "domain": "hayspost.com",
+      "country": "United States",
+      "published": "2026-10-24T16:15:00+00:00"
+     },
+     {
+      "title": "Valero Energy Q3 Earnings Call Highlights",
+      "url": "https://www.themarketsdaily.com/2026/10/24/valero-energy-q3-earnings-call-highlights.html",
+      "domain": "themarketsdaily.com",
+      "country": "United States",
+      "published": "2026-10-24T16:00:00+00:00"
+     },
+     {
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.greekherald.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "greekherald.com",
+      "country": "Greece",
+      "published": "2026-10-24T16:00:00+00:00"
+     },
+     {
+      "title": "Nature cant wait ...",
+      "url": "https://www.omanobserver.om/article/1198466/opinion/international/nature-cant-wait",
+      "domain": "omanobserver.om",
+      "country": "Oman",
+      "published": "2026-10-24T16:00:00+00:00"
+     },
+     {
+      "title": "Diplomats call for United Muslim Defence Framework with Pakistan playing Key Role",
+      "url": "https://pakobserver.net/diplomats-call-for-united-muslim-defence-framework-with-pakistan-playing-key-role/",
+      "domain": "pakobserver.net",
+      "country": "Pakistan",
+      "published": "2026-10-24T16:00:00+00:00"
+     },
+     {
+      "title": "California Diesel Averages $8 . 242 as Tandon Blames Iran War",
+      "url": "https://econotimes.com/California-Diesel-Averages-8-242-as-Tandon-Blames-Iran-War-1762567",
       "domain": "econotimes.com",
       "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
+      "published": "2026-10-24T16:00:00+00:00"
      },
      {
-      "title": "Saudi coalition intercepts Houthi missiles targeting cities",
-      "url": "https://www.middle-east-online.com/en/saudi-coalition-intercepts-houthi-missiles-targeting-cities",
-      "domain": "middle-east-online.com",
-      "country": "Iraq",
-      "published": "2026-10-24T14:15:00+00:00"
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.africaleader.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "africaleader.com",
+      "country": "South Africa",
+      "published": "2026-10-24T15:45:00+00:00"
      },
      {
-      "title": "IRGC claims full control over Hormuz as US contemplates fresh strikes on Iran",
-      "url": "http://www.laosnews.net/news/279395973/irgc-claims-full-control-over-hormuz-as-us-contemplates-fresh-strikes-on-iran",
-      "domain": "laosnews.net",
+      "title": "Border demarcation between Egypt - Turkey requires consultation : Foreign Ministry",
+      "url": "https://www.egyptindependent.com/border-demarcation-between-egypt-turkey-requires-consultation-foreign-ministry/",
+      "domain": "egyptindependent.com",
+      "country": "Egypt",
+      "published": "2026-10-24T15:45:00+00:00"
+     },
+     {
+      "title": "Iran says wont allow US warships to get close as Trump ponders new attacks - Grenada Chronicle – Daily Grenada And Caribbean News",
+      "url": "https://grenadachronicle.com/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks/",
+      "domain": "grenadachronicle.com",
       "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
+      "published": "2026-10-24T15:45:00+00:00"
      },
      {
-      "title": "Iranian plots to kill U . S . officials in Middle East have reached  advanced stages , intel memo warns",
-      "url": "https://www.aol.com/articles/iranian-plots-kill-u-officials-114918000.html",
+      "title": "U . S . Orders Non - Emergency Diplomats to Leave Saudi Arabia Following Houthi Strikes – NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-10-24-us-orders-non-emergency-diplomats-leave-saudi.html",
+      "domain": "naturalnews.com",
+      "country": "United States",
+      "published": "2026-10-24T15:45:00+00:00"
+     },
+     {
+      "title": "Trump Claims Ignorance as His Ambassador Threatens Strikes on Iran This Weekend",
+      "url": "https://truthout.org/articles/trump-claims-ignorance-as-his-ambassador-threatens-strikes-on-iran-this-weekend/",
+      "domain": "truthout.org",
+      "country": "United States",
+      "published": "2026-10-24T15:45:00+00:00"
+     },
+     {
+      "title": "US issues travel advisories across Middle East citing Houthi threat",
+      "url": "https://www.al-monitor.com/originals/2026/10/us-issues-travel-advisories-across-middle-east-citing-houthi-threat",
+      "domain": "al-monitor.com",
+      "country": "Israel",
+      "published": "2026-10-24T15:45:00+00:00"
+     },
+     {
+      "title": "US reduces embassy staffing in Mideast amid Iran plots",
+      "url": "https://www.stripes.com/theaters/middle_east/2026-10-24/us-departure-orders-mideast-23247077.html",
+      "domain": "stripes.com",
+      "country": "United States",
+      "published": "2026-10-24T15:45:00+00:00"
+     },
+     {
+      "title": "3 Industrial Stocks Under $50 to Buy in October",
+      "url": "https://www.aol.com/articles/3-industrial-stocks-under-50-145000000.html",
       "domain": "aol.com",
       "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
+      "published": "2026-10-24T15:45:00+00:00"
+     },
+     {
+      "title": "Coalition intercepts two Houthi ballistic missiles on Saudi cities",
+      "url": "https://www.samaa.tv/2087359044-coalition-intercepts-two-houthi-ballistic-missiles-on-saudi-cities",
+      "domain": "samaa.tv",
+      "country": "Pakistan",
+      "published": "2026-10-24T15:45:00+00:00"
+     },
+     {
+      "title": "Leaked Intelligence Memo Reportedly Reveals Iran Is in  Advanced Stage of Plotting Against US Officials",
+      "url": "https://www.ibtimes.co.uk/leaked-intelligence-memo-reportedly-reveals-iran-advanced-stages-plotting-against-us-officials-1827597",
+      "domain": "ibtimes.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-24T15:30:00+00:00"
+     },
+     {
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.argentinastar.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "argentinastar.com",
+      "country": "Argentina",
+      "published": "2026-10-24T15:30:00+00:00"
+     },
+     {
+      "title": "Inflation , earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
+      "url": "http://www.dailyadvance.com/news/national/inflation-earnings-reports-and-the-mood-of-consumers-and-the-federal-reserve-fill-out-a/article_55c4e0d2-cdde-51c0-863b-49afb57d0d66.html",
+      "domain": "dailyadvance.com",
+      "country": "United States",
+      "published": "2026-10-24T15:30:00+00:00"
      }
     ],
     "riesgos_climaticos": [
+     {
+      "title": "Indian 5 pc broken rice prices may rise by USD 60 per tonne amid freight costs , global supply risks : IREF",
+      "url": "http://www.bangladeshsun.com/news/279394921/indian-5-pc-broken-rice-prices-may-rise-by-usd-60-per-tonne-amid-freight-costs-global-supply-risks-iref",
+      "domain": "bangladeshsun.com",
+      "country": "Bangladesh",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Industry Watchdog : USDA Allowing Illegal  Organic  Produce Production",
+      "url": "https://www.foodconsumer.org/usda_allowing_illegal_organic_produce_production_1101161110/",
+      "domain": "foodconsumer.org",
+      "country": "United States",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Haveri reels under 386cr crop loss",
+      "url": "https://timesofindia.indiatimes.com/city/hubballi/haveri-reels-under-386cr-crop-loss/articleshow/135174176.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Nature cant wait ...",
+      "url": "https://www.omanobserver.om/article/1198466/opinion/international/nature-cant-wait",
+      "domain": "omanobserver.om",
+      "country": "Oman",
+      "published": "2026-10-24T16:00:00+00:00"
+     },
+     {
+      "title": "Indian 5 pc broken rice prices may rise by USD 60 per tonne amid freight costs , global supply risks : IREF",
+      "url": "http://www.srilankasource.com/news/279394921/indian-5-pc-broken-rice-prices-may-rise-by-usd-60-per-tonne-amid-freight-costs-global-supply-risks-iref",
+      "domain": "srilankasource.com",
+      "country": "Sri Lanka",
+      "published": "2026-10-24T15:30:00+00:00"
+     },
      {
       "title": "Black gram crops affected by swarming caterpillar pests",
       "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/black-gram-crops-affected-by-swarming-caterpillar-pests/articleshow/135172310.cms",
@@ -1217,611 +970,15 @@
       "domain": "arabnews.com",
       "country": "Saudi Arabia",
       "published": "2026-10-23T08:45:00+00:00"
-     },
-     {
-      "title": "Norfolk farmers urge chancellor to axe  family farm tax",
-      "url": "https://www.edp24.co.uk/news/26659975.norfolk-farmers-urge-chancellor-axe-family-farm-tax/",
-      "domain": "edp24.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T08:45:00+00:00"
-     },
-     {
-      "title": "Nature Cant Wait | Countercurrents",
-      "url": "https://countercurrents.org/2026/10/nature-cant-wait/",
-      "domain": "countercurrents.org",
-      "country": "India",
-      "published": "2026-10-23T07:15:00+00:00"
-     },
-     {
-      "title": "Karnataka seeks Rs 20 , 585 cr NDRF aid as drought loss crosses Rs 62 , 481 cr , DyCM Parameshwara writes to PM Modi",
-      "url": "http://www.indiagazette.com/news/279393655/karnataka-seeks-rs-20585-cr-ndrf-aid-as-drought-loss-crosses-rs-62481-cr-dycm-parameshwara-writes-to-pm-modi",
-      "domain": "indiagazette.com",
-      "country": "India",
-      "published": "2026-10-23T06:45:00+00:00"
-     },
-     {
-      "title": "Karnataka seeks Rs 20 , 585 cr NDRF aid as drought loss crosses Rs 62 , 481 cr , DyCM Parameshwara writes to PM Modi",
-      "url": "https://news.webindia123.com/news/Articles/India/20261023/4514050.html",
-      "domain": "news.webindia123.com",
-      "country": "India",
-      "published": "2026-10-23T06:30:00+00:00"
-     },
-     {
-      "title": "Were breathing in the smoke even as we sleep : Living with haze in Sumatra",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/23/were-breathing-in-the-smoke-even-as-we-sleep-living-with-haze-in-sumatra",
-      "domain": "thestar.com.my",
-      "country": "Malaysia",
-      "published": "2026-10-23T05:30:00+00:00"
-     }
-    ],
-    "produccion_agroindustrial": [
-     {
-      "title": "LankaWeb – Iran - Russia Trade Strategy : Gilan Caspian Gateway and Moscow Growing Pivot to West Asia and Middle East",
-      "url": "https://www.lankaweb.com/news/items/2026/10/24/iran-russia-trade-strategy-gilans-caspian-gateway-and-moscows-growing-pivot-to-west-asia-and-middle-east/",
-      "domain": "lankaweb.com",
-      "country": "Sri Lanka",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "Nigeria Missing Factor of Safety - By Kator Ifyalem",
-      "url": "https://www.opinionnigeria.com/nigerias-missing-factor-of-safety-by-kator-ifyalem/",
-      "domain": "opinionnigeria.com",
-      "country": "Nigeria",
-      "published": "2026-10-24T14:00:00+00:00"
-     },
-     {
-      "title": "Bird flu outbreak sparks fears for Christmas turkey supply as 32 , 000 birds culled",
-      "url": "https://www.aol.co.uk/articles/bird-flu-outbreak-sparks-fears-113148000.html",
-      "domain": "aol.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-24T12:15:00+00:00"
-     },
-     {
-      "title": "Want Cheaper Groceries ? Stop Making Food More Expensive to Produce",
-      "url": "https://redstate.com/jenvanlaar/2026/10/24/affordability-why-the-grocery-bill-is-really-a-supply-chain-story-n2208545",
-      "domain": "redstate.com",
-      "country": "United States",
-      "published": "2026-10-24T11:30:00+00:00"
-     },
-     {
-      "title": "Kenyan Celebrities Turn Fame into Diverse Business Ventures",
-      "url": "https://kenya-today.com/report-kenyan-celebrities-turn-fame-into-diverse-business-ventures-16008/",
-      "domain": "kenya-today.com",
-      "country": "Kenya",
-      "published": "2026-10-24T09:00:00+00:00"
-     },
-     {
-      "title": "WFP Faces USD251Mln Funding Gap As Conflict , Drought Disrupt Food Aid In Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53635/",
-      "domain": "thereporterethiopia.com",
-      "country": "Ethiopia",
-      "published": "2026-10-24T08:15:00+00:00"
-     },
-     {
-      "title": "400 youths trained in poultry production , livestock management – Daily Trust",
-      "url": "https://dailytrust.com/400-youths-trained-in-poultry-production-livestock-management/",
-      "domain": "dailytrust.com",
-      "country": "Niger",
-      "published": "2026-10-24T06:45:00+00:00"
-     },
-     {
-      "title": "JohnVents : Nigerian Agribusiness Giant Quietly Turning Cocoa to Gold – THISDAYLIVE",
-      "url": "https://www.thisdaylive.com/2026/10/24/johnvents-nigerian-agribusiness-giant-quietly-turning-cocoa-to-gold/",
-      "domain": "thisdaylive.com",
-      "country": "Nigeria",
-      "published": "2026-10-24T02:30:00+00:00"
-     },
-     {
-      "title": "Following President Trump Executive Orders , USDA updates its cash cattle market reports to advance transparency",
-      "url": "https://www.thefencepost.com/news/following-president-trumps-executive-orders-usda-updates-its-cash-cattle-market-reports-to-advance-transparency/",
-      "domain": "thefencepost.com",
-      "country": "United States",
-      "published": "2026-10-24T00:00:00+00:00"
-     },
-     {
-      "title": "Volunteers connect ex - battery hens with new owners",
-      "url": "https://www.abc.net.au/news/2026-10-24/charity-finds-battery-hens-new-homes/107292314",
-      "domain": "abc.net.au",
-      "country": "Australia",
-      "published": "2026-10-23T23:00:00+00:00"
-     },
-     {
-      "title": "Entitled Mom Asks Widow To Help Pay For Groceries After Seeing Her Full Cart",
-      "url": "https://www.boredpanda.com/entitled-mom-demands-shoppers-money/?cexp_id=163549&_f=homepage_featured&cexp_var=4",
-      "domain": "boredpanda.com",
-      "country": "United States",
-      "published": "2026-10-23T13:30:00+00:00"
-     },
-     {
-      "title": "Blockchain in supply chains : Building trust , traceability , trade in SA",
-      "url": "https://www.itweb.co.za/article/blockchain-in-supply-chains-building-trust-traceability-trade-in-sa/Gb3BwMWa9Bnv2k6V",
-      "domain": "itweb.co.za",
-      "country": "South Africa",
-      "published": "2026-10-23T13:00:00+00:00"
-     },
-     {
-      "title": "Millions in cheese revenue lost as protest torpedoes Italy buffalo mozzarella output",
-      "url": "https://abc7.com/story/millions-cheese-revenue-lost-protest-torpedoes-italys-buffalo-mozzarella-output/19972078/",
-      "domain": "abc7.com",
-      "country": "United States",
-      "published": "2026-10-23T13:00:00+00:00"
-     },
-     {
-      "title": "Millions in cheese revenue lost as protest torpedoes Italy buffalo mozzarella output",
-      "url": "https://abc30.com/story/millions-cheese-revenue-lost-protest-torpedoes-italys-buffalo-mozzarella-output/19972078/",
-      "domain": "abc30.com",
-      "country": "United States",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "Entitled Mom Asks Widow To Help Pay For Groceries After Seeing Her Full Cart",
-      "url": "https://www.boredpanda.com/entitled-mom-demands-shoppers-money/?cexp_id=163554&_f=homepage_featured&cexp_var=3",
-      "domain": "boredpanda.com",
-      "country": "United States",
-      "published": "2026-10-23T12:30:00+00:00"
-     },
-     {
-      "title": "Youth - led agribusiness venture rewrites Kenya farming narrative",
-      "url": "https://www.standardmedia.co.ke/smart-harvest/article/2001560716/youth-led-agribusiness-venture-rewrites-kenyas-farming-narrative",
-      "domain": "standardmedia.co.ke",
-      "country": "Kenya",
-      "published": "2026-10-23T12:00:00+00:00"
-     },
-     {
-      "title": "Something to cluck about",
-      "url": "https://www.theunion.com/news/something-to-cluck-about/article_a0c627d7-c6eb-428d-9ce1-212e60712bc7.html",
-      "domain": "theunion.com",
-      "country": "United States",
-      "published": "2026-10-23T11:30:00+00:00"
-     },
-     {
-      "title": "Edo woos Saudi investors for 2027 agric , livestock summit",
-      "url": "https://punchng.com/edo-woos-saudi-investors-for-2027-agric-livestock-summit/",
-      "domain": "punchng.com",
-      "country": "Nigeria",
-      "published": "2026-10-23T10:00:00+00:00"
-     },
-     {
-      "title": "Britain barley harvest slumps to lowest level in 15 years",
-      "url": "https://www.farminguk.com/news/britain-s-barley-harvest-slumps-to-lowest-level-in-15-years_69353.html",
-      "domain": "farminguk.com",
-      "country": "United Kingdom",
-      "published": "2026-10-23T09:30:00+00:00"
-     },
-     {
-      "title": "Publisher Platform : Fifty people sick , a known supplier , and FDA still wont say its name . That is wrong , and here is how we fix it .",
-      "url": "https://www.foodsafetynews.com/2026/10/fifty-people-sick-a-known-supplier-and-fda-still-wont-say-its-name-that-is-wrong-and-here-is-how-we-fix-it/",
-      "domain": "foodsafetynews.com",
-      "country": "United States",
-      "published": "2026-10-23T08:30:00+00:00"
-     },
-     {
-      "title": "An Australian chicken farmer found a way to turn 35 , 000 tonnes of poultry waste into electricity , fertiliser and natural food dye ; a larger plant could power 1 , 200 homes",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/an-australian-chicken-farmer-found-a-way-to-turn-35000-tonnes-of-poultry-waste-into-electricity-fertiliser-and-natural-food-dye-a-larger-plant-could-power-1200-homes/articleshow/135137336.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-23T07:15:00+00:00"
-     },
-     {
-      "title": "COMMUNITY NOTES",
-      "url": "https://www.suncommercial.com/gcdailyworld/gcdailyworld/article_d214671c-178c-57d0-810f-87c8cb5b2964.html",
-      "domain": "suncommercial.com",
-      "country": "United States",
-      "published": "2026-10-23T06:30:00+00:00"
-     },
-     {
-      "title": "Chicken meat price soars to Rs720 / kg in Hyderabad",
-      "url": "https://tribune.com.pk/story/2636450/chicken-meat-price-soars-to-rs720kg-in-hyderabad",
-      "domain": "tribune.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-23T06:00:00+00:00"
-     },
-     {
-      "title": "FG targets livestock emissions , warns climate change threatens",
-      "url": "https://thesun.ng/fg-targets-livestock-emissions-warns-climate-change-threatens-food-security/",
-      "domain": "thesun.ng",
-      "country": "",
-      "published": "2026-10-23T05:30:00+00:00"
-     },
-     {
-      "title": "Washington faces critical veterinarian shortage",
-      "url": "https://www.fox13seattle.com/news/renton-wa-alpaca-fighting-vet-shortages",
-      "domain": "fox13seattle.com",
-      "country": "",
-      "published": "2026-10-23T04:30:00+00:00"
-     },
-     {
-      "title": "Food Outbreaks Abound : Is Your Recall Plan Ready ?",
-      "url": "https://www.powderbulksolids.com/product-recalls/as-outbreaks-abound-are-you-prepared-5-tips-for-recall-readiness",
-      "domain": "powderbulksolids.com",
-      "country": "United States",
-      "published": "2026-10-23T03:15:00+00:00"
-     },
-     {
-      "title": "Turkmenistan Boosts Food Security with New 60 , 000 - Ton Vegetable Oil Facility in Dashoguz Region",
-      "url": "https://www.newscentralasia.net/2026/10/23/turkmenistan-boosts-food-security-with-new-60000-ton-vegetable-oil-facility-in-dashoguz-region/",
-      "domain": "newscentralasia.net",
-      "country": "Turkmenistan",
-      "published": "2026-10-23T02:30:00+00:00"
-     },
-     {
-      "title": "Cargill invests US$130m to expand poultry operations in Asia",
-      "url": "https://www.foodprocessing.com.au/content/processing/news/cargill-invests-us-130m-to-expand-poultry-operations-in-asia-52896162",
-      "domain": "foodprocessing.com.au",
-      "country": "Australia",
-      "published": "2026-10-23T02:30:00+00:00"
-     },
-     {
-      "title": "Barron County poultry flock quarantined after highly pathogenic bird flu confirmed",
-      "url": "https://www.wxow.com/news/wisconsin-news/barron-county-poultry-flock-quarantined-after-highly-pathogenic-bird-flu-confirmed/article_4804d843-d941-4cd6-b595-d46724b70a6a.html",
-      "domain": "wxow.com",
-      "country": "United States",
-      "published": "2026-10-22T23:45:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.wxii12.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "wxii12.com",
-      "country": "United States",
-      "published": "2026-10-22T23:15:00+00:00"
-     },
-     {
-      "title": "Critical Comparison : ONEOK ( NYSE : OKE ) vs . Hafnia ( NYSE : HAFN )",
-      "url": "https://www.dailypolitical.com/2026/10/22/critical-comparison-oneok-nyseoke-vs-hafnia-nysehafn.html",
-      "domain": "dailypolitical.com",
-      "country": "United States",
-      "published": "2026-10-22T22:45:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.kcci.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "kcci.com",
-      "country": "United States",
-      "published": "2026-10-22T22:30:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.wvtm13.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "wvtm13.com",
-      "country": "United States",
-      "published": "2026-10-22T22:15:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.wgal.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "wgal.com",
-      "country": "United States",
-      "published": "2026-10-22T22:00:00+00:00"
-     },
-     {
-      "title": "Millions in revenue lost as protest torpedoes Italy mozzarella output",
-      "url": "https://www.sandiegouniontribune.com/2026/10/22/italy-mozzarella-protest/",
-      "domain": "sandiegouniontribune.com",
-      "country": "United States",
-      "published": "2026-10-22T21:30:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.wmtw.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "wmtw.com",
-      "country": "United States",
-      "published": "2026-10-22T21:15:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.wapt.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "wapt.com",
-      "country": "United States",
-      "published": "2026-10-22T21:15:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.koat.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "koat.com",
-      "country": "United States",
-      "published": "2026-10-22T21:00:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.wcvb.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "wcvb.com",
-      "country": "United States",
-      "published": "2026-10-22T21:00:00+00:00"
-     },
-     {
-      "title": "Millions in cheese revenue lost as protest torpedoes Italy buffalo mozzarella output",
-      "url": "https://www.mykxlg.com/news/world/millions-in-cheese-revenue-lost-as-protest-torpedoes-italys-buffalo-mozzarella-output/article_57071878-3d49-5b2b-865f-a7c3091771d0.html",
-      "domain": "mykxlg.com",
-      "country": "United States",
-      "published": "2026-10-22T21:00:00+00:00"
-     }
-    ],
-    "economia_mundial": [
-     {
-      "title": "500 GW by 2030 : Experts explain why India needs to power up battery storage capacity and grid infra to meet the target",
-      "url": "https://www.livemint.com/economy/500-gw-by-2030-experts-explain-why-india-needs-to-power-up-battery-storage-capacity-and-grid-infra-to-meet-the-target-11792841374196.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-10-24T15:30:00+00:00"
-     },
-     {
-      "title": "If the rent too high , house payments are worse – Marin Independent Journal",
-      "url": "https://www.marinij.com/2026/10/24/if-the-rents-too-high-house-payments-are-worse/",
-      "domain": "marinij.com",
-      "country": "United States",
-      "published": "2026-10-24T15:30:00+00:00"
-     },
-     {
-      "title": "New $50 Polymarket promo code  ROCKY  updated for Tennessee football",
-      "url": "https://www.rockytopinsider.com/2026/10/24/polymarket-promo-code-rocky-tennessee-vs-south-carolina-odds/",
-      "domain": "rockytopinsider.com",
-      "country": "United States",
-      "published": "2026-10-24T15:30:00+00:00"
-     },
-     {
-      "title": "5 Retirement Account Mistakes That Could Cost You",
-      "url": "https://www.kiplinger.com/retirement/happy-retirement/halloween-jump-scares-hiding-in-your-retirement-account",
-      "domain": "kiplinger.com",
-      "country": "United States",
-      "published": "2026-10-24T15:30:00+00:00"
-     },
-     {
-      "title": "Sterling Capital Management LLC Purchases 96 , 391 Shares of Marvell Technology , Inc . $MRVL",
-      "url": "https://www.themarketsdaily.com/2026/10/24/sterling-capital-management-llc-purchases-96391-shares-of-marvell-technology-inc-mrvl.html",
-      "domain": "themarketsdaily.com",
-      "country": "United States",
-      "published": "2026-10-24T15:30:00+00:00"
-     },
-     {
-      "title": "IMF forecasts UAE economic growth of 7 . 7 % in 2027",
-      "url": "http://www.srilankasource.com/news/279392798/imf-forecasts-uae-economic-growth-of-77-in-2027",
-      "domain": "srilankasource.com",
-      "country": "Sri Lanka",
-      "published": "2026-10-24T15:30:00+00:00"
-     },
-     {
-      "title": "RBI Rs 2 . 5 lakh crore liquidity infusion raises questions over tightening policy signal : SBI Report",
-      "url": "http://www.srilankasource.com/news/279394812/rbi-rs-25-lakh-crore-liquidity-infusion-raises-questions-over-tightening-policy-signal-sbi-report",
-      "domain": "srilankasource.com",
-      "country": "Sri Lanka",
-      "published": "2026-10-24T15:30:00+00:00"
-     },
-     {
-      "title": "Kotak Bank sees margins stabilizing as FCNR drag offsets repo gains",
-      "url": "https://www.livemint.com/industry/banking/kotak-mahindra-bank-ashok-vaswani-net-interest-margin-nim-fcnr-b-deposits-repo-rate-loan-repricing-rbi-11792848626922.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-10-24T15:15:00+00:00"
-     },
-     {
-      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – Fort Bragg Advocate - News",
-      "url": "https://www.advocate-news.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
-      "domain": "advocate-news.com",
-      "country": "United States",
-      "published": "2026-10-24T15:15:00+00:00"
-     },
-     {
-      "title": "MBL Wealth LLC Purchases New Stake in CBRE Group , Inc . $CBRE",
-      "url": "https://www.tickerreport.com/banking-finance/13635132/mbl-wealth-llc-purchases-new-stake-in-cbre-group-inc-cbre.html",
-      "domain": "tickerreport.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "Gene - Edited Cannabis Is Already Here . Who Gets to Own It ?",
-      "url": "https://hightimes.com/grow/gene-edited-cannabis-is-already-here-who-gets-to-own-it/",
-      "domain": "hightimes.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "On Egypt visit , UN chief Guterres says",
-      "url": "http://www.israelherald.com/news/279396017/on-egypt-visit-un-chief-guterres-says-we-need-to-stop-the-widening-of-war",
-      "domain": "israelherald.com",
-      "country": "Israel",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "IMF forecasts UAE economic growth of 7 . 7 % in 2027",
-      "url": "http://www.cambodiantimes.com/news/279392798/imf-forecasts-uae-economic-growth-of-77-in-2027",
-      "domain": "cambodiantimes.com",
-      "country": "Cambodia",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "RBI Rs 2 . 5 lakh crore liquidity infusion raises questions over tightening policy signal : SBI Report",
-      "url": "http://www.cambodiantimes.com/news/279394812/rbi-rs-25-lakh-crore-liquidity-infusion-raises-questions-over-tightening-policy-signal-sbi-report",
-      "domain": "cambodiantimes.com",
-      "country": "Cambodia",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "5 Top Dividend Stocks Yielding 5 % or More to Buy Right Now for Passive Income",
-      "url": "https://www.aol.com/articles/5-top-dividend-stocks-yielding-133500000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Did Jeff Bezos just buy a $69 . 5 million oceanfront mansion in Golden Beach near Miami Billionaire Bunker ? Record - breaking deal could expand his $234 million real estate portfolio",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/did-jeff-bezos-just-buy-a-69-5-million-oceanfront-mansion-in-golden-beach-near-miamis-billionaire-bunker-record-breaking-deal-could-expand-his-234-million-real-estate-portfolio/articleshow/135171379.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Coinbase Bitcoin ( BTC ) Discount Narrows as Prime Volume Falls 32 %",
-      "url": "https://econotimes.com/Coinbase-Bitcoin-BTC-Discount-Narrows-as-Prime-Volume-Falls-32-1762516",
-      "domain": "econotimes.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "The Puzzle Pieces for a Stock Market Crash Are Taking Shape , With 4 Historically Flawless Indicators Now Sounding the Alarm",
-      "url": "https://www.aol.com/articles/puzzle-pieces-stock-market-crash-132602000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Dave Ramsey Calls 2026 Crash Predictions  Freaking Asinine . Here What the Data Says .",
-      "url": "https://www.aol.com/articles/dave-ramsey-calls-2026-crash-131531000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "On Egypt visit , UN chief Guterres says",
-      "url": "http://www.azerbaijannews.net/news/279396017/on-egypt-visit-un-chief-guterres-says-we-need-to-stop-the-widening-of-war",
-      "domain": "azerbaijannews.net",
-      "country": "Azerbaijan",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Grain marketing strategies : Sell high , then sell higher",
-      "url": "https://www.manitobacooperator.ca/crops/sell-high-then-sell-higher-grain-marketing-strategies-for-manitoba-farmers-managing-risk/",
-      "domain": "manitobacooperator.ca",
-      "country": "Canada",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "D . C . Memo : As election nears , corruption tops voter concerns",
-      "url": "http://www.minnpost.com/dc-memo/2026/10/d-c-memo-as-midterm-election-nears-corruption-tops-voter-concerns-beating-out-inflation-healthcare/",
-      "domain": "minnpost.com",
-      "country": "United States",
-      "published": "2026-10-24T14:30:00+00:00"
-     },
-     {
-      "title": "Karol G Concert in Buenos Aires , 5 February 2027 Guide",
-      "url": "https://www.riotimesonline.com/karol-g-buenos-aires-river-plate-concert-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-24T14:15:00+00:00"
-     },
-     {
-      "title": "IMF forecasts UAE economic growth of 7 . 7 % in 2027",
-      "url": "http://www.laosnews.net/news/279392798/imf-forecasts-uae-economic-growth-of-77-in-2027",
-      "domain": "laosnews.net",
-      "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
-     },
-     {
-      "title": "Who Runs Panama Economy , the Key Players in 2026",
-      "url": "https://www.riotimesonline.com/panama-economy-key-players-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-24T14:15:00+00:00"
-     },
-     {
-      "title": "Conagra Has Already Cut Its Dividend . Can Kraft Heinz Avoid the Same Fate ?",
-      "url": "https://247wallst.com/investing/2026/10/24/conagra-has-already-cut-its-dividend-can-kraft-heinz-avoid-the-same-fate/",
-      "domain": "247wallst.com",
-      "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
-     },
-     {
-      "title": "RBI Rs 2 . 5 lakh crore liquidity infusion raises questions over tightening policy signal : SBI Report",
-      "url": "http://www.laosnews.net/news/279394812/rbi-rs-25-lakh-crore-liquidity-infusion-raises-questions-over-tightening-policy-signal-sbi-report",
-      "domain": "laosnews.net",
-      "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
-     },
-     {
-      "title": "Foreign Powers and Investors in Rwanda 2026",
-      "url": "https://www.riotimesonline.com/rwanda-foreign-players-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-24T14:15:00+00:00"
-     },
-     {
-      "title": "Brasília Monumental Marathon 2026 : Dates , Entry , Times",
-      "url": "https://www.riotimesonline.com/brasilia-monumental-marathon-guide-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-24T14:15:00+00:00"
-     },
-     {
-      "title": "The coming storm of America debt correction",
-      "url": "https://www.aol.com/articles/coming-storm-america-debt-correction-110000000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
-     },
-     {
-      "title": "The Puzzle Pieces for a Stock Market Crash Are Taking Shape , With 4 Historically Flawless Indicators Now Sounding the Alarm",
-      "url": "https://www.fool.com/investing/2026/10/24/puzzle-pieces-for-stock-market-crash-taking-shape-4-historically-flawless-indicators-sound-alarm/?source=iedfolrf0000001",
-      "domain": "fool.com",
-      "country": "United States",
-      "published": "2026-10-24T14:00:00+00:00"
-     },
-     {
-      "title": "RBI Rs 2 . 5 lakh crore liquidity infusion raises questions over tightening policy signal : SBI Report",
-      "url": "http://www.bruneinews.net/news/279394812/rbi-rs-25-lakh-crore-liquidity-infusion-raises-questions-over-tightening-policy-signal-sbi-report",
-      "domain": "bruneinews.net",
-      "country": "Malaysia",
-      "published": "2026-10-24T13:45:00+00:00"
-     },
-     {
-      "title": "On Egypt visit , UN chief Guterres says",
-      "url": "http://www.sierraleonetimes.com/news/279396017/on-egypt-visit-un-chief-guterres-says-we-need-to-stop-the-widening-of-war",
-      "domain": "sierraleonetimes.com",
-      "country": "Sierra Leone",
-      "published": "2026-10-24T13:45:00+00:00"
-     },
-     {
-      "title": "On Egypt visit , UN chief Guterres says",
-      "url": "http://www.bruneinews.net/news/279396017/on-egypt-visit-un-chief-guterres-says-we-need-to-stop-the-widening-of-war",
-      "domain": "bruneinews.net",
-      "country": "Malaysia",
-      "published": "2026-10-24T13:45:00+00:00"
-     },
-     {
-      "title": "Value - added rice products can boost farmer incomes , open new markets for India : Industry experts",
-      "url": "https://aninews.in/news/business/value-added-rice-products-can-boost-farmers-incomes-open-new-markets-for-india-industry-experts20261024185910/",
-      "domain": "aninews.in",
-      "country": "India",
-      "published": "2026-10-24T13:45:00+00:00"
-     },
-     {
-      "title": "Europe Intelligence Brief for Saturday , October 24 , 2026",
-      "url": "https://www.riotimesonline.com/europe-intelligence-brief-saturday-october-24-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-24T13:30:00+00:00"
-     },
-     {
-      "title": "Onion , tomato , potato prices : Which months see the biggest jumps , and why ?",
-      "url": "https://www.businesstoday.in/latest/economy/story/onion-tomato-potato-prices-which-months-see-the-biggest-jumps-and-why-563452-2026-10-24",
-      "domain": "businesstoday.in",
-      "country": "India",
-      "published": "2026-10-24T13:30:00+00:00"
-     },
-     {
-      "title": "On Egypt visit , UN chief Guterres says",
-      "url": "http://www.zimbabwestar.com/news/279396017/on-egypt-visit-un-chief-guterres-says-we-need-to-stop-the-widening-of-war",
-      "domain": "zimbabwestar.com",
-      "country": "Zimbabwe",
-      "published": "2026-10-24T13:30:00+00:00"
-     },
-     {
-      "title": "Smart Investor : How to Hedge the AI Trade , CoreWeave Tumble , and the Outlook For Inflation",
-      "url": "https://www.morningstar.com/markets/smart-investor-how-hedge-ai-trade-coreweaves-tumble-outlook-inflation",
-      "domain": "morningstar.com",
-      "country": "China",
-      "published": "2026-10-24T13:15:00+00:00"
-     },
-     {
-      "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
-      "url": "https://www.morningstar.com/news/marketwatch/20261024116/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit",
-      "domain": "morningstar.com",
-      "country": "China",
-      "published": "2026-10-24T13:15:00+00:00"
      }
     ]
    },
    "errors": {
+    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
