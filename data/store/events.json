@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-23T19:05:10-06:00",
+  "at": "2026-10-23T21:48:14-06:00",
   "data": {
    "storms": [
     {
@@ -9,100 +9,100 @@
      "binNumber": "EP2",
      "name": "Vance",
      "classification": "HU",
-     "intensity": "90",
-     "pressure": "971",
-     "latitude": "11.2N",
-     "longitude": "102.3W",
-     "latitudeNumeric": 11.2,
-     "longitudeNumeric": -102.3,
-     "movementDir": 325,
-     "movementSpeed": 5,
-     "lastUpdate": "2026-10-23T21:00:00.000Z",
+     "intensity": "95",
+     "pressure": "965",
+     "latitude": "12.0N",
+     "longitude": "102.6W",
+     "latitudeNumeric": 12,
+     "longitudeNumeric": -102.6,
+     "movementDir": 345,
+     "movementSpeed": 7,
+     "lastUpdate": "2026-10-24T03:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "010",
-      "issuance": "2026-10-23T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T20:39:00.961Z",
+      "advNum": "011",
+      "issuance": "2026-10-24T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-24T02:45:36.311Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "010",
-      "issuance": "2026-10-23T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T20:38:33.263Z",
+      "advNum": "011",
+      "issuance": "2026-10-24T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-24T02:45:36.269Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCMEP2.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "010",
-      "issuance": "2026-10-23T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T20:39:00.399Z",
+      "advNum": "011",
+      "issuance": "2026-10-24T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-24T02:46:03.732Z",
       "url": "https://www.nhc.noaa.gov/text/MIAPWSEP2.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "010",
-      "issuance": "2026-10-23T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T20:40:32.916Z",
+      "advNum": "011",
+      "issuance": "2026-10-24T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-24T03:38:35.470Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCDEP2.shtml"
      },
      "forecastGraphics": {
-      "advNum": "010",
-      "issuance": "2026-10-23T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T20:39:00.961Z",
+      "advNum": "011",
+      "issuance": "2026-10-24T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-24T02:45:36.311Z",
       "url": "https://www.nhc.noaa.gov/graphics_ep2.shtml"
      },
      "forecastTrack": {
-      "advNum": "010",
-      "issuance": "2026-10-23T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T20:42:30.334Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_010.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_010adv_TRACK.kmz"
+      "advNum": "011",
+      "issuance": "2026-10-24T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-24T03:39:52.089Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_011.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_011adv_TRACK.kmz"
      },
      "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "010",
-      "issuance": "2026-10-23T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T20:42:24.767Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_010.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_010adv_CONE.kmz"
+      "advNum": "011",
+      "issuance": "2026-10-24T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-24T03:39:46.493Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_011.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_011adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "010",
-      "issuance": "2026-10-23T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T20:42:59.210Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_010.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_010adv.kmz"
+      "advNum": "011",
+      "issuance": "2026-10-24T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-24T03:40:22.461Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_011.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_011adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "010",
-      "issuance": "2026-10-23T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T20:42:55.475Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_010.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_010adv.kmz"
+      "advNum": "011",
+      "issuance": "2026-10-24T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-24T03:40:18.508Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_011.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_011adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-10-23T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T20:42:39.463Z",
+      "issuance": "2026-10-24T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-24T03:40:01.233Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "010",
-      "issuance": "2026-10-23T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T20:42:26.639Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_010adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "011",
+      "issuance": "2026-10-24T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-24T03:39:48.406Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_011adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "010",
-      "issuance": "2026-10-23T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T20:42:28.490Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_010adv_most_likely_toa_34.kmz"
+      "advNum": "011",
+      "issuance": "2026-10-24T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-24T03:39:50.242Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_011adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-10-23T18:00:00.000Z",
-      "fileUpdateTime": "2026-10-23T21:23:05.551Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102318_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102318_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102318_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102318_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102318_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-10-24T00:00:00.000Z",
+      "fileUpdateTime": "2026-10-24T03:22:50.289Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102400_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102400_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102400_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102400_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102400_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-23T19:05:10-06:00",
+  "at": "2026-10-23T21:48:14-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,65 +123,163 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-23T19:05:10-06:00",
+  "at": "2026-10-23T21:48:14-06:00",
   "data": {
    "raw": {
-    "energia": [
+    "comercio_internacional": [
      {
-      "title": "Energy experts predict high gas prices will stick around",
-      "url": "https://www.wyff4.com/article/oil-surge-strait-of-hormuz-gas-prices-rise/74234009",
-      "domain": "wyff4.com",
+      "title": "Why Arizona Prices Are Rising Faster Than Paychecks",
+      "url": "https://kwcdcountry.com/ixp/1122/p/inflation-arizona-families-budget/",
+      "domain": "kwcdcountry.com",
+      "country": "",
+      "published": "2026-10-24T03:00:00+00:00"
+     },
+     {
+      "title": "First tanker of Russian diesel sets sail for the US in Trump controversial deal with Putin",
+      "url": "https://www.idahostatejournal.com/news/national/first-tanker-of-russian-diesel-sets-sail-for-the-us-in-trumps-controversial-deal-with/article_286f27cb-2a17-5d71-8c5a-8bf912fb4e8f.html",
+      "domain": "idahostatejournal.com",
       "country": "United States",
-      "published": "2026-10-24T00:45:00+00:00"
+      "published": "2026-10-24T03:00:00+00:00"
      },
      {
-      "title": "Fortescue Q1 FY27 iron ore shipments fall 5 . 8 % YoY to 46 . 8 Mt ; lump share rises to 8 . 1 %",
-      "url": "https://www.hellenicshippingnews.com/fortescue-q1-fy27-iron-ore-shipments-fall-5-8-yoy-to-46-8-mt-lump-share-rises-to-8-1/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
-      "published": "2026-10-24T00:45:00+00:00"
-     },
-     {
-      "title": "Energy experts predict high gas prices will stick around",
-      "url": "https://www.wjcl.com/article/oil-surge-strait-of-hormuz-gas-prices-rise/74234009",
-      "domain": "wjcl.com",
+      "title": "The bond market just sent home buyers an unexpected signal",
+      "url": "https://www.aol.com/articles/bond-market-just-sent-home-230300000.html",
+      "domain": "aol.com",
       "country": "United States",
-      "published": "2026-10-24T00:45:00+00:00"
+      "published": "2026-10-24T02:45:00+00:00"
      },
      {
-      "title": "Everyone concerned : New Hampshire voters frustrated with costs and corruption",
-      "url": "https://upnorthlive.com/news/nation-world/everyones-concerned-new-hampshire-voters-frustrated-with-costs-and-corruption-chris-pappas-john-sununu",
-      "domain": "upnorthlive.com",
+      "title": "Decoding Rubio quick second visit to India",
+      "url": "https://www.hindustantimes.com/opinion/decoding-rubio-s-quick-second-visit-to-india-101792782847084.html",
+      "domain": "hindustantimes.com",
+      "country": "India",
+      "published": "2026-10-24T02:45:00+00:00"
+     },
+     {
+      "title": "FXStreet Says TD Expects Bank of Canada to Hold Before Two Rate Hikes",
+      "url": "https://econotimes.com/FXStreet-Says-TD-Expects-Bank-of-Canada-to-Hold-Before-Two-Rate-Hikes-1761922",
+      "domain": "econotimes.com",
       "country": "United States",
-      "published": "2026-10-24T00:45:00+00:00"
+      "published": "2026-10-24T02:45:00+00:00"
      },
      {
-      "title": "Everyone concerned : New Hampshire voters frustrated with costs and corruption",
-      "url": "https://komonews.com/news/nation-world/everyones-concerned-new-hampshire-voters-frustrated-with-costs-and-corruption-chris-pappas-john-sununu",
-      "domain": "komonews.com",
+      "title": "Rising health care costs are pushing people to forgo medicine and doctor visits",
+      "url": "https://www.adn.com/nation-world/2026/10/23/rising-health-care-costs-are-pushing-people-to-forgo-medicine-and-doctor-visits/",
+      "domain": "adn.com",
       "country": "United States",
-      "published": "2026-10-24T00:45:00+00:00"
+      "published": "2026-10-24T02:45:00+00:00"
      },
      {
-      "title": "Daily Gold Trading Report - Friday , October 23 , 2026",
-      "url": "https://www.investorideas.com/news/2026/mining/10231-daily-gold-trading-report-friday-october-23-2026.asp",
-      "domain": "investorideas.com",
+      "title": "Smucker , Mannion clash over Trump  One Big Beautiful Bill  in sole debate of campaign season | Politics",
+      "url": "https://lancasteronline.com/news/politics/smucker-mannion-clash-over-trump-s-one-big-beautiful-bill-in-sole-debate-of-campaign/article_82694048-4cfb-4a75-8213-34bf0333887e.html",
+      "domain": "lancasteronline.com",
       "country": "United States",
-      "published": "2026-10-24T00:45:00+00:00"
+      "published": "2026-10-24T02:30:00+00:00"
      },
      {
-      "title": "Dominion Energy ( D ) – Research Analyst Weekly Ratings Updates",
-      "url": "https://www.tickerreport.com/banking-finance/13634540/dominion-energy-d-research-analysts-weekly-ratings-updates.html",
-      "domain": "tickerreport.com",
+      "title": "Lula accuses Bolsonaro of  licking Trump boots  in the final debate MercoPress",
+      "url": "https://en.mercopress.com/2026/10/24/lula-accuses-bolsonaro-of-licking-trump-s-boots-in-the-final-debate",
+      "domain": "en.mercopress.com",
+      "country": "Argentina",
+      "published": "2026-10-24T02:30:00+00:00"
+     },
+     {
+      "title": "Benedict Oramah : Africa Must Build Its Own AI Models , Not Just Supply the Data – THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/10/24/benedict-oramah-africa-must-build-its-own-ai-models-not-just-supply-the-data/",
+      "domain": "thisdaylive.com",
+      "country": "Nigeria",
+      "published": "2026-10-24T02:30:00+00:00"
+     },
+     {
+      "title": "Cafe to carry on at Santa Rosa Trail House as corporate company Specialized closes bike shop",
+      "url": "https://www.pressdemocrat.com/2026/10/23/trail-house-bike-shop-santa-rosa-closed-specialized/",
+      "domain": "pressdemocrat.com",
       "country": "United States",
+      "published": "2026-10-24T02:30:00+00:00"
+     },
+     {
+      "title": "One gut punch after another  - Turek questions farm relief as Hinson campaign defends her record",
+      "url": "https://www.kwqc.com:443/2026/10/23/one-gut-punch-after-another-turek-questions-farm-relief-hinson-campaign-defends-her-record/",
+      "domain": "kwqc.com",
+      "country": "United States",
+      "published": "2026-10-24T02:30:00+00:00"
+     },
+     {
+      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – San Gabriel Valley Tribune",
+      "url": "https://www.sgvtribune.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
+      "domain": "sgvtribune.com",
+      "country": "United States",
+      "published": "2026-10-24T02:30:00+00:00"
+     },
+     {
+      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – Press Telegram",
+      "url": "https://www.presstelegram.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
+      "domain": "presstelegram.com",
+      "country": "United States",
+      "published": "2026-10-24T02:30:00+00:00"
+     },
+     {
+      "title": "First tanker of Russian diesel sets sail for the US in Trump controversial deal with Putin",
+      "url": "https://lancasteronline.com/business/nation/first-tanker-of-russian-diesel-sets-sail-for-the-us-in-trumps-controversial-deal-with/article_4cbe5881-8130-509d-9642-0d4b7a1d1ce8.html",
+      "domain": "lancasteronline.com",
+      "country": "United States",
+      "published": "2026-10-24T02:30:00+00:00"
+     },
+     {
+      "title": "Kevin Westphal Sings About  The Food Inflation Blues",
+      "url": "https://cashboxcanada.ca/features-music/kevin-westphal-sings-about-food-inflation-blues/7817",
+      "domain": "cashboxcanada.ca",
+      "country": "Canada",
+      "published": "2026-10-24T02:00:00+00:00"
+     },
+     {
+      "title": "Russian Diesel Cargo Expected in New York Nov . 7 , Shipping Data Show",
+      "url": "https://econotimes.com/Russian-Diesel-Cargo-Expected-in-New-York-Nov-7-Shipping-Data-Show-1761883",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-24T02:00:00+00:00"
+     },
+     {
+      "title": "The EU Stubbornly Continues Its Russian Energy Dependency - OpEd",
+      "url": "https://www.eurasiareview.com/24102026-the-eu-stubbornly-continues-its-russian-energy-dependency-oped/",
+      "domain": "eurasiareview.com",
+      "country": "United States",
+      "published": "2026-10-24T01:15:00+00:00"
+     },
+     {
+      "title": "Tucson Now : Congresswoman Grijalva plan to keep U . S . House AZ - 07",
+      "url": "https://www.kold.com/2026/10/23/tucson-now-congresswoman-grijalvas-plan-keep-us-house-az-07/",
+      "domain": "kold.com",
+      "country": "United States",
+      "published": "2026-10-24T01:15:00+00:00"
+     },
+     {
+      "title": "Food Banks Canada and Second Harvest to distribute federal food money",
+      "url": "https://www.manitobacooperator.ca/daily/food-banks-canada-and-second-harvest-to-distribute-federal-food-money/",
+      "domain": "manitobacooperator.ca",
+      "country": "Canada",
       "published": "2026-10-24T00:45:00+00:00"
      },
      {
-      "title": "Crude oil up 85 % in 2026 poses threat to global economy ; Brent may hit $120 | Hellenic Shipping News Worldwide",
-      "url": "https://www.hellenicshippingnews.com/crude-oil-up-85-in-2026-poses-threat-to-global-economy-brent-may-hit-120/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
+      "title": "Letters to the Editor : Oct . 23 , 2026",
+      "url": "https://www.pentictonherald.ca/opinion/letters_to_editor/article_e2c0fc88-b7ca-4b21-b909-1e6e37c9ddbf.html",
+      "domain": "pentictonherald.ca",
+      "country": "Canada",
       "published": "2026-10-24T00:45:00+00:00"
+     },
+     {
+      "title": "Trump administration dropping and adding some tariffs on Canadian exports",
+      "url": "https://www.delta-optimist.com/national-news/trump-administration-dropping-and-adding-some-tariffs-on-canadian-exports-12931689",
+      "domain": "delta-optimist.com",
+      "country": "Canada",
+      "published": "2026-10-24T00:45:00+00:00"
+     },
+     {
+      "title": "Kansas Senate candidates disagree over impact of tariffs | Trusted News Source for Wichita & Kansas",
+      "url": "https://www.kake.com/home/kansas-manufacturing-business-responds-to-candidates-conflicting-accounts-of-tariff-effects/article_0d859d0c-ca8a-4c31-a5e9-a2dd2d6ef2db.html",
+      "domain": "kake.com",
+      "country": "United States",
+      "published": "2026-10-24T00:30:00+00:00"
      },
      {
       "title": "Ohio could decide control of the Senate . Its rural voters might decide the winner",
@@ -205,51 +303,23 @@
       "published": "2026-10-24T00:30:00+00:00"
      },
      {
-      "title": "Energy experts predict high gas prices will stick around",
-      "url": "https://www.4029tv.com/article/oil-surge-strait-of-hormuz-gas-prices-rise/74234009",
-      "domain": "4029tv.com",
+      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – Loveland Reporter - Herald",
+      "url": "https://www.reporterherald.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
+      "domain": "reporterherald.com",
       "country": "United States",
       "published": "2026-10-24T00:30:00+00:00"
      },
      {
-      "title": "Operations Software Jobs in Macae",
-      "url": "https://www.rigzone.com/news/wire/brent_tops_116_as_middle_east_risks_grow-23-oct-2026-184925-article/",
-      "domain": "rigzone.com",
-      "country": "United States",
+      "title": "Trump administration dropping and adding some tariffs on Canadian exports",
+      "url": "https://www.airdriecityview.com/national-business/trump-administration-dropping-and-adding-some-tariffs-on-canadian-exports-12931582",
+      "domain": "airdriecityview.com",
+      "country": "Canada",
       "published": "2026-10-24T00:30:00+00:00"
      },
      {
-      "title": "Energy experts predict high gas prices will stick around",
-      "url": "https://www.wmur.com/article/oil-surge-strait-of-hormuz-gas-prices-rise/74234009",
-      "domain": "wmur.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Physical Oil Prices Drop in Mideast",
-      "url": "https://www.rigzone.com/news/wire/physical_oil_prices_drop_in_mideast-23-oct-2026-184922-article/",
-      "domain": "rigzone.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Abuja Petrol Prices Remain Above N1 , 350 NNPCL Rate",
-      "url": "https://zalebs.com/business/nnpcl-petrol-prices-stay-above-proposed-n1350-litre-rate-in-abuja/",
-      "domain": "zalebs.com",
-      "country": "South Africa",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "US designates helium as a critical material , citing its importance for semiconductors",
-      "url": "https://www.troyrecord.com/2026/10/23/helium-critical-material-designation/",
+      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – Troy Record",
+      "url": "https://www.troyrecord.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
       "domain": "troyrecord.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Wall Street loses ground under pressure from rising oil prices",
-      "url": "https://www.thesunchronicle.com/zz/1/wall-street-loses-ground-under-pressure-from-rising-oil-prices/article_9eb9cedf-9c66-509b-962e-c219a6343ef5.html",
-      "domain": "thesunchronicle.com",
       "country": "United States",
       "published": "2026-10-24T00:30:00+00:00"
      },
@@ -268,51 +338,9 @@
       "published": "2026-10-24T00:30:00+00:00"
      },
      {
-      "title": "Iran Guards say two supertankers hit naval mines near Strait of Hormuz",
-      "url": "https://www.middle-east-online.com/en/iran%E2%80%99s-guards-say-two-supertankers-hit-naval-mines-near-strait-hormuz",
-      "domain": "middle-east-online.com",
-      "country": "Iraq",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Gas prices fact check : JD Vance blames Biden falsely",
-      "url": "https://www.wmur.com/article/jd-vance-biden-gas-prices-fact-check/74233061",
-      "domain": "wmur.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "As NC electric bills rise , lawmakers weigh coal , natural gas exports and power plant costs",
-      "url": "https://www.wral.com/consumer/5onyourside/nc-electric-bills-lawmakers-deborah-ross-natural-gas-power-plants-october-2026/",
-      "domain": "wral.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Letters : Reject anti - democratic Prop . 43 . Dont let a third of voters negate overwhelming majorities .",
-      "url": "https://www.mercurynews.com/2026/10/23/letters-proposition-45-projects-increase-pollution/",
-      "domain": "mercurynews.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "October 23 , 2026 Traffic in the Strait of Hormuz",
-      "url": "https://intlxpatr.com/2026/10/23/october-23-2026-traffic-in-the-strait-of-hormuz/",
-      "domain": "intlxpatr.com",
-      "country": "",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "US designates helium as a critical material , citing its importance for semiconductors",
-      "url": "https://www.reporterherald.com/2026/10/23/helium-critical-material-designation/",
-      "domain": "reporterherald.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "US designates helium as a critical material , citing its importance for semiconductors",
-      "url": "https://www.mercurynews.com/2026/10/23/helium-critical-material-designation/",
-      "domain": "mercurynews.com",
+      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – Redlands Daily Facts",
+      "url": "https://www.redlandsdailyfacts.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
+      "domain": "redlandsdailyfacts.com",
       "country": "United States",
       "published": "2026-10-24T00:30:00+00:00"
      },
@@ -324,24 +352,10 @@
       "published": "2026-10-24T00:30:00+00:00"
      },
      {
-      "title": "Trump Reverse Nixon Strategy : Bring Russia In , Shut China Out",
-      "url": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
-      "domain": "oilprice.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Diesel prices squeeze Northeast Ohio farmers despite fuel relief orders",
-      "url": "https://www.cleveland19.com/2026/10/23/diesel-prices-squeeze-northeast-ohio-farmers-despite-fuel-relief-orders/",
-      "domain": "cleveland19.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Botswana Secures $503 . 75m African Development Bank Financing to Cushion Energy Shocks , Drive Jobs",
-      "url": "https://allafrica.com/stories/202610230632.html",
-      "domain": "allafrica.com",
-      "country": "Nigeria",
+      "title": "Trump administration dropping and adding some tariffs on Canadian exports",
+      "url": "https://www.airdriecityview.com/national-news/trump-administration-dropping-and-adding-some-tariffs-on-canadian-exports-12931686",
+      "domain": "airdriecityview.com",
+      "country": "Canada",
       "published": "2026-10-24T00:30:00+00:00"
      },
      {
@@ -352,306 +366,31 @@
       "published": "2026-10-24T00:30:00+00:00"
      },
      {
-      "title": "Everyone concerned : New Hampshire voters frustrated with costs and corruption",
-      "url": "https://kfdm.com/news/nation-world/everyones-concerned-new-hampshire-voters-frustrated-with-costs-and-corruption-chris-pappas-john-sununu",
-      "domain": "kfdm.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Wall Street loses ground under pressure from rising oil prices – KTBB News , Weather , Talk",
-      "url": "https://ktbb.com/post/?p=1552182",
-      "domain": "ktbb.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Rising diesel prices squeeze profits for Benson Dairy Farm",
-      "url": "https://www.9and10news.com/2026/10/23/rising-diesel-prices-squeeze-profits-for-benson-dairy-farm/",
-      "domain": "9and10news.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "US designates helium as a critical material , citing its importance for semiconductors",
-      "url": "https://www.orlandosentinel.com/2026/10/23/helium-critical-material-designation/",
-      "domain": "orlandosentinel.com",
-      "country": "United States",
-      "published": "2026-10-24T00:00:00+00:00"
-     },
-     {
-      "title": "Everyone concerned : New Hampshire voters frustrated with costs and corruption",
-      "url": "https://fox11online.com/news/nation-world/everyones-concerned-new-hampshire-voters-frustrated-with-costs-and-corruption-chris-pappas-john-sununu",
-      "domain": "fox11online.com",
-      "country": "United States",
-      "published": "2026-10-24T00:00:00+00:00"
-     },
-     {
-      "title": "Energy experts predict high gas prices will stick around",
-      "url": "https://www.wlwt.com/article/oil-surge-strait-of-hormuz-gas-prices-rise/74234009",
-      "domain": "wlwt.com",
-      "country": "United States",
-      "published": "2026-10-24T00:00:00+00:00"
-     },
-     {
-      "title": "November 2026 - Silicon Chip Online",
-      "url": "https://www.siliconchip.com.au/Issue/SC/2026/November",
-      "domain": "siliconchip.com.au",
-      "country": "Australia",
-      "published": "2026-10-24T00:00:00+00:00"
-     },
-     {
-      "title": "US designates helium as a critical material , citing its importance for semiconductors",
-      "url": "https://www.thetimes-tribune.com/2026/10/23/helium-critical-material-designation/",
-      "domain": "thetimes-tribune.com",
-      "country": "United States",
-      "published": "2026-10-24T00:00:00+00:00"
-     }
-    ],
-    "transporte_maritimo": [
-     {
-      "title": "Energy experts predict high gas prices will stick around",
-      "url": "https://www.wyff4.com/article/oil-surge-strait-of-hormuz-gas-prices-rise/74234009",
-      "domain": "wyff4.com",
-      "country": "United States",
-      "published": "2026-10-24T00:45:00+00:00"
-     },
-     {
-      "title": "Jon Husted calls for end to war in Iran  on America terms , flexes affordability agenda",
-      "url": "https://komonews.com/news/nation-world/jon-husted-calls-for-end-to-war-in-iran-on-americas-terms-flexes-affordability-agendaa-data-centers",
-      "domain": "komonews.com",
-      "country": "United States",
-      "published": "2026-10-24T00:45:00+00:00"
-     },
-     {
-      "title": "Energy experts predict high gas prices will stick around",
-      "url": "https://www.wjcl.com/article/oil-surge-strait-of-hormuz-gas-prices-rise/74234009",
-      "domain": "wjcl.com",
-      "country": "United States",
-      "published": "2026-10-24T00:45:00+00:00"
-     },
-     {
-      "title": "US may do another ‌Epic ⁠Fury against Iran : Trump",
-      "url": "https://www.perthnow.com.au/news/conflict/us-may-launch-military-operation-against-iran-trump-c-23065566",
-      "domain": "perthnow.com.au",
-      "country": "Australia",
-      "published": "2026-10-24T00:45:00+00:00"
-     },
-     {
-      "title": "Jon Husted calls for end to war in Iran  on America terms , flexes affordability agenda",
-      "url": "https://fox17.com/news/nation-world/jon-husted-calls-for-end-to-war-in-iran-on-americas-terms-flexes-affordability-agendaa-data-centers",
-      "domain": "fox17.com",
-      "country": "United States",
-      "published": "2026-10-24T00:45:00+00:00"
-     },
-     {
-      "title": "Daily Gold Trading Report - Friday , October 23 , 2026",
-      "url": "https://www.investorideas.com/news/2026/mining/10231-daily-gold-trading-report-friday-october-23-2026.asp",
-      "domain": "investorideas.com",
-      "country": "United States",
-      "published": "2026-10-24T00:45:00+00:00"
-     },
-     {
-      "title": "Crude oil up 85 % in 2026 poses threat to global economy ; Brent may hit $120 | Hellenic Shipping News Worldwide",
-      "url": "https://www.hellenicshippingnews.com/crude-oil-up-85-in-2026-poses-threat-to-global-economy-brent-may-hit-120/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
-      "published": "2026-10-24T00:45:00+00:00"
-     },
-     {
-      "title": "Ohio could decide control of the Senate . Its rural voters might decide the winner",
-      "url": "https://www.krvs.org/npr-news/2026-10-23/ohio-could-decide-control-of-the-senate-its-rural-voters-might-decide-the-winner",
-      "domain": "krvs.org",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Ohio could decide control of the Senate . Its rural voters might decide the winner",
-      "url": "https://www.wncw.org/2026-10-23/ohio-could-decide-control-of-the-senate-its-rural-voters-might-decide-the-winner",
-      "domain": "wncw.org",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Ohio could decide control of the Senate . Its rural voters might decide the winner",
-      "url": "https://radio.wpsu.org/2026-10-23/ohio-could-decide-control-of-the-senate-its-rural-voters-might-decide-the-winner",
-      "domain": "radio.wpsu.org",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Energy experts predict high gas prices will stick around",
-      "url": "https://www.4029tv.com/article/oil-surge-strait-of-hormuz-gas-prices-rise/74234009",
-      "domain": "4029tv.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "US envoy raises prospect of Iran strikes this weekend as Trump expresses surprise",
-      "url": "https://www.middle-east-online.com/en/us-envoy-raises-prospect-iran-strikes-weekend-trump-expresses-surprise",
-      "domain": "middle-east-online.com",
-      "country": "Iraq",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Operations Software Jobs in Macae",
-      "url": "https://www.rigzone.com/news/wire/brent_tops_116_as_middle_east_risks_grow-23-oct-2026-184925-article/",
-      "domain": "rigzone.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Trump official visits Lumberton as GOP works to energize voters ahead of midterms",
-      "url": "https://www.wral.com/news/nccapitol/trump-official-visits-lumberton-as-gop-works-to-energize-voters-ahead-of-midterms-oct-2026/",
-      "domain": "wral.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Energy experts predict high gas prices will stick around",
-      "url": "https://www.wmur.com/article/oil-surge-strait-of-hormuz-gas-prices-rise/74234009",
-      "domain": "wmur.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Physical Oil Prices Drop in Mideast",
-      "url": "https://www.rigzone.com/news/wire/physical_oil_prices_drop_in_mideast-23-oct-2026-184922-article/",
-      "domain": "rigzone.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "US designates helium as a critical material , citing its importance for semiconductors",
-      "url": "https://www.troyrecord.com/2026/10/23/helium-critical-material-designation/",
-      "domain": "troyrecord.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "UN delegates seek limits on sanctions and stronger Charter compliance",
-      "url": "https://econotimes.com/UN-delegates-seek-limits-on-sanctions-and-stronger-Charter-compliance-1761795",
-      "domain": "econotimes.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Iran Guards say two supertankers hit naval mines near Strait of Hormuz",
-      "url": "https://www.middle-east-online.com/en/iran%E2%80%99s-guards-say-two-supertankers-hit-naval-mines-near-strait-hormuz",
-      "domain": "middle-east-online.com",
-      "country": "Iraq",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Gas prices fact check : JD Vance blames Biden falsely",
-      "url": "https://www.wmur.com/article/jd-vance-biden-gas-prices-fact-check/74233061",
-      "domain": "wmur.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Jon Husted calls for end to war in Iran  on America terms , flexes affordability agenda",
-      "url": "https://kfdm.com/news/nation-world/jon-husted-calls-for-end-to-war-in-iran-on-americas-terms-flexes-affordability-agendaa-data-centers",
-      "domain": "kfdm.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "October 23 , 2026 Traffic in the Strait of Hormuz",
-      "url": "https://intlxpatr.com/2026/10/23/october-23-2026-traffic-in-the-strait-of-hormuz/",
-      "domain": "intlxpatr.com",
-      "country": "",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "US designates helium as a critical material , citing its importance for semiconductors",
-      "url": "https://www.reporterherald.com/2026/10/23/helium-critical-material-designation/",
-      "domain": "reporterherald.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "US designates helium as a critical material , citing its importance for semiconductors",
-      "url": "https://www.mercurynews.com/2026/10/23/helium-critical-material-designation/",
+      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – The Mercury News",
+      "url": "https://www.mercurynews.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
       "domain": "mercurynews.com",
       "country": "United States",
       "published": "2026-10-24T00:30:00+00:00"
      },
      {
-      "title": "Ohio could decide control of the Senate . Its rural voters might decide the winner",
-      "url": "https://www.kmxt.org/2026-10-23/ohio-could-decide-control-of-the-senate-its-rural-voters-might-decide-the-winner",
-      "domain": "kmxt.org",
+      "title": "Economic headwinds prevail , but so far so good | Vermont Business Magazine",
+      "url": "https://vermontbiz.com/news/2026/october/23/economic-headwinds-prevail-so-far-so-good",
+      "domain": "vermontbiz.com",
       "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
+      "published": "2026-10-24T00:00:00+00:00"
      },
      {
-      "title": "Trump Reverse Nixon Strategy : Bring Russia In , Shut China Out",
-      "url": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
-      "domain": "oilprice.com",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "Ohio could decide control of the Senate . Its rural voters might decide the winner",
-      "url": "https://www.ypradio.org/npr-news/2026-10-23/ohio-could-decide-control-of-the-senate-its-rural-voters-might-decide-the-winner",
-      "domain": "ypradio.org",
-      "country": "United States",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "US designates helium as a critical material , citing its importance for semiconductors",
-      "url": "https://www.orlandosentinel.com/2026/10/23/helium-critical-material-designation/",
+      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – Orlando Sentinel",
+      "url": "https://www.orlandosentinel.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
       "domain": "orlandosentinel.com",
       "country": "United States",
       "published": "2026-10-24T00:00:00+00:00"
      },
      {
-      "title": "Jon Husted calls for end to war in Iran  on America terms , flexes affordability agenda",
-      "url": "https://fox11online.com/news/nation-world/jon-husted-calls-for-end-to-war-in-iran-on-americas-terms-flexes-affordability-agendaa-data-centers",
-      "domain": "fox11online.com",
+      "title": "Classifieds",
+      "url": "https://classifieds.miaminewtimes.com/",
+      "domain": "classifieds.miaminewtimes.com",
       "country": "United States",
-      "published": "2026-10-24T00:00:00+00:00"
-     },
-     {
-      "title": "Energy experts predict high gas prices will stick around",
-      "url": "https://www.wlwt.com/article/oil-surge-strait-of-hormuz-gas-prices-rise/74234009",
-      "domain": "wlwt.com",
-      "country": "United States",
-      "published": "2026-10-24T00:00:00+00:00"
-     },
-     {
-      "title": "November 2026 - Silicon Chip Online",
-      "url": "https://www.siliconchip.com.au/Issue/SC/2026/November",
-      "domain": "siliconchip.com.au",
-      "country": "Australia",
-      "published": "2026-10-24T00:00:00+00:00"
-     },
-     {
-      "title": "US designates helium as a critical material , citing its importance for semiconductors",
-      "url": "https://www.thetimes-tribune.com/2026/10/23/helium-critical-material-designation/",
-      "domain": "thetimes-tribune.com",
-      "country": "United States",
-      "published": "2026-10-24T00:00:00+00:00"
-     },
-     {
-      "title": "Huntington Beach to bury America 250 time capsule at City Hall",
-      "url": "https://www.latimes.com/socal/daily-pilot/news/story/2026-10-23/huntington-beach-to-bury-america-250-time-capsule-at-city-hall",
-      "domain": "latimes.com",
-      "country": "United States",
-      "published": "2026-10-24T00:00:00+00:00"
-     },
-     {
-      "title": "Jon Husted calls for end to war in Iran  on America terms , flexes affordability agenda",
-      "url": "https://wgme.com/news/nation-world/jon-husted-calls-for-end-to-war-in-iran-on-americas-terms-flexes-affordability-agendaa-data-centers",
-      "domain": "wgme.com",
-      "country": "United States",
-      "published": "2026-10-24T00:00:00+00:00"
-     },
-     {
-      "title": "Two unauthorized tankers explode in Hormuz , abandoned by crews after mine strikes : IRGC",
-      "url": "https://www.presstv.co.uk/Detail/2026/10/23/779042/Two-unauthorized-tankers-explode-in-Hormuz-abandoned-by-crews-after-mine-strikes-IRGC",
-      "domain": "presstv.co.uk",
-      "country": "",
       "published": "2026-10-23T23:45:00+00:00"
      },
      {
@@ -662,321 +401,20 @@
       "published": "2026-10-23T23:45:00+00:00"
      },
      {
-      "title": "Trump says another op against Iran on cards",
-      "url": "https://tribune.com.pk/story/2636645/trump-says-another-op-against-iran-on-cards",
+      "title": "Small factories choose to stay small",
+      "url": "https://tribune.com.pk/story/2636618/small-factories-choose-to-stay-small",
       "domain": "tribune.com.pk",
       "country": "Pakistan",
       "published": "2026-10-23T23:45:00+00:00"
-     },
-     {
-      "title": "US designates helium as a critical material , citing its importance for semiconductors",
-      "url": "https://www.montereyherald.com/2026/10/23/helium-critical-material-designation/",
-      "domain": "montereyherald.com",
-      "country": "United States",
-      "published": "2026-10-23T23:45:00+00:00"
-     },
-     {
-      "title": "At least three killed in Saudi airstrikes on Yemen capital",
-      "url": "https://www.presstv.co.uk/Detail/2026/10/23/779024/At-least-three-killed-in-Saudi-airstrikes-Yemen%E2%80%99s-capital",
-      "domain": "presstv.co.uk",
-      "country": "",
-      "published": "2026-10-23T23:45:00+00:00"
-     },
-     {
-      "title": "Ohio could decide control of the Senate . Its rural voters might decide the winner",
-      "url": "https://www.wfae.org/united-states-world/2026-10-23/ohio-could-decide-control-of-the-senate-its-rural-voters-might-decide-the-winner",
-      "domain": "wfae.org",
-      "country": "United States",
-      "published": "2026-10-23T23:45:00+00:00"
-     }
-    ],
-    "riesgos_climaticos": [
-     {
-      "title": "Vance intensifies rapidly and could become a major Category 3 hurricane off Mexico Pacific Coast",
-      "url": "https://www.airdriecityview.com/world-news/vance-intensifies-rapidly-and-could-become-a-major-category-3-hurricane-off-mexicos-pacific-coast-12928744",
-      "domain": "airdriecityview.com",
-      "country": "Canada",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "November 2026 - Silicon Chip Online",
-      "url": "https://www.siliconchip.com.au/Issue/SC/2026/November",
-      "domain": "siliconchip.com.au",
-      "country": "Australia",
-      "published": "2026-10-24T00:00:00+00:00"
-     },
-     {
-      "title": "The Grant Tribune Sentinel Ag",
-      "url": "https://www.granttribune.com/section/ag",
-      "domain": "granttribune.com",
-      "country": "United States",
-      "published": "2026-10-23T23:30:00+00:00"
-     },
-     {
-      "title": "The Grant Tribune Sentinel Homepage",
-      "url": "https://www.granttribune.com/",
-      "domain": "granttribune.com",
-      "country": "United States",
-      "published": "2026-10-23T23:30:00+00:00"
-     },
-     {
-      "title": "Grenada Joins World Meteorological Organization as 194th Member",
-      "url": "https://www.greaterbelize.com/grenada-joins-world-meteorological-organization-as-194th-member/",
-      "domain": "greaterbelize.com",
-      "country": "",
-      "published": "2026-10-23T23:15:00+00:00"
-     },
-     {
-      "title": "Vance intensifies rapidly and could become a major Category 3 hurricane off Mexico Pacific Coast",
-      "url": "https://www.coastreporter.net/world-news/vance-intensifies-rapidly-and-could-become-a-major-category-3-hurricane-off-mexicos-pacific-coast-12928745",
-      "domain": "coastreporter.net",
-      "country": "Canada",
-      "published": "2026-10-23T23:00:00+00:00"
-     },
-     {
-      "title": "A fall flair in the air , with lots of sunshine and dry weather fo",
-      "url": "https://nj1015.com/nj-weather-sunny-frosty-fall-weekend/",
-      "domain": "nj1015.com",
-      "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Xinhua Headlines : FAO honors highlight China efforts to strengthen global food security",
-      "url": "http://www.sanantoniopost.com/news/279394550/xinhua-headlines-fao-honors-highlight-china-efforts-to-strengthen-global-food-security",
-      "domain": "sanantoniopost.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Marc Arnusch : A good year on the farm isnt a windfall ( guest opinion )",
-      "url": "https://www.greeleytribune.com/2026/10/23/marc-arnusch-a-good-year-on-the-farm-isnt-a-windfall-guest-opinion/",
-      "domain": "greeleytribune.com",
-      "country": "United States",
-      "published": "2026-10-23T11:30:00+00:00"
-     },
-     {
-      "title": "New famine risk haunts war - torn Sudan with El Niño - driven drought",
-      "url": "https://www.cnbcafrica.com/2026/new-famine-risk-haunts-war-torn-sudan-with-el-nino-driven-drought",
-      "domain": "cnbcafrica.com",
-      "country": "South Africa",
-      "published": "2026-10-23T11:00:00+00:00"
-     },
-     {
-      "title": "How an Entrepreneur Used Facebook Marketplace to Grow Her Catering Company",
-      "url": "https://www.businessinsider.com/catering-company-used-facebook-marketplace-small-business-growth-2026-10",
-      "domain": "businessinsider.com",
-      "country": "United States",
-      "published": "2026-10-23T11:00:00+00:00"
-     },
-     {
-      "title": "Rainwater harvesting at home in Sri Lanka : Tank size , costs and safety - News Features",
-      "url": "https://www.dailymirror.lk/plus/Rainwater-harvesting-at-home-in-Sri-Lanka-Tank-size-costs-and-safety/352-351089",
-      "domain": "dailymirror.lk",
-      "country": "Sri Lanka",
-      "published": "2026-10-23T10:00:00+00:00"
-     },
-     {
-      "title": "EYCI cracks 1000c again as big rain brings relief to dry areas , more forecast",
-      "url": "https://www.beefcentral.com/news/eyci-cracks-1000c-again-as-big-rain-brings-relief-to-dry-areas-more-forecasted/",
-      "domain": "beefcentral.com",
-      "country": "Australia",
-      "published": "2026-10-23T09:30:00+00:00"
-     },
-     {
-      "title": "Most Are Negative About Obamacare",
-      "url": "https://agwired.com/2012/07/11/most-are-negative-about-obamacare/",
-      "domain": "agwired.com",
-      "country": "United States",
-      "published": "2026-10-23T09:30:00+00:00"
-     },
-     {
-      "title": "Britain barley harvest slumps to lowest level in 15 years",
-      "url": "https://www.farminguk.com/news/britain-s-barley-harvest-slumps-to-lowest-level-in-15-years_69353.html",
-      "domain": "farminguk.com",
-      "country": "United Kingdom",
-      "published": "2026-10-23T09:30:00+00:00"
-     },
-     {
-      "title": "Arab News | New famine risk haunts war - torn Sudan with El Niño - driven drought",
-      "url": "https://www.arabnews.com/middle-east/new-famine-risk-haunts-war-torn-sudan-with-el-ni%C3%B1o-driven-drought-3007873",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-10-23T08:45:00+00:00"
-     },
-     {
-      "title": "Norfolk farmers urge chancellor to axe  family farm tax",
-      "url": "https://www.edp24.co.uk/news/26659975.norfolk-farmers-urge-chancellor-axe-family-farm-tax/",
-      "domain": "edp24.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-23T08:45:00+00:00"
-     },
-     {
-      "title": "Nature Cant Wait | Countercurrents",
-      "url": "https://countercurrents.org/2026/10/nature-cant-wait/",
-      "domain": "countercurrents.org",
-      "country": "India",
-      "published": "2026-10-23T07:15:00+00:00"
-     },
-     {
-      "title": "Karnataka seeks Rs 20 , 585 cr NDRF aid as drought loss crosses Rs 62 , 481 cr , DyCM Parameshwara writes to PM Modi",
-      "url": "http://www.indiagazette.com/news/279393655/karnataka-seeks-rs-20585-cr-ndrf-aid-as-drought-loss-crosses-rs-62481-cr-dycm-parameshwara-writes-to-pm-modi",
-      "domain": "indiagazette.com",
-      "country": "India",
-      "published": "2026-10-23T06:45:00+00:00"
-     },
-     {
-      "title": "Karnataka seeks Rs 20 , 585 cr NDRF aid as drought loss crosses Rs 62 , 481 cr , DyCM Parameshwara writes to PM Modi",
-      "url": "https://news.webindia123.com/news/Articles/India/20261023/4514050.html",
-      "domain": "news.webindia123.com",
-      "country": "India",
-      "published": "2026-10-23T06:30:00+00:00"
-     },
-     {
-      "title": "Were breathing in the smoke even as we sleep : Living with haze in Sumatra",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/23/were-breathing-in-the-smoke-even-as-we-sleep-living-with-haze-in-sumatra",
-      "domain": "thestar.com.my",
-      "country": "Malaysia",
-      "published": "2026-10-23T05:30:00+00:00"
-     },
-     {
-      "title": "Chris Howie : Fuel prices may impact short - term trading opportunities after rain",
-      "url": "https://www.beefcentral.com/markets/chris-howie-october-2026/",
-      "domain": "beefcentral.com",
-      "country": "Australia",
-      "published": "2026-10-23T05:00:00+00:00"
-     },
-     {
-      "title": "Karnataka seeks Rs 20 , 585 cr NDRF aid as drought loss crosses Rs 62 , 481 cr , DyCM Parameshwara writes to PM Modi",
-      "url": "https://economictimes.indiatimes.com/news/india/karnataka-seeks-rs-20585-cr-ndrf-aid-as-drought-loss-crosses-rs-62481-cr-dycm-parameshwara-writes-to-pm-modi/articleshow/135134080.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-23T05:00:00+00:00"
-     },
-     {
-      "title": "Money managers say there nowhere to hide as Super El Niño forms",
-      "url": "https://bworldonline.com/top-stories/2026/10/23/788863/money-managers-say-theres-nowhere-to-hide-as-super-el-nino-forms/",
-      "domain": "bworldonline.com",
-      "country": "Philippines",
-      "published": "2026-10-23T04:45:00+00:00"
-     },
-     {
-      "title": "Karnataka seeks Rs 20 , 585 cr NDRF aid as drought loss crosses Rs 62 , 481 cr , DyCM Parameshwara writes to PM Modi",
-      "url": "http://www.calcuttanews.net/news/279393655/karnataka-seeks-rs-20585-cr-ndrf-aid-as-drought-loss-crosses-rs-62481-cr-dycm-parameshwara-writes-to-pm-modi",
-      "domain": "calcuttanews.net",
-      "country": "India",
-      "published": "2026-10-23T04:30:00+00:00"
-     },
-     {
-      "title": "Were breathing in the smoke even as we sleep : Living with haze in Sumatra",
-      "url": "https://www.straitstimes.com/multimedia/graphics/2026/10/living-with-haze-in-sumatra/",
-      "domain": "straitstimes.com",
-      "country": "Singapore",
-      "published": "2026-10-23T04:00:00+00:00"
-     },
-     {
-      "title": "Drought impacting fall harvest for ENC farmers , latest monitor shows no drought - free counties",
-      "url": "https://www.witn.com/2026/10/22/drought-impacting-fall-harvest-enc-farmers-latest-monitor-shows-no-drought-free-counties/",
-      "domain": "witn.com",
-      "country": "United States",
-      "published": "2026-10-23T02:15:00+00:00"
-     },
-     {
-      "title": "Gardeners grow massive 22 - pound cabbage",
-      "url": "https://www.ashepostandtimes.com/news/national/gardeners-grow-massive-22-pound-cabbage/article_e7eefd05-a627-5d5e-94b9-c777e5a96eef.html",
-      "domain": "ashepostandtimes.com",
-      "country": "United States",
-      "published": "2026-10-23T02:15:00+00:00"
-     },
-     {
-      "title": "Gardeners grow massive 22 - pound cabbage",
-      "url": "http://www.wataugademocrat.com/news/national/gardeners-grow-massive-22-pound-cabbage/article_ef5e3b9c-b28a-5eb3-a729-88df77a6a83c.html",
-      "domain": "wataugademocrat.com",
-      "country": "United States",
-      "published": "2026-10-23T02:15:00+00:00"
-     },
-     {
-      "title": "Gardeners grow massive 22 - pound cabbage",
-      "url": "http://www.advocateanddemocrat.com/news/national/article_c6bbb54b-ff26-50c2-90cb-074705537b05.html",
-      "domain": "advocateanddemocrat.com",
-      "country": "United States",
-      "published": "2026-10-23T01:15:00+00:00"
-     },
-     {
-      "title": "Gardeners grow massive 22 - pound cabbage",
-      "url": "https://www.newsargus.com/news/national/gardeners-grow-massive-22-pound-cabbage/article_c98fafb1-9dbc-550a-95dd-235680c92399.html",
-      "domain": "newsargus.com",
-      "country": "United States",
-      "published": "2026-10-23T01:00:00+00:00"
-     },
-     {
-      "title": "Editorial : State farmers face financial struggles",
-      "url": "https://americanpress.com/2026/10/22/editorial-state-farmers-face-financial-struggles/",
-      "domain": "americanpress.com",
-      "country": "United States",
-      "published": "2026-10-23T00:15:00+00:00"
-     },
-     {
-      "title": "Gardeners grow massive 22 - pound cabbage",
-      "url": "https://www.lebanondemocrat.com/maconcounty/news/national/gardeners-grow-massive-22-pound-cabbage/article_51f52855-a826-5623-a663-14fbb3268552.html",
-      "domain": "lebanondemocrat.com",
-      "country": "United States",
-      "published": "2026-10-23T00:00:00+00:00"
-     },
-     {
-      "title": "Gardeners grow massive 22 - pound cabbage",
-      "url": "https://carrollspaper.com/news/national/gardeners-grow-massive-22-pound-cabbage/article_eebd830e-bea4-5d45-8f0e-4ecdd731e059.html",
-      "domain": "carrollspaper.com",
-      "country": "United States",
-      "published": "2026-10-23T00:00:00+00:00"
-     },
-     {
-      "title": "Gardeners grow massive 22 - pound cabbage",
-      "url": "https://www.myleaderpaper.com/news/national/gardeners-grow-massive-22-pound-cabbage/article_b12cd421-cc8f-517d-8794-73d94e3ddb12.html",
-      "domain": "myleaderpaper.com",
-      "country": "United States",
-      "published": "2026-10-22T23:30:00+00:00"
-     },
-     {
-      "title": "Corn yields look great despite tough farming year",
-      "url": "https://www.niagarafallsreview.ca/news/canada/corn-yields-look-great-despite-tough-farming-year/article_ca8e43b4-fafb-56e6-acdd-19b2df9802ae.html",
-      "domain": "niagarafallsreview.ca",
-      "country": "Canada",
-      "published": "2026-10-22T23:30:00+00:00"
-     },
-     {
-      "title": "NIA | Daily Tribune",
-      "url": "https://tribune.net.ph/topic/nia",
-      "domain": "tribune.net.ph",
-      "country": "Philippines",
-      "published": "2026-10-22T23:30:00+00:00"
-     },
-     {
-      "title": "Gardeners grow massive 22 - pound cabbage",
-      "url": "https://homenewshere.com/national/features/article_2822224a-7b9d-5376-b446-bdd5b6231055.html",
-      "domain": "homenewshere.com",
-      "country": "United States",
-      "published": "2026-10-22T23:30:00+00:00"
-     },
-     {
-      "title": "Time To Tap Into Agriculture Hidden Genetic Potential",
-      "url": "https://www.miragenews.com/time-to-tap-into-agricultures-hidden-genetic-1765286/",
-      "domain": "miragenews.com",
-      "country": "United States",
-      "published": "2026-10-22T23:15:00+00:00"
-     },
-     {
-      "title": "Gardeners grow massive 22 - pound cabbage",
-      "url": "https://www.fairfieldsuntimes.com/news/national/gardeners-grow-massive-22-pound-cabbage/article_496a2002-8970-5de8-b4ab-9601ad0cffb8.html",
-      "domain": "fairfieldsuntimes.com",
-      "country": "United States",
-      "published": "2026-10-22T23:15:00+00:00"
      }
     ]
    },
    "errors": {
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
