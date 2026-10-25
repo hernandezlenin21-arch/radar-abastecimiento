@@ -1,5 +1,22 @@
 [
  {
+  "id": "72864b83777d",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-24",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 2 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Houthis claim 7 attacks on Saudi targets as heavy airstrikes hit Yemen - Xinhua” (english.news.cn). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "english.news.cn",
+  "url": "https://english.news.cn/20261025/016da6920c4d47c9a6462787c98c84d7/c.html",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-24T21:49:09-06:00"
+ },
+ {
   "id": "f7587c505daa",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",

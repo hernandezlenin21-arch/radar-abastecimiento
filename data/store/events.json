@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-24T18:55:50-06:00",
+  "at": "2026-10-24T21:49:09-06:00",
   "data": {
    "storms": [
     {
@@ -11,98 +11,98 @@
      "classification": "HU",
      "intensity": "80",
      "pressure": "977",
-     "latitude": "13.3N",
-     "longitude": "103.3W",
-     "latitudeNumeric": 13.3,
-     "longitudeNumeric": -103.3,
+     "latitude": "13.7N",
+     "longitude": "103.4W",
+     "latitudeNumeric": 13.7,
+     "longitudeNumeric": -103.4,
      "movementDir": 340,
-     "movementSpeed": 6,
-     "lastUpdate": "2026-10-24T21:00:00.000Z",
+     "movementSpeed": 5,
+     "lastUpdate": "2026-10-25T03:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "014",
-      "issuance": "2026-10-24T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-24T20:39:16.423Z",
+      "advNum": "015",
+      "issuance": "2026-10-25T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T02:44:20.133Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "014",
-      "issuance": "2026-10-24T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-24T20:38:45.698Z",
+      "advNum": "015",
+      "issuance": "2026-10-25T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T02:44:20.077Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCMEP2.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "014",
-      "issuance": "2026-10-24T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-24T20:39:46.870Z",
+      "advNum": "015",
+      "issuance": "2026-10-25T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T02:44:50.367Z",
       "url": "https://www.nhc.noaa.gov/text/MIAPWSEP2.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "014",
-      "issuance": "2026-10-24T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-24T20:40:14.261Z",
+      "advNum": "015",
+      "issuance": "2026-10-25T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T02:45:24.902Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCDEP2.shtml"
      },
      "forecastGraphics": {
-      "advNum": "014",
-      "issuance": "2026-10-24T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-24T20:39:16.423Z",
+      "advNum": "015",
+      "issuance": "2026-10-25T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T02:44:20.133Z",
       "url": "https://www.nhc.noaa.gov/graphics_ep2.shtml"
      },
      "forecastTrack": {
-      "advNum": "014",
-      "issuance": "2026-10-24T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-24T20:42:34.725Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_014.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_014adv_TRACK.kmz"
+      "advNum": "015",
+      "issuance": "2026-10-25T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T02:46:40.558Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_015.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_015adv_TRACK.kmz"
      },
      "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "014",
-      "issuance": "2026-10-24T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-24T20:42:28.912Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_014.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_014adv_CONE.kmz"
+      "advNum": "015",
+      "issuance": "2026-10-25T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T02:46:34.974Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_015.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_015adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "014",
-      "issuance": "2026-10-24T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-24T20:43:06.591Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_014.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_014adv.kmz"
+      "advNum": "015",
+      "issuance": "2026-10-25T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T02:47:09.519Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_015.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_015adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "014",
-      "issuance": "2026-10-24T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-24T20:43:02.720Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_014.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_014adv.kmz"
+      "advNum": "015",
+      "issuance": "2026-10-25T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T02:47:05.829Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_015.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_015adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-10-24T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-24T20:42:45.560Z",
+      "issuance": "2026-10-25T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T02:46:49.843Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "014",
-      "issuance": "2026-10-24T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-24T20:42:30.879Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_014adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "015",
+      "issuance": "2026-10-25T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T02:46:36.847Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_015adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "014",
-      "issuance": "2026-10-24T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-24T20:42:32.849Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_014adv_most_likely_toa_34.kmz"
+      "advNum": "015",
+      "issuance": "2026-10-25T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T02:46:38.710Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_015adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-10-24T18:00:00.000Z",
-      "fileUpdateTime": "2026-10-24T21:22:44.475Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102418_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102418_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102418_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102418_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102418_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-10-25T00:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T03:22:51.677Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102500_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102500_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102500_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102500_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102500_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-24T18:55:50-06:00",
+  "at": "2026-10-24T21:49:09-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,292 +123,31 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-24T18:55:50-06:00",
+  "at": "2026-10-24T21:49:09-06:00",
   "data": {
    "raw": {
-    "commodities_agricolas": [
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "http://www.rockymounttelegram.com/news/national/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_52e5d5e1-be1d-56ed-ba13-7b857fcc0e7d.html",
-      "domain": "rockymounttelegram.com",
-      "country": "United States",
-      "published": "2026-10-24T19:15:00+00:00"
-     },
-     {
-      "title": "Kathleen Hill : Darling Ice Cream , Dead Letter Pop Ups , Halloween Fun , New Neighbors Table",
-      "url": "https://sonomasun.com/2026/10/24/kathleen-hill-darling-ice-cream-dead-letter-pop-ups-halloween-fun-new-neighbors-table/",
-      "domain": "sonomasun.com",
-      "country": "United States",
-      "published": "2026-10-24T19:15:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.pilotonline.com/2026/10/24/us-house-district-political-battleground-congress-dysfunctional-2/",
-      "domain": "pilotonline.com",
-      "country": "United States",
-      "published": "2026-10-24T19:15:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "http://www.idahostatejournal.com/news/national/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_77865ca1-9294-5c3e-a655-53bb4a77efc7.html",
-      "domain": "idahostatejournal.com",
-      "country": "United States",
-      "published": "2026-10-24T18:00:00+00:00"
-     },
-     {
-      "title": "Women First to Suffer , First to Respond in Sudan Siege",
-      "url": "https://www.miragenews.com/women-first-to-suffer-first-to-respond-in-sudan-1766019/",
-      "domain": "miragenews.com",
-      "country": "United States",
-      "published": "2026-10-24T18:00:00+00:00"
-     },
-     {
-      "title": "Industry Watchdog : USDA Allowing Illegal  Organic  Produce Production",
-      "url": "https://www.foodconsumer.org/usda_allowing_illegal_organic_produce_production_1101161110/",
-      "domain": "foodconsumer.org",
-      "country": "United States",
-      "published": "2026-10-24T17:15:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "http://www.stardem.com/ap/nation/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_493d330c-933c-5e4e-832a-41b8f93fb8ef.html",
-      "domain": "stardem.com",
-      "country": "United States",
-      "published": "2026-10-24T17:15:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.dailygazette.com/ap/national/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_aef9d238-36d3-5520-ba82-d3da3122193f.html",
-      "domain": "dailygazette.com",
-      "country": "United States",
-      "published": "2026-10-24T17:00:00+00:00"
-     },
-     {
-      "title": "Ness City , Hoxie farmers named to National Corn Growers Association teams",
-      "url": "https://hayspost.com/posts/3560bd1d-5071-4a8d-898b-fce87aa8b064",
-      "domain": "hayspost.com",
-      "country": "United States",
-      "published": "2026-10-24T16:15:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.news4jax.com/news/politics/2026/10/24/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is-dysfunctional/",
-      "domain": "news4jax.com",
-      "country": "United States",
-      "published": "2026-10-24T15:45:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.dailygazette.com/hv360/ap/national/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_aef9d238-36d3-5520-ba82-d3da3122193f.html",
-      "domain": "dailygazette.com",
-      "country": "United States",
-      "published": "2026-10-24T15:45:00+00:00"
-     },
-     {
-      "title": "World Bank Sees 3 . 8 % Growth as Poverty Traps 120 Million Pakistanis",
-      "url": "https://www.lhrtimes.com/2026/10/24/world-bank-sees-3-8-growth-as-poverty-traps-120-million-pakistanis/",
-      "domain": "lhrtimes.com",
-      "country": "Pakistan",
-      "published": "2026-10-24T15:45:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.durangoherald.com/articles/associated-press/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is-dysfunction-2/",
-      "domain": "durangoherald.com",
-      "country": "United States",
-      "published": "2026-10-24T15:45:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "http://www.dailyadvance.com/news/national/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_42c96f15-ef4d-551c-ad4d-e64ed6614c0b.html",
-      "domain": "dailyadvance.com",
-      "country": "United States",
-      "published": "2026-10-24T15:30:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/world/2026/10/24/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is-dysfunctional-2",
-      "domain": "winnipegfreepress.com",
-      "country": "Canada",
-      "published": "2026-10-24T15:30:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "http://www.dailyadvance.com/news/national/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_4c71bdc1-9f16-537c-93b7-f1a72ea39e62.html",
-      "domain": "dailyadvance.com",
-      "country": "United States",
-      "published": "2026-10-24T15:30:00+00:00"
-     },
-     {
-      "title": "Swing US House districts are rapidly disappearing",
-      "url": "https://www.wdbo.com/news/politics/this-us-house/3SHAMWPR7A5ADJCEEVZP5YW2SQ/",
-      "domain": "wdbo.com",
-      "country": "United States",
-      "published": "2026-10-24T15:30:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "http://www.postregister.com/news/national/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_1aecffea-04bf-5dff-a859-b019e7c48b35.html",
-      "domain": "postregister.com",
-      "country": "United States",
-      "published": "2026-10-24T15:30:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.winknews.com/news/international/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_b9cffd45-ba43-5628-b9b7-2aac4fab968b.html",
-      "domain": "winknews.com",
-      "country": "United States",
-      "published": "2026-10-24T15:15:00+00:00"
-     },
-     {
-      "title": "Mating season pushes elk to eastern Nebraska",
-      "url": "https://www.ksnblocal4.com/2026/10/23/mating-season-pushes-elk-eastern-nebraska/",
-      "domain": "ksnblocal4.com",
-      "country": "United States",
-      "published": "2026-10-24T15:15:00+00:00"
-     },
-     {
-      "title": "Tariff wars : When Canada faced becoming the  45th State",
-      "url": "https://www.wellandtribune.ca/life/niagara-region/brian-narhi-history-column-tariffs-canada-us-annexation/article_f1f27623-eb7b-5fae-a88a-664312fccb7f.html",
-      "domain": "wellandtribune.ca",
-      "country": "Canada",
-      "published": "2026-10-24T15:15:00+00:00"
-     },
-     {
-      "title": "LankaWeb – Iran - Russia Trade Strategy : Gilan Caspian Gateway and Moscow Growing Pivot to West Asia and Middle East",
-      "url": "https://www.lankaweb.com/news/items/2026/10/24/iran-russia-trade-strategy-gilans-caspian-gateway-and-moscows-growing-pivot-to-west-asia-and-middle-east/",
-      "domain": "lankaweb.com",
-      "country": "Sri Lanka",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.wsls.com/news/politics/2026/10/24/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is-dysfunctional/",
-      "domain": "wsls.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.ksat.com/news/politics/2026/10/24/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is-dysfunctional/",
-      "domain": "ksat.com",
-      "country": "United States",
-      "published": "2026-10-24T15:00:00+00:00"
-     },
-     {
-      "title": "Mating season pushes elk to eastern Nebraska",
-      "url": "https://www.wowt.com/2026/10/23/mating-season-pushes-elk-eastern-nebraska/",
-      "domain": "wowt.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Idaho top 10 farm commodities in 2025 | Western Livestock Journal",
-      "url": "https://www.wlj.net/idahos-top-10-farm-commodities-in-2025/",
-      "domain": "wlj.net",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.click2houston.com/news/politics/2026/10/24/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is-dysfunctional/",
-      "domain": "click2houston.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://isp.netscape.com:443/news/story/0001/20261024/608be19e4c6359d1590717dbead13940",
-      "domain": "isp.netscape.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Swing US House districts are rapidly disappearing",
-      "url": "https://www.wgauradio.com/news/politics/this-us-house/3SHAMWPR7A5ADJCEEVZP5YW2SQ/",
-      "domain": "wgauradio.com",
-      "country": "United States",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "Grain marketing strategies : Sell high , then sell higher",
-      "url": "https://www.manitobacooperator.ca/crops/sell-high-then-sell-higher-grain-marketing-strategies-for-manitoba-farmers-managing-risk/",
-      "domain": "manitobacooperator.ca",
-      "country": "Canada",
-      "published": "2026-10-24T14:45:00+00:00"
-     },
-     {
-      "title": "D . C . Memo : As election nears , corruption tops voter concerns",
-      "url": "http://www.minnpost.com/dc-memo/2026/10/d-c-memo-as-midterm-election-nears-corruption-tops-voter-concerns-beating-out-inflation-healthcare/",
-      "domain": "minnpost.com",
-      "country": "United States",
-      "published": "2026-10-24T14:30:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.fox21online.com/news/us-world/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_38627e3d-6741-5d19-a825-ece93707bfeb.html",
-      "domain": "fox21online.com",
-      "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
-     },
-     {
-      "title": "Mating season pushes elk to eastern Nebraska",
-      "url": "https://www.knopnews2.com/2026/10/23/mating-season-pushes-elk-eastern-nebraska/",
-      "domain": "knopnews2.com",
-      "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "http://www.rockymounttelegram.com/news/state/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_1a9e78be-08ac-510f-9f22-88b76aff7769.html",
-      "domain": "rockymounttelegram.com",
-      "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.yankton.net/news/national_ap/article_eb558b2b-58ce-5d2b-bdc9-629a0b078491.html",
-      "domain": "yankton.net",
-      "country": "United States",
-      "published": "2026-10-24T14:00:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.dailygazette.com/leader_herald/ap/national/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_5135d716-e470-5308-b353-db44f4c22e0c.html",
-      "domain": "dailygazette.com",
-      "country": "United States",
-      "published": "2026-10-24T13:45:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.winchesterstar.com/associated_press/virginia/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_bb83c73f-f661-5ed4-9fad-0103ce788e96.html",
-      "domain": "winchesterstar.com",
-      "country": "United States",
-      "published": "2026-10-24T13:30:00+00:00"
-     },
-     {
-      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
-      "url": "https://www.khqa.com/news/nation-world/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_6bd63936-d759-57a4-8ee6-cbf90490c082.html",
-      "domain": "khqa.com",
-      "country": "United States",
-      "published": "2026-10-24T13:30:00+00:00"
-     },
-     {
-      "title": "Britannia Fined Rs 1 Lakh For Misleading  100 % Whole Wheat Bread  Claim By Consumer Protection Authority",
-      "url": "https://www.newsx.com/india/britannia-fined-rs-1-lakh-for-misleading-100-whole-wheat-bread-claim-by-consumer-protection-authority-286649/",
-      "domain": "newsx.com",
-      "country": "India",
-      "published": "2026-10-24T13:15:00+00:00"
-     },
-     {
-      "title": "Producers should make ARC - PLC election decisions by Dec . 11",
-      "url": "https://www.jamestownsun.com/business/producers-should-make-arc-plc-election-decisions-by-dec-11",
-      "domain": "jamestownsun.com",
-      "country": "United States",
-      "published": "2026-10-24T12:45:00+00:00"
-     }
-    ],
     "energia": [
+     {
+      "title": "Aramco seeks to increase overseas strategic oil storage capacity",
+      "url": "https://tradearabia.com:443/News/488396/Aramco-seeks-to-increase-overseas-strategic-oil-storage-capacity/OGN",
+      "domain": "tradearabia.com",
+      "country": "United Arab Emirates",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Tehran warns of nuclear options and infrastructure strikes if US attacks Iran",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-912728",
+      "domain": "jpost.com",
+      "country": "Israel",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Singapore expects all parties to honour commitments , says PM Wong after Indonesia cuts gas exports",
+      "url": "https://www.businesstimes.com.sg/singapore/singapore-expects-all-parties-honour-commitments-says-pm-wong-after-indonesia-cuts-gas-exports",
+      "domain": "businesstimes.com.sg",
+      "country": "Singapore",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
      {
       "title": "APPO Seeks Stronger African Oil Firms As IOCs Secure Exploration Deals",
       "url": "https://leadership.ng/appo-seeks-stronger-african-oil-firms-as-iocs-secure-exploration-deals/",
@@ -667,30 +406,30 @@
       "domain": "peakoil.com",
       "country": "United States",
       "published": "2026-10-24T17:15:00+00:00"
-     },
-     {
-      "title": "Iran says wont allow US warships to get close as Trump ponders new attacks | US - Israel war on Iran News",
-      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
-      "domain": "aljazeera.com",
-      "country": "United States",
-      "published": "2026-10-24T17:15:00+00:00"
-     },
-     {
-      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
-      "url": "http://www.newyorkstatesman.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
-      "domain": "newyorkstatesman.com",
-      "country": "United States",
-      "published": "2026-10-24T17:15:00+00:00"
-     },
-     {
-      "title": "Whistleblower CEO quits over hidden Russian cash behind gas deal in Trump peace talks : NYT",
-      "url": "https://peakoil.com/publicpolicy/whistleblower-ceo-quits-over-hidden-russian-cash-behind-gas-deal-in-trump-peace-talks-nyt",
-      "domain": "peakoil.com",
-      "country": "United States",
-      "published": "2026-10-24T17:15:00+00:00"
      }
     ],
     "comercio_internacional": [
+     {
+      "title": "Fed expected to hold rates steady days ahead of U . S . midterms",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/25/fed-expected-to-hold-rates-steady-days-ahead-of-us-midterms/",
+      "domain": "bnnbloomberg.ca",
+      "country": "Canada",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Trade tariffs cause whiplash at Port Milwaukee",
+      "url": "https://news.wfsu.org/npr-news/2026-10-24/trade-tariffs-cause-whiplash-at-port-milwaukee",
+      "domain": "news.wfsu.org",
+      "country": "United States",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Trade tariffs cause whiplash at Port Milwaukee",
+      "url": "https://www.wgcu.org/2026-10-24/trade-tariffs-cause-whiplash-at-port-milwaukee",
+      "domain": "wgcu.org",
+      "country": "United States",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
      {
       "title": "Inside the Trump - administration campaign to return Brazil Bolsonaro clan to power",
       "url": "https://kelo.com/2026/10/24/inside-the-trump-administration-campaign-to-return-brazils-bolsonaro-clan-to-power/",
@@ -949,30 +688,305 @@
       "domain": "thenational.scot",
       "country": "United Kingdom",
       "published": "2026-10-24T14:15:00+00:00"
+     }
+    ],
+    "geopolitica": [
+     {
+      "title": "Fed expected to hold rates steady days ahead of U . S . midterms",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/25/fed-expected-to-hold-rates-steady-days-ahead-of-us-midterms/",
+      "domain": "bnnbloomberg.ca",
+      "country": "Canada",
+      "published": "2026-10-25T03:30:00+00:00"
      },
      {
-      "title": "McFeely : Farm welfare by any other name is still welfare",
-      "url": "https://www.inforum.com/opinion/columns/mcfeely-farm-welfare-by-any-other-name-is-still-welfare",
-      "domain": "inforum.com",
+      "title": "Aramco seeks to increase overseas strategic oil storage capacity",
+      "url": "https://tradearabia.com:443/News/488396/Aramco-seeks-to-increase-overseas-strategic-oil-storage-capacity/OGN",
+      "domain": "tradearabia.com",
+      "country": "United Arab Emirates",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Trump raises possibility of another Iran operation at Florida rally",
+      "url": "https://paktribune.com/trump-raises-possibility-of-another-iran-operation-at-florida-rally/",
+      "domain": "paktribune.com",
+      "country": "Pakistan",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Obama slams Ramaswamy ad using Acton estranged mother :  No office is worth stooping",
+      "url": "https://nbc16.com/news/nation-world/obama-slams-ramaswamy-ad-using-actons-estranged-mother-no-office-is-worth-stooping",
+      "domain": "nbc16.com",
       "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
+      "published": "2026-10-25T03:30:00+00:00"
      },
      {
-      "title": "Vietnamese exporters urged to tap UAE trade pact to expand into Middle East , Africa",
-      "url": "https://vietnamnews.vn/economy/1802790/vietnamese-exporters-urged-to-tap-uae-trade-pact-to-expand-into-middle-east-africa.html",
-      "domain": "vietnamnews.vn",
-      "country": "Vietnam",
-      "published": "2026-10-24T14:15:00+00:00"
+      "title": "Sullivan , Peltola seek support from Alaska Native voters ahead of crucial Senate race",
+      "url": "https://mymotherlode.com/news/national/general-election/11249853/sullivan-peltola-seek-support-from-alaska-native-voters-ahead-of-crucial-senate-race.html",
+      "domain": "mymotherlode.com",
+      "country": "United States",
+      "published": "2026-10-25T03:30:00+00:00"
      },
      {
-      "title": "Five takeaways from Trump midterm campaign rallies",
-      "url": "https://kelo.com/2026/10/24/five-takeaways-from-trumps-midterm-campaign-rallies/",
+      "title": "IMF forecasts strong Gulf economic recovery in 2027",
+      "url": "https://tradearabia.com:443/News/488397/IMF-forecasts-strong-Gulf-economic-recovery-in-2027",
+      "domain": "tradearabia.com",
+      "country": "United Arab Emirates",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "There a possibility ...: Trump says US could strike Iran  maybe tomorrow ; doesnt rule out  big beautiful  deal",
+      "url": "http://www.asiabulletin.com/news/279397042/there-a-possibility-trump-says-us-could-strike-iran-maybe-tomorrow-doesnt-rule-out-big-beautiful-deal",
+      "domain": "asiabulletin.com",
+      "country": "China",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Obama slams Ramaswamy ad using Acton estranged mother :  No office is worth stooping",
+      "url": "https://13wham.com/news/nation-world/obama-slams-ramaswamy-ad-using-actons-estranged-mother-no-office-is-worth-stooping",
+      "domain": "13wham.com",
+      "country": "United States",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Trump got White House looking like Saddam Hussein opened a Cheesecake Factory : Obama mocks US President",
+      "url": "http://www.middleeaststar.com/news/279397043/trump-got-white-house-looking-like-saddam-hussein-opened-a-cheesecake-factory-obama-mocks-us-president",
+      "domain": "middleeaststar.com",
+      "country": "Syria",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Obama slams Ramaswamy ad using Acton estranged mother :  No office is worth stooping",
+      "url": "https://wset.com/news/nation-world/obama-slams-ramaswamy-ad-using-actons-estranged-mother-no-office-is-worth-stooping",
+      "domain": "wset.com",
+      "country": "United States",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Trump Says US Could Strike Iran Soon , Hints at Deal",
+      "url": "https://www.deccanchronicle.com/west-asia/trump-says-us-could-strike-iran-soon-hints-at-deal-1998635",
+      "domain": "deccanchronicle.com",
+      "country": "India",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Saudi - led coalition says it intercepted missiles aimed at Taif and Yanbu",
+      "url": "https://paktribune.com/saudi-led-coalition-says-it-intercepted-missiles-aimed-at-taif-and-yanbu/",
+      "domain": "paktribune.com",
+      "country": "Pakistan",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Shell $12 Billion Escape : Kazakhstan Loses on a Technicality While the Kashagan Mega - Dispute Keeps Growing – Royal Dutch Shell Plc . com",
+      "url": "https://royaldutchshellplc.com/2026/10/24/shells-12-billion-escape-kazakhstan-loses-on-a-technicality-while-the-kashagan-mega-dispute-keeps-growing/",
+      "domain": "royaldutchshellplc.com",
+      "country": "Netherlands",
+      "published": "2026-10-24T23:30:00+00:00"
+     },
+     {
+      "title": "APPO Seeks Stronger African Oil Firms As IOCs Secure Exploration Deals",
+      "url": "https://leadership.ng/appo-seeks-stronger-african-oil-firms-as-iocs-secure-exploration-deals/",
+      "domain": "leadership.ng",
+      "country": "Nigeria",
+      "published": "2026-10-24T23:30:00+00:00"
+     },
+     {
+      "title": "Houthis targeted airports , refineries across Saudi Arabia : Military spokesperson Yahya Saree ; warns airlines against resuming operations",
+      "url": "https://news.webindia123.com/news/Articles/World/20261025/4514788.html",
+      "domain": "news.webindia123.com",
+      "country": "India",
+      "published": "2026-10-24T23:30:00+00:00"
+     },
+     {
+      "title": "An 80 - Year - Old Voter Turns to Wood Heat as US Heating Oil Passes $6 a Gallon",
+      "url": "https://www.ibtimes.co.uk/us-heating-oil-prices-voters-midterm-elections-1827607",
+      "domain": "ibtimes.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-24T23:30:00+00:00"
+     },
+     {
+      "title": "Consumer sentiment nears all - time low ahead of midterms",
+      "url": "https://www.willmarradio.com/business/business_news/consumer-sentiment-nears-all-time-low-ahead-of-midterms/collection_0b02a4d4-ed28-5d0c-a5fd-c52847d7ad5f.html",
+      "domain": "willmarradio.com",
+      "country": "United States",
+      "published": "2026-10-24T23:30:00+00:00"
+     },
+     {
+      "title": "Inside the Trump - administration campaign to return Brazil Bolsonaro clan to power",
+      "url": "https://kelo.com/2026/10/24/inside-the-trump-administration-campaign-to-return-brazils-bolsonaro-clan-to-power/",
       "domain": "kelo.com",
       "country": "United States",
-      "published": "2026-10-24T14:15:00+00:00"
+      "published": "2026-10-24T23:30:00+00:00"
+     },
+     {
+      "title": "THE SHELL LEAKS FILES 24 OCTOBER 2026 – Royal Dutch Shell Plc . com",
+      "url": "https://royaldutchshellplc.com/2026/10/24/the-shell-leaks-files-24-october-2026/",
+      "domain": "royaldutchshellplc.com",
+      "country": "Netherlands",
+      "published": "2026-10-24T23:30:00+00:00"
+     },
+     {
+      "title": "Beshear on California Energy Policies Raising Costs : Trump Caused Increase in Prices",
+      "url": "https://www.breitbart.com/clips/2026/10/24/beshear-on-california-energy-policies-raising-costs-trump-caused-increase-in-prices/",
+      "domain": "breitbart.com",
+      "country": "United States",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "She was a sellout : Ex - Susan Collins supporter reveals breaking point",
+      "url": "https://www.alternet.org/sellout-susan-collins-2678139829/",
+      "domain": "alternet.org",
+      "country": "United States",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "Houthis claim 7 attacks on Saudi targets as heavy airstrikes hit Yemen - Xinhua",
+      "url": "https://english.news.cn/20261025/016da6920c4d47c9a6462787c98c84d7/c.html",
+      "domain": "english.news.cn",
+      "country": "",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "Ukraine says Starshield back to normal , Musk says Kyiv violated terms",
+      "url": "https://www.channelnewsasia.com/world/ukraine-says-starshield-back-normal-musk-says-kyiv-violated-terms-6489801",
+      "domain": "channelnewsasia.com",
+      "country": "United States",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "Fuel Oil Becomes Asia Next Cost Shock",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
+      "domain": "oilprice.com",
+      "country": "United States",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "This decade has been missing its big - impact midterm",
+      "url": "https://www.ideastream.org/npr-news/2026-10-24/this-decade-has-been-missing-its-big-impact-midterm",
+      "domain": "ideastream.org",
+      "country": "United States",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "A Confluence of Observances : 9 / 11 , Shabbat and Rosh Hashanah",
+      "url": "https://jewishtimes.com/a-confluence-of-observances-9-11-shabbat-and-rosh-hashanah/",
+      "domain": "jewishtimes.com",
+      "country": "United States",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "In Cleveland , Obama says road to block Trump agenda runs through Ohio",
+      "url": "https://www.ideastream.org/government-politics/2026-10-24/in-cleveland-obama-says-road-to-block-trumps-agenda-runs-through-ohio-in-midterms",
+      "domain": "ideastream.org",
+      "country": "United States",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "American Nostradamu warns humanity doomed by 2028 as Trump tipped to trigger WW3",
+      "url": "https://www.dailystar.co.uk/news/latest-news/american-nostradamus-warns-humanity-doomed-37807594",
+      "domain": "dailystar.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "Israelis hold final rally against Netanyahu before election , and other Mideast news",
+      "url": "http://www.goskagit.com/news/ap_business/israelis-hold-final-rally-against-netanyahu-before-election-and-other-mideast-news/article_ba3182fc-309f-50cd-813f-a6c58db3b89a.html",
+      "domain": "goskagit.com",
+      "country": "United States",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "Fake Products : Killers Without Guns",
+      "url": "https://leadership.ng/fake-products-killers-without-guns/",
+      "domain": "leadership.ng",
+      "country": "Nigeria",
+      "published": "2026-10-24T21:00:00+00:00"
+     },
+     {
+      "title": "Israelis hold final rally against Netanyahu before election , and other Mideast news",
+      "url": "https://www.chicagotribune.com/2026/10/24/israelis-hold-rally-against-netanyahu-before-election/",
+      "domain": "chicagotribune.com",
+      "country": "United States",
+      "published": "2026-10-24T21:00:00+00:00"
+     },
+     {
+      "title": "pissing on the price of diesel peace for more war .....",
+      "url": "https://yourdemocracy.net/drupal/node/61543",
+      "domain": "yourdemocracy.net",
+      "country": "",
+      "published": "2026-10-24T21:00:00+00:00"
+     },
+     {
+      "title": "Israelis hold final rally against Netanyahu before election , and other Mideast news",
+      "url": "https://www.aol.com/articles/israel-imposes-closures-across-west-074809000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-24T21:00:00+00:00"
+     },
+     {
+      "title": "Trump Floats Another  Little Epic Fury  As Intel Warns Of  Advanced  Plots To Kill US Officials Abroad",
+      "url": "https://www.zerohedge.com/geopolitical/trump-floats-another-little-epic-fury-intel-warns-advanced-plots-kill-us-officials",
+      "domain": "zerohedge.com",
+      "country": "United States",
+      "published": "2026-10-24T21:00:00+00:00"
+     },
+     {
+      "title": "Iran remains open to talks with US under Pakistan - brokered deal , envoy says",
+      "url": "https://www.pressdemocrat.com/2026/10/24/iran-remains-open-to-talks-with-us-under-pakistan-brokered-deal-envoy-says/",
+      "domain": "pressdemocrat.com",
+      "country": "United States",
+      "published": "2026-10-24T21:00:00+00:00"
+     },
+     {
+      "title": "MV Cape Don : Historic ship seized in Sydney Harbour disposal | Gloucester Advocate",
+      "url": "https://www.gloucesteradvocate.com.au/story/9378848/mv-cape-don-historic-ship-seized-in-sydney-harbour-disposal/",
+      "domain": "gloucesteradvocate.com.au",
+      "country": "Australia",
+      "published": "2026-10-24T21:00:00+00:00"
+     },
+     {
+      "title": "Realignment - get used to that word , youre going to be reading it A LOT",
+      "url": "https://www.dailykos.com/stories/2026/10/24/800116464/community/realignment-get-used-to-that-word-youre-going-to-be-reading-it-a-lot/",
+      "domain": "dailykos.com",
+      "country": "United States",
+      "published": "2026-10-24T19:15:00+00:00"
+     },
+     {
+      "title": "Israelis hold final rally against Netanyahu before election , and other Mideast news",
+      "url": "https://www.2news.com/news/national/israelis-hold-final-rally-against-netanyahu-before-election-and-other-mideast-news/article_006dfb03-a070-5ab1-a7d4-5bb4ea17288d.html",
+      "domain": "2news.com",
+      "country": "",
+      "published": "2026-10-24T19:15:00+00:00"
+     },
+     {
+      "title": "West Asia crisis hits Kongu region export trade ; Coimbatore industry seeks relief | Coimbatore News",
+      "url": "https://timesofindia.indiatimes.com/city/coimbatore/west-asia-crisis-hits-kongu-regions-export-trade-coimbatore-industry-seeks-relief/articleshow/135173952.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-24T19:15:00+00:00"
+     },
+     {
+      "title": "Houthis say they attacked Saudi oil sites ; strikes reported in Aden",
+      "url": "https://whbl.com/2026/10/24/houthis-say-they-attacked-saudi-oil-sites-strikes-reported-on-yemens-aden/",
+      "domain": "whbl.com",
+      "country": "United States",
+      "published": "2026-10-24T19:15:00+00:00"
      }
     ],
     "produccion_agroindustrial": [
+     {
+      "title": "Trade tariffs cause whiplash at Port Milwaukee",
+      "url": "https://news.wfsu.org/npr-news/2026-10-24/trade-tariffs-cause-whiplash-at-port-milwaukee",
+      "domain": "news.wfsu.org",
+      "country": "United States",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Trade tariffs cause whiplash at Port Milwaukee",
+      "url": "https://www.wgcu.org/2026-10-24/trade-tariffs-cause-whiplash-at-port-milwaukee",
+      "domain": "wgcu.org",
+      "country": "United States",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
      {
       "title": "SEPTP hails FG move to implement national animal feed policy",
       "url": "https://thenationonlineng.net/septp-hails-fgs-move-to-implement-national-animal-feed-policy/",
@@ -1238,23 +1252,23 @@
       "domain": "wgal.com",
       "country": "United States",
       "published": "2026-10-22T22:00:00+00:00"
-     },
-     {
-      "title": "Millions in revenue lost as protest torpedoes Italy mozzarella output",
-      "url": "https://www.sandiegouniontribune.com/2026/10/22/italy-mozzarella-protest/",
-      "domain": "sandiegouniontribune.com",
-      "country": "United States",
-      "published": "2026-10-22T21:30:00+00:00"
-     },
-     {
-      "title": "Protest over diesel costs tanks Italy buffalo mozzarella output",
-      "url": "https://www.wmtw.com/article/italy-diesel-costs-trucker-protests-buffalo-mozzarella/74221348",
-      "domain": "wmtw.com",
-      "country": "United States",
-      "published": "2026-10-22T21:15:00+00:00"
      }
     ],
     "economia_mundial": [
+     {
+      "title": "Fed expected to hold rates steady days ahead of U . S . midterms",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/25/fed-expected-to-hold-rates-steady-days-ahead-of-us-midterms/",
+      "domain": "bnnbloomberg.ca",
+      "country": "Canada",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Why the AI boom may pose more peril to US markets than meets the eye",
+      "url": "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/why-ai-boom-may-pose-more-peril-us-markets-meets-eye",
+      "domain": "businesstimes.com.sg",
+      "country": "Singapore",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
      {
       "title": "Why so many pet owners cant afford a veterinarian",
       "url": "https://timesofsandiego.com/health/2026/10/23/why-so-many-pet-owners-cant-afford-a-veterinarian/",
@@ -1520,25 +1534,11 @@
       "domain": "bangladeshsun.com",
       "country": "Bangladesh",
       "published": "2026-10-24T17:15:00+00:00"
-     },
-     {
-      "title": "Value - added rice products can boost farmer incomes , open new markets for India : Industry experts",
-      "url": "http://www.calcuttanews.net/news/279396469/value-added-rice-products-can-boost-farmers-incomes-open-new-markets-for-india-industry-experts",
-      "domain": "calcuttanews.net",
-      "country": "India",
-      "published": "2026-10-24T16:15:00+00:00"
-     },
-     {
-      "title": "Analyzing Bridgford Foods ( NASDAQ : BRID ) and Seneca Foods ( NASDAQ : SENEA )",
-      "url": "https://www.dailypolitical.com/2026/10/24/analyzing-bridgford-foods-nasdaqbrid-and-seneca-foods-nasdaqsenea.html",
-      "domain": "dailypolitical.com",
-      "country": "United States",
-      "published": "2026-10-24T16:15:00+00:00"
      }
     ]
    },
    "errors": {
-    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
