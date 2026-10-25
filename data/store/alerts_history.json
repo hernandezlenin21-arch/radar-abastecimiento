@@ -1,5 +1,22 @@
 [
  {
+  "id": "6a0afabef745",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-10-25",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 3 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Houthis claim attacks on Saudi oil targets , airports ; debris falls in Mecca , Medina as tensions escalate in Gulf” (ibtimes.co.in). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "ibtimes.co.in",
+  "url": "https://www.ibtimes.co.in/houthis-claim-attacks-saudi-oil-targets-airports-debris-falls-mecca-medina-tensions-escalate-907830",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-10-25T09:45:25-06:00"
+ },
+ {
   "id": "32d679284305",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",

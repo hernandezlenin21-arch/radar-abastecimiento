@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-25T06:54:27-06:00",
+  "at": "2026-10-25T09:45:25-06:00",
   "data": {
    "storms": [
     {
@@ -9,100 +9,204 @@
      "binNumber": "EP2",
      "name": "Vance",
      "classification": "HU",
-     "intensity": "75",
-     "pressure": "980",
+     "intensity": "65",
+     "pressure": "989",
      "latitude": "14.3N",
-     "longitude": "103.4W",
+     "longitude": "103.8W",
      "latitudeNumeric": 14.3,
-     "longitudeNumeric": -103.4,
-     "movementDir": 340,
+     "longitudeNumeric": -103.8,
+     "movementDir": 315,
      "movementSpeed": 5,
-     "lastUpdate": "2026-10-25T09:00:00.000Z",
+     "lastUpdate": "2026-10-25T15:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "016",
-      "issuance": "2026-10-25T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-25T08:37:50.436Z",
+      "advNum": "017",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:56:55.415Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "016",
-      "issuance": "2026-10-25T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-25T08:37:50.529Z",
+      "advNum": "017",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:56:25.322Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCMEP2.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "016",
-      "issuance": "2026-10-25T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-25T08:38:21.512Z",
+      "advNum": "017",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:57:27.059Z",
       "url": "https://www.nhc.noaa.gov/text/MIAPWSEP2.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "016",
-      "issuance": "2026-10-25T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-25T08:38:52.157Z",
+      "advNum": "017",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:59:56.373Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCDEP2.shtml"
      },
      "forecastGraphics": {
-      "advNum": "016",
-      "issuance": "2026-10-25T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-25T08:37:50.436Z",
+      "advNum": "017",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:56:55.415Z",
       "url": "https://www.nhc.noaa.gov/graphics_ep2.shtml"
      },
      "forecastTrack": {
-      "advNum": "016",
-      "issuance": "2026-10-25T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-25T08:40:21.074Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_016.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_016adv_TRACK.kmz"
+      "advNum": "017",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T15:01:00.462Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_017.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_017adv_TRACK.kmz"
      },
      "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "016",
-      "issuance": "2026-10-25T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-25T08:40:15.403Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_016.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_016adv_CONE.kmz"
+      "advNum": "017",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T15:00:54.134Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_017.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_017adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "016",
-      "issuance": "2026-10-25T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-25T08:40:49.314Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_016.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_016adv.kmz"
+      "advNum": "017",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T15:01:32.686Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_017.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_017adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "016",
-      "issuance": "2026-10-25T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-25T08:40:45.719Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_016.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_016adv.kmz"
+      "advNum": "017",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T15:01:28.715Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_017.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_017adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-10-25T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-25T08:40:30.146Z",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T15:01:11.160Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "016",
-      "issuance": "2026-10-25T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-25T08:40:17.376Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_016adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "017",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T15:00:56.149Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_017adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "016",
-      "issuance": "2026-10-25T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-25T08:40:19.238Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_016adv_most_likely_toa_34.kmz"
+      "advNum": "017",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T15:00:58.222Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_017adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-10-25T06:00:00.000Z",
-      "fileUpdateTime": "2026-10-25T09:22:44.970Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102506_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102506_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102506_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102506_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102506_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-10-25T12:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T15:23:03.895Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102512_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102512_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102512_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102512_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102512_wsp64knt120hr_5km.kmz"
+     },
+     "stormSurgeWatchWarningGIS": null,
+     "potentialStormSurgeFloodingGIS": null,
+     "peakSurgeKML": null
+    },
+    {
+     "id": "cp032026",
+     "binNumber": "CP3",
+     "name": "Three-C",
+     "classification": "TD",
+     "intensity": "30",
+     "pressure": "1006",
+     "latitude": "14.6N",
+     "longitude": "179.3W",
+     "latitudeNumeric": 14.6,
+     "longitudeNumeric": -179.3,
+     "movementDir": 75,
+     "movementSpeed": 7,
+     "lastUpdate": "2026-10-25T15:00:00.000Z",
+     "publicAdvisory": {
+      "advNum": "001",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:50:56.605Z",
+      "url": "https://www.nhc.noaa.gov/text/HFOTCPCP3.shtml"
+     },
+     "forecastAdvisory": {
+      "advNum": "001",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:49:55.521Z",
+      "url": "https://www.nhc.noaa.gov/text/HFOTCMCP3.shtml"
+     },
+     "windSpeedProbabilities": {
+      "advNum": "001",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:51:23.238Z",
+      "url": "https://www.nhc.noaa.gov/text/HFOPWSCP3.shtml"
+     },
+     "forecastDiscussion": {
+      "advNum": "001",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:53:55.048Z",
+      "url": "https://www.nhc.noaa.gov/text/HFOTCDCP3.shtml"
+     },
+     "forecastGraphics": {
+      "advNum": "001",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:50:56.605Z",
+      "url": "https://www.nhc.noaa.gov/graphics_cp3.shtml"
+     },
+     "forecastTrack": {
+      "advNum": "001",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:55:13.711Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp032026_5day_001.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP032026_001adv_TRACK.kmz"
+     },
+     "windWatchesWarnings": null,
+     "trackCone": {
+      "advNum": "001",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:55:07.075Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp032026_5day_001.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP032026_001adv_CONE.kmz"
+     },
+     "initialWindExtent": {
+      "advNum": "001",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:55:44.816Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp032026_fcst_001.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP032026_initialradii_001adv.kmz"
+     },
+     "forecastWindRadiiGIS": {
+      "advNum": "001",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:55:40.644Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp032026_fcst_001.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP032026_forecastradii_001adv.kmz"
+     },
+     "bestTrackGIS": {
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:55:23.309Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/best_track/cp032026_best_track.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/cp032026_best_track.kmz"
+     },
+     "earliestArrivalTimeTSWindsGIS": {
+      "advNum": "001",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:55:09.268Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP032026_001adv_earliest_reasonable_toa_34.kmz"
+     },
+     "mostLikelyTimeTSWindsGIS": {
+      "advNum": "001",
+      "issuance": "2026-10-25T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T14:55:11.369Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP032026_001adv_most_likely_toa_34.kmz"
+     },
+     "windSpeedProbabilitiesGIS": {
+      "issuance": "2026-10-25T12:00:00.000Z",
+      "fileUpdateTime": "2026-10-25T15:23:03.895Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102512_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102512_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102512_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102512_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102512_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -114,7 +218,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-25T06:54:27-06:00",
+  "at": "2026-10-25T09:45:25-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,7 +227,7 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-25T06:54:27-06:00",
+  "at": "2026-10-25T09:45:25-06:00",
   "data": {
    "raw": {
     "commodities_agricolas": [
@@ -410,6 +514,62 @@
     ],
     "energia": [
      {
+      "title": "Presidents Obama And Trump Held Competing Midterm Rallies On The Same Day . They Clashed On Iran .",
+      "url": "https://www.ibtimes.com/presidents-obama-trump-held-competing-midterm-rallies-same-day-they-clashed-iran-3808966",
+      "domain": "ibtimes.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Musk says SpaceX restricted Ukraine Starlink connection as service restored",
+      "url": "https://www.the-star.co.ke/news/world/2026-10-25-musk-says-spacex-restricted-ukraines-starlink-connection-as-service-restored",
+      "domain": "the-star.co.ke",
+      "country": "Kenya",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Policy U - turn could stall Britain take - up of electric vehicles | Electric , hybrid and low - emission cars",
+      "url": "https://www.theguardian.com/environment/2026/oct/25/policy-u-turn-uk-electric-vehicles",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Pacific Gas & Electric ( NYSE : PCG ) Releases FY 2026 Earnings Guidance",
+      "url": "https://www.themarketsdaily.com/2026/10/25/pacific-gas-electric-nysepcg-releases-fy-2026-earnings-guidance.html",
+      "domain": "themarketsdaily.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "America farmers are flashing warning signals about inflation , and the Fed is paying attention . Protect yourself now",
+      "url": "https://www.aol.com/articles/america-farmers-flashing-warning-signals-114500000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Could Hormuz become America Suez ? – Middle East Monitor",
+      "url": "https://www.middleeastmonitor.com/20261025-could-hormuz-become-americas-suez/",
+      "domain": "middleeastmonitor.com",
+      "country": "Israel",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.kgou.org/politics-and-government/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "kgou.org",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Musk says SpaceX restricted Ukraine Starlink connection as service restored",
+      "url": "https://www.aol.com/articles/musk-says-spacex-restricted-ukraines-081529000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
       "title": "With Oil Prices Rising , Bitcoin Remains Stuck Below $85 , 000 . Here Why Im Still Buying Bitcoin Right Now .",
       "url": "https://www.fool.com/investing/2026/10/25/with-oil-prices-rising-bitcoin-just-dipped-below-8/",
       "domain": "fool.com",
@@ -508,34 +668,6 @@
       "published": "2026-10-25T11:30:00+00:00"
      },
      {
-      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
-      "url": "https://www.wcbe.org/npr-news/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
-      "domain": "wcbe.org",
-      "country": "United States",
-      "published": "2026-10-25T11:15:00+00:00"
-     },
-     {
-      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
-      "url": "https://www.wvtf.org/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
-      "domain": "wvtf.org",
-      "country": "United States",
-      "published": "2026-10-25T11:15:00+00:00"
-     },
-     {
-      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
-      "url": "https://www.whro.org/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
-      "domain": "whro.org",
-      "country": "United States",
-      "published": "2026-10-25T11:15:00+00:00"
-     },
-     {
-      "title": "Crude oil near $120 , to intensify headwinds for economy , but tailwinds likely to reduce pressure",
-      "url": "https://www.thehindubusinessline.com/economy/crude-oil-near-120-to-intensify-headwinds-for-economy-but-tailwinds-likely-to-reduce-pressure/article71623034.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
-      "published": "2026-10-25T11:15:00+00:00"
-     },
-     {
       "title": "Column : Trump is doing everything he can to shake down voters ahead of the midterms",
       "url": "https://www.latimes.com/opinion/story/2026-10-25/trump-is-doing-everything-he-can-to-shake-down-voters-ahead-of-midterms",
       "domain": "latimes.com",
@@ -582,6 +714,34 @@
       "url": "https://www.nigerianeye.com/2026/10/obama-blasts-trump-on-iran-conflict.html",
       "domain": "nigerianeye.com",
       "country": "Nigeria",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.whro.org/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "whro.org",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Crude oil near $120 , to intensify headwinds for economy , but tailwinds likely to reduce pressure",
+      "url": "https://www.thehindubusinessline.com/economy/crude-oil-near-120-to-intensify-headwinds-for-economy-but-tailwinds-likely-to-reduce-pressure/article71623034.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.wcbe.org/npr-news/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "wcbe.org",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.wvtf.org/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "wvtf.org",
+      "country": "United States",
       "published": "2026-10-25T11:15:00+00:00"
      },
      {
@@ -632,65 +792,58 @@
       "domain": "nepalnational.com",
       "country": "Nepal",
       "published": "2026-10-25T11:00:00+00:00"
-     },
-     {
-      "title": "Bond yields rise nearly 30 bps in Oct , to raise govt interest burden",
-      "url": "https://www.business-standard.com/markets/news/bond-yields-rise-nearly-30-bps-in-oct-to-raise-govt-s-interest-burden-126102500377_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-10-25T11:00:00+00:00"
-     },
-     {
-      "title": "Rupee recovery faces hurdles from dollar demand , capital outflows",
-      "url": "https://www.business-standard.com/finance/news/rupee-s-recovery-faces-hurdles-from-dollar-demand-capital-outflows-126102500370_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-10-25T11:00:00+00:00"
-     },
-     {
-      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
-      "url": "https://knpr.org/npr/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
-      "domain": "knpr.org",
-      "country": "United States",
-      "published": "2026-10-25T11:00:00+00:00"
-     },
-     {
-      "title": "RBI does not target any price or level for rupee , says Governor Sanjay Malhotra",
-      "url": "http://www.irishsun.com/news/279397389/rbi-does-not-target-any-price-or-level-for-rupee-says-governor-sanjay-malhotra",
-      "domain": "irishsun.com",
-      "country": "Ireland",
-      "published": "2026-10-25T11:00:00+00:00"
-     },
-     {
-      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
-      "url": "https://www.kclu.org/politics/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
-      "domain": "kclu.org",
-      "country": "United States",
-      "published": "2026-10-25T10:45:00+00:00"
-     },
-     {
-      "title": "Loblaw CEO Per Bank says discount stores now key to winning price - weary shoppers – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/arts-and-life/food/2026/10/25/loblaw-ceo-per-bank-says-discount-stores-now-key-to-winning-price-weary-shoppers",
-      "domain": "winnipegfreepress.com",
-      "country": "Canada",
-      "published": "2026-10-25T10:45:00+00:00"
-     },
-     {
-      "title": "LPG distributor unions oppose strike , seek dialogue for commission hike",
-      "url": "https://www.business-standard.com/india-news/lpg-distributors-unions-oppose-strike-seek-dialogue-for-commission-hike-126102500123_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-10-25T10:45:00+00:00"
-     },
-     {
-      "title": "MALUSI MPUMLWANA | How greater Sadc economic integration can defuse hostility to our neighours",
-      "url": "https://www.timeslive.co.za/opinion/2026-10-24-malusi-mpumlwana-how-greater-sadc-economic-integration-can-defuse-hostility-to-our-neighours/",
-      "domain": "timeslive.co.za",
-      "country": "South Africa",
-      "published": "2026-10-25T10:45:00+00:00"
      }
     ],
     "comercio_internacional": [
+     {
+      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – The Willits News",
+      "url": "https://www.willitsnews.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
+      "domain": "willitsnews.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Talking to every single person matter :  prairie populist canvass the rural US heartland to win in midterms | US midterm elections 2026",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/prairie-populists-midwest-prairie-states-midterm-elections",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "url": "https://www.the-star.co.ke/news/world/2026-10-25-obama-attacks-trump-as-he-campaigns-for-democrats",
+      "domain": "the-star.co.ke",
+      "country": "Kenya",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Policy U - turn could stall Britain take - up of electric vehicles | Electric , hybrid and low - emission cars",
+      "url": "https://www.theguardian.com/environment/2026/oct/25/policy-u-turn-uk-electric-vehicles",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Inside the Trump - administration campaign to return Bolsonaro clan to power - Americas",
+      "url": "http://www.thejakartapost.com/world/2026/10/25/inside-the-trump-administration-campaign-to-return-bolsonaro-clan-to-power",
+      "domain": "thejakartapost.com",
+      "country": "Indonesia",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "America farmers are flashing warning signals about inflation , and the Fed is paying attention . Protect yourself now",
+      "url": "https://www.aol.com/articles/america-farmers-flashing-warning-signals-114500000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.kgou.org/politics-and-government/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "kgou.org",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
      {
       "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
       "url": "https://wysu.org/npr-national-news/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
@@ -777,27 +930,6 @@
      },
      {
       "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
-      "url": "https://www.wcbe.org/npr-news/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
-      "domain": "wcbe.org",
-      "country": "United States",
-      "published": "2026-10-25T11:15:00+00:00"
-     },
-     {
-      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
-      "url": "https://www.wvtf.org/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
-      "domain": "wvtf.org",
-      "country": "United States",
-      "published": "2026-10-25T11:15:00+00:00"
-     },
-     {
-      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
-      "url": "https://www.whro.org/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
-      "domain": "whro.org",
-      "country": "United States",
-      "published": "2026-10-25T11:15:00+00:00"
-     },
-     {
-      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
       "url": "https://www.krwg.org/national-news/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
       "domain": "krwg.org",
       "country": "United States",
@@ -821,6 +953,27 @@
       "title": "Nestle sales beat forecasts as turnaround gathers pace",
       "url": "http://www.bignewsnetwork.com/news/279392999/nestle-sales-beat-forecasts-as-turnaround-gathers-pace",
       "domain": "bignewsnetwork.com",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.whro.org/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "whro.org",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.wcbe.org/npr-news/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "wcbe.org",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.wvtf.org/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "wvtf.org",
       "country": "United States",
       "published": "2026-10-25T11:15:00+00:00"
      },
@@ -921,58 +1074,319 @@
       "domain": "wclk.com",
       "country": "United States",
       "published": "2026-10-25T10:45:00+00:00"
+     }
+    ],
+    "geopolitica": [
+     {
+      "title": "Houthis claim attacks on Saudi oil targets , airports ; debris falls in Mecca , Medina as tensions escalate in Gulf",
+      "url": "https://www.ibtimes.co.in/houthis-claim-attacks-saudi-oil-targets-airports-debris-falls-mecca-medina-tensions-escalate-907830",
+      "domain": "ibtimes.co.in",
+      "country": "India",
+      "published": "2026-10-25T12:45:00+00:00"
      },
      {
-      "title": "Trump Announces $4 . 2 Billion Audi Auto Manufacturing Investment in Georgia",
-      "url": "https://www.theepochtimes.com/us/trump-announces-4-2-billion-audi-auto-manufacturing-investment-in-georgia-6108532",
-      "domain": "theepochtimes.com",
+      "title": "Iran says  nothing will be same  in region after war with US – Middle East Monitor",
+      "url": "https://www.middleeastmonitor.com/20261025-iran-says-nothing-will-be-same-in-region-after-war-with-us/",
+      "domain": "middleeastmonitor.com",
+      "country": "Israel",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Presidents Obama And Trump Held Competing Midterm Rallies On The Same Day . They Clashed On Iran .",
+      "url": "https://www.ibtimes.com/presidents-obama-trump-held-competing-midterm-rallies-same-day-they-clashed-iran-3808966",
+      "domain": "ibtimes.com",
       "country": "United States",
-      "published": "2026-10-25T10:45:00+00:00"
+      "published": "2026-10-25T12:45:00+00:00"
      },
      {
-      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
-      "url": "https://www.wbaa.org/npr-news/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
-      "domain": "wbaa.org",
+      "title": "Musk says SpaceX restricted Ukraine Starlink connection as service restored",
+      "url": "https://www.the-star.co.ke/news/world/2026-10-25-musk-says-spacex-restricted-ukraines-starlink-connection-as-service-restored",
+      "domain": "the-star.co.ke",
+      "country": "Kenya",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "url": "https://www.the-star.co.ke/news/world/2026-10-25-obama-attacks-trump-as-he-campaigns-for-democrats",
+      "domain": "the-star.co.ke",
+      "country": "Kenya",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Interest rates unlikely to reach 4 . 75 % by next summer , say City economists",
+      "url": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Inside the Trump - administration campaign to return Bolsonaro clan to power - Americas",
+      "url": "http://www.thejakartapost.com/world/2026/10/25/inside-the-trump-administration-campaign-to-return-bolsonaro-clan-to-power",
+      "domain": "thejakartapost.com",
+      "country": "Indonesia",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Reclaiming the Bputra for Commerce",
+      "url": "https://www.sentinelassam.com/more-news/editorial/reclaiming-the-bputra-for-commerce",
+      "domain": "sentinelassam.com",
+      "country": "India",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Today in History : October 25 , abolitionist John Brown goes on trial for Harpers Ferry raid",
+      "url": "https://www.dailycamera.com/2026/10/25/today-in-history-october-25-abolitionist-john-brown-goes-on-trial-for-harpers-ferry-raid/",
+      "domain": "dailycamera.com",
       "country": "United States",
-      "published": "2026-10-25T10:45:00+00:00"
+      "published": "2026-10-25T12:45:00+00:00"
      },
      {
-      "title": "Nestle sales growth beats forecasts as volumes rebound",
-      "url": "http://www.taiwansun.com/news/279392999/nestle-sales-growth-beats-forecasts-as-volumes-rebound",
-      "domain": "taiwansun.com",
+      "title": "Could Hormuz become America Suez ? – Middle East Monitor",
+      "url": "https://www.middleeastmonitor.com/20261025-could-hormuz-become-americas-suez/",
+      "domain": "middleeastmonitor.com",
+      "country": "Israel",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Trump Administration Targets Fraud as Midterm Election Choices Take Shape",
+      "url": "https://afr.net/podcasts/todays-issues-with-tim-wildmon-and-company/2026/october/trump-administration-targets-fraud-as-midterm-election-choices-take-shape/",
+      "domain": "afr.net",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Musk says SpaceX restricted Ukraine Starlink connection as service restored",
+      "url": "https://www.aol.com/articles/musk-says-spacex-restricted-ukraines-081529000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "The week ahead in numbers : Govt H1 fiscal data , factory output , HUL Q2 earnings",
+      "url": "https://www.livemint.com/economy/india-economic-data-hul-q2-results-fed-boj-meetings-11792915815219.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Interest rates unlikely to reach 4 . 75 % by next summer , say City economists",
+      "url": "https://www.aol.co.uk/articles/interest-rates-unlikely-reach-4-120005000.html",
+      "domain": "aol.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "The Mercury Sound Off for Sunday , Oct . 25",
+      "url": "https://www.pottsmerc.com/2026/10/25/the-mercurys-sound-off-for-sunday-oct-25/",
+      "domain": "pottsmerc.com",
+      "country": "United States",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "US courting Reliance refining muscle to keep oil flowing , not curb Russian crude , analyst says",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/us-courting-reliances-refining-muscle-to-keep-oil-flowing-not-curb-russian-crude-analyst-says-mukesh-ambani/articleshow/135190443.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Arab News | Oman import prices jump 11 . 7 % as fuel costs surge",
+      "url": "https://www.arabnews.com/finance/omans-import-prices-jump-117-as-fuel-costs-surge-3008167",
+      "domain": "arabnews.com",
+      "country": "Saudi Arabia",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Beirut $13 Chicken Sandwich Becomes Symbol of Lebanon Divide",
+      "url": "https://english.aawsat.com/features/5333379-beirut%E2%80%99s-13-chicken-sandwich-becomes-symbol-lebanon-divide",
+      "domain": "english.aawsat.com",
+      "country": "Syria",
+      "published": "2026-10-25T11:30:00+00:00"
+     },
+     {
+      "title": "Central bank bills fetch higher rates - BusinessWorld Online",
+      "url": "https://bworldonline.com/banking-finance/2026/10/25/789010/central-bank-bills-fetch-higher-rates/",
+      "domain": "bworldonline.com",
+      "country": "Philippines",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Sri Lanka seeks faster green energy shift after oil shocks",
+      "url": "https://arynews.tv/sri-lanka-seeks-faster-green-energy-shift-oil-shocks",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Today in History : Albert B . Fall convicted of accepting bribes",
+      "url": "https://www.chicagotribune.com/2026/10/25/today-in-history-albert-b-fall-convicted-of-accepting-bribes-2/",
+      "domain": "chicagotribune.com",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Peso could recover as Fed may hold rates - BusinessWorld Online",
+      "url": "https://bworldonline.com/banking-finance/2026/10/25/789008/peso-could-recover-as-fed-may-hold-rates/",
+      "domain": "bworldonline.com",
+      "country": "Philippines",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Obama Blasts Trump on Iran Conflict , Higher Prices While Stumping for Democrats - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
+      "url": "https://www.nigerianeye.com/2026/10/obama-blasts-trump-on-iran-conflict.html",
+      "domain": "nigerianeye.com",
+      "country": "Nigeria",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Today in History : October 25 , abolitionist John Brown goes on trial for Harpers Ferry raid",
+      "url": "https://www.courant.com/2026/10/25/today-in-history-october-25-abolitionist-john-brown-goes-on-trial-for-harpers-ferry-raid/",
+      "domain": "courant.com",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Samudra Manthan : Govt to bankroll half the cost of deepwater wells , but wants its money back from winners",
+      "url": "https://www.thehindubusinessline.com/news/samudra-manthan-govt-to-bankroll-half-the-cost-of-deepwater-wells-but-wants-its-money-back-from-winners/article71622731.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Iran says resumption of war with US would not change its mind",
+      "url": "https://www.abc.net.au/news/2026-10-25/iran-says-resumption-of-war-with-us-would-not-change-its-stances/107307004",
+      "domain": "abc.net.au",
+      "country": "Australia",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Iran says resumption of war would not change its stances",
+      "url": "https://arynews.tv/iran-resumption-of-war-would-not-change-stances",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Iran has ramped up efforts to target US personnel , intelligence memo warns",
+      "url": "https://arynews.tv/iran-has-ramped-up-efforts-to-target-us-personnel-intelligence-memo-warns-2",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Cautious trade seen as market digests BSP move - BusinessWorld Online",
+      "url": "https://bworldonline.com/uncategorized/2026/10/25/789048/cautious-trade-seen-as-market-digests-bsp-move/",
+      "domain": "bworldonline.com",
+      "country": "Philippines",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Why arent African economists winning Nobel Prizes ?, By  Tope Fasua",
+      "url": "https://www.premiumtimesng.com/opinion/920017-why-arent-african-economists-winning-nobel-prizes-by-tope-fasua.html",
+      "domain": "premiumtimesng.com",
+      "country": "Nigeria",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Yemen Houthis renew warning against using Riyadh airport",
+      "url": "https://bworldonline.com/world/2026/10/25/789014/yemens-houthis-renew-warning-against-using-riyadh-airport/",
+      "domain": "bworldonline.com",
+      "country": "Philippines",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Riyadh airport resumes flights as Saudis fight Houthi missiles",
+      "url": "https://www.thehindubusinessline.com/news/world/riyadh-airport-resumes-flights-as-saudis-fight-houthi-missiles/article71622883.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Kakar Says Renewed U . S .- Iran Fighting Could Raise Pakistan Inflation",
+      "url": "https://econotimes.com/Kakar-Says-Renewed-U-S-Iran-Fighting-Could-Raise-Pakistan-s-Inflation-1762927",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "France - Algeria diplomatic tensions put supply of urea fertilizer at risk",
+      "url": "https://bworldonline.com/agribusiness/2026/10/25/789003/france-algeria-diplomatic-tensions-put-supply-of-urea-fertilizer-at-risk/",
+      "domain": "bworldonline.com",
+      "country": "Philippines",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Saudi - Led Coalition Reports 12 Missile Interceptions in Separate Bulletins",
+      "url": "https://econotimes.com/Saudi-Led-Coalition-Reports-12-Missile-Interceptions-in-Separate-Bulletins-1762925",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Beirut Restaurant Sells More Than 20 , 000 $13 Chicken Sandwiches",
+      "url": "https://econotimes.com/Beirut-Restaurant-Sells-More-Than-20-000-13-Chicken-Sandwiches-1762921",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Today in History : October 25 , abolitionist John Brown goes on trial for Harpers Ferry raid",
+      "url": "https://www.pressdemocrat.com/2026/10/25/today-in-history-october-25-abolitionist-john-brown-goes-on-trial-for-harpers-ferry-raid/",
+      "domain": "pressdemocrat.com",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Saudi Arabia intercepts drones and missiles as fighting with Yemen Houthis continues",
+      "url": "https://arynews.tv/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Ukrainian Attacks Kill 3 in Belgorod , Hit Perm Industrial Plant",
+      "url": "https://www.themoscowtimes.com/2026/10/25/ukrainian-attacks-kill-3-in-belgorod-hit-perm-industrial-plant-a94077",
+      "domain": "themoscowtimes.com",
+      "country": "Russia",
+      "published": "2026-10-25T11:00:00+00:00"
+     },
+     {
+      "title": "China clean energy achievements accelerate global energy transition , says IEA chief -- China Economic Net",
+      "url": "http://en.ce.cn/main/latest/202610/t20261025_3270466.shtml",
+      "domain": "en.ce.cn",
       "country": "China",
-      "published": "2026-10-25T10:45:00+00:00"
-     },
-     {
-      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
-      "url": "https://www.wfdd.org/national/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
-      "domain": "wfdd.org",
-      "country": "United States",
-      "published": "2026-10-25T10:45:00+00:00"
-     },
-     {
-      "title": "Loblaw CEO Per Bank says discount stores now key to winning price - weary shoppers",
-      "url": "https://www.niagarafallsreview.ca/business/loblaw-ceo-per-bank-says-discount-stores-now-key-to-winning-price-weary-shoppers/article_459140d2-4987-54e6-9501-40b1bd89c563.html",
-      "domain": "niagarafallsreview.ca",
-      "country": "Canada",
-      "published": "2026-10-25T10:45:00+00:00"
-     },
-     {
-      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
-      "url": "https://www.northernpublicradio.org/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
-      "domain": "northernpublicradio.org",
-      "country": "United States",
-      "published": "2026-10-25T10:45:00+00:00"
-     },
-     {
-      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
-      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-6009402/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
-      "domain": "northcountrypublicradio.org",
-      "country": "United States",
-      "published": "2026-10-25T10:45:00+00:00"
+      "published": "2026-10-25T11:00:00+00:00"
      }
     ],
     "transporte_maritimo": [
+     {
+      "title": "Iran says  nothing will be same  in region after war with US – Middle East Monitor",
+      "url": "https://www.middleeastmonitor.com/20261025-iran-says-nothing-will-be-same-in-region-after-war-with-us/",
+      "domain": "middleeastmonitor.com",
+      "country": "Israel",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Presidents Obama And Trump Held Competing Midterm Rallies On The Same Day . They Clashed On Iran .",
+      "url": "https://www.ibtimes.com/presidents-obama-trump-held-competing-midterm-rallies-same-day-they-clashed-iran-3808966",
+      "domain": "ibtimes.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "url": "https://www.the-star.co.ke/news/world/2026-10-25-obama-attacks-trump-as-he-campaigns-for-democrats",
+      "domain": "the-star.co.ke",
+      "country": "Kenya",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Could Hormuz become America Suez ? – Middle East Monitor",
+      "url": "https://www.middleeastmonitor.com/20261025-could-hormuz-become-americas-suez/",
+      "domain": "middleeastmonitor.com",
+      "country": "Israel",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
      {
       "title": "Iran says destroyed U . S . drone over southern port city - Xinhua",
       "url": "https://english.news.cn/20261025/ff6674d6a393490e8dcba9079d2eb803/c.html",
@@ -1007,6 +1421,20 @@
       "domain": "arabnews.com",
       "country": "Saudi Arabia",
       "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Sri Lanka seeks faster green energy shift after oil shocks",
+      "url": "https://arynews.tv/sri-lanka-seeks-faster-green-energy-shift-oil-shocks",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Obama Blasts Trump on Iran Conflict , Higher Prices While Stumping for Democrats - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
+      "url": "https://www.nigerianeye.com/2026/10/obama-blasts-trump-on-iran-conflict.html",
+      "domain": "nigerianeye.com",
+      "country": "Nigeria",
+      "published": "2026-10-25T11:15:00+00:00"
      },
      {
       "title": "Iran says resumption of war with US would not change its mind",
@@ -1048,20 +1476,6 @@
       "url": "https://arynews.tv/saudi-arabia-intercepts-drones-and-missiles-as-fighting-with-yemens-houthis-continues",
       "domain": "arynews.tv",
       "country": "Pakistan",
-      "published": "2026-10-25T11:15:00+00:00"
-     },
-     {
-      "title": "Sri Lanka seeks faster green energy shift after oil shocks",
-      "url": "https://arynews.tv/sri-lanka-seeks-faster-green-energy-shift-oil-shocks",
-      "domain": "arynews.tv",
-      "country": "Pakistan",
-      "published": "2026-10-25T11:15:00+00:00"
-     },
-     {
-      "title": "Obama Blasts Trump on Iran Conflict , Higher Prices While Stumping for Democrats - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
-      "url": "https://www.nigerianeye.com/2026/10/obama-blasts-trump-on-iran-conflict.html",
-      "domain": "nigerianeye.com",
-      "country": "Nigeria",
       "published": "2026-10-25T11:15:00+00:00"
      },
      {
@@ -1224,316 +1638,6 @@
       "domain": "middle-east-online.com",
       "country": "Iraq",
       "published": "2026-10-25T09:45:00+00:00"
-     },
-     {
-      "title": "Resumption of war would not change position : Iran",
-      "url": "https://www.omanobserver.om/article/1198516/world/region/resumption-of-war-would-not-change-position-iran",
-      "domain": "omanobserver.om",
-      "country": "Oman",
-      "published": "2026-10-25T09:30:00+00:00"
-     },
-     {
-      "title": "UAE Shuts More Beaches as It Deals With Oil Spill in Gulf",
-      "url": "https://www.deccanchronicle.com/west-asia/uae-shuts-more-beaches-as-it-deals-with-oil-spill-in-gulf-1998693",
-      "domain": "deccanchronicle.com",
-      "country": "India",
-      "published": "2026-10-25T09:30:00+00:00"
-     },
-     {
-      "title": "Obama blasts Trump  chaos and cruelty  while campaigning for Democrats",
-      "url": "https://www.standardmedia.co.ke/america/article/2001560822/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats",
-      "domain": "standardmedia.co.ke",
-      "country": "Kenya",
-      "published": "2026-10-25T09:30:00+00:00"
-     },
-     {
-      "title": "Nordic American Tankers Limited $NAT Stock Purchased by SBI Securities Co . Ltd .",
-      "url": "https://www.dailypolitical.com/2026/10/25/nordic-american-tankers-limited-nat-stock-purchased-by-sbi-securities-co-ltd.html",
-      "domain": "dailypolitical.com",
-      "country": "United States",
-      "published": "2026-10-25T09:30:00+00:00"
-     }
-    ],
-    "riesgos_climaticos": [
-     {
-      "title": "67 History Facts And Pics That Make The Past More Fascinating Than You Might Expect",
-      "url": "https://2.boredpanda.com/magnificent-history-facts-pics/?cexp_id=163348&_f=homepage_featured&cexp_var=7",
-      "domain": "2.boredpanda.com",
-      "country": "United States",
-      "published": "2026-10-25T11:15:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://knpr.org/npr/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "knpr.org",
-      "country": "United States",
-      "published": "2026-10-25T11:00:00+00:00"
-     },
-     {
-      "title": "Rising demand , lower price than competitors to boost rice exports : IREF",
-      "url": "https://www.business-standard.com/industry/news/rising-demand-lower-price-than-competitors-to-boost-rice-exports-iref-126102500358_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-10-25T11:00:00+00:00"
-     },
-     {
-      "title": "Weekly News Wrap – BILKULONLINE - Bilkul Online",
-      "url": "https://bilkulonline.com/2026/10/25/weekly-news-wrap-bilkulonline-4/",
-      "domain": "bilkulonline.com",
-      "country": "India",
-      "published": "2026-10-25T11:00:00+00:00"
-     },
-     {
-      "title": "67 History Facts And Pics That Make The Past More Fascinating Than You Might Expect",
-      "url": "https://2.boredpanda.com/magnificent-history-facts-pics/?cexp_id=163347&_f=homepage_featured&cexp_var=2",
-      "domain": "2.boredpanda.com",
-      "country": "United States",
-      "published": "2026-10-25T11:00:00+00:00"
-     },
-     {
-      "title": "Karnataka DyCM Parameshwara urges Centre to release relief funds as crop losses reach 80 pc due to drought",
-      "url": "https://economictimes.indiatimes.com/news/india/dycm-parameshwara-urges-centre-to-release-relief-funds-as-crop-losses-reach-80-pc-due-to-drought/articleshow/135188560.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-25T10:45:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wclk.com/2026-10-25/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wclk.com",
-      "country": "United States",
-      "published": "2026-10-25T10:45:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wfdd.org/national/2026-10-25/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wfdd.org",
-      "country": "United States",
-      "published": "2026-10-25T10:45:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "northcountrypublicradio.org",
-      "country": "United States",
-      "published": "2026-10-25T10:45:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.mynspr.org/npr-news/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "mynspr.org",
-      "country": "United States",
-      "published": "2026-10-25T10:30:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wncw.org/2026-10-25/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wncw.org",
-      "country": "United States",
-      "published": "2026-10-25T10:30:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.klcc.org/npr-news/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "klcc.org",
-      "country": "United States",
-      "published": "2026-10-25T10:30:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://wnyc.org/npr/nx-s1-5992998",
-      "domain": "wnyc.org",
-      "country": "United States",
-      "published": "2026-10-25T10:30:00+00:00"
-     },
-     {
-      "title": "Pune Records 2 , 291 Dengue Cases In 10 Months ; PMC Steps Up Prevention Drive",
-      "url": "https://www.freepressjournal.in/pune/pune-records-2291-dengue-cases-in-10-months-pmc-steps-up-prevention-drive",
-      "domain": "freepressjournal.in",
-      "country": "India",
-      "published": "2026-10-25T10:00:00+00:00"
-     },
-     {
-      "title": "Hindu Govt Silent As Pune Police Seek ₹1 Lakh Deposit For Dhol - Tasha : MNS Leader Sainath Babar Targets CM Devendra Fadnavis",
-      "url": "https://www.freepressjournal.in/pune/hindu-govt-silent-as-pune-police-seek-1-lakh-deposit-for-dhol-tasha-mns-leader-sainath-babar-targets-cm-devendra-fadnavis",
-      "domain": "freepressjournal.in",
-      "country": "India",
-      "published": "2026-10-25T10:00:00+00:00"
-     },
-     {
-      "title": "Ethiopia Drought Damages 250 , 000 Hectares",
-      "url": "https://www.riotimesonline.com/ethiopia-drought-250000-hectares-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-25T09:45:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.kvpr.org/npr-news/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "kvpr.org",
-      "country": "United States",
-      "published": "2026-10-25T09:30:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wfae.org/united-states-world/2026-10-25/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wfae.org",
-      "country": "United States",
-      "published": "2026-10-25T09:30:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.interlochenpublicradio.org/2026-10-25/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "interlochenpublicradio.org",
-      "country": "United States",
-      "published": "2026-10-25T09:30:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://news.prairiepublic.org/news-from-npr/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "news.prairiepublic.org",
-      "country": "United States",
-      "published": "2026-10-25T09:30:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wmuk.org/npr-news/2026-10-25/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wmuk.org",
-      "country": "United States",
-      "published": "2026-10-25T09:30:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wvasfm.org/2026-10-25/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wvasfm.org",
-      "country": "United States",
-      "published": "2026-10-25T09:30:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wwno.org/npr-news/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wwno.org",
-      "country": "United States",
-      "published": "2026-10-25T09:15:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.aspenpublicradio.org/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "aspenpublicradio.org",
-      "country": "United States",
-      "published": "2026-10-25T09:15:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wsiu.org/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wsiu.org",
-      "country": "United States",
-      "published": "2026-10-25T08:30:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wuky.org/npr-news/2026-10-25/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wuky.org",
-      "country": "United States",
-      "published": "2026-10-25T08:30:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://news.wfsu.org/npr-news/2026-10-25/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "news.wfsu.org",
-      "country": "United States",
-      "published": "2026-10-25T08:30:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wyomingpublicmedia.org/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wyomingpublicmedia.org",
-      "country": "United States",
-      "published": "2026-10-25T08:30:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.kbia.org/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "kbia.org",
-      "country": "United States",
-      "published": "2026-10-25T08:30:00+00:00"
-     },
-     {
-      "title": "As drought grips Marathwada , territorial Army builds water security through ecological restoration",
-      "url": "https://timesofindia.indiatimes.com/city/pune/as-drought-grips-marathwada-territorial-army-builds-water-security-through-ecological-restoration/articleshow/135185894.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-25T08:30:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wlrn.org/npr-breaking-news/2026-10-25/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wlrn.org",
-      "country": "United States",
-      "published": "2026-10-25T08:15:00+00:00"
-     },
-     {
-      "title": "Food security : Bridging the gap between availability and access",
-      "url": "https://www.sanews.gov.za/features-south-africa/food-security-bridging-gap-between-availability-and-access",
-      "domain": "sanews.gov.za",
-      "country": "South Africa",
-      "published": "2026-10-25T08:15:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.hppr.org/npr-news/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "hppr.org",
-      "country": "United States",
-      "published": "2026-10-25T08:15:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wboi.org/npr-news/2026-10-25/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wboi.org",
-      "country": "United States",
-      "published": "2026-10-25T08:15:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wnmufm.org/2026-10-25/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wnmufm.org",
-      "country": "United States",
-      "published": "2026-10-25T08:15:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.kgou.org/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "kgou.org",
-      "country": "United States",
-      "published": "2026-10-25T08:15:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.upr.org/npr-news/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "upr.org",
-      "country": "United States",
-      "published": "2026-10-25T08:15:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wkms.org/npr-news/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wkms.org",
-      "country": "United States",
-      "published": "2026-10-25T08:00:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.kvnf.org/npr-news/2026-10-24/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "kvnf.org",
-      "country": "United States",
-      "published": "2026-10-25T08:00:00+00:00"
-     },
-     {
-      "title": "Drought , fire and high diesel prices  addin  up tough  for Oregon ranchers",
-      "url": "https://www.wgcu.org/2026-10-25/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "domain": "wgcu.org",
-      "country": "United States",
-      "published": "2026-10-25T08:00:00+00:00"
      }
     ],
     "produccion_agroindustrial": [
@@ -1820,6 +1924,41 @@
     ],
     "economia_mundial": [
      {
+      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – The Willits News",
+      "url": "https://www.willitsnews.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
+      "domain": "willitsnews.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "As vote nears , Trump AI gamble fuels economic uncertainty",
+      "url": "https://www.aol.com/articles/vote-nears-trumps-ai-gamble-100000000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Interest rates unlikely to reach 4 . 75 % by next summer , say City economists",
+      "url": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Teacher , 34 , has $140K invested says she may never need to add another dollar to retire with $1 . 5M . Here her math",
+      "url": "https://www.aol.com/articles/teacher-34-140k-invested-says-111500000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Could Hormuz become America Suez ? – Middle East Monitor",
+      "url": "https://www.middleeastmonitor.com/20261025-could-hormuz-become-americas-suez/",
+      "domain": "middleeastmonitor.com",
+      "country": "Israel",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
       "title": "The week ahead in numbers : Govt H1 fiscal data , factory output , HUL Q2 earnings",
       "url": "https://www.livemint.com/economy/india-economic-data-hul-q2-results-fed-boj-meetings-11792915815219.html",
       "domain": "livemint.com",
@@ -1876,20 +2015,6 @@
       "published": "2026-10-25T11:30:00+00:00"
      },
      {
-      "title": "Yields on govt debt rise with BSP move in focus - BusinessWorld Online",
-      "url": "https://bworldonline.com/banking-finance/2026/10/25/789007/yields-on-govt-debt-rise-with-bsp-move-in-focus/",
-      "domain": "bworldonline.com",
-      "country": "Philippines",
-      "published": "2026-10-25T11:15:00+00:00"
-     },
-     {
-      "title": "Dont assume FCNR money is untouched : ISB professor flags RBI $200 billion dollar exposure",
-      "url": "https://www.businesstoday.in/industry/banks/story/dont-assume-fcnr-money-is-untouched-isb-professor-flags-rbis-200-billion-exposure-563503-2026-10-25",
-      "domain": "businesstoday.in",
-      "country": "India",
-      "published": "2026-10-25T11:15:00+00:00"
-     },
-     {
       "title": "Blaming Opposition for Hunger Is Delusional Atiku - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
       "url": "https://www.nigerianeye.com/2026/10/blaming-opposition-for-hunger-is.html",
       "domain": "nigerianeye.com",
@@ -1929,6 +2054,20 @@
       "url": "https://www.thisdaylive.com/2026/10/25/from-consumption-to-production-daniel-ayodeles-meei-summit-sets-new-agenda-for-african-business-leaders-in-china/",
       "domain": "thisdaylive.com",
       "country": "Nigeria",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Dont assume FCNR money is untouched : ISB professor flags RBI $200 billion dollar exposure",
+      "url": "https://www.businesstoday.in/industry/banks/story/dont-assume-fcnr-money-is-untouched-isb-professor-flags-rbis-200-billion-exposure-563503-2026-10-25",
+      "domain": "businesstoday.in",
+      "country": "India",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Yields on govt debt rise with BSP move in focus - BusinessWorld Online",
+      "url": "https://bworldonline.com/banking-finance/2026/10/25/789007/yields-on-govt-debt-rise-with-bsp-move-in-focus/",
+      "domain": "bworldonline.com",
+      "country": "Philippines",
       "published": "2026-10-25T11:15:00+00:00"
      },
      {
@@ -2063,46 +2202,11 @@
       "domain": "localnews8.com",
       "country": "United States",
       "published": "2026-10-25T10:00:00+00:00"
-     },
-     {
-      "title": "Intel ( NASDAQ : INTC ) Stock Price Up 1 . 7 % – Here Why",
-      "url": "https://www.dailypolitical.com/2026/10/25/intel-nasdaqintc-stock-price-up-1-7-heres-why.html",
-      "domain": "dailypolitical.com",
-      "country": "United States",
-      "published": "2026-10-25T10:00:00+00:00"
-     },
-     {
-      "title": "RBI does not target any price or level for rupee , says Governor Sanjay Malhotra",
-      "url": "http://www.afghanistannews.net/news/279397389/rbi-does-not-target-any-price-or-level-for-rupee-says-governor-sanjay-malhotra",
-      "domain": "afghanistannews.net",
-      "country": "Afghanistan",
-      "published": "2026-10-25T10:00:00+00:00"
-     },
-     {
-      "title": "RBI does not target any price or level for rupee , says Governor Sanjay Malhotra",
-      "url": "http://www.srilankasource.com/news/279397389/rbi-does-not-target-any-price-or-level-for-rupee-says-governor-sanjay-malhotra",
-      "domain": "srilankasource.com",
-      "country": "Sri Lanka",
-      "published": "2026-10-25T10:00:00+00:00"
-     },
-     {
-      "title": "What to Do in Lagos in November 2026 : Fringe , ART X , NECLive",
-      "url": "https://www.riotimesonline.com/what-to-do-in-lagos-in-november-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-25T09:45:00+00:00"
-     },
-     {
-      "title": "Colombia Pledges US$855M to Avert Blackouts",
-      "url": "https://www.riotimesonline.com/colombia-el-nino-power-plan-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-25T09:45:00+00:00"
      }
     ]
    },
    "errors": {
-    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
