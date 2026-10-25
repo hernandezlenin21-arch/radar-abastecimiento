@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-24T15:44:35-06:00",
+  "at": "2026-10-24T18:55:50-06:00",
   "data": {
    "storms": [
     {
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-24T15:44:35-06:00",
+  "at": "2026-10-24T18:55:50-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,7 +123,7 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-24T15:44:35-06:00",
+  "at": "2026-10-24T18:55:50-06:00",
   "data": {
    "raw": {
     "commodities_agricolas": [
@@ -408,286 +408,568 @@
       "published": "2026-10-24T12:45:00+00:00"
      }
     ],
-    "riesgos_climaticos": [
+    "energia": [
      {
-      "title": "Haveri reels under 386cr crop loss",
-      "url": "https://timesofindia.indiatimes.com/city/hubballi/haveri-reels-under-386cr-crop-loss/articleshow/135174176.cms",
+      "title": "APPO Seeks Stronger African Oil Firms As IOCs Secure Exploration Deals",
+      "url": "https://leadership.ng/appo-seeks-stronger-african-oil-firms-as-iocs-secure-exploration-deals/",
+      "domain": "leadership.ng",
+      "country": "Nigeria",
+      "published": "2026-10-24T23:30:00+00:00"
+     },
+     {
+      "title": "An 80 - Year - Old Voter Turns to Wood Heat as US Heating Oil Passes $6 a Gallon",
+      "url": "https://www.ibtimes.co.uk/us-heating-oil-prices-voters-midterm-elections-1827607",
+      "domain": "ibtimes.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-24T23:30:00+00:00"
+     },
+     {
+      "title": "Consumer sentiment nears all - time low ahead of midterms",
+      "url": "https://www.willmarradio.com/business/business_news/consumer-sentiment-nears-all-time-low-ahead-of-midterms/collection_0b02a4d4-ed28-5d0c-a5fd-c52847d7ad5f.html",
+      "domain": "willmarradio.com",
+      "country": "United States",
+      "published": "2026-10-24T23:30:00+00:00"
+     },
+     {
+      "title": "S & P 500 ( SPY ) And Dow Jones Industrial Average ( DJIA ) Slide As Oil Prices Surge And AI Profitability Fears Persist",
+      "url": "https://www.foreignpolicyjournal.com/2026/10/24/sp-500-spy-and-dow-jones-industrial-average-djia-slide-as-oil-prices-surge-and-ai-profitability-fears-persist/",
+      "domain": "foreignpolicyjournal.com",
+      "country": "Israel",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "Beshear on California Energy Policies Raising Costs : Trump Caused Increase in Prices",
+      "url": "https://www.breitbart.com/clips/2026/10/24/beshear-on-california-energy-policies-raising-costs-trump-caused-increase-in-prices/",
+      "domain": "breitbart.com",
+      "country": "United States",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "Web of permits delaying new PNG lines in Noida & Ghaziabad",
+      "url": "https://timesofindia.indiatimes.com/city/noida/web-of-permits-delaying-new-png-lines-in-noida-ghaziabad/articleshow/135177378.cms",
       "domain": "timesofindia.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "Fuel Oil Becomes Asia Next Cost Shock",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
+      "domain": "oilprice.com",
+      "country": "United States",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "This decade has been missing its big - impact midterm",
+      "url": "https://www.ideastream.org/npr-news/2026-10-24/this-decade-has-been-missing-its-big-impact-midterm",
+      "domain": "ideastream.org",
+      "country": "United States",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "ATCO ( OTCMKTS : ACLLF ) Shares Cross Above 50 Day Moving Average – Time to Sell ?",
+      "url": "https://www.dailypolitical.com/2026/10/24/atco-otcmktsacllf-shares-cross-above-50-day-moving-average-time-to-sell.html",
+      "domain": "dailypolitical.com",
+      "country": "United States",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "America Harvest Festival celebrates Iowa agriculture amid tough season",
+      "url": "https://www.kwqc.com:443/2026/10/24/americas-harvest-festival-celebrates-iowa-agriculture-amid-tough-season/",
+      "domain": "kwqc.com",
+      "country": "United States",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "pissing on the price of diesel peace for more war .....",
+      "url": "https://yourdemocracy.net/drupal/node/61543",
+      "domain": "yourdemocracy.net",
+      "country": "",
+      "published": "2026-10-24T21:00:00+00:00"
+     },
+     {
+      "title": "Nigeria proven gas reserves rise to 215 . 19trn cubic feet",
+      "url": "https://thenationonlineng.net/nigerias-proven-gas-reserves-rise-to-215-19trn-cubic-feet/",
+      "domain": "thenationonlineng.net",
+      "country": "Nigeria",
+      "published": "2026-10-24T21:00:00+00:00"
+     },
+     {
+      "title": "Tinubu Misleading Nigerians With $55 . 16bn Foreign Reserve Figures , Says Makinde",
+      "url": "https://leadership.ng/tinubu-fooling-nigerians-with-55-16bn-foreign-reserve-figures-says-makinde/",
+      "domain": "leadership.ng",
+      "country": "Nigeria",
+      "published": "2026-10-24T21:00:00+00:00"
+     },
+     {
+      "title": "Trump $150 Million Fuel Plan Comes As DFW Drivers Pay $55 To Fill A 15 - Gallon Tank | KLIF 570 News & Info",
+      "url": "https://www.klif.com/2026/10/24/trumps-150-million-fuel-plan-comes-as-dfw-drivers-pay-55-to-fill-a-15-gallon-tank/",
+      "domain": "klif.com",
+      "country": "United States",
+      "published": "2026-10-24T19:15:00+00:00"
+     },
+     {
+      "title": "The Electric Mobility Shift : Energy Realities And The Industrial Imperative For Africa ( Article ) – Ghanamma . com",
+      "url": "https://www.ghanamma.com/2026/10/24/the-electric-mobility-shift-energy-realities-and-the-industrial-imperative-for-africa-article/",
+      "domain": "ghanamma.com",
+      "country": "Ghana",
+      "published": "2026-10-24T19:15:00+00:00"
+     },
+     {
+      "title": "Consumers across party lines are fed up with high gas prices",
+      "url": "https://www.wxow.com/news/national/consumers-across-party-lines-are-fed-up-with-high-gas-prices/article_abb4ed3f-a967-5ffd-b155-a16a58c5d483.html",
+      "domain": "wxow.com",
+      "country": "United States",
+      "published": "2026-10-24T19:00:00+00:00"
+     },
+     {
+      "title": "Report : Vulgar rant of MAGA star Joe Mitchell , then - 19",
+      "url": "https://www.dailymail.com/vertical-galleries/article-16234101/Report-Vulgar-rant-MAGA-star-Joe-Mitchell-19-black-women.html",
+      "domain": "dailymail.com",
+      "country": "United States",
+      "published": "2026-10-24T19:00:00+00:00"
+     },
+     {
+      "title": "Retail Stocks To Consider – October 24th",
+      "url": "https://www.themarketsdaily.com/2026/10/24/retail-stocks-to-consider-october-24th.html",
+      "domain": "themarketsdaily.com",
+      "country": "United States",
+      "published": "2026-10-24T19:00:00+00:00"
+     },
+     {
+      "title": "Inflation , earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
+      "url": "http://www.idahostatejournal.com/news/national/inflation-earnings-reports-and-the-mood-of-consumers-and-the-federal-reserve-fill-out-a/article_c6bfe07e-b9fb-5695-b36d-b762a28ea441.html",
+      "domain": "idahostatejournal.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "U . S . Senate candidate Peltola calls the economy  the only plot line that matters",
+      "url": "https://www.adn.com/politics/2026/10/24/us-senate-candidate-peltola-calls-the-economy-the-only-plot-line-that-matters/",
+      "domain": "adn.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Abu Dhabi Firm in Talks for Eni Libya Stake",
+      "url": "https://www.riotimesonline.com/abu-dhabi-firm-eni-libya-stake-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Kenya Seeks Turkana Oil Name , Public Call Ends 29 Oct",
+      "url": "https://www.riotimesonline.com/kenya-turkana-oil-name-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Caterpillar ( NYSE : CAT ) Shares Down 5 % – What Next ?",
+      "url": "https://www.tickerreport.com/banking-finance/13635405/caterpillar-nysecat-shares-down-5-whats-next.html",
+      "domain": "tickerreport.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Lumax Auto Technologies Limited Announces Financial Results for Q2 and H1 FY 2026 - 27",
+      "url": "https://www.equitybulls.com/news/377659/lumax-auto-technologies-limited-announces-financial-results-for-q2-and-h1-fy-202",
+      "domain": "equitybulls.com",
+      "country": "India",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Nigerian Oil Near US$115 a Barrel on Hormuz Attacks",
+      "url": "https://www.riotimesonline.com/nigerian-oil-bonny-light-115-barrel-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Sao Tome Fuel Returns , but Taxi and Moto Riders Want a Fix",
+      "url": "https://www.riotimesonline.com/sao-tome-fuel-returns-riders-demand-fix-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Egypt Targets 6 Billion Cubic Feet of Gas a Day",
+      "url": "https://www.riotimesonline.com/egypt-targets-6-billion-cubic-feet-gas-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.coloradostar.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "coloradostar.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.venezuelastar.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "venezuelastar.com",
+      "country": "Venezuela",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "ADC Party Knocks Tinubu , APC Over Economic Failures , Questions Safety Of Supporters At Kaduna Rally",
+      "url": "https://saharareporters.com/2026/10/24/adc-party-knocks-tinubu-apc-over-economic-failures-questions-safety-supporters-kaduna",
+      "domain": "saharareporters.com",
+      "country": "Nigeria",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Voters angry about high prices may get little relief from the next Congress",
+      "url": "https://www.adn.com/nation-world/2026/10/24/voters-angry-about-high-prices-may-get-little-relief-from-the-next-congress/",
+      "domain": "adn.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "US midterms : Donald Trump , Republicans face tough fight as Democrats build momentum",
+      "url": "https://www.moneycontrol.com/world/us-midterms-donald-trump-republicans-face-tough-fight-as-democrats-build-momentum-article-14059243.html",
+      "domain": "moneycontrol.com",
       "country": "India",
       "published": "2026-10-24T17:15:00+00:00"
      },
      {
-      "title": "Indian 5 pc broken rice prices may rise by USD 60 per tonne amid freight costs , global supply risks : IREF",
-      "url": "http://www.bangladeshsun.com/news/279394921/indian-5-pc-broken-rice-prices-may-rise-by-usd-60-per-tonne-amid-freight-costs-global-supply-risks-iref",
+      "title": "How reliant is Ukraine on US support – and could Kyiv carry on without it ?",
+      "url": "https://abc17news.com/news/national-world/cnn-world/2026/10/24/how-reliant-is-ukraine-on-us-support-and-could-kyiv-carry-on-without-it/",
+      "domain": "abc17news.com",
+      "country": "United States",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Sustainable hotels you can book with points",
+      "url": "https://thepointsguy.com/hotel/sustainable-hotels-book-with-points/",
+      "domain": "thepointsguy.com",
+      "country": "United States",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.bangladeshsun.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
       "domain": "bangladeshsun.com",
       "country": "Bangladesh",
       "published": "2026-10-24T17:15:00+00:00"
      },
      {
-      "title": "Industry Watchdog : USDA Allowing Illegal  Organic  Produce Production",
-      "url": "https://www.foodconsumer.org/usda_allowing_illegal_organic_produce_production_1101161110/",
-      "domain": "foodconsumer.org",
+      "title": "RBI Rs 2 . 5 lakh crore liquidity infusion raises questions over tightening policy signal : SBI Report",
+      "url": "http://www.bangladeshsun.com/news/279394812/rbi-rs-25-lakh-crore-liquidity-infusion-raises-questions-over-tightening-policy-signal-sbi-report",
+      "domain": "bangladeshsun.com",
+      "country": "Bangladesh",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Germany Wants to Stop More Oil Refinery Closures  | Peak Oil News and Message Boards",
+      "url": "https://peakoil.com/publicpolicy/germany-wants-to-stop-more-oil-refinery-closures",
+      "domain": "peakoil.com",
       "country": "United States",
       "published": "2026-10-24T17:15:00+00:00"
      },
      {
-      "title": "Nature cant wait ...",
-      "url": "https://www.omanobserver.om/article/1198466/opinion/international/nature-cant-wait",
-      "domain": "omanobserver.om",
-      "country": "Oman",
+      "title": "Iran says wont allow US warships to get close as Trump ponders new attacks | US - Israel war on Iran News",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks",
+      "domain": "aljazeera.com",
+      "country": "United States",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "US objective is no more oil , nuclear issues , its total destruction of Iran : Foreign Affairs Expert Waiel Awwad",
+      "url": "http://www.newyorkstatesman.com/news/279396249/us-objective-is-no-more-oil-nuclear-issues-its-total-destruction-of-iran-foreign-affairs-expert-waiel-awwad",
+      "domain": "newyorkstatesman.com",
+      "country": "United States",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Whistleblower CEO quits over hidden Russian cash behind gas deal in Trump peace talks : NYT",
+      "url": "https://peakoil.com/publicpolicy/whistleblower-ceo-quits-over-hidden-russian-cash-behind-gas-deal-in-trump-peace-talks-nyt",
+      "domain": "peakoil.com",
+      "country": "United States",
+      "published": "2026-10-24T17:15:00+00:00"
+     }
+    ],
+    "comercio_internacional": [
+     {
+      "title": "Inside the Trump - administration campaign to return Brazil Bolsonaro clan to power",
+      "url": "https://kelo.com/2026/10/24/inside-the-trump-administration-campaign-to-return-brazils-bolsonaro-clan-to-power/",
+      "domain": "kelo.com",
+      "country": "United States",
+      "published": "2026-10-24T23:30:00+00:00"
+     },
+     {
+      "title": "Twenty essential travel experiences for the mid - life to - do list",
+      "url": "https://www.watoday.com.au/traveller/inspiration/the-mid-life-bucket-list-20-extraordinary-trips-to-do-after-50-20261025-p615tz.html",
+      "domain": "watoday.com.au",
+      "country": "Australia",
+      "published": "2026-10-24T21:00:00+00:00"
+     },
+     {
+      "title": "The Electric Mobility Shift : Energy Realities And The Industrial Imperative For Africa ( Article ) – Ghanamma . com",
+      "url": "https://www.ghanamma.com/2026/10/24/the-electric-mobility-shift-energy-realities-and-the-industrial-imperative-for-africa-article/",
+      "domain": "ghanamma.com",
+      "country": "Ghana",
+      "published": "2026-10-24T19:15:00+00:00"
+     },
+     {
+      "title": "Inflation , earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
+      "url": "http://www.idahostatejournal.com/news/national/inflation-earnings-reports-and-the-mood-of-consumers-and-the-federal-reserve-fill-out-a/article_c6bfe07e-b9fb-5695-b36d-b762a28ea441.html",
+      "domain": "idahostatejournal.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Voters angry about high prices may get little relief from the next Congress",
+      "url": "https://www.adn.com/nation-world/2026/10/24/voters-angry-about-high-prices-may-get-little-relief-from-the-next-congress/",
+      "domain": "adn.com",
+      "country": "United States",
+      "published": "2026-10-24T18:00:00+00:00"
+     },
+     {
+      "title": "Calcutta High Court Holds Customs Can Independently Sample Imported Food For Tariff Classification , Fraud Investigation",
+      "url": "https://www.livelaw.in/law-firms/litigation/calcutta-high-court-holds-custom-independently-sample-imported-food-tariff-classification-fraud-investigation-555845",
+      "domain": "livelaw.in",
+      "country": "India",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Murphy , Smith outline priorities in NC redrawn 3rd Congressional District",
+      "url": "https://wcti12.com/news/local/murphy-smith-outline-priorities-in-ncs-redrawn-3rd-congressional-district",
+      "domain": "wcti12.com",
+      "country": "United States",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – Paradise Post",
+      "url": "https://www.paradisepost.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
+      "domain": "paradisepost.com",
+      "country": "United States",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Infosys : Differentiated AI strategy and a sharp focus on value unlock propels 29 % sequential growth in AI revenues",
+      "url": "http://www.bangladeshsun.com/news/279394820/infosys-differentiated-ai-strategy-and-a-sharp-focus-on-value-unlock-propels-29-sequential-growth-in-ai-revenues",
+      "domain": "bangladeshsun.com",
+      "country": "Bangladesh",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Hard , hungry times | The Manila Times",
+      "url": "https://www.manilatimes.net/2026/10/25/opinion/columns/hard-hungry-times/2453303",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-10-24T17:15:00+00:00"
+     },
+     {
+      "title": "Trump hits midterm rally trail as Republicans defend home turf : five takeaways",
+      "url": "https://www.hindustantimes.com/world-news/trump-hits-midterm-rally-trail-as-republicans-defend-home-turf-five-takeaways-101792843262862.html",
+      "domain": "hindustantimes.com",
+      "country": "India",
+      "published": "2026-10-24T16:15:00+00:00"
+     },
+     {
+      "title": "« We will take Novorossiya » - Trump : 200 % tariffs on Ukraine and Russia - Fierce clash between Musk and Polish foreign minister",
+      "url": "https://www.bankingnews.gr/diethni/articles/906995/we-will-take-novorossiya-trump-200-tariffs-on-ukraine-and-russia-fierce-clash-between-musk-and-polish-foreign-minister",
+      "domain": "bankingnews.gr",
+      "country": "Greece",
+      "published": "2026-10-24T16:15:00+00:00"
+     },
+     {
+      "title": "The election is upon us , and it time to rethink support for the GOP",
+      "url": "https://www.wyomingnews.com/rawlinstimes/opinion/letters_to_editor/the-election-is-upon-us-and-its-time-to-rethink-support-for-the-gop/article_2b017751-aac4-49b6-b16f-a1dacf967169.html",
+      "domain": "wyomingnews.com",
+      "country": "United States",
       "published": "2026-10-24T16:00:00+00:00"
      },
      {
-      "title": "Indian 5 pc broken rice prices may rise by USD 60 per tonne amid freight costs , global supply risks : IREF",
-      "url": "http://www.srilankasource.com/news/279394921/indian-5-pc-broken-rice-prices-may-rise-by-usd-60-per-tonne-amid-freight-costs-global-supply-risks-iref",
+      "title": "FG 90 - day cost of living plan is vote - buying - YPP presidential candidate",
+      "url": "https://www.vanguardngr.com/2026/10/fgs-90-day-cost-of-living-plan-is-vote-buying-ypp-presidential-candidate/",
+      "domain": "vanguardngr.com",
+      "country": "Nigeria",
+      "published": "2026-10-24T15:45:00+00:00"
+     },
+     {
+      "title": "Inflation , earnings reports and the mood of consumers and the Federal Reserve fill out a busy week",
+      "url": "http://www.dailyadvance.com/news/national/inflation-earnings-reports-and-the-mood-of-consumers-and-the-federal-reserve-fill-out-a/article_55c4e0d2-cdde-51c0-863b-49afb57d0d66.html",
+      "domain": "dailyadvance.com",
+      "country": "United States",
+      "published": "2026-10-24T15:30:00+00:00"
+     },
+     {
+      "title": "Cuban ambassadors ask Canada to renew its rejection of U . S . embargo and fuel blockade",
+      "url": "https://www.prpeak.com/national-news/cuban-ambassadors-ask-canada-to-renew-its-rejection-of-us-embargo-and-fuel-blockade-12934181",
+      "domain": "prpeak.com",
+      "country": "Canada",
+      "published": "2026-10-24T15:30:00+00:00"
+     },
+     {
+      "title": "Infosys : Differentiated AI strategy and a sharp focus on value unlock propels 29 % sequential growth in AI revenues",
+      "url": "http://www.srilankasource.com/news/279394820/infosys-differentiated-ai-strategy-and-a-sharp-focus-on-value-unlock-propels-29-sequential-growth-in-ai-revenues",
       "domain": "srilankasource.com",
       "country": "Sri Lanka",
       "published": "2026-10-24T15:30:00+00:00"
      },
      {
-      "title": "Black gram crops affected by swarming caterpillar pests",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/black-gram-crops-affected-by-swarming-caterpillar-pests/articleshow/135172310.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
+      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – Fort Bragg Advocate - News",
+      "url": "https://www.advocate-news.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
+      "domain": "advocate-news.com",
+      "country": "United States",
+      "published": "2026-10-24T15:15:00+00:00"
+     },
+     {
+      "title": "Opinion : Offering cash for votes is quite common throughout history but here why it doesnt work",
+      "url": "https://kspress.com/news/2026/10/24/opinion-offering-cash-for-votes-is-quite-common-throughout-history-%E2%80%94-but-here%E2%80%99s-why",
+      "domain": "kspress.com",
+      "country": "United States",
+      "published": "2026-10-24T15:15:00+00:00"
+     },
+     {
+      "title": "Cuban ambassadors ask Canada to renew its rejection of U . S . embargo and fuel blockade",
+      "url": "https://www.wellandtribune.ca/business/cuban-ambassadors-ask-canada-to-renew-its-rejection-of-u-s-embargo-and-fuel-blockade/article_2409b9ea-3abe-53e9-9cd8-d721181fdb14.html",
+      "domain": "wellandtribune.ca",
+      "country": "Canada",
+      "published": "2026-10-24T15:15:00+00:00"
+     },
+     {
+      "title": "Tariff wars : When Canada faced becoming the  45th State",
+      "url": "https://www.wellandtribune.ca/life/niagara-region/brian-narhi-history-column-tariffs-canada-us-annexation/article_f1f27623-eb7b-5fae-a88a-664312fccb7f.html",
+      "domain": "wellandtribune.ca",
+      "country": "Canada",
+      "published": "2026-10-24T15:15:00+00:00"
+     },
+     {
+      "title": "Cuban ambassadors ask Canada to renew its rejection of U . S . embargo and fuel blockade",
+      "url": "https://www.chroniclejournal.com/news/national/cuban-ambassadors-ask-canada-to-renew-its-rejection-of-u-s-embargo-and-fuel-blockade/article_85bef46a-7876-558c-80f6-1d29073c367f.html",
+      "domain": "chroniclejournal.com",
+      "country": "United States",
       "published": "2026-10-24T15:00:00+00:00"
      },
      {
-      "title": "After Taliban Opium Ban , New Global Hub Emerges In Afghan Borderlands With Iran , Pakistan",
-      "url": "https://www.rferl.org/a/opium-taliban-afghanistan-pakistan-iran/33882824.html",
-      "domain": "rferl.org",
-      "country": "Russia",
-      "published": "2026-10-24T13:30:00+00:00"
-     },
-     {
-      "title": "TN govt steps up rain safeguards for paddy , orders district control rooms",
-      "url": "https://www.prokerala.com/news/articles/a1828340.html",
-      "domain": "prokerala.com",
-      "country": "India",
-      "published": "2026-10-24T12:15:00+00:00"
-     },
-     {
-      "title": "Goalposts to define normal vintage keep moving – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/arts-and-life/2026/10/24/goalposts-to-define-normal-vintage-keep-moving",
-      "domain": "winnipegfreepress.com",
-      "country": "Canada",
-      "published": "2026-10-24T11:45:00+00:00"
-     },
-     {
-      "title": "Odisha aims for zero casualties as cyclone threat looms : CM Majhi",
-      "url": "https://www.orissapost.com/odisha-aims-for-zero-casualties-as-cyclone-threat-looms-cm-majhi/",
-      "domain": "orissapost.com",
-      "country": "India",
-      "published": "2026-10-24T11:30:00+00:00"
-     },
-     {
-      "title": "Vance could be a major Category 3 hurricane Friday as it nears Mexico",
-      "url": "https://www.advocate-news.com/2026/10/23/hurricane-vance-mexico/",
-      "domain": "advocate-news.com",
-      "country": "United States",
-      "published": "2026-10-24T10:15:00+00:00"
-     },
-     {
-      "title": "Action planned after Wiltshire farmers lose  entire crop | The Wiltshire Gazette and Herald",
-      "url": "https://www.gazetteandherald.co.uk/news/26661780.action-planned-wiltshire-farmers-lose-entire-crops/",
-      "domain": "gazetteandherald.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-24T09:00:00+00:00"
-     },
-     {
-      "title": "WFP Faces USD251Mln Funding Gap As Conflict , Drought Disrupt Food Aid In Ethiopia",
-      "url": "https://www.thereporterethiopia.com/53635/",
-      "domain": "thereporterethiopia.com",
-      "country": "Ethiopia",
-      "published": "2026-10-24T08:15:00+00:00"
-     },
-     {
-      "title": "Action planned after Wiltshire farmers lose  entire crops",
-      "url": "https://www.wiltshiretimes.co.uk/news/26661780.action-planned-wiltshire-farmers-lose-entire-crops/",
-      "domain": "wiltshiretimes.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-24T07:15:00+00:00"
-     },
-     {
-      "title": "GARDEN GUIDE : Soil sampling : Another dirty job for your garden health",
-      "url": "https://www.sanfordherald.com/archives/garden-guide-soil-sampling-another-dirty-job-for-your-gardens-health/article_8d8b51cd-6942-5a24-8917-8a1f7f3cea92.html",
-      "domain": "sanfordherald.com",
-      "country": "United States",
-      "published": "2026-10-24T07:15:00+00:00"
-     },
-     {
-      "title": "Wallowa County harvest  lackluster  | Wallowa County Chieftain",
-      "url": "https://wallowa.com/2026/10/23/wallowa-county-harvest-lackluster/",
-      "domain": "wallowa.com",
-      "country": "United States",
-      "published": "2026-10-24T06:45:00+00:00"
-     },
-     {
-      "title": "Maharashtra Drought : Why A Crisis Suits Everyone",
-      "url": "https://www.rediff.com/news/column/maharashtra-drought-why-a-crisis-suits-everyone/20261024.htm",
-      "domain": "rediff.com",
-      "country": "India",
-      "published": "2026-10-24T06:45:00+00:00"
-     },
-     {
-      "title": "Anticipating Dushkal",
-      "url": "https://www.epw.in/journal/2026/43/commentary/anticipating-dushkal.html",
-      "domain": "epw.in",
-      "country": "India",
-      "published": "2026-10-24T06:45:00+00:00"
-     },
-     {
-      "title": "Action planned after Wiltshire farmers lose  entire crops",
-      "url": "https://www.swindonadvertiser.co.uk/news/26661780.action-planned-wiltshire-farmers-lose-entire-crops/",
-      "domain": "swindonadvertiser.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-24T05:15:00+00:00"
-     },
-     {
-      "title": "FAO honors highlight China efforts to strengthen global food security",
-      "url": "http://en.people.cn/n3/2026/1024/c90000-20511937.html",
-      "domain": "en.people.cn",
-      "country": "China",
-      "published": "2026-10-24T03:00:00+00:00"
-     },
-     {
-      "title": "Leaf to root : soybean nodule traits monitored non - destructively with leaf spectra",
-      "url": "https://www.newswise.com/articles/leaf-to-root-soybean-nodule-traits-monitored-non-destructively-with-leaf-spectra",
-      "domain": "newswise.com",
-      "country": "United States",
-      "published": "2026-10-24T03:00:00+00:00"
-     },
-     {
-      "title": "Telangana CM announces 4 - month employment scheme , to be implemented after Sankranti festival amid El Nino weather conditions",
-      "url": "http://www.indiagazette.com/news/279395470/telangana-cm-announces-4-month-employment-scheme-to-be-implemented-after-sankranti-festival-amid-el-nino-weather-conditions",
-      "domain": "indiagazette.com",
-      "country": "India",
-      "published": "2026-10-24T03:00:00+00:00"
-     },
-     {
-      "title": "Telangana CM announces 4 - month employment scheme , to be implemented after Sankranti festival amid El Nino weather conditions",
-      "url": "http://www.calcuttanews.net/news/279395470/telangana-cm-announces-4-month-employment-scheme-to-be-implemented-after-sankranti-festival-amid-el-nino-weather-conditions",
-      "domain": "calcuttanews.net",
-      "country": "India",
-      "published": "2026-10-24T02:45:00+00:00"
-     },
-     {
-      "title": "Telangana CM announces 4 - month employment scheme , to be implemented after Sankranti festival amid El Nino weather conditions",
-      "url": "https://aninews.in/news/national/general-news/telangana-cm-announces-4-month-employment-scheme-to-be-implemented-after-sankranti-festival-amid-el-nino-weather-conditions20261024064147/",
-      "domain": "aninews.in",
-      "country": "India",
-      "published": "2026-10-24T02:30:00+00:00"
-     },
-     {
-      "title": "Vance intensifies rapidly and could become a major Category 3 hurricane off Mexico Pacific Coast",
-      "url": "https://www.airdriecityview.com/world-news/vance-intensifies-rapidly-and-could-become-a-major-category-3-hurricane-off-mexicos-pacific-coast-12928744",
-      "domain": "airdriecityview.com",
-      "country": "Canada",
-      "published": "2026-10-24T00:30:00+00:00"
-     },
-     {
-      "title": "November 2026 - Silicon Chip Online",
-      "url": "https://www.siliconchip.com.au/Issue/SC/2026/November",
-      "domain": "siliconchip.com.au",
-      "country": "Australia",
-      "published": "2026-10-24T00:00:00+00:00"
-     },
-     {
-      "title": "The Grant Tribune Sentinel Ag",
-      "url": "https://www.granttribune.com/section/ag",
-      "domain": "granttribune.com",
-      "country": "United States",
-      "published": "2026-10-23T23:30:00+00:00"
-     },
-     {
-      "title": "The Grant Tribune Sentinel Homepage",
-      "url": "https://www.granttribune.com/",
-      "domain": "granttribune.com",
-      "country": "United States",
-      "published": "2026-10-23T23:30:00+00:00"
-     },
-     {
-      "title": "Grenada Joins World Meteorological Organization as 194th Member",
-      "url": "https://www.greaterbelize.com/grenada-joins-world-meteorological-organization-as-194th-member/",
-      "domain": "greaterbelize.com",
-      "country": "",
-      "published": "2026-10-23T23:15:00+00:00"
-     },
-     {
-      "title": "Vance intensifies rapidly and could become a major Category 3 hurricane off Mexico Pacific Coast",
-      "url": "https://www.coastreporter.net/world-news/vance-intensifies-rapidly-and-could-become-a-major-category-3-hurricane-off-mexicos-pacific-coast-12928745",
-      "domain": "coastreporter.net",
-      "country": "Canada",
-      "published": "2026-10-23T23:00:00+00:00"
-     },
-     {
-      "title": "A fall flair in the air , with lots of sunshine and dry weather fo",
-      "url": "https://nj1015.com/nj-weather-sunny-frosty-fall-weekend/",
-      "domain": "nj1015.com",
-      "country": "United States",
-      "published": "2026-10-23T15:00:00+00:00"
-     },
-     {
-      "title": "Xinhua Headlines : FAO honors highlight China efforts to strengthen global food security",
-      "url": "http://www.sanantoniopost.com/news/279394550/xinhua-headlines-fao-honors-highlight-china-efforts-to-strengthen-global-food-security",
-      "domain": "sanantoniopost.com",
-      "country": "United States",
-      "published": "2026-10-23T14:30:00+00:00"
-     },
-     {
-      "title": "Marc Arnusch : A good year on the farm isnt a windfall ( guest opinion )",
-      "url": "https://www.greeleytribune.com/2026/10/23/marc-arnusch-a-good-year-on-the-farm-isnt-a-windfall-guest-opinion/",
-      "domain": "greeleytribune.com",
-      "country": "United States",
-      "published": "2026-10-23T11:30:00+00:00"
-     },
-     {
-      "title": "New famine risk haunts war - torn Sudan with El Niño - driven drought",
-      "url": "https://www.cnbcafrica.com/2026/new-famine-risk-haunts-war-torn-sudan-with-el-nino-driven-drought",
-      "domain": "cnbcafrica.com",
-      "country": "South Africa",
-      "published": "2026-10-23T11:00:00+00:00"
-     },
-     {
-      "title": "How an Entrepreneur Used Facebook Marketplace to Grow Her Catering Company",
-      "url": "https://www.businessinsider.com/catering-company-used-facebook-marketplace-small-business-growth-2026-10",
-      "domain": "businessinsider.com",
-      "country": "United States",
-      "published": "2026-10-23T11:00:00+00:00"
-     },
-     {
-      "title": "Rainwater harvesting at home in Sri Lanka : Tank size , costs and safety - News Features",
-      "url": "https://www.dailymirror.lk/plus/Rainwater-harvesting-at-home-in-Sri-Lanka-Tank-size-costs-and-safety/352-351089",
-      "domain": "dailymirror.lk",
+      "title": "LankaWeb – Iran - Russia Trade Strategy : Gilan Caspian Gateway and Moscow Growing Pivot to West Asia and Middle East",
+      "url": "https://www.lankaweb.com/news/items/2026/10/24/iran-russia-trade-strategy-gilans-caspian-gateway-and-moscows-growing-pivot-to-west-asia-and-middle-east/",
+      "domain": "lankaweb.com",
       "country": "Sri Lanka",
-      "published": "2026-10-23T10:00:00+00:00"
+      "published": "2026-10-24T15:00:00+00:00"
      },
      {
-      "title": "EYCI cracks 1000c again as big rain brings relief to dry areas , more forecast",
-      "url": "https://www.beefcentral.com/news/eyci-cracks-1000c-again-as-big-rain-brings-relief-to-dry-areas-more-forecasted/",
-      "domain": "beefcentral.com",
-      "country": "Australia",
-      "published": "2026-10-23T09:30:00+00:00"
-     },
-     {
-      "title": "Most Are Negative About Obamacare",
-      "url": "https://agwired.com/2012/07/11/most-are-negative-about-obamacare/",
-      "domain": "agwired.com",
+      "title": "Why Are Countries Building New Global Networks ?",
+      "url": "https://www.fairobserver.com/world-news/india-news/why-are-countries-building-new-global-networks/",
+      "domain": "fairobserver.com",
       "country": "United States",
-      "published": "2026-10-23T09:30:00+00:00"
+      "published": "2026-10-24T15:00:00+00:00"
      },
      {
-      "title": "Britain barley harvest slumps to lowest level in 15 years",
-      "url": "https://www.farminguk.com/news/britain-s-barley-harvest-slumps-to-lowest-level-in-15-years_69353.html",
-      "domain": "farminguk.com",
+      "title": "Cuban ambassadors ask Canada to renew its rejection of U . S . embargo and fuel blockade",
+      "url": "https://toronto.citynews.ca/2026/10/24/cuban-ambassadors-ask-canada-to-renew-its-rejection-of-u-s-embargo-and-fuel-blockade/",
+      "domain": "toronto.citynews.ca",
+      "country": "",
+      "published": "2026-10-24T15:00:00+00:00"
+     },
+     {
+      "title": "Infosys : Differentiated AI strategy and a sharp focus on value unlock propels 29 % sequential growth in AI revenues",
+      "url": "http://www.cambodiantimes.com/news/279394820/infosys-differentiated-ai-strategy-and-a-sharp-focus-on-value-unlock-propels-29-sequential-growth-in-ai-revenues",
+      "domain": "cambodiantimes.com",
+      "country": "Cambodia",
+      "published": "2026-10-24T15:00:00+00:00"
+     },
+     {
+      "title": "Agada Faults APC 90 - Day Economic Plan As Unrealistic",
+      "url": "https://leadership.ng/agada-faults-apcs-90-day-economic-plan-as-unrealistic/",
+      "domain": "leadership.ng",
+      "country": "Nigeria",
+      "published": "2026-10-24T14:45:00+00:00"
+     },
+     {
+      "title": "Five takeaways from Trump midterm campaign rallies | The Mighty 790 KFGO",
+      "url": "https://kfgo.com/2026/10/24/five-takeaways-from-trumps-midterm-campaign-rallies/",
+      "domain": "kfgo.com",
+      "country": "United States",
+      "published": "2026-10-24T14:45:00+00:00"
+     },
+     {
+      "title": "Five takeaways from Trump midterm campaign rallies | WTVB | 1590 AM · 95 . 5 FM",
+      "url": "https://wtvbam.com/2026/10/24/five-takeaways-from-trumps-midterm-campaign-rallies/",
+      "domain": "wtvbam.com",
+      "country": "United States",
+      "published": "2026-10-24T14:45:00+00:00"
+     },
+     {
+      "title": "Five takeaways from Trump midterm campaign rallies | HOT 96 | The Tri State # 1 Hit Music Station",
+      "url": "https://hot96.com/2026/10/24/five-takeaways-from-trumps-midterm-campaign-rallies/",
+      "domain": "hot96.com",
+      "country": "United States",
+      "published": "2026-10-24T14:45:00+00:00"
+     },
+     {
+      "title": "Five takeaways from Trump midterm campaign rallies",
+      "url": "https://whbl.com/2026/10/24/five-takeaways-from-trumps-midterm-campaign-rallies/",
+      "domain": "whbl.com",
+      "country": "United States",
+      "published": "2026-10-24T14:45:00+00:00"
+     },
+     {
+      "title": "D . C . Memo : As election nears , corruption tops voter concerns",
+      "url": "http://www.minnpost.com/dc-memo/2026/10/d-c-memo-as-midterm-election-nears-corruption-tops-voter-concerns-beating-out-inflation-healthcare/",
+      "domain": "minnpost.com",
+      "country": "United States",
+      "published": "2026-10-24T14:30:00+00:00"
+     },
+     {
+      "title": "Botswana Geopolitics in 2026 , US , China and De Beers",
+      "url": "https://www.riotimesonline.com/botswana-geopolitics-explained-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-24T14:15:00+00:00"
+     },
+     {
+      "title": "Infosys : Differentiated AI strategy and a sharp focus on value unlock propels 29 % sequential growth in AI revenues",
+      "url": "http://www.laosnews.net/news/279394820/infosys-differentiated-ai-strategy-and-a-sharp-focus-on-value-unlock-propels-29-sequential-growth-in-ai-revenues",
+      "domain": "laosnews.net",
+      "country": "United States",
+      "published": "2026-10-24T14:15:00+00:00"
+     },
+     {
+      "title": "Rep . Michelle Fischbach talks trade , fuel prices , immigration in bid for reelection",
+      "url": "https://www.echopress.com/news/minnesota/rep-michelle-fischbach-talks-trade-fuel-prices-immigration-in-bid-for-reelection",
+      "domain": "echopress.com",
+      "country": "United States",
+      "published": "2026-10-24T14:15:00+00:00"
+     },
+     {
+      "title": "Foreign Powers and Investors in Rwanda 2026",
+      "url": "https://www.riotimesonline.com/rwanda-foreign-players-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-24T14:15:00+00:00"
+     },
+     {
+      "title": "Scottish Greens to debate emergency motion on Jackdaw",
+      "url": "https://www.thenational.scot/news/26666910.scottish-greens-debate-emergency-motion-jackdaw/",
+      "domain": "thenational.scot",
       "country": "United Kingdom",
-      "published": "2026-10-23T09:30:00+00:00"
+      "published": "2026-10-24T14:15:00+00:00"
      },
      {
-      "title": "Arab News | New famine risk haunts war - torn Sudan with El Niño - driven drought",
-      "url": "https://www.arabnews.com/middle-east/new-famine-risk-haunts-war-torn-sudan-with-el-ni%C3%B1o-driven-drought-3007873",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-10-23T08:45:00+00:00"
+      "title": "McFeely : Farm welfare by any other name is still welfare",
+      "url": "https://www.inforum.com/opinion/columns/mcfeely-farm-welfare-by-any-other-name-is-still-welfare",
+      "domain": "inforum.com",
+      "country": "United States",
+      "published": "2026-10-24T14:15:00+00:00"
+     },
+     {
+      "title": "Vietnamese exporters urged to tap UAE trade pact to expand into Middle East , Africa",
+      "url": "https://vietnamnews.vn/economy/1802790/vietnamese-exporters-urged-to-tap-uae-trade-pact-to-expand-into-middle-east-africa.html",
+      "domain": "vietnamnews.vn",
+      "country": "Vietnam",
+      "published": "2026-10-24T14:15:00+00:00"
+     },
+     {
+      "title": "Five takeaways from Trump midterm campaign rallies",
+      "url": "https://kelo.com/2026/10/24/five-takeaways-from-trumps-midterm-campaign-rallies/",
+      "domain": "kelo.com",
+      "country": "United States",
+      "published": "2026-10-24T14:15:00+00:00"
      }
     ],
     "produccion_agroindustrial": [
@@ -974,11 +1256,32 @@
     ],
     "economia_mundial": [
      {
-      "title": "Tinubu blames opposition for hunger , poverty in Nigeria , Atiku kicks , says president delusional",
-      "url": "https://www.premiumtimesng.com/news/top-news/919948-tinubu-blames-opposition-for-hunger-poverty-in-nigeria-atiku-kicks-says-president-delusional.html",
-      "domain": "premiumtimesng.com",
+      "title": "Why so many pet owners cant afford a veterinarian",
+      "url": "https://timesofsandiego.com/health/2026/10/23/why-so-many-pet-owners-cant-afford-a-veterinarian/",
+      "domain": "timesofsandiego.com",
+      "country": "United States",
+      "published": "2026-10-24T23:30:00+00:00"
+     },
+     {
+      "title": "Tinubu Re - Election Bid Faces Defining Test : Can Economic Reforms Deliver Relief To Nigerians ?",
+      "url": "https://naija247news.com/tinubus-re-election-bid-faces-defining-test-can-economic-reforms-deliver-relief-to-nigerians/",
+      "domain": "naija247news.com",
       "country": "Nigeria",
-      "published": "2026-10-24T21:00:00+00:00"
+      "published": "2026-10-24T23:30:00+00:00"
+     },
+     {
+      "title": "S & P 500 ( SPY ) And Dow Jones Industrial Average ( DJIA ) Slide As Oil Prices Surge And AI Profitability Fears Persist",
+      "url": "https://www.foreignpolicyjournal.com/2026/10/24/sp-500-spy-and-dow-jones-industrial-average-djia-slide-as-oil-prices-surge-and-ai-profitability-fears-persist/",
+      "domain": "foreignpolicyjournal.com",
+      "country": "Israel",
+      "published": "2026-10-24T22:00:00+00:00"
+     },
+     {
+      "title": "Best Bank Stocks To Research – October 23rd",
+      "url": "https://www.dailypolitical.com/2026/10/24/best-bank-stocks-to-research-october-23rd.html",
+      "domain": "dailypolitical.com",
+      "country": "United States",
+      "published": "2026-10-24T22:00:00+00:00"
      },
      {
       "title": "2027 : Atiku calls out Tinubu over hunger and poverty claims",
@@ -998,6 +1301,13 @@
       "title": "Kaduna rally : Atiku challenges Tinubu over hunger , hardship",
       "url": "https://www.vanguardngr.com/2026/10/kaduna-rally-atiku-challenges-tinubu-over-hunger-hardship/",
       "domain": "vanguardngr.com",
+      "country": "Nigeria",
+      "published": "2026-10-24T21:00:00+00:00"
+     },
+     {
+      "title": "Tinubu blames opposition for hunger , poverty in Nigeria , Atiku kicks , says president delusional",
+      "url": "https://www.premiumtimesng.com/news/top-news/919948-tinubu-blames-opposition-for-hunger-poverty-in-nigeria-atiku-kicks-says-president-delusional.html",
+      "domain": "premiumtimesng.com",
       "country": "Nigeria",
       "published": "2026-10-24T21:00:00+00:00"
      },
@@ -1224,42 +1534,13 @@
       "domain": "dailypolitical.com",
       "country": "United States",
       "published": "2026-10-24T16:15:00+00:00"
-     },
-     {
-      "title": "The last reliable luxury shoppers are retreating in mainland China",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/25/2003866552",
-      "domain": "taipeitimes.com",
-      "country": "Taiwan",
-      "published": "2026-10-24T16:15:00+00:00"
-     },
-     {
-      "title": "From heroes to villains , Hollywood sheds light on fallen tech titans",
-      "url": "https://www.omanobserver.om/article/1198453/features/filmstv/from-heroes-to-villains-hollywood-sheds-light-on-fallen-tech-titans",
-      "domain": "omanobserver.om",
-      "country": "Oman",
-      "published": "2026-10-24T16:00:00+00:00"
-     },
-     {
-      "title": "California Diesel Averages $8 . 242 as Tandon Blames Iran War",
-      "url": "https://econotimes.com/California-Diesel-Averages-8-242-as-Tandon-Blames-Iran-War-1762567",
-      "domain": "econotimes.com",
-      "country": "United States",
-      "published": "2026-10-24T16:00:00+00:00"
-     },
-     {
-      "title": "Buxtonians Honour Elder Eusi Kwayana Life and Legacy",
-      "url": "https://thecaribbeancamera.com/buxtonians-honour-elder-eusi-kwayanas-life-and-legacy/",
-      "domain": "thecaribbeancamera.com",
-      "country": "Canada",
-      "published": "2026-10-24T15:45:00+00:00"
      }
     ]
    },
    "errors": {
-    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
