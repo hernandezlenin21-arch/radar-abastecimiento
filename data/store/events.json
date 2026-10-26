@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-26T08:56:42-06:00",
+  "at": "2026-10-26T10:13:44-06:00",
   "data": {
    "storms": [
     {
@@ -96,13 +96,13 @@
       "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_021adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-10-26T06:00:00.000Z",
-      "fileUpdateTime": "2026-10-26T09:22:40.180Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102606_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102606_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102606_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102606_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102606_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-10-26T12:00:00.000Z",
+      "fileUpdateTime": "2026-10-26T15:22:50.596Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102612_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102612_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102612_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102612_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102612_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -200,13 +200,13 @@
       "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP032026_005adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-10-26T06:00:00.000Z",
-      "fileUpdateTime": "2026-10-26T09:22:40.180Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102606_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102606_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102606_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102606_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102606_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-10-26T12:00:00.000Z",
+      "fileUpdateTime": "2026-10-26T15:22:50.596Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102612_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102612_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102612_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102612_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102612_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -218,7 +218,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-26T08:56:42-06:00",
+  "at": "2026-10-26T10:13:44-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -227,7 +227,7 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-26T08:56:42-06:00",
+  "at": "2026-10-26T10:13:44-06:00",
   "data": {
    "raw": {
     "commodities_agricolas": [
@@ -512,7 +512,296 @@
       "published": "2026-10-24T15:15:00+00:00"
      }
     ],
-    "transporte_maritimo": [
+    "energia": [
+     {
+      "title": "Ameren ( NYSE : AEE ) Stock Dropped to Sell by Wall Street Zen",
+      "url": "https://www.themarketsdaily.com/2026/10/26/ameren-nyseaee-stock-dropped-to-sell-by-wall-street-zen.html",
+      "domain": "themarketsdaily.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "cooking with toxic plastics .....",
+      "url": "https://yourdemocracy.net/drupal/node/61560",
+      "domain": "yourdemocracy.net",
+      "country": "",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "TOR to be listed on Ghana Stock Exchange – MD tells visiting IMF team",
+      "url": "https://thechronicle.com.gh/tor-to-be-listed-on-ghana-stock-exchange-md-tells-visiting-imf-team/",
+      "domain": "thechronicle.com.gh",
+      "country": "Ghana",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Sensex falls 134 points , Nifty slips below 22 , 600 amid crude oil prices and West Asia tensions",
+      "url": "https://www.ibtimes.co.in/sensex-falls-134-points-nifty-slips-below-22600-amid-crude-oil-prices-west-asia-tensions-907850",
+      "domain": "ibtimes.co.in",
+      "country": "India",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "NFU Scotland calls for action on farm input costs ahead of united kingdom Budget",
+      "url": "https://www.thescottishfarmer.co.uk/news/26664333.nfu-scotland-calls-action-farm-input-costs-ahead-uk-budget/",
+      "domain": "thescottishfarmer.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Andy Burnham told to make  legally enforceable  change to petrol stations",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/andy-burnham-told-make-legally-34816116",
+      "domain": "birminghammail.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Canada Considers a Subsea Power Cable to Europe",
+      "url": "https://maritime-executive.com/editorials/canada-considers-a-subsea-power-cable-to-europe",
+      "domain": "maritime-executive.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "The 67 Per Cent Moment : India Is Paying More for a New Economic Order",
+      "url": "https://www.ibtimes.co.in/67-per-cent-moment-india-paying-more-new-economic-order-907846",
+      "domain": "ibtimes.co.in",
+      "country": "India",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "NOV ( NOV ) Expected to Release Quarterly Earnings on Tuesday",
+      "url": "https://www.themarketsdaily.com/2026/10/26/nov-nov-expected-to-release-quarterly-earnings-on-tuesday.html",
+      "domain": "themarketsdaily.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "What is expected in Wednesday Budget as  rise ruled out",
+      "url": "https://www.hulldailymail.co.uk/news/cost-of-living/what-expected-wednesdays-budget-rise-11213794",
+      "domain": "hulldailymail.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "EU summit in Brussels : European powers intensify war drive against Russia",
+      "url": "https://nuclear-news.net/2026/10/26/6-b1-eu-summit-in-brussels-european-powers-intensify-war-drive-against-russia/",
+      "domain": "nuclear-news.net",
+      "country": "Japan",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Helium Added to U . S . Department of Energy Critical Material List",
+      "url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/globenewswire/helium-added-to-us-department-of-energy-critical-material-list/2453634",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "US military says it helped Gulf states export 1 . 5 billion barrels of oil",
+      "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil",
+      "domain": "aljazeera.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Saudi Arabia to store oil in Singapore to bolster Asia supply security",
+      "url": "https://arynews.tv/saudi-arabia-to-store-oil-in-singapore-to-bolster-asia-supply-security",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "U . S . Adds Helium to Critical List as AP , CBS Report Financing Access",
+      "url": "https://econotimes.com/U-S-Adds-Helium-to-Critical-List-as-AP-CBS-Report-Financing-Access-1763361",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Floating nuclear power in northern New Brunswick : a reality check",
+      "url": "https://nuclear-news.net/2026/10/26/7-a-floating-nuclear-power-in-northern-new-brunswick-a-reality-check/",
+      "domain": "nuclear-news.net",
+      "country": "Japan",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Helium Added to U . S . Department of Energy Critical Material List",
+      "url": "https://www.thewhig.com/press-releases/globe-newswire/helium-added-to-u-s-department-of-energy-critical-material-list/",
+      "domain": "thewhig.com",
+      "country": "Canada",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Sterling Holds Near $1 . 3373 as FXStreet Flags $1 . 3420 Hurdle",
+      "url": "https://econotimes.com/Sterling-Holds-Near-1-3373-as-FXStreet-Flags-1-3420-Hurdle-1763380",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Indian Shares Muted Open as Oil Prices Weigh on Sentiment",
+      "url": "https://en.shafaqna.com/487331/indian-shares-muted-open-oil-prices-fed/",
+      "domain": "en.shafaqna.com",
+      "country": "Saudi Arabia",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Oil Prices Fall Monday After Six - Month Highs",
+      "url": "https://en.shafaqna.com/487329/oil-prices-fall-monday-saudi-attacks/",
+      "domain": "en.shafaqna.com",
+      "country": "Saudi Arabia",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Oil Up , Tech Down",
+      "url": "http://www.zerohedge.com/news/2026-10-24/oil-tech-down",
+      "domain": "zerohedge.com",
+      "country": "United States",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Shares fall in Asia after a decline on Wall Street , and oil prices fall more than 1 %",
+      "url": "https://www.2news.com/news/national/shares-fall-in-asia-after-a-decline-on-wall-street-and-oil-prices-fall-more/article_ddc4a005-46f8-542f-8eca-7be2223b5dd5.html",
+      "domain": "2news.com",
+      "country": "",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Eskom hits 525 days without load shedding as power recovery reaches six - year high",
+      "url": "https://www.citizen.co.za/news/eskom-hits-525-days-without-load-shedding-power-recovery-reaches-six-year-high/",
+      "domain": "citizen.co.za",
+      "country": "South Africa",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "IEA Says Diesel Stock Recovery Unlikely Before Second Half of 2027",
+      "url": "https://econotimes.com/IEA-Says-Diesel-Stock-Recovery-Unlikely-Before-Second-Half-of-2027-1763295",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Stock Markets Cautious Monday as Oil Eases",
+      "url": "https://en.shafaqna.com/487324/stock-markets-cautious-monday-oil-eases/",
+      "domain": "en.shafaqna.com",
+      "country": "Saudi Arabia",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Saudi Arabia Singapore plan : Riyadh eyes oil storage hub from 2027 amid Hormuz disruption",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-singapore-plan-riyadh-eyes-oil-storage-hub-from-2027-amid-hormuz-disruption/articleshow/135202643.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "13 Practical Tools You Should Carry For Fall Camping",
+      "url": "https://www.slashgear.com/2294846/practical-tools-for-fall-camping/",
+      "domain": "slashgear.com",
+      "country": "United States",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Shares fall in Asia after a decline on Wall Street , and oil prices fall more than 1 %",
+      "url": "https://isp.netscape.com:443/pf/story/0001/20261026/be3a56f58a77c5be863f0289d280be92",
+      "domain": "isp.netscape.com",
+      "country": "United States",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Oil declines from six - month high as traders assess Mideast risks",
+      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-declines-six-month-high-traders-assess-mideast-risks",
+      "domain": "businesstimes.com.sg",
+      "country": "Singapore",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Ghanaâ€™s Oil Recovery Faces an Investment Test as TEN Stalls – Ghanamma . com",
+      "url": "https://www.ghanamma.com/2026/10/26/ghanas-oil-recovery-faces-an-investment-test-as-ten-stalls/",
+      "domain": "ghanamma.com",
+      "country": "Ghana",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "The Economic Times Live Update Puts ONGC Below Its 20 - Day EMA",
+      "url": "https://econotimes.com/The-Economic-Times-Live-Update-Puts-ONGC-Below-Its-20-Day-EMA-1763302",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Reviewing united states Compression Partners ( NYSE : USAC ) & Nabors Industries ( NYSE : NBR )",
+      "url": "https://www.tickerreport.com/banking-finance/13636512/reviewing-usa-compression-partners-nyseusac-nabors-industries-nysenbr.html",
+      "domain": "tickerreport.com",
+      "country": "United States",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "The BC Conservatives Win Majority Government",
+      "url": "https://www.theepochtimes.com/world/british-columbians-vote-in-snap-election-6108414",
+      "domain": "theepochtimes.com",
+      "country": "United States",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Police arrest Tassie man after alleged fuel card spending spree | The Examiner",
+      "url": "https://www.examiner.com.au/story/9379756/police-arrest-tassie-man-after-alleged-fuel-card-spending-spree/",
+      "domain": "examiner.com.au",
+      "country": "Australia",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Trump fails to change economic headwinds facing GOP candidates",
+      "url": "https://www.aol.com/articles/trump-fails-change-economic-headwinds-160000000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Iowa U . S . Senate candidates disagree on range of issues",
+      "url": "http://www.wataugademocrat.com/news/national/iowa-u-s-senate-candidates-disagree-on-range-of-issues/article_17b6dd4e-b213-5f07-b0d8-de3ca5f6c778.html",
+      "domain": "wataugademocrat.com",
+      "country": "United States",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
+      "title": "Vollrath challenges Pielli for 156th state house seat",
+      "url": "https://www.dailylocal.com/2026/10/25/vollrath-challenges-pielli-for-156th-state-house-seat/",
+      "domain": "dailylocal.com",
+      "country": "United States",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
+      "title": "Obama supports Muslim candidate ; calls Iran war Trump biggest failure",
+      "url": "https://dailythepatriot.com/obama-supports-muslim-candidate-calls-iran-war-trumps-biggest-failure/",
+      "domain": "dailythepatriot.com",
+      "country": "Pakistan",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
+      "title": "Trump has  a decision to make  on Iran as concerns over renewed strikes deepen",
+      "url": "https://www.thenationalnews.com/news/us/2026/10/25/trump-iran-strike/",
+      "domain": "thenationalnews.com",
+      "country": "",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
+      "title": "CENTCOM Chief Brad Cooper flies over Hormuz during Middle East visit",
+      "url": "https://www.jpost.com/middle-east/article-912824",
+      "domain": "jpost.com",
+      "country": "Israel",
+      "published": "2026-10-25T18:00:00+00:00"
+     }
+    ],
+    "comercio_internacional": [
+     {
+      "title": "Brazil election : Lula wins runoff vote , Bolsonaro rejects results",
+      "url": "https://arynews.tv/brazil-election-lula-wins-runoff-vote-bolsonaro-rejects-results",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
      {
       "title": "Trump dials up Islamophobia against Abdul El - Sayed at Michigan Senate rally",
       "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed",
@@ -521,10 +810,299 @@
       "published": "2026-10-26T07:15:00+00:00"
      },
      {
-      "title": "​  Vote for Bibi for PM : Trump Renews Pitch for Netanyahu as Israel Heads to Crucial Post - War Polls",
-      "url": "https://pragativadi.com/vote-for-bibi-for-pm-trump-renews-pitch-for-netanyahu-as-israel-heads-to-crucial-post-war-polls/",
-      "domain": "pragativadi.com",
+      "title": "Lula wins reelection as Brazil president while Bolsonaro asks for results to be annulled",
+      "url": "https://fortune.com/2026/10/26/trump-critic-lula-reelection-brazil-president-bolsonaro-annul/",
+      "domain": "fortune.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "The 67 Per Cent Moment : India Is Paying More for a New Economic Order",
+      "url": "https://www.ibtimes.co.in/67-per-cent-moment-india-paying-more-new-economic-order-907846",
+      "domain": "ibtimes.co.in",
       "country": "India",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "South Korea Keeps CPTPP Option Open as Sector Costs Come Into Focus",
+      "url": "https://econotimes.com/South-Korea-Keeps-CPTPP-Option-Open-as-Sector-Costs-Come-Into-Focus-1763377",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results",
+      "url": "https://www.2news.com/news/world/lula-is-declared-winner-of-brazils-election-as-bolsonaro-rejects-results/article_5ccd4135-d5c9-5fd9-b40b-429194a1a4e3.html",
+      "domain": "2news.com",
+      "country": "",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Brazil resumes vote count after last - minute extension of polling station hours",
+      "url": "https://www.hamhigh.co.uk/news/national/26668594.brazil-resumes-vote-count-last-minute-extension-polling-station-hours/",
+      "domain": "hamhigh.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Brazil resumes vote count after last - minute extension of polling station hours",
+      "url": "https://www.thewestonmercury.co.uk/news/national/26668594.brazil-resumes-vote-count-last-minute-extension-polling-station-hours/",
+      "domain": "thewestonmercury.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Bolsonaro calls for Brazil poll results to be annulled",
+      "url": "https://www.examiner.com.au/story/9379753/bolsonaro-calls-for-brazil-poll-results-to-be-annulled/",
+      "domain": "examiner.com.au",
+      "country": "Australia",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Lula is declared winner of Brazil election as Bolsonaro rejects results",
+      "url": "https://isp.netscape.com:443/news/world/story/0001/20261026/e2c9fe8fc4aa3e3675b9a8ec15405d93",
+      "domain": "isp.netscape.com",
+      "country": "United States",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Iowa U . S . Senate candidates disagree on range of issues",
+      "url": "http://www.wataugademocrat.com/news/national/iowa-u-s-senate-candidates-disagree-on-range-of-issues/article_17b6dd4e-b213-5f07-b0d8-de3ca5f6c778.html",
+      "domain": "wataugademocrat.com",
+      "country": "United States",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
+      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – The Willits News",
+      "url": "https://www.willitsnews.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
+      "domain": "willitsnews.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Talking to every single person matter :  prairie populist canvass the rural US heartland to win in midterms | US midterm elections 2026",
+      "url": "https://www.theguardian.com/us-news/2026/oct/25/prairie-populists-midwest-prairie-states-midterm-elections",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "url": "https://www.the-star.co.ke/news/world/2026-10-25-obama-attacks-trump-as-he-campaigns-for-democrats",
+      "domain": "the-star.co.ke",
+      "country": "Kenya",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Policy U - turn could stall Britain take - up of electric vehicles | Electric , hybrid and low - emission cars",
+      "url": "https://www.theguardian.com/environment/2026/oct/25/policy-u-turn-uk-electric-vehicles",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Inside the Trump - administration campaign to return Bolsonaro clan to power - Americas",
+      "url": "http://www.thejakartapost.com/world/2026/10/25/inside-the-trump-administration-campaign-to-return-bolsonaro-clan-to-power",
+      "domain": "thejakartapost.com",
+      "country": "Indonesia",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "America farmers are flashing warning signals about inflation , and the Fed is paying attention . Protect yourself now",
+      "url": "https://www.aol.com/articles/america-farmers-flashing-warning-signals-114500000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.kgou.org/politics-and-government/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "kgou.org",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://wysu.org/npr-national-news/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "wysu.org",
+      "country": "United States",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Nestle sales growth beats forecasts as volumes rebound",
+      "url": "http://www.indiagazette.com/news/279392999/nestle-sales-growth-beats-forecasts-as-volumes-rebound",
+      "domain": "indiagazette.com",
+      "country": "India",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "How APEC Cooperation Delivers Tangible Benefits to Everyday Life",
+      "url": "https://www.alwihdainfo.com/how-apec-cooperation-delivers-tangible-benefits-to-everyday-life/",
+      "domain": "alwihdainfo.com",
+      "country": "China",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Israeli elections - political parties explained : The Reservists and the New Economic Party",
+      "url": "https://ejpress.org/israeli-elections-political-parties-explained-the-reservists-and-the-new-economic-party/",
+      "domain": "ejpress.org",
+      "country": "Israel",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.kalw.org/npr-news/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "kalw.org",
+      "country": "United States",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "US courting Reliance refining muscle to keep oil flowing , not curb Russian crude , analyst says",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/us-courting-reliances-refining-muscle-to-keep-oil-flowing-not-curb-russian-crude-analyst-says-mukesh-ambani/articleshow/135190443.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.kccu.org/u-s/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "kccu.org",
+      "country": "United States",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.ketr.org/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "ketr.org",
+      "country": "United States",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Policy U - turn could stall Britain take - up of electric vehicles",
+      "url": "https://www.aol.co.uk/articles/policy-u-turn-could-stall-120004000.html",
+      "domain": "aol.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Nestle sales growth beats forecasts as volumes rebound",
+      "url": "http://www.vietnamtribune.com/news/279392999/nestle-sales-growth-beats-forecasts-as-volumes-rebound",
+      "domain": "vietnamtribune.com",
+      "country": "Vietnam",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.kunc.org/npr-news/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "kunc.org",
+      "country": "United States",
+      "published": "2026-10-25T11:30:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.wcsufm.org/latest-from-npr/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "wcsufm.org",
+      "country": "United States",
+      "published": "2026-10-25T11:30:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.krwg.org/national-news/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "krwg.org",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.kasu.org/politics/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "kasu.org",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Obama Blasts Trump on Iran Conflict , Higher Prices While Stumping for Democrats - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
+      "url": "https://www.nigerianeye.com/2026/10/obama-blasts-trump-on-iran-conflict.html",
+      "domain": "nigerianeye.com",
+      "country": "Nigeria",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Nestle sales beat forecasts as turnaround gathers pace",
+      "url": "http://www.bignewsnetwork.com/news/279392999/nestle-sales-beat-forecasts-as-turnaround-gathers-pace",
+      "domain": "bignewsnetwork.com",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.whro.org/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "whro.org",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.wcbe.org/npr-news/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "wcbe.org",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.wvtf.org/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "wvtf.org",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Nestle sales growth beats forecasts as volumes rebound",
+      "url": "http://www.nepalnational.com/news/279392999/nestle-sales-growth-beats-forecasts-as-volumes-rebound",
+      "domain": "nepalnational.com",
+      "country": "Nepal",
+      "published": "2026-10-25T11:00:00+00:00"
+     },
+     {
+      "title": "The Latest Bond Thriller",
+      "url": "https://freebeacon.com/culture/the-latest-bond-thriller/",
+      "domain": "freebeacon.com",
+      "country": "United States",
+      "published": "2026-10-25T11:00:00+00:00"
+     },
+     {
+      "title": "In Arkansas , Democrats see an opening at the edge of the competitive midterms map",
+      "url": "https://www.kjzz.org/npr-top-stories/2026-10-25/in-arkansas-democrats-see-an-opening-at-the-edge-of-the-competitive-midterms-map",
+      "domain": "kjzz.org",
+      "country": "United States",
+      "published": "2026-10-25T11:00:00+00:00"
+     }
+    ],
+    "geopolitica": [
+     {
+      "title": "TOR to be listed on Ghana Stock Exchange – MD tells visiting IMF team",
+      "url": "https://thechronicle.com.gh/tor-to-be-listed-on-ghana-stock-exchange-md-tells-visiting-imf-team/",
+      "domain": "thechronicle.com.gh",
+      "country": "Ghana",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Trump dials up Islamophobia against Abdul El - Sayed at Michigan Senate rally",
+      "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed",
+      "domain": "aljazeera.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Asian Markets Track Wall Street Lower",
+      "url": "https://www.rttnews.com/story.aspx?Id=3702658",
+      "domain": "rttnews.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "EU summit in Brussels : European powers intensify war drive against Russia",
+      "url": "https://nuclear-news.net/2026/10/26/6-b1-eu-summit-in-brussels-european-powers-intensify-war-drive-against-russia/",
+      "domain": "nuclear-news.net",
+      "country": "Japan",
       "published": "2026-10-26T07:15:00+00:00"
      },
      {
@@ -549,6 +1127,13 @@
       "published": "2026-10-26T07:15:00+00:00"
      },
      {
+      "title": "Jamie , Nene Koch left their mark on New Mexico",
+      "url": "https://www.santafenewmexican.com/news/obituaries/jamie-nene-koch-left-their-mark-on-new-mexico/article_b8e57e90-16d9-4554-a014-02ba567e56bf.html",
+      "domain": "santafenewmexican.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
       "title": "Iranian sailors rescued off Sri Lanka coast after medical emergencies",
       "url": "https://www.bbc.com/news/articles/c9p8g7e4k2xjo",
       "domain": "bbc.com",
@@ -556,16 +1141,16 @@
       "published": "2026-10-26T05:00:00+00:00"
      },
      {
-      "title": "IEA Says Diesel Stock Recovery Unlikely Before Second Half of 2027",
-      "url": "https://econotimes.com/IEA-Says-Diesel-Stock-Recovery-Unlikely-Before-Second-Half-of-2027-1763295",
-      "domain": "econotimes.com",
-      "country": "United States",
+      "title": "Shares fall in Asia after a decline on Wall Street , and oil prices fall more than 1 %",
+      "url": "https://www.2news.com/news/national/shares-fall-in-asia-after-a-decline-on-wall-street-and-oil-prices-fall-more/article_ddc4a005-46f8-542f-8eca-7be2223b5dd5.html",
+      "domain": "2news.com",
+      "country": "",
       "published": "2026-10-26T05:00:00+00:00"
      },
      {
-      "title": "Organizations open The Bethany Homes for women in recovery",
-      "url": "https://www.wdam.com/2026/10/26/organizations-open-bethany-homes-women-recovery/",
-      "domain": "wdam.com",
+      "title": "IEA Says Diesel Stock Recovery Unlikely Before Second Half of 2027",
+      "url": "https://econotimes.com/IEA-Says-Diesel-Stock-Recovery-Unlikely-Before-Second-Half-of-2027-1763295",
+      "domain": "econotimes.com",
       "country": "United States",
       "published": "2026-10-26T05:00:00+00:00"
      },
@@ -584,9 +1169,9 @@
       "published": "2026-10-26T05:00:00+00:00"
      },
      {
-      "title": "CENTCOM Reports More Than 1 . 5 Billion Barrels in Gulf Oil Exports Since June",
-      "url": "https://econotimes.com/CENTCOM-Reports-More-Than-1-5-Billion-Barrels-in-Gulf-Oil-Exports-Since-June-1763296",
-      "domain": "econotimes.com",
+      "title": "Shares fall in Asia after a decline on Wall Street , and oil prices fall more than 1 %",
+      "url": "https://isp.netscape.com:443/pf/story/0001/20261026/be3a56f58a77c5be863f0289d280be92",
+      "domain": "isp.netscape.com",
       "country": "United States",
       "published": "2026-10-26T05:00:00+00:00"
      },
@@ -608,6 +1193,20 @@
       "title": "Iranians fear return to all - out war with US and Israeli elections",
       "url": "https://www.wlwt.com/article/iran-war-more-strikes-feared-israel-us-elections/74241134",
       "domain": "wlwt.com",
+      "country": "United States",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Drone warfare is evolving faster than armies can adapt , experts warn",
+      "url": "https://toronto.citynews.ca/2026/10/25/drone-warfare-is-evolving-faster-than-armies-can-adapt-experts-warn/",
+      "domain": "toronto.citynews.ca",
+      "country": "",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Venezuela opposition leader Machado returns after months in exile",
+      "url": "https://www.4029tv.com/article/venezuelas-machado-returns-after-months-in-exile/74241474",
+      "domain": "4029tv.com",
       "country": "United States",
       "published": "2026-10-25T19:15:00+00:00"
      },
@@ -640,6 +1239,20 @@
       "published": "2026-10-25T19:15:00+00:00"
      },
      {
+      "title": "Snowy Hydro 2 . 0 costs surge to $25b amid calls for inquiry | The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9378582/snowy-hydro-20-costs-surge-to-25b-amid-calls-for-inquiry/",
+      "domain": "canberratimes.com.au",
+      "country": "Australia",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Netanyahu pitch : Can Israel use crypto to evade economic sanctions ? - Grenada Chronicle – Daily Grenada And Caribbean News",
+      "url": "https://grenadachronicle.com/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions/",
+      "domain": "grenadachronicle.com",
+      "country": "United States",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
       "title": "Iran threatens to attack Internet links in the Middle East",
       "url": "http://www.utahindependent.com/news/279396653/iran-threatens-to-attack-internet-links-in-the-middle-east",
       "domain": "utahindependent.com",
@@ -647,16 +1260,16 @@
       "published": "2026-10-25T19:15:00+00:00"
      },
      {
-      "title": "Sri Lanka provides medical help , repatriates Iranian sailors stranded in Indian Ocean",
-      "url": "https://www.ketv.com/article/sri-lanka-medicalrepatriates-iranian-sailors-indian-ocean/74241104",
-      "domain": "ketv.com",
+      "title": "Ukraine disputes Elon Musk claim that its military violated Starlink terms of service",
+      "url": "http://www.stardem.com/ap/world/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlinks-terms-of-service/article_79793750-d961-52a9-bb2e-48a341bde82d.html",
+      "domain": "stardem.com",
       "country": "United States",
       "published": "2026-10-25T18:00:00+00:00"
      },
      {
-      "title": "Wastewater project to impact Itasca State Park visitors in 2027",
-      "url": "https://www.brainerddispatch.com/news/minnesota/wastewater-project-to-impact-itasca-state-park-visitors-in-2027",
-      "domain": "brainerddispatch.com",
+      "title": "Sri Lanka provides medical help , repatriates Iranian sailors stranded in Indian Ocean",
+      "url": "https://www.ketv.com/article/sri-lanka-medicalrepatriates-iranian-sailors-indian-ocean/74241104",
+      "domain": "ketv.com",
       "country": "United States",
       "published": "2026-10-25T18:00:00+00:00"
      },
@@ -668,6 +1281,13 @@
       "published": "2026-10-25T18:00:00+00:00"
      },
      {
+      "title": "Iowa U . S . Senate candidates disagree on range of issues",
+      "url": "http://www.wataugademocrat.com/news/national/iowa-u-s-senate-candidates-disagree-on-range-of-issues/article_17b6dd4e-b213-5f07-b0d8-de3ca5f6c778.html",
+      "domain": "wataugademocrat.com",
+      "country": "United States",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
       "title": "Iran threatens to attack Internet links in the Middle East",
       "url": "http://www.zimbabwestar.com/news/279396653/iran-threatens-to-attack-internet-links-in-the-middle-east",
       "domain": "zimbabwestar.com",
@@ -675,10 +1295,31 @@
       "published": "2026-10-25T18:00:00+00:00"
      },
      {
+      "title": "Yemeni forces intercept Houthi weapons being smuggled from coast",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/25/yemeni-forces-intercept-houthi-weapons-being-smuggled-from-coast/",
+      "domain": "thenationalnews.com",
+      "country": "",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
       "title": "Iran threatens to attack Internet links in the Middle East",
       "url": "http://www.saltlakecitysun.com/news/279396653/iran-threatens-to-attack-internet-links-in-the-middle-east",
       "domain": "saltlakecitysun.com",
       "country": "United States",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
+      "title": "Rahul Gandhi Must Move Beyond Attacking Saffron Ideology to Defeat the RSS - BJP Combine",
+      "url": "https://countercurrents.org/2026/10/rahul-gandhi-must-move-beyond-attacking-saffron-ideology-to-defeat-the-rss-bjp-combine/",
+      "domain": "countercurrents.org",
+      "country": "India",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
+      "title": "Saudi Arabia , Israel normalization still possible , expert tells  Post",
+      "url": "https://www.jpost.com/middle-east/article-912818",
+      "domain": "jpost.com",
+      "country": "Israel",
       "published": "2026-10-25T18:00:00+00:00"
      },
      {
@@ -696,13 +1337,6 @@
       "published": "2026-10-25T18:00:00+00:00"
      },
      {
-      "title": "Wastewater project to impact Itasca State Park visitors in 2027",
-      "url": "https://www.grandforksherald.com/news/minnesota/wastewater-project-to-impact-itasca-state-park-visitors-in-2027",
-      "domain": "grandforksherald.com",
-      "country": "United States",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
       "title": "Iranians fear return to all - out war with US and Israeli elections",
       "url": "https://www.ketv.com/article/iran-war-more-strikes-feared-israel-us-elections/74241134",
       "domain": "ketv.com",
@@ -717,80 +1351,10 @@
       "published": "2026-10-25T18:00:00+00:00"
      },
      {
-      "title": "Iranians fear return to all - out war with US and Israeli elections",
-      "url": "https://www.wpbf.com/article/iran-war-more-strikes-feared-israel-us-elections/74241134",
+      "title": "Musk accuses Ukraine of violating Starlink terms of service",
+      "url": "https://www.wpbf.com/article/musk-accuses-ukraine-violating-starlink-coverage/74240892",
       "domain": "wpbf.com",
       "country": "United States",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "Obama supports Muslim candidate ; calls Iran war Trump biggest failure",
-      "url": "https://dailythepatriot.com/obama-supports-muslim-candidate-calls-iran-war-trumps-biggest-failure/",
-      "domain": "dailythepatriot.com",
-      "country": "Pakistan",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "Trump has  a decision to make  on Iran as concerns over renewed strikes deepen",
-      "url": "https://www.thenationalnews.com/news/us/2026/10/25/trump-iran-strike/",
-      "domain": "thenationalnews.com",
-      "country": "",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "CENTCOM Chief Brad Cooper flies over Hormuz during Middle East visit",
-      "url": "https://www.jpost.com/middle-east/article-912824",
-      "domain": "jpost.com",
-      "country": "Israel",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "Iranians fear possible return to all - out war as US and Israeli elections loom",
-      "url": "https://www.witneygazette.co.uk/news/national/26668344.iranians-fear-possible-return-all-out-war-us-israeli-elections-loom/",
-      "domain": "witneygazette.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "Nearly all coral reefs risk collapse in 50 years : IUCN",
-      "url": "http://www.bruneinews.net/news/279392384/nearly-all-coral-reefs-risk-collapse-in-50-years-iucn",
-      "domain": "bruneinews.net",
-      "country": "Malaysia",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "Iranians fear possible return to all - out war as US and Israeli elections loom",
-      "url": "https://www.clactonandfrintongazette.co.uk/news/national/26668344.iranians-fear-possible-return-all-out-war-us-israeli-elections-loom/",
-      "domain": "clactonandfrintongazette.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "Iranians fear a possible return to all - out war as US and Israeli elections approach",
-      "url": "http://www.stardem.com/ap/world/iranians-fear-a-possible-return-to-all-out-war-as-us-and-israeli-elections-approach/article_b1ce44e5-278f-528a-831b-967fa0fce162.html",
-      "domain": "stardem.com",
-      "country": "United States",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "Iran threatens to attack Internet links in the Middle East",
-      "url": "http://www.pakistantelegraph.com/news/279396653/iran-threatens-to-attack-internet-links-in-the-middle-east",
-      "domain": "pakistantelegraph.com",
-      "country": "Pakistan",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "Iranians fear possible return to all - out war as US and Israeli elections loom",
-      "url": "https://www.gazetteseries.co.uk/news/national/26668344.iranians-fear-possible-return-all-out-war-us-israeli-elections-loom/",
-      "domain": "gazetteseries.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "Iranians fear possible return to all - out war as US and Israeli elections loom",
-      "url": "https://www.herefordtimes.com/news/national/26668344.iranians-fear-possible-return-all-out-war-us-israeli-elections-loom/",
-      "domain": "herefordtimes.com",
-      "country": "United Kingdom",
       "published": "2026-10-25T18:00:00+00:00"
      }
     ],
@@ -970,14 +1534,293 @@
       "country": "Australia",
       "published": "2026-10-23T23:00:00+00:00"
      }
+    ],
+    "economia_mundial": [
+     {
+      "title": "Asian Markets Track Wall Street Lower",
+      "url": "https://www.rttnews.com/story.aspx?Id=3702658",
+      "domain": "rttnews.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Brazil keeps left : what Lula victory means for his country and beyond",
+      "url": "https://www.aol.co.uk/articles/brazil-keeps-left-lula-victory-064433000.html",
+      "domain": "aol.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Sterling Holds Near $1 . 3373 as FXStreet Flags $1 . 3420 Hurdle",
+      "url": "https://econotimes.com/Sterling-Holds-Near-1-3373-as-FXStreet-Flags-1-3420-Hurdle-1763380",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Shares fall in Asia after a decline on Wall Street , and oil prices fall more than 1 %",
+      "url": "https://www.2news.com/news/national/shares-fall-in-asia-after-a-decline-on-wall-street-and-oil-prices-fall-more/article_ddc4a005-46f8-542f-8eca-7be2223b5dd5.html",
+      "domain": "2news.com",
+      "country": "",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Coalition pledges to scrap Help to Buy scheme",
+      "url": "https://www.theadviser.com.au/borrower/49133-coalition-pledges-to-scrap-help-to-buy-scheme",
+      "domain": "theadviser.com.au",
+      "country": "Australia",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "After strong fall bookings , Colorado mountain resorts brace for what could be a slower winter",
+      "url": "https://www.summitdaily.com/news/colorado-mountain-resorts-slower-winter-strong-fall-bookings/",
+      "domain": "summitdaily.com",
+      "country": "United States",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Growth under pressure : aviation new test is capacity discipline",
+      "url": "https://centreforaviation.com/analysis/reports/growth-under-pressure-aviations-new-test-is-capacity-discipline-756368",
+      "domain": "centreforaviation.com",
+      "country": "China",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Global Market : South Korean shares fall over 1 % as AI trade concerns weigh ; won strengthens",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-fall-over-1-as-ai-trade-concerns-weigh-won-strengthens/articleshow/135202531.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Shares fall in Asia after a decline on Wall Street , and oil prices fall more than 1 %",
+      "url": "https://isp.netscape.com:443/pf/story/0001/20261026/be3a56f58a77c5be863f0289d280be92",
+      "domain": "isp.netscape.com",
+      "country": "United States",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Oil declines from six - month high as traders assess Mideast risks",
+      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-declines-six-month-high-traders-assess-mideast-risks",
+      "domain": "businesstimes.com.sg",
+      "country": "Singapore",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Economist , Residents React As Oyedele Says Households Spend 120 % Of Income On Food",
+      "url": "https://leadership.ng/economist-residents-react-as-oyedele-says-households-spend-120-of-income-on-food/",
+      "domain": "leadership.ng",
+      "country": "Nigeria",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market",
+      "url": "http://www.thedailytimes.com/ap/business/home-sellers-are-lowering-their-price-and-helping-buyers-to-make-a-deal-in-a/article_3bf3cb94-c108-5cbd-9d8f-507c92597a73.html",
+      "domain": "thedailytimes.com",
+      "country": "United States",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Sharon Graham :  Budget is Andy Burnham first real test - it time to take a different path",
+      "url": "https://www.mirror.co.uk/news/politics/budget-burnham-union-sharon-graham-37808385",
+      "domain": "mirror.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Wealth Column : Making sense of the midterms elections and the markets",
+      "url": "https://www.brainerddispatch.com/opinion/columns/wealth-column-making-sense-of-the-midterms-elections-and-the-markets",
+      "domain": "brainerddispatch.com",
+      "country": "United States",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
+      "title": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market",
+      "url": "https://www.wdio.com/ap-top-news/ap-top-news-us-headlines-ap-top-news/home-sellers-are-lowering-their-price-and-helping-buyers-to-make-a-deal-in-a-stagnant-market/",
+      "domain": "wdio.com",
+      "country": "United States",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
+      "title": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market",
+      "url": "http://www.stardem.com/ap/nation/home-sellers-are-lowering-their-price-and-helping-buyers-to-make-a-deal-in-a/article_272bcb50-6e6c-5457-ad2c-3b9f78ad5b81.html",
+      "domain": "stardem.com",
+      "country": "United States",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
+      "title": "Sharon Graham :  Budget is Andy Burnham first real test - it time to take a different path",
+      "url": "https://www.aol.co.uk/articles/sharon-graham-budget-andy-burnhams-173103000.html",
+      "domain": "aol.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
+      "title": "Obama supports Muslim candidate ; calls Iran war Trump biggest failure",
+      "url": "https://dailythepatriot.com/obama-supports-muslim-candidate-calls-iran-war-trumps-biggest-failure/",
+      "domain": "dailythepatriot.com",
+      "country": "Pakistan",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
+      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – The Willits News",
+      "url": "https://www.willitsnews.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
+      "domain": "willitsnews.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "As vote nears , Trump AI gamble fuels economic uncertainty",
+      "url": "https://www.aol.com/articles/vote-nears-trumps-ai-gamble-100000000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Interest rates unlikely to reach 4 . 75 % by next summer , say City economists",
+      "url": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Teacher , 34 , has $140K invested says she may never need to add another dollar to retire with $1 . 5M . Here her math",
+      "url": "https://www.aol.com/articles/teacher-34-140k-invested-says-111500000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "Could Hormuz become America Suez ? – Middle East Monitor",
+      "url": "https://www.middleeastmonitor.com/20261025-could-hormuz-become-americas-suez/",
+      "domain": "middleeastmonitor.com",
+      "country": "Israel",
+      "published": "2026-10-25T12:45:00+00:00"
+     },
+     {
+      "title": "The week ahead in numbers : Govt H1 fiscal data , factory output , HUL Q2 earnings",
+      "url": "https://www.livemint.com/economy/india-economic-data-hul-q2-results-fed-boj-meetings-11792915815219.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Interest rates unlikely to reach 4 . 75 % by next summer , say City economists",
+      "url": "https://www.aol.co.uk/articles/interest-rates-unlikely-reach-4-120005000.html",
+      "domain": "aol.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Brazil election tests Lula leftist legacy against Bolsonaro right - wing movement",
+      "url": "https://abc17news.com/news/national-world/cnn-world/2026/10/24/brazils-election-tests-lulas-leftist-legacy-against-bolsonaros-right-wing-movement/",
+      "domain": "abc17news.com",
+      "country": "United States",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Centre extends AIF scheme to boost farm infrastructure investments",
+      "url": "https://www.livemint.com/economy/centre-extends-aif-scheme-to-boost-farm-infrastructure-investments-11792919083732.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Fed policy , Q2 earnings , crude oil prices among key market triggers next week",
+      "url": "https://morungexpress.com/fed-policy-q2-earnings-crude-oil-prices-among-key-market-triggers-next-week",
+      "domain": "morungexpress.com",
+      "country": "India",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Arab News | Oman import prices jump 11 . 7 % as fuel costs surge",
+      "url": "https://www.arabnews.com/finance/omans-import-prices-jump-117-as-fuel-costs-surge-3008167",
+      "domain": "arabnews.com",
+      "country": "Saudi Arabia",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "RBI does not target any price or level for rupee , says Governor Sanjay Malhotra",
+      "url": "http://www.oklahomastar.com/news/279397389/rbi-does-not-target-any-price-or-level-for-rupee-says-governor-sanjay-malhotra",
+      "domain": "oklahomastar.com",
+      "country": "United States",
+      "published": "2026-10-25T11:30:00+00:00"
+     },
+     {
+      "title": "Brazil election tests Lula leftist legacy against Bolsonaro right - wing movement",
+      "url": "https://www.egyptindependent.com/brazils-election-tests-lulas-leftist-legacy-against-bolsonaros-right-wing-movement/",
+      "domain": "egyptindependent.com",
+      "country": "Egypt",
+      "published": "2026-10-25T11:30:00+00:00"
+     },
+     {
+      "title": "Blaming Opposition for Hunger Is Delusional Atiku - Latest News In Nigeria , Nigeria News Today , Your Online Nigerian Newspaper",
+      "url": "https://www.nigerianeye.com/2026/10/blaming-opposition-for-hunger-is.html",
+      "domain": "nigerianeye.com",
+      "country": "Nigeria",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "RBI does not target any price or level for rupee , says Governor Sanjay Malhotra",
+      "url": "http://www.heraldglobe.com/news/279397389/rbi-does-not-target-any-price-or-level-for-rupee-says-governor-sanjay-malhotra",
+      "domain": "heraldglobe.com",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Global luxury goods industry set for recovery in 2027 , US to remain bright spot : Goldman Sachs",
+      "url": "http://www.indiagazette.com/news/279397409/global-luxury-goods-industry-set-for-recovery-in-2027-us-to-remain-bright-spot-goldman-sachs",
+      "domain": "indiagazette.com",
+      "country": "India",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Peso could recover as Fed may hold rates - BusinessWorld Online",
+      "url": "https://bworldonline.com/banking-finance/2026/10/25/789008/peso-could-recover-as-fed-may-hold-rates/",
+      "domain": "bworldonline.com",
+      "country": "Philippines",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Study of Limitless Contracts Finds Prices Matched Outcomes in Nine of 10 Bands",
+      "url": "https://econotimes.com/Study-of-Limitless-Contracts-Finds-Prices-Matched-Outcomes-in-Nine-of-10-Bands-1762916",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "From Consumption to Production : Daniel Ayodele MEEI Summit Sets New Agenda for African Business Leaders in China – THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/10/25/from-consumption-to-production-daniel-ayodeles-meei-summit-sets-new-agenda-for-african-business-leaders-in-china/",
+      "domain": "thisdaylive.com",
+      "country": "Nigeria",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Dont assume FCNR money is untouched : ISB professor flags RBI $200 billion dollar exposure",
+      "url": "https://www.businesstoday.in/industry/banks/story/dont-assume-fcnr-money-is-untouched-isb-professor-flags-rbis-200-billion-exposure-563503-2026-10-25",
+      "domain": "businesstoday.in",
+      "country": "India",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Yields on govt debt rise with BSP move in focus - BusinessWorld Online",
+      "url": "https://bworldonline.com/banking-finance/2026/10/25/789007/yields-on-govt-debt-rise-with-bsp-move-in-focus/",
+      "domain": "bworldonline.com",
+      "country": "Philippines",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "Is the American Dream now a brokerage account ?",
+      "url": "https://www.aol.com/articles/american-dream-now-brokerage-account-090422000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-25T11:00:00+00:00"
+     }
     ]
    },
    "errors": {
-    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
