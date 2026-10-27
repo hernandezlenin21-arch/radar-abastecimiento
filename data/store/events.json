@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-27T09:58:31-06:00",
+  "at": "2026-10-27T12:58:03-06:00",
   "data": {
    "storms": [
     {
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-27T09:58:31-06:00",
+  "at": "2026-10-27T12:58:03-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,9 +123,200 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-27T09:58:31-06:00",
+  "at": "2026-10-27T12:58:03-06:00",
   "data": {
    "raw": {
+    "commodities_agricolas": [
+     {
+      "title": "Middlemen continue to exploit sugarcane growers",
+      "url": "https://tribune.com.pk/story/2637136/middlemen-continue-to-exploit-sugarcane-growers",
+      "domain": "tribune.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "SBP raises policy rate to 12 %",
+      "url": "https://tribune.com.pk/story/2637107/sbp-raises-policy-rate-to-12",
+      "domain": "tribune.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Teucrium Soybean Fund ( NYSEARCA : SOYB ) Stock Falls 1 . 2 % – What Next ?",
+      "url": "https://www.dailypolitical.com/2026/10/26/teucrium-soybean-fund-nysearcasoyb-stock-falls-1-2-whats-next.html",
+      "domain": "dailypolitical.com",
+      "country": "United States",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Brazil Stocks Face Test After 13 . 9 % Plunge | Morning Call , Oct 27",
+      "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-october-27-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Latin America Mood : Brazil Reels After Lula Win",
+      "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-october-27-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "The 67 Per Cent Moment : India Is Paying More for a New Economic Order",
+      "url": "https://www.ibtimes.co.in/67-per-cent-moment-india-paying-more-new-economic-order-907846",
+      "domain": "ibtimes.co.in",
+      "country": "India",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "El Salvador : how the country became a safe place for travellers | South Coast Register",
+      "url": "https://www.southcoastregister.com.au/story/9370069/el-salvador-how-the-country-became-a-safe-place-for-travellers/",
+      "domain": "southcoastregister.com.au",
+      "country": "Australia",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Women  first to suffer  under siege , first to step up as frontline responders in Sudan Global Issues",
+      "url": "https://www.globalissues.org/news/2026/10/24/44424",
+      "domain": "globalissues.org",
+      "country": "United States",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "The week ahead in numbers : Govt H1 fiscal data , factory output , HUL Q2 earnings",
+      "url": "https://www.livemint.com/economy/india-economic-data-hul-q2-results-fed-boj-meetings-11792915815219.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Centre extends AIF scheme to boost farm infrastructure investments",
+      "url": "https://www.livemint.com/economy/centre-extends-aif-scheme-to-boost-farm-infrastructure-investments-11792919083732.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Abbreviated Pundit Roundup : Is the  poorly educated  learnin ?",
+      "url": "https://www.dailykos.com/stories/2026/10/25/800117408/community/a/",
+      "domain": "dailykos.com",
+      "country": "United States",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "France - Algeria diplomatic tensions put supply of urea fertilizer at risk",
+      "url": "https://bworldonline.com/agribusiness/2026/10/25/789003/france-algeria-diplomatic-tensions-put-supply-of-urea-fertilizer-at-risk/",
+      "domain": "bworldonline.com",
+      "country": "Philippines",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "SENTINEL AND ENTERPRISE - Community Calendar",
+      "url": "https://www.sentinelandenterprise.com/2026/10/25/sentinel-and-enterprise-community-calendar-43/",
+      "domain": "sentinelandenterprise.com",
+      "country": "United States",
+      "published": "2026-10-25T10:45:00+00:00"
+     },
+     {
+      "title": "New wave of inflation hits country after LPG price hike",
+      "url": "https://dunyanews.tv/en/Business/979547-new-wave-of-inflation-hits-country-after-lpg-price-hike",
+      "domain": "dunyanews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-25T10:45:00+00:00"
+     },
+     {
+      "title": "Refugee inflows have limited national economic impact in Africa , IMF study finds",
+      "url": "https://www.channelafrica.co.za/channelafrica/news/refugee-inflows-have-limited-national-economic-impact-in-africa-imf-study-finds/",
+      "domain": "channelafrica.co.za",
+      "country": "South Africa",
+      "published": "2026-10-25T10:30:00+00:00"
+     },
+     {
+      "title": "Japan beverage market reaches 5 . 38 trillion yen despite falling volumes",
+      "url": "https://jp.ibtimes.com/japans-beverage-market-reaches-538-trillion-yen-despite-falling-volumes-104911",
+      "domain": "jp.ibtimes.com",
+      "country": "United States",
+      "published": "2026-10-25T09:30:00+00:00"
+     },
+     {
+      "title": "Taleb Durgahee , Businessman and Community Leader : Dipin Mezon The Bread That Binds People Together",
+      "url": "https://defimedia.info/taleb-durgahee-businessman-and-community-leader-dipin-mezon-bread-binds-people-together",
+      "domain": "defimedia.info",
+      "country": "Mauritius",
+      "published": "2026-10-25T09:30:00+00:00"
+     },
+     {
+      "title": "Udhayanidhi Stalin alleges free ration rice is polished and sold for ₹30 per kg in Tamil Nadu",
+      "url": "https://sahilonline.org/udhayanidhi-stalin-alleges-free-ration-rice-is-polished-and-sold-for-rs30-per-kg-in-tamil-nadu",
+      "domain": "sahilonline.org",
+      "country": "India",
+      "published": "2026-10-25T08:30:00+00:00"
+     },
+     {
+      "title": "Sultan Sooud Al Qassemi on art : How an Egyptian weaving village became a lesson in the power of giving",
+      "url": "https://www.thenationalnews.com/magazine/2026/10/25/sultan-sooud-al-qassemi-on-art-how-an-egyptian-weaving-village-became-a-lesson-in-the-power-of-giving/",
+      "domain": "thenationalnews.com",
+      "country": "",
+      "published": "2026-10-25T08:15:00+00:00"
+     },
+     {
+      "title": "Vietnam Food Guide : 25 Must - Try Dishes From Pho to Banh Mi",
+      "url": "https://outoftownblog.com/vietnam-food-guide/",
+      "domain": "outoftownblog.com",
+      "country": "Philippines",
+      "published": "2026-10-25T08:00:00+00:00"
+     },
+     {
+      "title": "Udhayanidhi alleges free ration rice polished , sold as fine - quality Ponni at Rs 30 per kg in TN",
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Oct/25/udhayanidhi-alleges-free-ration-rice-polished-sold-as-fine-quality-ponni-at-rs-30-per-kg-in-tn",
+      "domain": "newindianexpress.com",
+      "country": "India",
+      "published": "2026-10-25T05:30:00+00:00"
+     },
+     {
+      "title": "Trade tariffs cause whiplash at Port Milwaukee",
+      "url": "https://news.wfsu.org/npr-news/2026-10-24/trade-tariffs-cause-whiplash-at-port-milwaukee",
+      "domain": "news.wfsu.org",
+      "country": "United States",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Trade tariffs cause whiplash at Port Milwaukee",
+      "url": "https://www.wgcu.org/2026-10-24/trade-tariffs-cause-whiplash-at-port-milwaukee",
+      "domain": "wgcu.org",
+      "country": "United States",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Dar orders greater wheat supply after committee reviews essential - food stocks",
+      "url": "https://paktribune.com/dar-orders-greater-wheat-supply-after-committee-reviews-essential-food-stocks/",
+      "domain": "paktribune.com",
+      "country": "Pakistan",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
+      "url": "http://www.rockymounttelegram.com/news/national/this-us-house-district-was-once-a-political-battleground-now-it-shows-why-congress-is/article_52e5d5e1-be1d-56ed-ba13-7b857fcc0e7d.html",
+      "domain": "rockymounttelegram.com",
+      "country": "United States",
+      "published": "2026-10-24T19:15:00+00:00"
+     },
+     {
+      "title": "Kathleen Hill : Darling Ice Cream , Dead Letter Pop Ups , Halloween Fun , New Neighbors Table",
+      "url": "https://sonomasun.com/2026/10/24/kathleen-hill-darling-ice-cream-dead-letter-pop-ups-halloween-fun-new-neighbors-table/",
+      "domain": "sonomasun.com",
+      "country": "United States",
+      "published": "2026-10-24T19:15:00+00:00"
+     },
+     {
+      "title": "This US House district was once a political battleground . Now it shows why Congress is dysfunctional",
+      "url": "https://www.pilotonline.com/2026/10/24/us-house-district-political-battleground-congress-dysfunctional-2/",
+      "domain": "pilotonline.com",
+      "country": "United States",
+      "published": "2026-10-24T19:15:00+00:00"
+     }
+    ],
     "energia": [
      {
       "title": "Asian Markets Trade Mixed",
@@ -690,295 +881,105 @@
       "published": "2026-10-25T08:15:00+00:00"
      }
     ],
-    "economia_mundial": [
+    "produccion_agroindustrial": [
      {
-      "title": "Asian Markets Trade Mixed",
-      "url": "https://www.rttnews.com/3703088/asian-markets-trade-mixed.aspx",
-      "domain": "rttnews.com",
-      "country": "United States",
+      "title": "Poultry Farmers Warn of At Least 15 % Price Increase Ahead of Christmas – Ghanamma . com",
+      "url": "https://www.ghanamma.com/2026/10/27/poultry-farmers-warn-of-at-least-15-price-increase-ahead-of-christmas/",
+      "domain": "ghanamma.com",
+      "country": "Ghana",
       "published": "2026-10-27T05:15:00+00:00"
      },
      {
-      "title": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates : Report",
-      "url": "http://www.ohiostandard.com/news/279399101/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report",
-      "domain": "ohiostandard.com",
-      "country": "United States",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "São Paulo Today : Weather , Ibirapuera & Markets Oct 27",
-      "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-tuesday-october-27-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Sensex falls over 300 points , Nifty slips below 22 , 690 as crude prices hover near USD 115",
-      "url": "http://www.myanmarnews.net/news/279399205/sensex-falls-over-300-points-nifty-slips-below-22690-as-crude-prices-hover-near-usd-115",
-      "domain": "myanmarnews.net",
-      "country": "Myanmar",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Sensex falls over 300 points , Nifty slips below 22 , 690 as crude prices hover near USD 115",
-      "url": "http://www.milwaukeesun.com/news/279399205/sensex-falls-over-300-points-nifty-slips-below-22690-as-crude-prices-hover-near-usd-115",
-      "domain": "milwaukeesun.com",
-      "country": "United States",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Rio Today : Rainy Tuesday , Lula Market Fallout & Open Museums",
-      "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-tuesday-october-27-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Brazil Stocks Face Test After 13 . 9 % Plunge | Morning Call , Oct 27",
-      "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-october-27-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates : Report",
-      "url": "http://www.myanmarnews.net/news/279399101/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report",
-      "domain": "myanmarnews.net",
-      "country": "Myanmar",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Brazil Stocks Plunge 13 . 9 % as Fed Week Begins | Global Economy , Oct 27",
-      "url": "https://www.riotimesonline.com/global-economy-briefing-october-27-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "How Lula turned the tables on the right in Brazil and the US with his comeback presidential victory",
-      "url": "https://www.suncommercial.com/brazil_times/news/national/article_7ef17163-e568-5e3f-a2de-4e9f0104a513.html",
-      "domain": "suncommercial.com",
-      "country": "United States",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Asian Markets Track Wall Street Lower",
-      "url": "https://www.rttnews.com/story.aspx?Id=3702658",
-      "domain": "rttnews.com",
-      "country": "United States",
-      "published": "2026-10-26T07:15:00+00:00"
-     },
-     {
-      "title": "Brazil keeps left : what Lula victory means for his country and beyond",
-      "url": "https://www.aol.co.uk/articles/brazil-keeps-left-lula-victory-064433000.html",
-      "domain": "aol.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-26T07:15:00+00:00"
-     },
-     {
-      "title": "Sterling Holds Near $1 . 3373 as FXStreet Flags $1 . 3420 Hurdle",
-      "url": "https://econotimes.com/Sterling-Holds-Near-1-3373-as-FXStreet-Flags-1-3420-Hurdle-1763380",
-      "domain": "econotimes.com",
-      "country": "United States",
-      "published": "2026-10-26T07:15:00+00:00"
-     },
-     {
-      "title": "Shares fall in Asia after a decline on Wall Street , and oil prices fall more than 1 %",
-      "url": "https://www.2news.com/news/national/shares-fall-in-asia-after-a-decline-on-wall-street-and-oil-prices-fall-more/article_ddc4a005-46f8-542f-8eca-7be2223b5dd5.html",
-      "domain": "2news.com",
-      "country": "",
-      "published": "2026-10-26T05:00:00+00:00"
-     },
-     {
-      "title": "Coalition pledges to scrap Help to Buy scheme",
-      "url": "https://www.theadviser.com.au/borrower/49133-coalition-pledges-to-scrap-help-to-buy-scheme",
-      "domain": "theadviser.com.au",
-      "country": "Australia",
-      "published": "2026-10-26T05:00:00+00:00"
-     },
-     {
-      "title": "After strong fall bookings , Colorado mountain resorts brace for what could be a slower winter",
-      "url": "https://www.summitdaily.com/news/colorado-mountain-resorts-slower-winter-strong-fall-bookings/",
-      "domain": "summitdaily.com",
-      "country": "United States",
-      "published": "2026-10-26T05:00:00+00:00"
-     },
-     {
-      "title": "Growth under pressure : aviation new test is capacity discipline",
-      "url": "https://centreforaviation.com/analysis/reports/growth-under-pressure-aviations-new-test-is-capacity-discipline-756368",
-      "domain": "centreforaviation.com",
-      "country": "China",
-      "published": "2026-10-26T05:00:00+00:00"
-     },
-     {
-      "title": "Global Market : South Korean shares fall over 1 % as AI trade concerns weigh ; won strengthens",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-fall-over-1-as-ai-trade-concerns-weigh-won-strengthens/articleshow/135202531.cms",
-      "domain": "economictimes.indiatimes.com",
+      "title": "The 67 Per Cent Moment : India Is Paying More for a New Economic Order",
+      "url": "https://www.ibtimes.co.in/67-per-cent-moment-india-paying-more-new-economic-order-907846",
+      "domain": "ibtimes.co.in",
       "country": "India",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Editorial : Poultry Investment Must Deliver Beyond The Signing Table",
+      "url": "https://thechronicle.com.gh/editorial-poultry-investment-must-deliver-beyond-the-signing-table/",
+      "domain": "thechronicle.com.gh",
+      "country": "Ghana",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "RSDP - Funded Copra Storage & Buying Centre Facility Handed Over To KCDA",
+      "url": "https://www.scoop.co.nz/stories/WO2610/S00184/rsdp-funded-copra-storage-buying-centre-facility-handed-over-to-kcda.htm",
+      "domain": "scoop.co.nz",
+      "country": "New Zealand",
       "published": "2026-10-26T05:00:00+00:00"
      },
      {
-      "title": "Shares fall in Asia after a decline on Wall Street , and oil prices fall more than 1 %",
-      "url": "https://isp.netscape.com:443/pf/story/0001/20261026/be3a56f58a77c5be863f0289d280be92",
-      "domain": "isp.netscape.com",
+      "title": "Bunge Global SA $BG Stock Acquired by Signaturefd LLC",
+      "url": "https://www.themarketsdaily.com/2026/10/25/bunge-global-sa-bg-stock-acquired-by-signaturefd-llc.html",
+      "domain": "themarketsdaily.com",
       "country": "United States",
-      "published": "2026-10-26T05:00:00+00:00"
+      "published": "2026-10-25T11:00:00+00:00"
      },
      {
-      "title": "Oil declines from six - month high as traders assess Mideast risks",
-      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-declines-six-month-high-traders-assess-mideast-risks",
-      "domain": "businesstimes.com.sg",
-      "country": "Singapore",
-      "published": "2026-10-26T05:00:00+00:00"
+      "title": "I Brought the Same Grocery List to Aldi & Dollar Tree - Here Who Was the Clear Winner",
+      "url": "https://www.aol.com/articles/brought-same-grocery-list-aldi-090000000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-25T11:00:00+00:00"
      },
      {
-      "title": "Economist , Residents React As Oyedele Says Households Spend 120 % Of Income On Food",
-      "url": "https://leadership.ng/economist-residents-react-as-oyedele-says-households-spend-120-of-income-on-food/",
-      "domain": "leadership.ng",
+      "title": "British egg farmers face cheaper import threat under proposed cage ban",
+      "url": "https://www.farminguk.com/news/british-egg-farmers-face-cheaper-import-threat-under-proposed-cage-ban_69358.html",
+      "domain": "farminguk.com",
+      "country": "United Kingdom",
+      "published": "2026-10-25T10:00:00+00:00"
+     },
+     {
+      "title": "UAE plans three to five alternative supply sources for every major food category",
+      "url": "https://gulfnews.com/uae/environment/uae-plans-up-to-five-alternative-food-supply-sources-to-safeguard-against-disruptions-1.500722859",
+      "domain": "gulfnews.com",
+      "country": "United Arab Emirates",
+      "published": "2026-10-25T09:30:00+00:00"
+     },
+     {
+      "title": "What to Eat in Portugal : Traditional Dishes and Famous Local Specialties",
+      "url": "https://outoftownblog.com/what-to-eat-in-portugal/",
+      "domain": "outoftownblog.com",
+      "country": "Philippines",
+      "published": "2026-10-25T08:00:00+00:00"
+     },
+     {
+      "title": "15 Famous Foods Named After Places and the Stories Behind Them",
+      "url": "https://outoftownblog.com/famous-foods-named-after-places-and-the-stories-behind-them/",
+      "domain": "outoftownblog.com",
+      "country": "Philippines",
+      "published": "2026-10-25T08:00:00+00:00"
+     },
+     {
+      "title": "Trade tariffs cause whiplash at Port Milwaukee",
+      "url": "https://news.wfsu.org/npr-news/2026-10-24/trade-tariffs-cause-whiplash-at-port-milwaukee",
+      "domain": "news.wfsu.org",
+      "country": "United States",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "Trade tariffs cause whiplash at Port Milwaukee",
+      "url": "https://www.wgcu.org/2026-10-24/trade-tariffs-cause-whiplash-at-port-milwaukee",
+      "domain": "wgcu.org",
+      "country": "United States",
+      "published": "2026-10-25T03:30:00+00:00"
+     },
+     {
+      "title": "SEPTP hails FG move to implement national animal feed policy",
+      "url": "https://thenationonlineng.net/septp-hails-fgs-move-to-implement-national-animal-feed-policy/",
+      "domain": "thenationonlineng.net",
       "country": "Nigeria",
-      "published": "2026-10-26T05:00:00+00:00"
-     },
-     {
-      "title": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market",
-      "url": "http://www.thedailytimes.com/ap/business/home-sellers-are-lowering-their-price-and-helping-buyers-to-make-a-deal-in-a/article_3bf3cb94-c108-5cbd-9d8f-507c92597a73.html",
-      "domain": "thedailytimes.com",
-      "country": "United States",
-      "published": "2026-10-25T19:15:00+00:00"
-     },
-     {
-      "title": "Sharon Graham :  Budget is Andy Burnham first real test - it time to take a different path",
-      "url": "https://www.mirror.co.uk/news/politics/budget-burnham-union-sharon-graham-37808385",
-      "domain": "mirror.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-25T19:15:00+00:00"
-     },
-     {
-      "title": "Wealth Column : Making sense of the midterms elections and the markets",
-      "url": "https://www.brainerddispatch.com/opinion/columns/wealth-column-making-sense-of-the-midterms-elections-and-the-markets",
-      "domain": "brainerddispatch.com",
-      "country": "United States",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market",
-      "url": "https://www.wdio.com/ap-top-news/ap-top-news-us-headlines-ap-top-news/home-sellers-are-lowering-their-price-and-helping-buyers-to-make-a-deal-in-a-stagnant-market/",
-      "domain": "wdio.com",
-      "country": "United States",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "Home sellers are lowering their price and helping buyers to make a deal in a stagnant market",
-      "url": "http://www.stardem.com/ap/nation/home-sellers-are-lowering-their-price-and-helping-buyers-to-make-a-deal-in-a/article_272bcb50-6e6c-5457-ad2c-3b9f78ad5b81.html",
-      "domain": "stardem.com",
-      "country": "United States",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "Sharon Graham :  Budget is Andy Burnham first real test - it time to take a different path",
-      "url": "https://www.aol.co.uk/articles/sharon-graham-budget-andy-burnhams-173103000.html",
-      "domain": "aol.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "Obama supports Muslim candidate ; calls Iran war Trump biggest failure",
-      "url": "https://dailythepatriot.com/obama-supports-muslim-candidate-calls-iran-war-trumps-biggest-failure/",
-      "domain": "dailythepatriot.com",
-      "country": "Pakistan",
-      "published": "2026-10-25T18:00:00+00:00"
-     },
-     {
-      "title": "Young men who helped get Trump elected are  blackpilling  out of politics – The Willits News",
-      "url": "https://www.willitsnews.com/2026/10/23/young-men-who-helped-get-trump-elected-are-blackpilling-out-of-politics/",
-      "domain": "willitsnews.com",
-      "country": "United States",
-      "published": "2026-10-25T12:45:00+00:00"
-     },
-     {
-      "title": "As vote nears , Trump AI gamble fuels economic uncertainty",
-      "url": "https://www.aol.com/articles/vote-nears-trumps-ai-gamble-100000000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-25T12:45:00+00:00"
-     },
-     {
-      "title": "Interest rates unlikely to reach 4 . 75 % by next summer , say City economists",
-      "url": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
-      "domain": "theguardian.com",
-      "country": "United Kingdom",
-      "published": "2026-10-25T12:45:00+00:00"
-     },
-     {
-      "title": "Teacher , 34 , has $140K invested says she may never need to add another dollar to retire with $1 . 5M . Here her math",
-      "url": "https://www.aol.com/articles/teacher-34-140k-invested-says-111500000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-10-25T12:45:00+00:00"
-     },
-     {
-      "title": "Could Hormuz become America Suez ? – Middle East Monitor",
-      "url": "https://www.middleeastmonitor.com/20261025-could-hormuz-become-americas-suez/",
-      "domain": "middleeastmonitor.com",
-      "country": "Israel",
-      "published": "2026-10-25T12:45:00+00:00"
-     },
-     {
-      "title": "The week ahead in numbers : Govt H1 fiscal data , factory output , HUL Q2 earnings",
-      "url": "https://www.livemint.com/economy/india-economic-data-hul-q2-results-fed-boj-meetings-11792915815219.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-10-25T12:30:00+00:00"
-     },
-     {
-      "title": "Interest rates unlikely to reach 4 . 75 % by next summer , say City economists",
-      "url": "https://www.aol.co.uk/articles/interest-rates-unlikely-reach-4-120005000.html",
-      "domain": "aol.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-10-25T12:30:00+00:00"
-     },
-     {
-      "title": "Brazil election tests Lula leftist legacy against Bolsonaro right - wing movement",
-      "url": "https://abc17news.com/news/national-world/cnn-world/2026/10/24/brazils-election-tests-lulas-leftist-legacy-against-bolsonaros-right-wing-movement/",
-      "domain": "abc17news.com",
-      "country": "United States",
-      "published": "2026-10-25T12:30:00+00:00"
-     },
-     {
-      "title": "Centre extends AIF scheme to boost farm infrastructure investments",
-      "url": "https://www.livemint.com/economy/centre-extends-aif-scheme-to-boost-farm-infrastructure-investments-11792919083732.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-10-25T12:30:00+00:00"
-     },
-     {
-      "title": "Fed policy , Q2 earnings , crude oil prices among key market triggers next week",
-      "url": "https://morungexpress.com/fed-policy-q2-earnings-crude-oil-prices-among-key-market-triggers-next-week",
-      "domain": "morungexpress.com",
-      "country": "India",
-      "published": "2026-10-25T12:30:00+00:00"
-     },
-     {
-      "title": "Arab News | Oman import prices jump 11 . 7 % as fuel costs surge",
-      "url": "https://www.arabnews.com/finance/omans-import-prices-jump-117-as-fuel-costs-surge-3008167",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-10-25T12:30:00+00:00"
-     },
-     {
-      "title": "RBI does not target any price or level for rupee , says Governor Sanjay Malhotra",
-      "url": "http://www.oklahomastar.com/news/279397389/rbi-does-not-target-any-price-or-level-for-rupee-says-governor-sanjay-malhotra",
-      "domain": "oklahomastar.com",
-      "country": "United States",
-      "published": "2026-10-25T11:30:00+00:00"
+      "published": "2026-10-24T21:00:00+00:00"
      }
     ]
    },
    "errors": {
-    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
