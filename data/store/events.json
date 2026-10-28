@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-28T07:12:45-06:00",
+  "at": "2026-10-28T10:03:54-06:00",
   "data": {
    "storms": [
     {
@@ -10,92 +10,100 @@
      "name": "Vance",
      "classification": "TS",
      "intensity": "35",
-     "pressure": "1003",
-     "latitude": "18.6N",
-     "longitude": "108.6W",
-     "latitudeNumeric": 18.6,
-     "longitudeNumeric": -108.6,
-     "movementDir": 360,
-     "movementSpeed": 12,
-     "lastUpdate": "2026-10-28T09:00:00.000Z",
+     "pressure": "1004",
+     "latitude": "19.2N",
+     "longitude": "109.2W",
+     "latitudeNumeric": 19.2,
+     "longitudeNumeric": -109.2,
+     "movementDir": 340,
+     "movementSpeed": 10,
+     "lastUpdate": "2026-10-28T15:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "028",
-      "issuance": "2026-10-28T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-28T08:46:00.218Z",
+      "advNum": "029",
+      "issuance": "2026-10-28T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T14:33:04.268Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "028",
-      "issuance": "2026-10-28T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-28T08:45:29.589Z",
+      "advNum": "029",
+      "issuance": "2026-10-28T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T14:32:33.980Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCMEP2.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "028",
-      "issuance": "2026-10-28T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-28T08:46:00.092Z",
+      "advNum": "029",
+      "issuance": "2026-10-28T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T14:33:04.265Z",
       "url": "https://www.nhc.noaa.gov/text/MIAPWSEP2.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "028",
-      "issuance": "2026-10-28T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-28T08:46:29.522Z",
+      "advNum": "029",
+      "issuance": "2026-10-28T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T14:33:35.558Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCDEP2.shtml"
      },
      "forecastGraphics": {
-      "advNum": "028",
-      "issuance": "2026-10-28T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-28T08:46:00.218Z",
+      "advNum": "029",
+      "issuance": "2026-10-28T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T14:33:04.268Z",
       "url": "https://www.nhc.noaa.gov/graphics_ep2.shtml"
      },
      "forecastTrack": {
-      "advNum": "028",
-      "issuance": "2026-10-28T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-28T10:35:30.161Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_028.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_028adv_TRACK.kmz"
+      "advNum": "029",
+      "issuance": "2026-10-28T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T14:34:49.575Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_029.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_029adv_TRACK.kmz"
      },
      "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "028",
-      "issuance": "2026-10-28T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-28T10:35:17.838Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_028.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_028adv_CONE.kmz"
+      "advNum": "029",
+      "issuance": "2026-10-28T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T14:34:37.224Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_029.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_029adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "028",
-      "issuance": "2026-10-28T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-28T10:36:26.555Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_028.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_028adv.kmz"
+      "advNum": "029",
+      "issuance": "2026-10-28T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T14:35:44.858Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_029.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_029adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "028",
-      "issuance": "2026-10-28T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-28T10:36:18.012Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_028.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_028adv.kmz"
+      "advNum": "029",
+      "issuance": "2026-10-28T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T14:35:36.478Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_029.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_029adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-10-28T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-28T10:35:46.410Z",
+      "issuance": "2026-10-28T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T14:35:06.263Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "028",
-      "issuance": "2026-10-28T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-28T10:35:21.915Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_028adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "029",
+      "issuance": "2026-10-28T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T14:34:41.212Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_029adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "028",
-      "issuance": "2026-10-28T09:00:00.000Z",
-      "fileUpdateTime": "2026-10-28T10:35:26.025Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_028adv_most_likely_toa_34.kmz"
+      "advNum": "029",
+      "issuance": "2026-10-28T15:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T14:34:45.356Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_029adv_most_likely_toa_34.kmz"
      },
-     "windSpeedProbabilitiesGIS": null,
+     "windSpeedProbabilitiesGIS": {
+      "issuance": "2026-10-28T12:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T15:23:17.285Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102812_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102812_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102812_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102812_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102812_wsp64knt120hr_5km.kmz"
+     },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
      "peakSurgeKML": null
@@ -106,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-28T07:12:45-06:00",
+  "at": "2026-10-28T10:03:54-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -115,60 +123,9 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-28T07:12:45-06:00",
+  "at": "2026-10-28T10:03:54-06:00",
   "data": {
    "raw": {
-    "commodities_agricolas": [
-     {
-      "title": "Middlemen continue to exploit sugarcane growers",
-      "url": "https://tribune.com.pk/story/2637136/middlemen-continue-to-exploit-sugarcane-growers",
-      "domain": "tribune.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "SBP raises policy rate to 12 %",
-      "url": "https://tribune.com.pk/story/2637107/sbp-raises-policy-rate-to-12",
-      "domain": "tribune.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Teucrium Soybean Fund ( NYSEARCA : SOYB ) Stock Falls 1 . 2 % – What Next ?",
-      "url": "https://www.dailypolitical.com/2026/10/26/teucrium-soybean-fund-nysearcasoyb-stock-falls-1-2-whats-next.html",
-      "domain": "dailypolitical.com",
-      "country": "United States",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Brazil Stocks Face Test After 13 . 9 % Plunge | Morning Call , Oct 27",
-      "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-october-27-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Latin America Mood : Brazil Reels After Lula Win",
-      "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-october-27-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "The 67 Per Cent Moment : India Is Paying More for a New Economic Order",
-      "url": "https://www.ibtimes.co.in/67-per-cent-moment-india-paying-more-new-economic-order-907846",
-      "domain": "ibtimes.co.in",
-      "country": "India",
-      "published": "2026-10-26T07:15:00+00:00"
-     },
-     {
-      "title": "El Salvador : how the country became a safe place for travellers | South Coast Register",
-      "url": "https://www.southcoastregister.com.au/story/9370069/el-salvador-how-the-country-became-a-safe-place-for-travellers/",
-      "domain": "southcoastregister.com.au",
-      "country": "Australia",
-      "published": "2026-10-26T07:15:00+00:00"
-     }
-    ],
     "comercio_internacional": [
      {
       "title": "SBP raises policy rate to 12 %",
@@ -259,6 +216,288 @@
       "url": "http://www.wataugademocrat.com/news/national/iowa-u-s-senate-candidates-disagree-on-range-of-issues/article_17b6dd4e-b213-5f07-b0d8-de3ca5f6c778.html",
       "domain": "wataugademocrat.com",
       "country": "United States",
+      "published": "2026-10-25T18:00:00+00:00"
+     }
+    ],
+    "geopolitica": [
+     {
+      "title": "Asian Markets Trade Mixed",
+      "url": "https://www.rttnews.com/3703088/asian-markets-trade-mixed.aspx",
+      "domain": "rttnews.com",
+      "country": "United States",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "14 October 2026 changes affecting residents in France",
+      "url": "https://www.connexionfrance.com/practical/14-recent-and-upcoming-changes-in-france-you-may-have-missed-in-october/821001",
+      "domain": "connexionfrance.com",
+      "country": "France",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates : Report",
+      "url": "http://www.ohiostandard.com/news/279399101/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report",
+      "domain": "ohiostandard.com",
+      "country": "United States",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "SBP raises policy rate to 12 %",
+      "url": "https://tribune.com.pk/story/2637107/sbp-raises-policy-rate-to-12",
+      "domain": "tribune.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Will Nigerians Believe Empty Electoral Promises ?",
+      "url": "https://leadership.ng/will-nigerians-believe-empty-electoral-promises/",
+      "domain": "leadership.ng",
+      "country": "Nigeria",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Indian Shares Marginally Lower In Early Trade ; IT Stocks Underperform",
+      "url": "https://www.rttnews.com/3703096/indian-shares-marginally-lower-in-early-trade-it-stocks-underperform.aspx",
+      "domain": "rttnews.com",
+      "country": "United States",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "url": "https://www.namibian.com.na/algeria-to-send-troops-to-niger-in-first-foreign-deployment-since-1973/",
+      "domain": "namibian.com.na",
+      "country": "Namibia",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Saudi Arabia offered Houthis $1 bn in Iran - brokered ceasefire deal : Israeli media",
+      "url": "http://www.myanmarnews.net/news/279399157/saudi-arabia-offered-houthis-1-bn-in-iran-brokered-ceasefire-deal-israeli-media",
+      "domain": "myanmarnews.net",
+      "country": "Myanmar",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates : Report",
+      "url": "http://www.myanmarnews.net/news/279399101/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report",
+      "domain": "myanmarnews.net",
+      "country": "Myanmar",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "French riots and 2027 election : Macron faces polarised run - off",
+      "url": "https://www.connexionfrance.com/opinion/french-riots-mean-election-run-off-will-be-choice-of-two-extremes/823412",
+      "domain": "connexionfrance.com",
+      "country": "France",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Iran reports positive talks with Pakistan , Saudi Arabia and Turkiye in Tehran",
+      "url": "https://www.pakistantimes.com/iran-reports-positive-talks-with-pakistan-saudi-arabia-and-turkiye-in-tehran-15839/",
+      "domain": "pakistantimes.com",
+      "country": "Pakistan",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "TOR to be listed on Ghana Stock Exchange – MD tells visiting IMF team",
+      "url": "https://thechronicle.com.gh/tor-to-be-listed-on-ghana-stock-exchange-md-tells-visiting-imf-team/",
+      "domain": "thechronicle.com.gh",
+      "country": "Ghana",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Trump dials up Islamophobia against Abdul El - Sayed at Michigan Senate rally",
+      "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed",
+      "domain": "aljazeera.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Asian Markets Track Wall Street Lower",
+      "url": "https://www.rttnews.com/story.aspx?Id=3702658",
+      "domain": "rttnews.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "EU summit in Brussels : European powers intensify war drive against Russia",
+      "url": "https://nuclear-news.net/2026/10/26/6-b1-eu-summit-in-brussels-european-powers-intensify-war-drive-against-russia/",
+      "domain": "nuclear-news.net",
+      "country": "Japan",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "US military says it helped Gulf states export 1 . 5 billion barrels of oil",
+      "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil",
+      "domain": "aljazeera.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Saudi Arabia to store oil in Singapore to bolster Asia supply security",
+      "url": "https://arynews.tv/saudi-arabia-to-store-oil-in-singapore-to-bolster-asia-supply-security",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Arab News | US touts role in Gulf oil exports as CENTCOM chief flies over Hormuz Strait",
+      "url": "https://www.arabnews.com/middle-east/us-touts-role-in-gulf-oil-exports-as-centcom-chief-flies-over-hormuz-strait-3008237",
+      "domain": "arabnews.com",
+      "country": "Saudi Arabia",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Jamie , Nene Koch left their mark on New Mexico",
+      "url": "https://www.santafenewmexican.com/news/obituaries/jamie-nene-koch-left-their-mark-on-new-mexico/article_b8e57e90-16d9-4554-a014-02ba567e56bf.html",
+      "domain": "santafenewmexican.com",
+      "country": "United States",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Iranian sailors rescued off Sri Lanka coast after medical emergencies",
+      "url": "https://www.bbc.com/news/articles/c9p8g7e4k2xjo",
+      "domain": "bbc.com",
+      "country": "United Kingdom",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Shares fall in Asia after a decline on Wall Street , and oil prices fall more than 1 %",
+      "url": "https://www.2news.com/news/national/shares-fall-in-asia-after-a-decline-on-wall-street-and-oil-prices-fall-more/article_ddc4a005-46f8-542f-8eca-7be2223b5dd5.html",
+      "domain": "2news.com",
+      "country": "",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "IEA Says Diesel Stock Recovery Unlikely Before Second Half of 2027",
+      "url": "https://econotimes.com/IEA-Says-Diesel-Stock-Recovery-Unlikely-Before-Second-Half-of-2027-1763295",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Iran has ramped up efforts to target US personnel , intelligence memo warns - International",
+      "url": "https://www.dailymirror.lk/breaking-news/Iran-has-ramped-up-efforts-to-target-US-personnel-intelligence-memo-warns/108-353345",
+      "domain": "dailymirror.lk",
+      "country": "Sri Lanka",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Saudi Arabia Singapore plan : Riyadh eyes oil storage hub from 2027 amid Hormuz disruption",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-singapore-plan-riyadh-eyes-oil-storage-hub-from-2027-amid-hormuz-disruption/articleshow/135202643.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Shares fall in Asia after a decline on Wall Street , and oil prices fall more than 1 %",
+      "url": "https://isp.netscape.com:443/pf/story/0001/20261026/be3a56f58a77c5be863f0289d280be92",
+      "domain": "isp.netscape.com",
+      "country": "United States",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Oil declines from six - month high as traders assess Mideast risks",
+      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-declines-six-month-high-traders-assess-mideast-risks",
+      "domain": "businesstimes.com.sg",
+      "country": "Singapore",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Intercepted missile after Houthis hit Riyadh airport , says Saudi coalition",
+      "url": "https://www.thehindu.com/news/international/intercepted-missile-after-houthis-hit-riyadh-airport-says-saudi-coalition/article71625586.ece",
+      "domain": "thehindu.com",
+      "country": "India",
+      "published": "2026-10-26T05:00:00+00:00"
+     },
+     {
+      "title": "Iranians fear return to all - out war with US and Israeli elections",
+      "url": "https://www.wlwt.com/article/iran-war-more-strikes-feared-israel-us-elections/74241134",
+      "domain": "wlwt.com",
+      "country": "United States",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Drone warfare is evolving faster than armies can adapt , experts warn",
+      "url": "https://toronto.citynews.ca/2026/10/25/drone-warfare-is-evolving-faster-than-armies-can-adapt-experts-warn/",
+      "domain": "toronto.citynews.ca",
+      "country": "",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Venezuela opposition leader Machado returns after months in exile",
+      "url": "https://www.4029tv.com/article/venezuelas-machado-returns-after-months-in-exile/74241474",
+      "domain": "4029tv.com",
+      "country": "United States",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Iranians fear return to all - out war with US and Israeli elections",
+      "url": "https://www.4029tv.com/article/iran-war-more-strikes-feared-israel-us-elections/74241134",
+      "domain": "4029tv.com",
+      "country": "United States",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Iran threatens to attack Internet links in the Middle East",
+      "url": "http://www.orlandoecho.com/news/279396653/iran-threatens-to-attack-internet-links-in-the-middle-east",
+      "domain": "orlandoecho.com",
+      "country": "United States",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Sri Lanka provides medical help , repatriates Iranian sailors stranded in Indian Ocean",
+      "url": "https://www.wlwt.com/article/sri-lanka-medicalrepatriates-iranian-sailors-indian-ocean/74241104",
+      "domain": "wlwt.com",
+      "country": "United States",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Trump fails to change economic headwinds facing GOP candidates",
+      "url": "https://www.aol.com/articles/trump-fails-change-economic-headwinds-160000000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Snowy Hydro 2 . 0 costs surge to $25b amid calls for inquiry | The Canberra Times",
+      "url": "https://www.canberratimes.com.au/story/9378582/snowy-hydro-20-costs-surge-to-25b-amid-calls-for-inquiry/",
+      "domain": "canberratimes.com.au",
+      "country": "Australia",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Netanyahu pitch : Can Israel use crypto to evade economic sanctions ? - Grenada Chronicle – Daily Grenada And Caribbean News",
+      "url": "https://grenadachronicle.com/netanyahus-pitch-can-israel-use-crypto-to-evade-economic-sanctions/",
+      "domain": "grenadachronicle.com",
+      "country": "United States",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Iran threatens to attack Internet links in the Middle East",
+      "url": "http://www.utahindependent.com/news/279396653/iran-threatens-to-attack-internet-links-in-the-middle-east",
+      "domain": "utahindependent.com",
+      "country": "United States",
+      "published": "2026-10-25T19:15:00+00:00"
+     },
+     {
+      "title": "Ukraine disputes Elon Musk claim that its military violated Starlink terms of service",
+      "url": "http://www.stardem.com/ap/world/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlinks-terms-of-service/article_79793750-d961-52a9-bb2e-48a341bde82d.html",
+      "domain": "stardem.com",
+      "country": "United States",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
+      "title": "Sri Lanka provides medical help , repatriates Iranian sailors stranded in Indian Ocean",
+      "url": "https://www.ketv.com/article/sri-lanka-medicalrepatriates-iranian-sailors-indian-ocean/74241104",
+      "domain": "ketv.com",
+      "country": "United States",
+      "published": "2026-10-25T18:00:00+00:00"
+     },
+     {
+      "title": "Iranians fear possible return to all - out war as US and Israeli elections loom",
+      "url": "https://www.dorsetecho.co.uk/news/national/26668344.iranians-fear-possible-return-all-out-war-us-israeli-elections-loom/",
+      "domain": "dorsetecho.co.uk",
+      "country": "United Kingdom",
       "published": "2026-10-25T18:00:00+00:00"
      }
     ],
@@ -543,71 +782,13 @@
       "country": "Malaysia",
       "published": "2026-10-25T18:00:00+00:00"
      }
-    ],
-    "riesgos_climaticos": [
-     {
-      "title": "Super El Niño threatens Southern Africa with severe drought , WMO warns",
-      "url": "https://theherald.co.za/news/2026-10-27-super-el-nino-threatens-southern-africa-with-severe-drought-wmo-warns/",
-      "domain": "theherald.co.za",
-      "country": "South Africa",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Latin America Mood : Brazil Reels After Lula Win",
-      "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-october-27-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Rising global demand , lower price of Indian rice than competitors to boost exports : IREF",
-      "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/rising-global-demand-lower-price-of-indian-rice-than-competitors-to-boost-exports-iref/articleshow/135202340.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-26T05:00:00+00:00"
-     },
-     {
-      "title": "As Cyclone Arnab nears , Odisha govt braces for its impact",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/as-cyclone-arnab-nears-odisha-govt-braces-for-its-impact/articleshow/135196892.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-10-25T19:15:00+00:00"
-     }
-    ],
-    "produccion_agroindustrial": [
-     {
-      "title": "Poultry Farmers Warn of At Least 15 % Price Increase Ahead of Christmas – Ghanamma . com",
-      "url": "https://www.ghanamma.com/2026/10/27/poultry-farmers-warn-of-at-least-15-price-increase-ahead-of-christmas/",
-      "domain": "ghanamma.com",
-      "country": "Ghana",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "The 67 Per Cent Moment : India Is Paying More for a New Economic Order",
-      "url": "https://www.ibtimes.co.in/67-per-cent-moment-india-paying-more-new-economic-order-907846",
-      "domain": "ibtimes.co.in",
-      "country": "India",
-      "published": "2026-10-26T07:15:00+00:00"
-     },
-     {
-      "title": "Editorial : Poultry Investment Must Deliver Beyond The Signing Table",
-      "url": "https://thechronicle.com.gh/editorial-poultry-investment-must-deliver-beyond-the-signing-table/",
-      "domain": "thechronicle.com.gh",
-      "country": "Ghana",
-      "published": "2026-10-26T07:15:00+00:00"
-     },
-     {
-      "title": "RSDP - Funded Copra Storage & Buying Centre Facility Handed Over To KCDA",
-      "url": "https://www.scoop.co.nz/stories/WO2610/S00184/rsdp-funded-copra-storage-buying-centre-facility-handed-over-to-kcda.htm",
-      "domain": "scoop.co.nz",
-      "country": "New Zealand",
-      "published": "2026-10-26T05:00:00+00:00"
-     }
     ]
    },
    "errors": {
+    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
