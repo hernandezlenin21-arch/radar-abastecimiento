@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-27T19:15:34-06:00",
+  "at": "2026-10-27T21:58:04-06:00",
   "data": {
    "storms": [
     {
@@ -11,98 +11,98 @@
      "classification": "TS",
      "intensity": "35",
      "pressure": "1003",
-     "latitude": "17.2N",
-     "longitude": "108.3W",
-     "latitudeNumeric": 17.2,
-     "longitudeNumeric": -108.3,
-     "movementDir": 305,
-     "movementSpeed": 9,
-     "lastUpdate": "2026-10-27T21:00:00.000Z",
+     "latitude": "17.3N",
+     "longitude": "108.4W",
+     "latitudeNumeric": 17.3,
+     "longitudeNumeric": -108.4,
+     "movementDir": 315,
+     "movementSpeed": 8,
+     "lastUpdate": "2026-10-28T03:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "026",
-      "issuance": "2026-10-27T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-27T20:50:55.810Z",
+      "advNum": "027",
+      "issuance": "2026-10-28T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T02:34:57.156Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "026",
-      "issuance": "2026-10-27T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-27T20:50:22.250Z",
+      "advNum": "027",
+      "issuance": "2026-10-28T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T02:34:57.165Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCMEP2.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "026",
-      "issuance": "2026-10-27T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-27T20:50:55.814Z",
+      "advNum": "027",
+      "issuance": "2026-10-28T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T02:34:57.198Z",
       "url": "https://www.nhc.noaa.gov/text/MIAPWSEP2.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "026",
-      "issuance": "2026-10-27T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-27T20:51:26.038Z",
+      "advNum": "027",
+      "issuance": "2026-10-28T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T02:35:27.674Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCDEP2.shtml"
      },
      "forecastGraphics": {
-      "advNum": "026",
-      "issuance": "2026-10-27T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-27T20:50:55.810Z",
+      "advNum": "027",
+      "issuance": "2026-10-28T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T02:34:57.156Z",
       "url": "https://www.nhc.noaa.gov/graphics_ep2.shtml"
      },
      "forecastTrack": {
-      "advNum": "026",
-      "issuance": "2026-10-27T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-27T20:52:40.125Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_026.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_026adv_TRACK.kmz"
+      "advNum": "027",
+      "issuance": "2026-10-28T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T02:37:24.773Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_027.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_027adv_TRACK.kmz"
      },
      "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "026",
-      "issuance": "2026-10-27T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-27T20:52:34.309Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_026.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_026adv_CONE.kmz"
+      "advNum": "027",
+      "issuance": "2026-10-28T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T02:37:19.039Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_027.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_027adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "026",
-      "issuance": "2026-10-27T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-27T20:53:09.373Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_026.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_026adv.kmz"
+      "advNum": "027",
+      "issuance": "2026-10-28T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T02:37:53.337Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_027.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_027adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "026",
-      "issuance": "2026-10-27T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-27T20:53:05.529Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_026.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_026adv.kmz"
+      "advNum": "027",
+      "issuance": "2026-10-28T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T02:37:49.642Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_027.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_027adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-10-27T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-27T20:52:49.464Z",
+      "issuance": "2026-10-28T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T02:37:33.910Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "026",
-      "issuance": "2026-10-27T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-27T20:52:36.268Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_026adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "027",
+      "issuance": "2026-10-28T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T02:37:20.965Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_027adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "026",
-      "issuance": "2026-10-27T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-27T20:52:38.218Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_026adv_most_likely_toa_34.kmz"
+      "advNum": "027",
+      "issuance": "2026-10-28T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T02:37:22.883Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_027adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-10-27T18:00:00.000Z",
-      "fileUpdateTime": "2026-10-27T21:22:52.225Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102718_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102718_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102718_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102718_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102718_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-10-28T00:00:00.000Z",
+      "fileUpdateTime": "2026-10-28T03:22:43.326Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102800_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102800_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102800_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102800_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102800_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-27T19:15:34-06:00",
+  "at": "2026-10-27T21:58:04-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,9 +123,158 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-27T19:15:34-06:00",
+  "at": "2026-10-27T21:58:04-06:00",
   "data": {
    "raw": {
+    "commodities_agricolas": [
+     {
+      "title": "Middlemen continue to exploit sugarcane growers",
+      "url": "https://tribune.com.pk/story/2637136/middlemen-continue-to-exploit-sugarcane-growers",
+      "domain": "tribune.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "SBP raises policy rate to 12 %",
+      "url": "https://tribune.com.pk/story/2637107/sbp-raises-policy-rate-to-12",
+      "domain": "tribune.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Teucrium Soybean Fund ( NYSEARCA : SOYB ) Stock Falls 1 . 2 % – What Next ?",
+      "url": "https://www.dailypolitical.com/2026/10/26/teucrium-soybean-fund-nysearcasoyb-stock-falls-1-2-whats-next.html",
+      "domain": "dailypolitical.com",
+      "country": "United States",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Brazil Stocks Face Test After 13 . 9 % Plunge | Morning Call , Oct 27",
+      "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-october-27-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Latin America Mood : Brazil Reels After Lula Win",
+      "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-october-27-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "The 67 Per Cent Moment : India Is Paying More for a New Economic Order",
+      "url": "https://www.ibtimes.co.in/67-per-cent-moment-india-paying-more-new-economic-order-907846",
+      "domain": "ibtimes.co.in",
+      "country": "India",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "El Salvador : how the country became a safe place for travellers | South Coast Register",
+      "url": "https://www.southcoastregister.com.au/story/9370069/el-salvador-how-the-country-became-a-safe-place-for-travellers/",
+      "domain": "southcoastregister.com.au",
+      "country": "Australia",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Women  first to suffer  under siege , first to step up as frontline responders in Sudan Global Issues",
+      "url": "https://www.globalissues.org/news/2026/10/24/44424",
+      "domain": "globalissues.org",
+      "country": "United States",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "The week ahead in numbers : Govt H1 fiscal data , factory output , HUL Q2 earnings",
+      "url": "https://www.livemint.com/economy/india-economic-data-hul-q2-results-fed-boj-meetings-11792915815219.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Centre extends AIF scheme to boost farm infrastructure investments",
+      "url": "https://www.livemint.com/economy/centre-extends-aif-scheme-to-boost-farm-infrastructure-investments-11792919083732.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "Abbreviated Pundit Roundup : Is the  poorly educated  learnin ?",
+      "url": "https://www.dailykos.com/stories/2026/10/25/800117408/community/a/",
+      "domain": "dailykos.com",
+      "country": "United States",
+      "published": "2026-10-25T12:30:00+00:00"
+     },
+     {
+      "title": "France - Algeria diplomatic tensions put supply of urea fertilizer at risk",
+      "url": "https://bworldonline.com/agribusiness/2026/10/25/789003/france-algeria-diplomatic-tensions-put-supply-of-urea-fertilizer-at-risk/",
+      "domain": "bworldonline.com",
+      "country": "Philippines",
+      "published": "2026-10-25T11:15:00+00:00"
+     },
+     {
+      "title": "SENTINEL AND ENTERPRISE - Community Calendar",
+      "url": "https://www.sentinelandenterprise.com/2026/10/25/sentinel-and-enterprise-community-calendar-43/",
+      "domain": "sentinelandenterprise.com",
+      "country": "United States",
+      "published": "2026-10-25T10:45:00+00:00"
+     },
+     {
+      "title": "New wave of inflation hits country after LPG price hike",
+      "url": "https://dunyanews.tv/en/Business/979547-new-wave-of-inflation-hits-country-after-lpg-price-hike",
+      "domain": "dunyanews.tv",
+      "country": "Pakistan",
+      "published": "2026-10-25T10:45:00+00:00"
+     },
+     {
+      "title": "Refugee inflows have limited national economic impact in Africa , IMF study finds",
+      "url": "https://www.channelafrica.co.za/channelafrica/news/refugee-inflows-have-limited-national-economic-impact-in-africa-imf-study-finds/",
+      "domain": "channelafrica.co.za",
+      "country": "South Africa",
+      "published": "2026-10-25T10:30:00+00:00"
+     },
+     {
+      "title": "Japan beverage market reaches 5 . 38 trillion yen despite falling volumes",
+      "url": "https://jp.ibtimes.com/japans-beverage-market-reaches-538-trillion-yen-despite-falling-volumes-104911",
+      "domain": "jp.ibtimes.com",
+      "country": "United States",
+      "published": "2026-10-25T09:30:00+00:00"
+     },
+     {
+      "title": "Taleb Durgahee , Businessman and Community Leader : Dipin Mezon The Bread That Binds People Together",
+      "url": "https://defimedia.info/taleb-durgahee-businessman-and-community-leader-dipin-mezon-bread-binds-people-together",
+      "domain": "defimedia.info",
+      "country": "Mauritius",
+      "published": "2026-10-25T09:30:00+00:00"
+     },
+     {
+      "title": "Udhayanidhi Stalin alleges free ration rice is polished and sold for ₹30 per kg in Tamil Nadu",
+      "url": "https://sahilonline.org/udhayanidhi-stalin-alleges-free-ration-rice-is-polished-and-sold-for-rs30-per-kg-in-tamil-nadu",
+      "domain": "sahilonline.org",
+      "country": "India",
+      "published": "2026-10-25T08:30:00+00:00"
+     },
+     {
+      "title": "Sultan Sooud Al Qassemi on art : How an Egyptian weaving village became a lesson in the power of giving",
+      "url": "https://www.thenationalnews.com/magazine/2026/10/25/sultan-sooud-al-qassemi-on-art-how-an-egyptian-weaving-village-became-a-lesson-in-the-power-of-giving/",
+      "domain": "thenationalnews.com",
+      "country": "",
+      "published": "2026-10-25T08:15:00+00:00"
+     },
+     {
+      "title": "Vietnam Food Guide : 25 Must - Try Dishes From Pho to Banh Mi",
+      "url": "https://outoftownblog.com/vietnam-food-guide/",
+      "domain": "outoftownblog.com",
+      "country": "Philippines",
+      "published": "2026-10-25T08:00:00+00:00"
+     },
+     {
+      "title": "Udhayanidhi alleges free ration rice polished , sold as fine - quality Ponni at Rs 30 per kg in TN",
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Oct/25/udhayanidhi-alleges-free-ration-rice-polished-sold-as-fine-quality-ponni-at-rs-30-per-kg-in-tn",
+      "domain": "newindianexpress.com",
+      "country": "India",
+      "published": "2026-10-25T05:30:00+00:00"
+     }
+    ],
     "comercio_internacional": [
      {
       "title": "SBP raises policy rate to 12 %",
@@ -478,20 +627,6 @@
       "domain": "outoftownblog.com",
       "country": "Philippines",
       "published": "2026-10-25T08:00:00+00:00"
-     },
-     {
-      "title": "Trade tariffs cause whiplash at Port Milwaukee",
-      "url": "https://news.wfsu.org/npr-news/2026-10-24/trade-tariffs-cause-whiplash-at-port-milwaukee",
-      "domain": "news.wfsu.org",
-      "country": "United States",
-      "published": "2026-10-25T03:30:00+00:00"
-     },
-     {
-      "title": "Trade tariffs cause whiplash at Port Milwaukee",
-      "url": "https://www.wgcu.org/2026-10-24/trade-tariffs-cause-whiplash-at-port-milwaukee",
-      "domain": "wgcu.org",
-      "country": "United States",
-      "published": "2026-10-25T03:30:00+00:00"
      }
     ],
     "economia_mundial": [
@@ -778,7 +913,6 @@
     ]
    },
    "errors": {
-    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
