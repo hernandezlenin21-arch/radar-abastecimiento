@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-29T04:02:59-06:00",
+  "at": "2026-10-29T07:14:39-06:00",
   "data": {
    "storms": [
     {
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-29T04:02:59-06:00",
+  "at": "2026-10-29T07:14:39-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,88 +123,9 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-29T04:02:59-06:00",
+  "at": "2026-10-29T07:14:39-06:00",
   "data": {
    "raw": {
-    "geopolitica": [
-     {
-      "title": "Asian Markets Trade Mixed",
-      "url": "https://www.rttnews.com/3703088/asian-markets-trade-mixed.aspx",
-      "domain": "rttnews.com",
-      "country": "United States",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "14 October 2026 changes affecting residents in France",
-      "url": "https://www.connexionfrance.com/practical/14-recent-and-upcoming-changes-in-france-you-may-have-missed-in-october/821001",
-      "domain": "connexionfrance.com",
-      "country": "France",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates : Report",
-      "url": "http://www.ohiostandard.com/news/279399101/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report",
-      "domain": "ohiostandard.com",
-      "country": "United States",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "SBP raises policy rate to 12 %",
-      "url": "https://tribune.com.pk/story/2637107/sbp-raises-policy-rate-to-12",
-      "domain": "tribune.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Will Nigerians Believe Empty Electoral Promises ?",
-      "url": "https://leadership.ng/will-nigerians-believe-empty-electoral-promises/",
-      "domain": "leadership.ng",
-      "country": "Nigeria",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Indian Shares Marginally Lower In Early Trade ; IT Stocks Underperform",
-      "url": "https://www.rttnews.com/3703096/indian-shares-marginally-lower-in-early-trade-it-stocks-underperform.aspx",
-      "domain": "rttnews.com",
-      "country": "United States",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
-      "url": "https://www.namibian.com.na/algeria-to-send-troops-to-niger-in-first-foreign-deployment-since-1973/",
-      "domain": "namibian.com.na",
-      "country": "Namibia",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Saudi Arabia offered Houthis $1 bn in Iran - brokered ceasefire deal : Israeli media",
-      "url": "http://www.myanmarnews.net/news/279399157/saudi-arabia-offered-houthis-1-bn-in-iran-brokered-ceasefire-deal-israeli-media",
-      "domain": "myanmarnews.net",
-      "country": "Myanmar",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates : Report",
-      "url": "http://www.myanmarnews.net/news/279399101/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report",
-      "domain": "myanmarnews.net",
-      "country": "Myanmar",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "French riots and 2027 election : Macron faces polarised run - off",
-      "url": "https://www.connexionfrance.com/opinion/french-riots-mean-election-run-off-will-be-choice-of-two-extremes/823412",
-      "domain": "connexionfrance.com",
-      "country": "France",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Iran reports positive talks with Pakistan , Saudi Arabia and Turkiye in Tehran",
-      "url": "https://www.pakistantimes.com/iran-reports-positive-talks-with-pakistan-saudi-arabia-and-turkiye-in-tehran-15839/",
-      "domain": "pakistantimes.com",
-      "country": "Pakistan",
-      "published": "2026-10-27T05:15:00+00:00"
-     }
-    ],
     "transporte_maritimo": [
      {
       "title": "Saudi - led coalition says it intercepts three Houthi missiles , four drones",
@@ -247,6 +168,7 @@
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
