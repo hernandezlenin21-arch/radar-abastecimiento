@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-28T15:54:24-06:00",
+  "at": "2026-10-28T19:13:48-06:00",
   "data": {
    "storms": [
     {
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-28T15:54:24-06:00",
+  "at": "2026-10-28T19:13:48-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,7 +123,7 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-28T15:54:24-06:00",
+  "at": "2026-10-28T19:13:48-06:00",
   "data": {
    "raw": {
     "comercio_internacional": [
@@ -209,6 +209,59 @@
       "url": "https://isp.netscape.com:443/news/world/story/0001/20261026/e2c9fe8fc4aa3e3675b9a8ec15405d93",
       "domain": "isp.netscape.com",
       "country": "United States",
+      "published": "2026-10-26T05:00:00+00:00"
+     }
+    ],
+    "riesgos_climaticos": [
+     {
+      "title": "Super El Niño threatens Southern Africa with severe drought , WMO warns",
+      "url": "https://theherald.co.za/news/2026-10-27-super-el-nino-threatens-southern-africa-with-severe-drought-wmo-warns/",
+      "domain": "theherald.co.za",
+      "country": "South Africa",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Latin America Mood : Brazil Reels After Lula Win",
+      "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-october-27-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Rising global demand , lower price of Indian rice than competitors to boost exports : IREF",
+      "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/rising-global-demand-lower-price-of-indian-rice-than-competitors-to-boost-exports-iref/articleshow/135202340.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-10-26T05:00:00+00:00"
+     }
+    ],
+    "produccion_agroindustrial": [
+     {
+      "title": "Poultry Farmers Warn of At Least 15 % Price Increase Ahead of Christmas – Ghanamma . com",
+      "url": "https://www.ghanamma.com/2026/10/27/poultry-farmers-warn-of-at-least-15-price-increase-ahead-of-christmas/",
+      "domain": "ghanamma.com",
+      "country": "Ghana",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "The 67 Per Cent Moment : India Is Paying More for a New Economic Order",
+      "url": "https://www.ibtimes.co.in/67-per-cent-moment-india-paying-more-new-economic-order-907846",
+      "domain": "ibtimes.co.in",
+      "country": "India",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "Editorial : Poultry Investment Must Deliver Beyond The Signing Table",
+      "url": "https://thechronicle.com.gh/editorial-poultry-investment-must-deliver-beyond-the-signing-table/",
+      "domain": "thechronicle.com.gh",
+      "country": "Ghana",
+      "published": "2026-10-26T07:15:00+00:00"
+     },
+     {
+      "title": "RSDP - Funded Copra Storage & Buying Centre Facility Handed Over To KCDA",
+      "url": "https://www.scoop.co.nz/stories/WO2610/S00184/rsdp-funded-copra-storage-buying-centre-facility-handed-over-to-kcda.htm",
+      "domain": "scoop.co.nz",
+      "country": "New Zealand",
       "published": "2026-10-26T05:00:00+00:00"
      }
     ],
@@ -366,9 +419,7 @@
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
