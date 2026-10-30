@@ -1,108 +1,108 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-10-29T19:16:55-06:00",
+  "at": "2026-10-29T22:00:22-06:00",
   "data": {
    "storms": [
     {
      "id": "ep222026",
      "binNumber": "EP2",
      "name": "Vance",
-     "classification": "TD",
-     "intensity": "30",
+     "classification": "PTC",
+     "intensity": "25",
      "pressure": "1008",
-     "latitude": "22.3N",
-     "longitude": "108.6W",
-     "latitudeNumeric": 22.3,
-     "longitudeNumeric": -108.6,
-     "movementDir": 360,
-     "movementSpeed": 7,
-     "lastUpdate": "2026-10-29T21:00:00.000Z",
+     "latitude": "20.7N",
+     "longitude": "107.7W",
+     "latitudeNumeric": 20.7,
+     "longitudeNumeric": -107.7,
+     "movementDir": 20,
+     "movementSpeed": 8,
+     "lastUpdate": "2026-10-30T03:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "034",
-      "issuance": "2026-10-29T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-29T20:31:25.340Z",
+      "advNum": "035",
+      "issuance": "2026-10-30T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-30T02:31:57.093Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCPEP2.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "034",
-      "issuance": "2026-10-29T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-29T20:31:25.345Z",
+      "advNum": "035",
+      "issuance": "2026-10-30T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-30T02:31:57.096Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCMEP2.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "034",
-      "issuance": "2026-10-29T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-29T20:31:25.349Z",
+      "advNum": "035",
+      "issuance": "2026-10-30T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-30T02:32:31.676Z",
       "url": "https://www.nhc.noaa.gov/text/MIAPWSEP2.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "034",
-      "issuance": "2026-10-29T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-29T20:31:55.855Z",
+      "advNum": "035",
+      "issuance": "2026-10-30T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-30T02:33:03.122Z",
       "url": "https://www.nhc.noaa.gov/text/MIATCDEP2.shtml"
      },
      "forecastGraphics": {
-      "advNum": "034",
-      "issuance": "2026-10-29T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-29T20:31:25.340Z",
+      "advNum": "035",
+      "issuance": "2026-10-30T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-30T02:31:57.093Z",
       "url": "https://www.nhc.noaa.gov/graphics_ep2.shtml"
      },
      "forecastTrack": {
-      "advNum": "034",
-      "issuance": "2026-10-29T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-29T20:49:17.097Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_034.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_034adv_TRACK.kmz"
+      "advNum": "035",
+      "issuance": "2026-10-30T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-30T02:34:08.474Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_035.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_035adv_TRACK.kmz"
      },
      "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "034",
-      "issuance": "2026-10-29T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-29T20:49:11.204Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_034.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_034adv_CONE.kmz"
+      "advNum": "035",
+      "issuance": "2026-10-30T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-30T02:34:02.901Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_5day_035.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_035adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "034",
-      "issuance": "2026-10-29T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-29T20:49:46.325Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_034.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_034adv.kmz"
+      "advNum": "035",
+      "issuance": "2026-10-30T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-30T02:34:37.321Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_035.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_initialradii_035adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "034",
-      "issuance": "2026-10-29T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-29T20:49:42.481Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_034.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_034adv.kmz"
+      "advNum": "035",
+      "issuance": "2026-10-30T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-30T02:34:33.588Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/ep222026_fcst_035.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_forecastradii_035adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-10-29T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-29T20:49:26.427Z",
+      "issuance": "2026-10-30T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-30T02:34:17.555Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/ep222026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "034",
-      "issuance": "2026-10-29T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-29T20:49:13.221Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_034adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "035",
+      "issuance": "2026-10-30T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-30T02:34:04.781Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_035adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "034",
-      "issuance": "2026-10-29T21:00:00.000Z",
-      "fileUpdateTime": "2026-10-29T20:49:15.179Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_034adv_most_likely_toa_34.kmz"
+      "advNum": "035",
+      "issuance": "2026-10-30T03:00:00.000Z",
+      "fileUpdateTime": "2026-10-30T02:34:06.632Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/EP222026_035adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-10-29T18:00:00.000Z",
-      "fileUpdateTime": "2026-10-29T21:22:48.404Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102918_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102918_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102918_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102918_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026102918_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-10-30T00:00:00.000Z",
+      "fileUpdateTime": "2026-10-30T03:22:50.134Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026103000_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026103000_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026103000_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026103000_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026103000_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-10-29T19:16:55-06:00",
+  "at": "2026-10-29T22:00:22-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,46 +123,9 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-10-29T19:16:55-06:00",
+  "at": "2026-10-29T22:00:22-06:00",
   "data": {
    "raw": {
-    "commodities_agricolas": [
-     {
-      "title": "Middlemen continue to exploit sugarcane growers",
-      "url": "https://tribune.com.pk/story/2637136/middlemen-continue-to-exploit-sugarcane-growers",
-      "domain": "tribune.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "SBP raises policy rate to 12 %",
-      "url": "https://tribune.com.pk/story/2637107/sbp-raises-policy-rate-to-12",
-      "domain": "tribune.com.pk",
-      "country": "Pakistan",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Teucrium Soybean Fund ( NYSEARCA : SOYB ) Stock Falls 1 . 2 % – What Next ?",
-      "url": "https://www.dailypolitical.com/2026/10/26/teucrium-soybean-fund-nysearcasoyb-stock-falls-1-2-whats-next.html",
-      "domain": "dailypolitical.com",
-      "country": "United States",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Brazil Stocks Face Test After 13 . 9 % Plunge | Morning Call , Oct 27",
-      "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-october-27-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Latin America Mood : Brazil Reels After Lula Win",
-      "url": "https://www.riotimesonline.com/latin-american-pulse-for-tuesday-october-27-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-10-27T05:15:00+00:00"
-     }
-    ],
     "energia": [
      {
       "title": "Asian Markets Trade Mixed",
@@ -270,6 +233,22 @@
       "published": "2026-10-27T05:15:00+00:00"
      }
     ],
+    "comercio_internacional": [
+     {
+      "title": "SBP raises policy rate to 12 %",
+      "url": "https://tribune.com.pk/story/2637107/sbp-raises-policy-rate-to-12",
+      "domain": "tribune.com.pk",
+      "country": "Pakistan",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Keeping the Lights On : The Future of Energy Security in the Philippines",
+      "url": "https://www.manilatimes.net/2026/10/27/tmt-newswire/plentisoft/keeping-the-lights-on-the-future-of-energy-security-in-the-philippines/2454608",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-10-27T05:15:00+00:00"
+     }
+    ],
     "geopolitica": [
      {
       "title": "Asian Markets Trade Mixed",
@@ -349,43 +328,6 @@
       "published": "2026-10-27T05:15:00+00:00"
      }
     ],
-    "transporte_maritimo": [
-     {
-      "title": "Saudi - led coalition says it intercepts three Houthi missiles , four drones",
-      "url": "https://www.pakistantimes.com/saudi-led-coalition-says-it-intercepts-three-houthi-missiles-four-drones-15853/",
-      "domain": "pakistantimes.com",
-      "country": "Pakistan",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Convicted killer escapes Tennessee prison – NBC Chicago",
-      "url": "https://www.nbcchicago.com/news/national-international/convicted-killer-escape-tennessee-prison/4007684/",
-      "domain": "nbcchicago.com",
-      "country": "United States",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Saudi Arabia offered Houthis $1 bn in Iran - brokered ceasefire deal : Israeli media",
-      "url": "http://www.myanmarnews.net/news/279399157/saudi-arabia-offered-houthis-1-bn-in-iran-brokered-ceasefire-deal-israeli-media",
-      "domain": "myanmarnews.net",
-      "country": "Myanmar",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Iran reports positive talks with Pakistan , Saudi Arabia and Turkiye in Tehran",
-      "url": "https://www.pakistantimes.com/iran-reports-positive-talks-with-pakistan-saudi-arabia-and-turkiye-in-tehran-15839/",
-      "domain": "pakistantimes.com",
-      "country": "Pakistan",
-      "published": "2026-10-27T05:15:00+00:00"
-     },
-     {
-      "title": "Crisis in Strait of Hormuz will not be last of its kind : Singapore Energy Minister Tan warns of energy supply risks",
-      "url": "http://www.myanmarnews.net/news/279399103/crisis-in-strait-of-hormuz-will-not-be-last-of-its-kind-singapore-energy-minister-tan-warns-of-energy-supply-risks",
-      "domain": "myanmarnews.net",
-      "country": "Myanmar",
-      "published": "2026-10-27T05:15:00+00:00"
-     }
-    ],
     "riesgos_climaticos": [
      {
       "title": "Super El Niño threatens Southern Africa with severe drought , WMO warns",
@@ -401,12 +343,84 @@
       "country": "Brazil",
       "published": "2026-10-27T05:15:00+00:00"
      }
+    ],
+    "economia_mundial": [
+     {
+      "title": "Asian Markets Trade Mixed",
+      "url": "https://www.rttnews.com/3703088/asian-markets-trade-mixed.aspx",
+      "domain": "rttnews.com",
+      "country": "United States",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates : Report",
+      "url": "http://www.ohiostandard.com/news/279399101/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report",
+      "domain": "ohiostandard.com",
+      "country": "United States",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "São Paulo Today : Weather , Ibirapuera & Markets Oct 27",
+      "url": "https://www.riotimesonline.com/sao-paulo-daily-brief-for-tuesday-october-27-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Sensex falls over 300 points , Nifty slips below 22 , 690 as crude prices hover near USD 115",
+      "url": "http://www.myanmarnews.net/news/279399205/sensex-falls-over-300-points-nifty-slips-below-22690-as-crude-prices-hover-near-usd-115",
+      "domain": "myanmarnews.net",
+      "country": "Myanmar",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Sensex falls over 300 points , Nifty slips below 22 , 690 as crude prices hover near USD 115",
+      "url": "http://www.milwaukeesun.com/news/279399205/sensex-falls-over-300-points-nifty-slips-below-22690-as-crude-prices-hover-near-usd-115",
+      "domain": "milwaukeesun.com",
+      "country": "United States",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Rio Today : Rainy Tuesday , Lula Market Fallout & Open Museums",
+      "url": "https://www.riotimesonline.com/rio-de-janeiro-daily-brief-for-tuesday-october-27-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Brazil Stocks Face Test After 13 . 9 % Plunge | Morning Call , Oct 27",
+      "url": "https://www.riotimesonline.com/brazils-financial-morning-call-for-tuesday-october-27-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "RBI steps up liquidity support as tighter cash conditions push up borrowing rates : Report",
+      "url": "http://www.myanmarnews.net/news/279399101/rbi-steps-up-liquidity-support-as-tighter-cash-conditions-push-up-borrowing-rates-report",
+      "domain": "myanmarnews.net",
+      "country": "Myanmar",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "Brazil Stocks Plunge 13 . 9 % as Fed Week Begins | Global Economy , Oct 27",
+      "url": "https://www.riotimesonline.com/global-economy-briefing-october-27-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-10-27T05:15:00+00:00"
+     },
+     {
+      "title": "How Lula turned the tables on the right in Brazil and the US with his comeback presidential victory",
+      "url": "https://www.suncommercial.com/brazil_times/news/national/article_7ef17163-e568-5e3f-a2de-4e9f0104a513.html",
+      "domain": "suncommercial.com",
+      "country": "United States",
+      "published": "2026-10-27T05:15:00+00:00"
+     }
     ]
    },
    "errors": {
-    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
