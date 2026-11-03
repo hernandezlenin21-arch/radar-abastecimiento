@@ -1,5 +1,22 @@
 [
  {
+  "id": "48e4340bfa1e",
+  "indicator": "cp-ormuz",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-03",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Estrecho de Ormuz: 1 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “US strikes Iranian targets in the Strait of Hormuz , official says , leaving unclear what comes next” (bozemandailychronicle.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "bozemandailychronicle.com",
+  "url": "http://www.bozemandailychronicle.com/wire/news/us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes/article_2a589236-cc8b-5ff3-b827-2e79217f4103.html",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-03T07:21:10-06:00"
+ },
+ {
   "indicator": "usd_index",
   "name": "Índice del dólar (amplio, nominal)",
   "group": "macro",
