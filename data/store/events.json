@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-03T01:28:19-06:00",
+  "at": "2026-11-03T04:07:05-06:00",
   "data": {
    "storms": [],
    "url": "https://www.nhc.noaa.gov/"
@@ -9,7 +9,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-03T01:28:19-06:00",
+  "at": "2026-11-03T04:07:05-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -18,7 +18,7 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-03T01:28:19-06:00",
+  "at": "2026-11-03T04:07:05-06:00",
   "data": {
    "raw": {
     "commodities_agricolas": [
@@ -30,72 +30,7 @@
       "published": "2026-11-03T02:15:00+00:00"
      }
     ],
-    "energia": [
-     {
-      "title": "San Diego gas prices down 40 cents a gallon in the past month . But what happens next ?",
-      "url": "https://www.sandiegouniontribune.com/2026/11/02/san-diego-gas-prices-down-40-cents-a-gallon-in-the-past-month-but-what-happens-next/",
-      "domain": "sandiegouniontribune.com",
-      "country": "United States",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "New investors spend $3 . 1 billion US buying into LNG Canada expansion plans",
-      "url": "https://calgaryherald.com:443/business/new-investors-spend-billions-buying-into-lng-canada-expansion-plans/wcm/f810a557-0af4-4715-9e34-2ed6c0f9f924",
-      "domain": "calgaryherald.com",
-      "country": "Canada",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "America Votes : What To Expect",
-      "url": "https://www.zerohedge.com/political/america-votes-what-expect",
-      "domain": "zerohedge.com",
-      "country": "United States",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Stock Market Today Live : Gift Nifty points to gap - up opening ; crude oil , US election in focus",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-3-november-2026/article71657258.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Ontario gasoline , diesel prices to plummet Wednesday",
-      "url": "https://www.niagarathisweek.com/news/ontario-gas-price-prediction-for-nov-4/article_3a74bb58-21aa-579f-9247-a053deae89b2.html",
-      "domain": "niagarathisweek.com",
-      "country": "Canada",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "LG Energy Solution Releases 2026 Third - Quarter Financial Results",
-      "url": "https://www.prnewswire.com/news-releases/lg-energy-solution-releases-2026-third-quarter-financial-results-302927133.html",
-      "domain": "prnewswire.com",
-      "country": "United States",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Ontario gasoline , diesel prices to plummet Wednesday",
-      "url": "https://www.northbaynipissing.com/news/ontario-gas-price-prediction-for-nov-4/article_c181a28f-180f-54d8-a5e6-bfd46681d983.html",
-      "domain": "northbaynipissing.com",
-      "country": "Canada",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Ringgit opens slightly higher amid hopes of US - Iran talks progress",
-      "url": "https://www.thestar.com.my/business/business-news/2026/11/03/ringgit-opens-slightly-higher-amid-hopes-of-us-iran-talks-progress",
-      "domain": "thestar.com.my",
-      "country": "Malaysia",
-      "published": "2026-11-03T02:15:00+00:00"
-     }
-    ],
-    "transporte_maritimo": [
-     {
-      "title": "How has Election Day weather been in the past ?",
-      "url": "https://wjla.com/weather/7weather-blog/election-day-washington-dc-maryland-virginia-weather-forecast-sunshine-temperatures-voters-november-storms-upper-midwest-mississippi-valley-northern-california-rain",
-      "domain": "wjla.com",
-      "country": "United States",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
+    "geopolitica": [
      {
       "title": "San Diego gas prices down 40 cents a gallon in the past month . But what happens next ?",
       "url": "https://www.sandiegouniontribune.com/2026/11/02/san-diego-gas-prices-down-40-cents-a-gallon-in-the-past-month-but-what-happens-next/",
@@ -111,10 +46,38 @@
       "published": "2026-11-03T02:15:00+00:00"
      },
      {
+      "title": "Is America really that polarized ? The answer might be a surprise",
+      "url": "https://wnyc.org/npr/nx-s1-6003534",
+      "domain": "wnyc.org",
+      "country": "United States",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
       "title": "US struck Iran Qeshm Island , Wall Street Journal reports",
       "url": "https://www.rnz.co.nz/news/world/2314745/us-struck-iran-s-qeshm-island-wall-street-journal-reports",
       "domain": "rnz.co.nz",
       "country": "",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
+      "title": "Building immunity to shocks - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/opinion/building-immunity-to-shocks/article71657750.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
+      "title": "Is America really that polarized ? The answer might be a surprise",
+      "url": "https://www.wxpr.org/2026-11-02/is-america-really-that-polarized-the-answer-might-be-a-surprise",
+      "domain": "wxpr.org",
+      "country": "United States",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
+      "title": "Businesses still grappling with Brexit red tape and want change , says BCC",
+      "url": "https://www.theargus.co.uk/news/national/26692856.businesses-still-grappling-brexit-red-tape-want-change-says-bcc/",
+      "domain": "theargus.co.uk",
+      "country": "United Kingdom",
       "published": "2026-11-03T02:15:00+00:00"
      },
      {
@@ -125,10 +88,45 @@
       "published": "2026-11-03T02:15:00+00:00"
      },
      {
+      "title": "Businesses still grappling with Brexit red tape and want change , says BCC",
+      "url": "https://www.salisburyjournal.co.uk/news/national/26692856.businesses-still-grappling-brexit-red-tape-want-change-says-bcc/",
+      "domain": "salisburyjournal.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
+      "title": "Is America really that polarized ? The answer might be a surprise",
+      "url": "https://www.wlrn.org/national-politics/2026-11-02/is-america-really-that-polarized-the-answer-might-be-a-surprise",
+      "domain": "wlrn.org",
+      "country": "United States",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
+      "title": "Businesses still grappling with Brexit red tape and want change , says BCC",
+      "url": "https://www.bordertelegraph.com/news/national/26692856.businesses-still-grappling-brexit-red-tape-want-change-says-bcc/",
+      "domain": "bordertelegraph.com",
+      "country": "United Kingdom",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
       "title": "Arab News | US struck Iran Qeshm Island , Wall Street Journal reports",
       "url": "https://www.arabnews.com/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-3009496",
       "domain": "arabnews.com",
       "country": "Saudi Arabia",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
+      "title": "Is America really that polarized ? The answer might be a surprise",
+      "url": "https://www.interlochenpublicradio.org/2026-11-02/is-america-really-that-polarized-the-answer-might-be-a-surprise",
+      "domain": "interlochenpublicradio.org",
+      "country": "United States",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
+      "title": "RBA interest rate decision : Xmas , unemployment and Trump",
+      "url": "https://www.crikey.com.au/2026/11/03/interest-rate-decision-reserve-bank-rba-inflation-unemployment-donald-trump/",
+      "domain": "crikey.com.au",
+      "country": "Australia",
       "published": "2026-11-03T02:15:00+00:00"
      },
      {
@@ -160,9 +158,9 @@
       "published": "2026-11-03T02:15:00+00:00"
      },
      {
-      "title": "Half a century later : Remembering Jimmy Carter historic 1976 presidential victory",
-      "url": "https://www.wrdw.com/2026/11/02/half-century-later-remembering-jimmy-carters-historic-1976-presidential-victory/",
-      "domain": "wrdw.com",
+      "title": "Car Leather Seat Care Cleaning And Conditioning Tips",
+      "url": "https://www.motor1.com/features/814124/car-leather-seat-care-tips/",
+      "domain": "motor1.com",
       "country": "United States",
       "published": "2026-11-03T02:15:00+00:00"
      },
@@ -174,10 +172,31 @@
       "published": "2026-11-03T02:15:00+00:00"
      },
      {
+      "title": "The Midterms Will Change Us Politics . But NZ Will Keep Feeling The Trump Effect",
+      "url": "https://www.scoop.co.nz/stories/PO2611/S00019/the-midterms-will-change-us-politics-but-nz-will-keep-feeling-the-trump-effect.htm",
+      "domain": "scoop.co.nz",
+      "country": "New Zealand",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
       "title": "Ontario gasoline , diesel prices to plummet Wednesday",
       "url": "https://www.northbaynipissing.com/news/ontario-gas-price-prediction-for-nov-4/article_c181a28f-180f-54d8-a5e6-bfd46681d983.html",
       "domain": "northbaynipissing.com",
       "country": "Canada",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
+      "title": "Multinational Ukraine force to hold first exercise in Poland",
+      "url": "https://www.manilatimes.net/2026/11/03/world/americas-emea/multinational-ukraine-force-to-hold-first-exercise-in-poland/2460176",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
+      "title": "Businesses still grappling with Brexit red tape and want change , says BCC",
+      "url": "https://www.worcesternews.co.uk/news/national/26692856.businesses-still-grappling-brexit-red-tape-want-change-says-bcc/",
+      "domain": "worcesternews.co.uk",
+      "country": "United Kingdom",
       "published": "2026-11-03T02:15:00+00:00"
      }
     ],
@@ -201,15 +220,6 @@
       "url": "https://www.crikey.com.au/2026/11/03/one-nation-victorian-state-election-pauline-hanson-policies/",
       "domain": "crikey.com.au",
       "country": "Australia",
-      "published": "2026-11-03T02:15:00+00:00"
-     }
-    ],
-    "produccion_agroindustrial": [
-     {
-      "title": "Almost $60 million in federal funding for small and medium meat processors , 10 candidates in Kansas",
-      "url": "https://www.kwch.com/2026/11/02/almost-60-million-federal-funding-small-medium-meat-processors-10-candidates-kansas/",
-      "domain": "kwch.com",
-      "country": "United States",
       "published": "2026-11-03T02:15:00+00:00"
      }
     ],
@@ -266,8 +276,10 @@
     ]
    },
    "errors": {
+    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
