@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-03T22:08:52-06:00",
+  "at": "2026-11-04T01:32:06-06:00",
   "data": {
    "storms": [],
    "url": "https://www.nhc.noaa.gov/"
@@ -9,7 +9,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-03T22:08:52-06:00",
+  "at": "2026-11-04T01:32:06-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -18,291 +18,9 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-03T22:08:52-06:00",
+  "at": "2026-11-04T01:32:06-06:00",
   "data": {
    "raw": {
-    "energia": [
-     {
-      "title": "Ivanhoe Mines Issues 2026 Third - Quarter Financial Results , Overview of Operations and Exploration Activities",
-      "url": "https://www.elliotlakestandard.ca/press-releases/newsfile/ivanhoe-mines-issues-2026-third-quarter-financial-results-overview-of-operations-and-exploration-activities/",
-      "domain": "elliotlakestandard.ca",
-      "country": "Canada",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Ticker : Taco Bell sales recover ; Higher oil prices boost Saudi Aramco profits",
-      "url": "https://www.bostonherald.com/2026/11/03/ticker-taco-bell-sales-recover-higher-oil-prices-boost-saudi-aramco-profits/",
-      "domain": "bostonherald.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Bank of Canada can no longer look through energy price shock , Macklem warns MPs",
-      "url": "https://calgaryherald.com:443/economy/bank-of-canada-can-no-longer-look-through-energy-price-shock-macklem-warns-mps/wcm/4a7c7c62-a63c-45d7-8f5d-18f41d0d7b34",
-      "domain": "calgaryherald.com",
-      "country": "Canada",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://wjjz.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "wjjz.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Alaska U . S . Senate race draws significant donations from AI company employees",
-      "url": "http://www.sitkasentinel.com/premium/stories/alaskas-us-senate-race-draws-significant-donations-from-ai-company-employees,183618",
-      "domain": "sitkasentinel.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://thetwister.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "thetwister.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Orca Announces Mailing of Special Meeting Circular and Meeting Business",
-      "url": "https://www.elliotlakestandard.ca/press-releases/globe-newswire/orca-announces-mailing-of-special-meeting-circular-and-meeting-business/",
-      "domain": "elliotlakestandard.ca",
-      "country": "Canada",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://now1051.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "now1051.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://wmrn.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "wmrn.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://b95radio.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "b95radio.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://kiss1067.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "kiss1067.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://mix1047.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "mix1047.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://big939.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "big939.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://hot1019nwa.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "hot1019nwa.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "The Latest : First Senate race call gives Democrats a win in Virginia",
-      "url": "http://www.idahopress.com/ap_news/us/the-latest-first-senate-race-call-gives-democrats-a-win-in-virginia/article_ed06cf14-906d-555b-b7e7-73838787bba9.html",
-      "domain": "idahopress.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://ktsmradio.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "ktsmradio.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://1005thewolf.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "1005thewolf.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://kisscincinnati.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "kisscincinnati.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Orca Announces Mailing of Special Meeting Circular and Meeting Business",
-      "url": "https://www.brantfordexpositor.ca/press-releases/globe-newswire/orca-announces-mailing-of-special-meeting-circular-and-meeting-business/",
-      "domain": "brantfordexpositor.ca",
-      "country": "Canada",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://961kissonline.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "961kissonline.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://1007wzxl.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "1007wzxl.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://kisslima.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "kisslima.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Ivanhoe Mines Issues 2026 Third - Quarter Financial Results , Overview of Operations and Exploration Activities",
-      "url": "https://www.brantfordexpositor.ca/press-releases/newsfile/ivanhoe-mines-issues-2026-third-quarter-financial-results-overview-of-operations-and-exploration-activities/",
-      "domain": "brantfordexpositor.ca",
-      "country": "Canada",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day | Twin Cities News Talk",
-      "url": "https://twincitiesnewstalk.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "twincitiesnewstalk.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Indus Towers eyes 100K solar sites by FY29 , says MD & CEO Prachur Sah",
-      "url": "https://www.business-standard.com/companies/people/indus-towers-targets-100-000-solar-installations-by-fy29-md-ceo-126110301846_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Raja Venkatraman recommends three stocks for 4 November",
-      "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-4-november-11793752862815.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://wtam.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "wtam.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://z104fm.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "z104fm.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Suncor Energy reports third quarter 2026 results",
-      "url": "https://www.elliotlakestandard.ca/press-releases/newsfile/suncor-energy-reports-third-quarter-2026-results/",
-      "domain": "elliotlakestandard.ca",
-      "country": "Canada",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "S & P 500 rises as Nvidia , AI stocks rally despite Apple decline",
-      "url": "https://thebusinessjournal.com/sp-500-rises-nvidia-ai-stocks-apple-wall-street/",
-      "domain": "thebusinessjournal.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Donald Trump farm subsidies hit $47b as Aussie growers suffer | Farm Weekly",
-      "url": "https://www.farmweekly.com.au/story/9385186/donald-trump-farm-subsidies-hit-47b-as-aussie-growers-suffer/",
-      "domain": "farmweekly.com.au",
-      "country": "Australia",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://newsradio540.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "newsradio540.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://realradio.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "realradio.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://star1021.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "star1021.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://933theeagle.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "933theeagle.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://big1065.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "big1065.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://island985.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "island985.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices At Highest Levels Ever On Election Day",
-      "url": "https://jamn1075.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
-      "domain": "jamn1075.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "US job openings jump to 7 . 5 million in September as hiring shows signs of improvement",
-      "url": "https://thebusinessjournal.com/us-job-openings-september-2026-hiring-labor-market/",
-      "domain": "thebusinessjournal.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices Decline , But Still For Election Day",
-      "url": "https://jamn1075.iheart.com/content/2026-11-03-gas-prices-decline-but-still-for-election-day/",
-      "domain": "jamn1075.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     }
-    ],
     "comercio_internacional": [
      {
       "title": "The Latest : First Senate race call gives Democrats a win in Virginia",
@@ -445,33 +163,47 @@
       "published": "2026-11-03T02:15:00+00:00"
      }
     ],
-    "geopolitica": [
+    "economia_mundial": [
      {
-      "title": "Oil production nears pre - war levels , but lost capacity slows full recovery",
-      "url": "https://www.iraqoilreport.com/news/oil-production-nears-pre-war-levels-but-lost-capacity-slows-full-recovery-48051/",
-      "domain": "iraqoilreport.com",
-      "country": "Iraq",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "The Latest : First Senate race call gives Democrats a win in Virginia",
-      "url": "http://www.idahopress.com/ap_news/us/the-latest-first-senate-race-call-gives-democrats-a-win-in-virginia/article_ed06cf14-906d-555b-b7e7-73838787bba9.html",
-      "domain": "idahopress.com",
+      "title": "Hartford Insurance Group : 3 Key Takeaways for Long - Term Investors",
+      "url": "https://www.fool.com/earnings/takeaways/2026/11/03/hartford-insurance-group-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+      "domain": "fool.com",
       "country": "United States",
       "published": "2026-11-04T01:30:00+00:00"
      },
      {
-      "title": "US Launches Airstrikes on Iran in Strait of Hormuz Ahead of Midterms",
-      "url": "https://www.wthitv.com:443/2026/11/03/us-strikes-strait-hormuz-create-more-questions-about-whats-ahead/",
-      "domain": "wthitv.com",
+      "title": "Under - pressure Labor says saving  not simple exercise",
+      "url": "https://www.bluemountainsgazette.com.au/story/9385456/under-pressure-labor-says-saving-not-simple-exercise/",
+      "domain": "bluemountainsgazette.com.au",
+      "country": "Australia",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Apple : 3 Key Takeaways for Long - Term Investors",
+      "url": "https://www.fool.com/earnings/takeaways/2026/11/03/apple-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+      "domain": "fool.com",
       "country": "United States",
       "published": "2026-11-04T01:30:00+00:00"
      },
      {
-      "title": "Suncor Energy reports third quarter 2026 results",
-      "url": "https://www.elliotlakestandard.ca/press-releases/newsfile/suncor-energy-reports-third-quarter-2026-results/",
-      "domain": "elliotlakestandard.ca",
-      "country": "Canada",
+      "title": "HSBC Holdings : 3 Key Takeaways for Long - Term Investors",
+      "url": "https://www.fool.com/earnings/takeaways/2026/11/03/hsbc-holdings-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+      "domain": "fool.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Under - pressure Labor says saving  not simple exercise",
+      "url": "https://www.irrigator.com.au/story/9385456/under-pressure-labor-says-saving-not-simple-exercise/",
+      "domain": "irrigator.com.au",
+      "country": "Australia",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Sensata : 3 Key Takeaways for Long - Term Investors",
+      "url": "https://www.fool.com/earnings/takeaways/2026/11/03/sensata-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+      "domain": "fool.com",
+      "country": "United States",
       "published": "2026-11-04T01:30:00+00:00"
      },
      {
@@ -482,13 +214,6 @@
       "published": "2026-11-04T01:30:00+00:00"
      },
      {
-      "title": "Donald Trump farm subsidies hit $47b as Aussie growers suffer | Farm Weekly",
-      "url": "https://www.farmweekly.com.au/story/9385186/donald-trump-farm-subsidies-hit-47b-as-aussie-growers-suffer/",
-      "domain": "farmweekly.com.au",
-      "country": "Australia",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
       "title": "Iranian island in Hormuz strait attacked media",
       "url": "https://www.manilatimes.net/2026/11/04/world/americas-emea/iranian-island-in-hormuz-strait-attacked-media/2460664",
       "domain": "manilatimes.net",
@@ -496,157 +221,164 @@
       "published": "2026-11-04T01:30:00+00:00"
      },
      {
-      "title": "Gas Prices Decline , But Still For Election Day",
-      "url": "https://jamn1075.iheart.com/content/2026-11-03-gas-prices-decline-but-still-for-election-day/",
-      "domain": "jamn1075.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices Decline , But Still For Election Day | News Radio 1190 KEX",
-      "url": "https://1190kex.iheart.com/content/2026-11-03-gas-prices-decline-but-still-for-election-day/",
-      "domain": "1190kex.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Suncor Energy reports third quarter 2026 results",
-      "url": "https://www.brantfordexpositor.ca/press-releases/newsfile/suncor-energy-reports-third-quarter-2026-results/",
+      "title": "Dream Industrial REIT Reports Strong Q3 2026 Results",
+      "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/dream-industrial-reit-reports-strong-q3-2026-results/",
       "domain": "brantfordexpositor.ca",
       "country": "Canada",
       "published": "2026-11-04T01:30:00+00:00"
      },
      {
-      "title": "Iran chief negotiator says the US must act to prevent renewed war , and other Mideast news",
-      "url": "https://www.wfmz.com/news/ap/ap-national/iran-s-chief-negotiator-says-the-us-must-act-to-prevent-renewed-war-and-other-mideast-news/article_4cd51f4d-14df-5d20-90c9-21ddc855c56c.html",
-      "domain": "wfmz.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
+      "title": "India raises a toast to premium pours , snubs budget liquor",
+      "url": "https://www.livemint.com/companies/news/premium-liquor-radico-khaitan-united-breweries-allied-tilaknagar-earnings-11793691334064.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-04T01:30:00+00:00"
      },
      {
-      "title": "US strikes Iranian targets in the Strait of Hormuz , official says , leaving unclear what comes next",
-      "url": "http://www.bozemandailychronicle.com/wire/news/us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes/article_2a589236-cc8b-5ff3-b827-2e79217f4103.html",
-      "domain": "bozemandailychronicle.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Low Storage Buffers In Europe Could Prolong Gas Market Tightness Into 2027 : IEA",
-      "url": "https://www.rttnews.com/3707610/low-storage-buffers-in-europe-could-prolong-gas-market-tightness-into-2027-iea.aspx",
-      "domain": "rttnews.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "European Shares Retreat Amid Tech Selloff",
-      "url": "https://www.rttnews.com/3707598/european-shares-retreat-amid-tech-selloff.aspx",
-      "domain": "rttnews.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "US strikes Iranian targets in the Strait of Hormuz , official says , leaving unclear what comes next",
-      "url": "https://www.stcatharinesstandard.ca/news/world/middle-east/us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes-next/article_299bc1f8-1927-52e5-b95b-1271e3a4fbca.html",
-      "domain": "stcatharinesstandard.ca",
+      "title": "Dream Industrial REIT Reports Strong Q3 2026 Results",
+      "url": "https://www.elliotlakestandard.ca/press-releases/business-wire/dream-industrial-reit-reports-strong-q3-2026-results/",
+      "domain": "elliotlakestandard.ca",
       "country": "Canada",
-      "published": "2026-11-03T11:15:00+00:00"
+      "published": "2026-11-04T01:30:00+00:00"
      },
      {
-      "title": "US strikes Iranian targets in the Strait of Hormuz , official says , leaving unclear what comes next",
-      "url": "https://www.wfmz.com/news/ap/ap-national/us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes-next/article_b7d150b1-b5ee-570b-b828-fab0fd23b46a.html",
-      "domain": "wfmz.com",
+      "title": "Simpson : 3 Key Takeaways for Long - Term Investors",
+      "url": "https://www.fool.com/earnings/takeaways/2026/11/03/simpson-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+      "domain": "fool.com",
       "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
+      "published": "2026-11-04T01:30:00+00:00"
      },
      {
-      "title": "Iran chief negotiator says the US must act to prevent renewed war , and other Mideast news",
-      "url": "http://www.bozemandailychronicle.com/wire/news/irans-chief-negotiator-says-the-us-must-act-to-prevent-renewed-war-and-other-mideast/article_23ee7532-7576-524b-8072-8075a11d714d.html",
-      "domain": "bozemandailychronicle.com",
+      "title": "Tribal gaming industry : Prediction markets threaten sovereignty",
+      "url": "https://knpr.org/show/knprs-state-of-nevada/2026-11-03/tribal-gaming-industry-prediction-markets-threaten-sovereignty",
+      "domain": "knpr.org",
       "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Central Banks buy 321 tonnes of Gold in Q3 , lifting 2026 demand to 675 tonnes : World Gold Council",
+      "url": "http://www.bangladeshsun.com/news/279409194/central-banks-buy-321-tonnes-of-gold-in-q3-lifting-2026-demand-to-675-tonnes-world-gold-council",
+      "domain": "bangladeshsun.com",
+      "country": "Bangladesh",
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "What Are They Preparing Us For ?",
-      "url": "https://www.americanthinker.com/articles/2026/11/what-are-they-preparing-us-for/",
-      "domain": "americanthinker.com",
-      "country": "United States",
+      "title": "Rising Through the Ranks : A Story of Resilience in Mortgage Leadership – THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/11/03/rising-through-the-ranks-a-story-of-resilience-in-mortgage-leadership/",
+      "domain": "thisdaylive.com",
+      "country": "Nigeria",
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "Ottawa focus groups report low awareness of federal deficit , budget updates – Brandon Sun",
-      "url": "https://www.brandonsun.com/business/2026/11/03/ottawas-focus-groups-report-low-awareness-of-federal-deficit-budget-updates",
-      "domain": "brandonsun.com",
-      "country": "Canada",
+      "title": "Treasurer urged to rein in spending as rates rise again",
+      "url": "https://www.areanews.com.au/story/9384716/treasurer-urged-to-rein-in-spending-as-rates-rise-again/",
+      "domain": "areanews.com.au",
+      "country": "Australia",
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site , with 48 still missing",
-      "url": "http://www.idahopress.com/news/world/death-toll-hits-29-after-russian-strike-on-ukrainian-aid-site-with-48-still-missing/article_a4d8f461-322b-550c-af47-fe4a754497b6.html",
-      "domain": "idahopress.com",
-      "country": "United States",
+      "title": "Treasurer urged to rein in spending as rates rise again",
+      "url": "https://www.illawarramercury.com.au/story/9384716/treasurer-urged-to-rein-in-spending-as-rates-rise-again/",
+      "domain": "illawarramercury.com.au",
+      "country": "Australia",
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site , with 48 still missing",
-      "url": "https://www.stcatharinesstandard.ca/news/world/europe/death-toll-hits-29-after-russian-strike-on-ukrainian-aid-site-with-48-still-missing/article_deef0cef-f0d1-5e12-a7a0-2a4f5f570b07.html",
-      "domain": "stcatharinesstandard.ca",
-      "country": "Canada",
+      "title": "Not Re - electing Tinubu Will Undermine Nigeria Economic Progress , Says Onuigbo – THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/11/03/not-re-electing-tinubu-will-undermine-nigerias-economic-progress-says-onuigbo/",
+      "domain": "thisdaylive.com",
+      "country": "Nigeria",
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "Russia - Ukraine war widens in the Black Sea in a test of NATO red lines",
-      "url": "https://www.channelnewsasia.com/world/russia-ukraine-war-black-sea-nato-6516256",
-      "domain": "channelnewsasia.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Ottawa focus groups report low awareness of federal deficit , budget updates",
-      "url": "https://www.stcatharinesstandard.ca/business/ottawa-s-focus-groups-report-low-awareness-of-federal-deficit-budget-updates/article_61c871bb-ead3-5ca9-8f0b-75e3548259f9.html",
-      "domain": "stcatharinesstandard.ca",
-      "country": "Canada",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Ukraine war briefing : US to mediate talks with Kyiv and Moscow in Abu Dhabi next week , says Witkoff",
-      "url": "https://www.aol.co.uk/articles/ukraine-war-briefing-us-mediate-020038000.html",
-      "domain": "aol.co.uk",
+      "title": "Why AUD / USD Is Facing Its Most Important Test Yet",
+      "url": "https://www.dailyforex.com/forex-technical-analysis/2026/11/audusd-forecast-3-november-2026/251344",
+      "domain": "dailyforex.com",
       "country": "United Kingdom",
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "Premarket : U . S . stock futures mixed as Apple slides , midterms loom",
-      "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-stocks-slip-as-ai-jitters-us-midterms-keep-investors-on-edge/",
-      "domain": "theglobeandmail.com",
-      "country": "Canada",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Kazakhstan restarts oil export pipeline after new attack sparks major fire at Russian facility",
-      "url": "https://www.upstreamonline.com/energy-security/kazakhstan-restarts-oil-export-pipeline-after-new-attack-sparks-major-fire-at-russian-facility/2-1-2068033",
-      "domain": "upstreamonline.com",
+      "title": "The Binance heist took 30 minutes . The groundwork took days",
+      "url": "https://www.insurancebusinessmag.com/au/news/cyber/the-binance-heist-took-30-minutes--the-groundwork-took-days-595917.aspx",
+      "domain": "insurancebusinessmag.com",
       "country": "United States",
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "Indian National Killed in Attack on Commercial Vessel Near Oman",
-      "url": "https://kashmirlife.net/indian-national-killed-in-attack-on-commercial-vessel-near-oman-459516/",
-      "domain": "kashmirlife.net",
+      "title": "Treasurer urged to rein in spending as rates rise again",
+      "url": "https://www.cootamundraherald.com.au/story/9384716/treasurer-urged-to-rein-in-spending-as-rates-rise-again/",
+      "domain": "cootamundraherald.com.au",
+      "country": "Australia",
+      "published": "2026-11-03T11:15:00+00:00"
+     },
+     {
+      "title": "Republicans deserve to lose control of the Congress",
+      "url": "https://www.pasadenastarnews.com/2026/11/03/republicans-deserve-to-lose-control-of-the-congress/",
+      "domain": "pasadenastarnews.com",
+      "country": "United States",
+      "published": "2026-11-03T11:15:00+00:00"
+     },
+     {
+      "title": "​Sensex Surges 3670 Points in 4 Days to Cross 76 , 900",
+      "url": "https://pragativadi.com/sensex-surges-3670-points-in-4-days-to-cross-76900/",
+      "domain": "pragativadi.com",
       "country": "India",
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "Screwed either way : Republican senator fights backlash over Trump tariffs in Maine – Brandon Sun",
-      "url": "https://www.brandonsun.com/business/2026/11/03/screwed-either-way-republican-senator-fights-backlash-over-trump-tariffs-in-maine",
-      "domain": "brandonsun.com",
+      "title": "Treasurer urged to rein in spending as rates rise again",
+      "url": "https://www.newcastleherald.com.au/story/9384716/treasurer-urged-to-rein-in-spending-as-rates-rise-again/",
+      "domain": "newcastleherald.com.au",
+      "country": "",
+      "published": "2026-11-03T11:15:00+00:00"
+     },
+     {
+      "title": "Treasurer urged to rein in spending as rates rise again",
+      "url": "https://www.irrigator.com.au/story/9384716/treasurer-urged-to-rein-in-spending-as-rates-rise-again/",
+      "domain": "irrigator.com.au",
+      "country": "Australia",
+      "published": "2026-11-03T11:15:00+00:00"
+     },
+     {
+      "title": "EUR / USD Signal 03 / 11 : Rebound Meets Key Resistance at 1 . 1226",
+      "url": "https://www.dailyforex.com/forex-technical-analysis/2026/11/eurusd-signal-3-november-2026/251357",
+      "domain": "dailyforex.com",
+      "country": "United Kingdom",
+      "published": "2026-11-03T11:15:00+00:00"
+     },
+     {
+      "title": "Central Banks buy 321 tonnes of Gold in Q3 , lifting 2026 demand to 675 tonnes : World Gold Council",
+      "url": "http://www.texasguardian.com/news/279409194/central-banks-buy-321-tonnes-of-gold-in-q3-lifting-2026-demand-to-675-tonnes-world-gold-council",
+      "domain": "texasguardian.com",
+      "country": "United States",
+      "published": "2026-11-03T11:15:00+00:00"
+     },
+     {
+      "title": "Apple Record Q4 Revenue India Surges to New Heights - Pragativadi I Latest Odisha News in English I Breaking News",
+      "url": "https://pragativadi.com/apple-record-q4-revenue-india-marks-historic-achievement/",
+      "domain": "pragativadi.com",
+      "country": "India",
+      "published": "2026-11-03T11:15:00+00:00"
+     },
+     {
+      "title": "Central Banks buy 321 tonnes of Gold in Q3 , lifting 2026 demand to 675 tonnes : World Gold Council",
+      "url": "http://www.africaleader.com/news/279409194/central-banks-buy-321-tonnes-of-gold-in-q3-lifting-2026-demand-to-675-tonnes-world-gold-council",
+      "domain": "africaleader.com",
+      "country": "South Africa",
+      "published": "2026-11-03T11:15:00+00:00"
+     },
+     {
+      "title": "And the winner of The Globe stock - picking contest is ...",
+      "url": "https://www.theglobeandmail.com/investing/article-and-the-winner-of-the-globes-stock-picking-contest-is-nov-2026/",
+      "domain": "theglobeandmail.com",
       "country": "Canada",
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "Oil rises as peace prospects dim after U . S . hits Iran Qeshm Island",
-      "url": "https://www.theglobeandmail.com/investing/article-oil-rises-as-peace-prospects-dim-after-us-hits-irans-qeshm-island/",
-      "domain": "theglobeandmail.com",
-      "country": "Canada",
+      "title": "Treasurer urged to rein in spending as rates rise again",
+      "url": "https://www.blayneychronicle.com.au/story/9384716/treasurer-urged-to-rein-in-spending-as-rates-rise-again/",
+      "domain": "blayneychronicle.com.au",
+      "country": "Australia",
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
@@ -657,23 +389,9 @@
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "Iran Children Do Not Belong To The Regime - American Thinker",
-      "url": "https://www.americanthinker.com/articles/2026/11/iran-s-children-do-not-belong-to-the-regime/",
-      "domain": "americanthinker.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Trump calls Iran conflict a  soft war , insists US holds the cards ahead of midterm elections",
-      "url": "https://nypost.com/2026/11/03/us-news/trump-calls-iran-conflict-a-soft-war-insists-us-holds-the-cards-ahead-of-midterm-elections/",
-      "domain": "nypost.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "US strikes Iranian targets in the Strait of Hormuz , official says , leaving unclear what comes next",
-      "url": "https://www.khqa.com/news/nation-world/us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes/article_896e1be2-c1cc-5a9f-9e92-606261f5d6d0.html",
-      "domain": "khqa.com",
+      "title": "Central Banks buy 321 tonnes of Gold in Q3 , lifting 2026 demand to 675 tonnes : World Gold Council",
+      "url": "http://www.orlandoecho.com/news/279409194/central-banks-buy-321-tonnes-of-gold-in-q3-lifting-2026-demand-to-675-tonnes-world-gold-council",
+      "domain": "orlandoecho.com",
       "country": "United States",
       "published": "2026-11-03T11:15:00+00:00"
      },
@@ -685,16 +403,9 @@
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "Tariff news : Maine Sen . Susan Collins fights backlash",
-      "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/03/screwed-either-way-republican-senator-fights-backlash-over-trump-tariffs-in-maine/",
-      "domain": "bnnbloomberg.ca",
-      "country": "Canada",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "At least 73 injured as Russia bombs Ukrainian hospital and power plants",
-      "url": "https://www.aljazeera.com/news/2026/11/3/at-least-73-injured-as-russia-bombs-ukrainian-hospital-and-power-plants",
-      "domain": "aljazeera.com",
+      "title": "Central Banks buy 321 tonnes of Gold in Q3 , lifting 2026 demand to 675 tonnes : World Gold Council",
+      "url": "http://www.coloradostar.com/news/279409194/central-banks-buy-321-tonnes-of-gold-in-q3-lifting-2026-demand-to-675-tonnes-world-gold-council",
+      "domain": "coloradostar.com",
       "country": "United States",
       "published": "2026-11-03T11:15:00+00:00"
      },
@@ -706,337 +417,42 @@
       "published": "2026-11-03T02:15:00+00:00"
      },
      {
-      "title": "US military strikes Iran Qeshm Island",
-      "url": "https://www.newcastleherald.com.au/story/9384711/us-military-strikes-irans-qeshm-island/",
-      "domain": "newcastleherald.com.au",
-      "country": "",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Is America really that polarized ? The answer might be a surprise",
-      "url": "https://wnyc.org/npr/nx-s1-6003534",
-      "domain": "wnyc.org",
-      "country": "United States",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "US struck Iran Qeshm Island , Wall Street Journal reports",
-      "url": "https://www.rnz.co.nz/news/world/2314745/us-struck-iran-s-qeshm-island-wall-street-journal-reports",
-      "domain": "rnz.co.nz",
-      "country": "",
-      "published": "2026-11-03T02:15:00+00:00"
-     }
-    ],
-    "transporte_maritimo": [
-     {
-      "title": "The Latest : First Senate race call gives Democrats a win in Virginia",
-      "url": "http://www.idahopress.com/ap_news/us/the-latest-first-senate-race-call-gives-democrats-a-win-in-virginia/article_ed06cf14-906d-555b-b7e7-73838787bba9.html",
-      "domain": "idahopress.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "US Launches Airstrikes on Iran in Strait of Hormuz Ahead of Midterms",
-      "url": "https://www.wthitv.com:443/2026/11/03/us-strikes-strait-hormuz-create-more-questions-about-whats-ahead/",
-      "domain": "wthitv.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Donald Trump farm subsidies hit $47b as Aussie growers suffer | Farm Weekly",
-      "url": "https://www.farmweekly.com.au/story/9385186/donald-trump-farm-subsidies-hit-47b-as-aussie-growers-suffer/",
-      "domain": "farmweekly.com.au",
-      "country": "Australia",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Iranian island in Hormuz strait attacked media",
-      "url": "https://www.manilatimes.net/2026/11/04/world/americas-emea/iranian-island-in-hormuz-strait-attacked-media/2460664",
-      "domain": "manilatimes.net",
-      "country": "Philippines",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices Decline , But Still For Election Day",
-      "url": "https://jamn1075.iheart.com/content/2026-11-03-gas-prices-decline-but-still-for-election-day/",
-      "domain": "jamn1075.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Gas Prices Decline , But Still For Election Day | News Radio 1190 KEX",
-      "url": "https://1190kex.iheart.com/content/2026-11-03-gas-prices-decline-but-still-for-election-day/",
-      "domain": "1190kex.iheart.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "newsroomamerica . com",
-      "url": "https://newsroomamerica.com/?before=119465",
-      "domain": "newsroomamerica.com",
-      "country": "United States",
-      "published": "2026-11-04T01:30:00+00:00"
-     },
-     {
-      "title": "Iran chief negotiator says the US must act to prevent renewed war , and other Mideast news",
-      "url": "https://www.wfmz.com/news/ap/ap-national/iran-s-chief-negotiator-says-the-us-must-act-to-prevent-renewed-war-and-other-mideast-news/article_4cd51f4d-14df-5d20-90c9-21ddc855c56c.html",
-      "domain": "wfmz.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "U . S . Carries Out Defensive Strike On Iranian Island",
-      "url": "https://wdov.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
-      "domain": "wdov.iheart.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "U . S . Carries Out Defensive Strike On Iranian Island | News Radio 101 . 9 Big WAAX",
-      "url": "https://1019bigwaax.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
-      "domain": "1019bigwaax.iheart.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "US strikes Iranian targets in the Strait of Hormuz , official says , leaving unclear what comes next",
-      "url": "http://www.bozemandailychronicle.com/wire/news/us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes/article_2a589236-cc8b-5ff3-b827-2e79217f4103.html",
-      "domain": "bozemandailychronicle.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Low Storage Buffers In Europe Could Prolong Gas Market Tightness Into 2027 : IEA",
-      "url": "https://www.rttnews.com/3707610/low-storage-buffers-in-europe-could-prolong-gas-market-tightness-into-2027-iea.aspx",
-      "domain": "rttnews.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Netanyahu Urges Trump to Launch New Strikes on Iran as Diplomatic Talks Continue",
-      "url": "https://www.wgow.com/2026/11/03/netanyahu-urges-trump-to-launch-new-strikes-on-iran-as-diplomatic-talks-continue/",
-      "domain": "wgow.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Netanyahu Urges Trump to Launch New Strikes on Iran as Diplomatic Talks Continue",
-      "url": "https://www.1490wosh.com/2026/11/03/netanyahu-urges-trump-to-launch-new-strikes-on-iran-as-diplomatic-talks-continue/",
-      "domain": "1490wosh.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "U . S . Carries Out Defensive Strike On Iranian Island",
-      "url": "https://1190kex.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
-      "domain": "1190kex.iheart.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "US strikes Iranian targets in the Strait of Hormuz , official says , leaving unclear what comes next",
-      "url": "https://www.stcatharinesstandard.ca/news/world/middle-east/us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes-next/article_299bc1f8-1927-52e5-b95b-1271e3a4fbca.html",
-      "domain": "stcatharinesstandard.ca",
-      "country": "Canada",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "US strikes Iranian targets in the Strait of Hormuz , official says , leaving unclear what comes next",
-      "url": "https://www.wfmz.com/news/ap/ap-national/us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes-next/article_b7d150b1-b5ee-570b-b828-fab0fd23b46a.html",
-      "domain": "wfmz.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Iran chief negotiator says the US must act to prevent renewed war , and other Mideast news",
-      "url": "http://www.bozemandailychronicle.com/wire/news/irans-chief-negotiator-says-the-us-must-act-to-prevent-renewed-war-and-other-mideast/article_23ee7532-7576-524b-8072-8075a11d714d.html",
-      "domain": "bozemandailychronicle.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "U . S . Carries Out Defensive Strike On Iranian Island | Newsradio WFLA Orlando",
-      "url": "https://wflaorlando.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
-      "domain": "wflaorlando.iheart.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "U . S . Carries Out Defensive Strike On Iranian Island",
-      "url": "https://wflanews.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
-      "domain": "wflanews.iheart.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "U . S . Carries Out Defensive Strike On Iranian Island",
-      "url": "https://koacolorado.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
-      "domain": "koacolorado.iheart.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "U . S . Carries Out Defensive Strike On Iranian Island",
-      "url": "https://newsradio540.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
-      "domain": "newsradio540.iheart.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "U . S . Carries Out Defensive Strike On Iranian Island | Newsradio WOOD 1300 and 106 . 9 FM",
-      "url": "https://woodradio.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
-      "domain": "woodradio.iheart.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Oil rises as peace prospects dim after U . S . hits Iran Qeshm Island",
-      "url": "https://www.theglobeandmail.com/investing/article-oil-rises-as-peace-prospects-dim-after-us-hits-irans-qeshm-island/",
-      "domain": "theglobeandmail.com",
-      "country": "Canada",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "U . S . Carries Out Defensive Strike On Iranian Island",
-      "url": "https://55krc.iheart.com/content/2026-11-03-us-carries-out-defensive-strike-on-iranian-island/",
-      "domain": "55krc.iheart.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Trump calls Iran conflict a  soft war , insists US holds the cards ahead of midterm elections",
-      "url": "https://nypost.com/2026/11/03/us-news/trump-calls-iran-conflict-a-soft-war-insists-us-holds-the-cards-ahead-of-midterm-elections/",
-      "domain": "nypost.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "US strikes Iranian targets in the Strait of Hormuz , official says , leaving unclear what comes next",
-      "url": "https://www.khqa.com/news/nation-world/us-strikes-iranian-targets-in-the-strait-of-hormuz-official-says-leaving-unclear-what-comes/article_896e1be2-c1cc-5a9f-9e92-606261f5d6d0.html",
-      "domain": "khqa.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Netanyahu Urges Trump to Launch New Strikes on Iran as Diplomatic Talks Continue",
-      "url": "https://www.myeaglecountry.com/2026/11/03/netanyahu-urges-trump-to-launch-new-strikes-on-iran-as-diplomatic-talks-continue/",
-      "domain": "myeaglecountry.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "How has Election Day weather been in the past ?",
-      "url": "https://wjla.com/weather/7weather-blog/election-day-washington-dc-maryland-virginia-weather-forecast-sunshine-temperatures-voters-november-storms-upper-midwest-mississippi-valley-northern-california-rain",
-      "domain": "wjla.com",
-      "country": "United States",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "San Diego gas prices down 40 cents a gallon in the past month . But what happens next ?",
-      "url": "https://www.sandiegouniontribune.com/2026/11/02/san-diego-gas-prices-down-40-cents-a-gallon-in-the-past-month-but-what-happens-next/",
-      "domain": "sandiegouniontribune.com",
-      "country": "United States",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "US military strikes Iran Qeshm Island",
-      "url": "https://www.newcastleherald.com.au/story/9384711/us-military-strikes-irans-qeshm-island/",
-      "domain": "newcastleherald.com.au",
-      "country": "",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "US struck Iran Qeshm Island , Wall Street Journal reports",
-      "url": "https://www.rnz.co.nz/news/world/2314745/us-struck-iran-s-qeshm-island-wall-street-journal-reports",
-      "domain": "rnz.co.nz",
-      "country": "",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Ontario gasoline , diesel prices to plummet Wednesday",
-      "url": "https://www.niagarathisweek.com/news/ontario-gas-price-prediction-for-nov-4/article_3a74bb58-21aa-579f-9247-a053deae89b2.html",
-      "domain": "niagarathisweek.com",
-      "country": "Canada",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Arab News | US struck Iran Qeshm Island , Wall Street Journal reports",
-      "url": "https://www.arabnews.com/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-3009496",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "War , tariffs and China : What the US midterms mean for the Asia - Pacific - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-      "url": "https://dominicanrepublicpost.com/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific/",
-      "domain": "dominicanrepublicpost.com",
-      "country": "United States",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "U . S . strikes Iran Qeshm Island : report",
-      "url": "https://www.thehindu.com/news/international/us-strikes-irans-qeshm-island-report/article71659212.ece",
-      "domain": "thehindu.com",
-      "country": "India",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "IRIB says US attacked two fishing boats near Qeshm Island",
-      "url": "https://www.el-balad.com/17063414",
-      "domain": "el-balad.com",
-      "country": "Egypt",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "China is a potential enemy",
-      "url": "https://www.mdislander.com/opinion/letters_to_editor/china-is-a-potential-enemy/article_0540b376-a186-4a2a-97e8-377e098668fa.html",
-      "domain": "mdislander.com",
-      "country": "United States",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Half a century later : Remembering Jimmy Carter historic 1976 presidential victory",
-      "url": "https://www.wrdw.com/2026/11/02/half-century-later-remembering-jimmy-carters-historic-1976-presidential-victory/",
-      "domain": "wrdw.com",
-      "country": "United States",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Explosions rock Iran Qeshm Island as Tehran claims three US drones downed",
-      "url": "https://www.thehindubusinessline.com/news/world/explosions-reported-on-irans-qeshm-island-amid-rising-tensions-with-us/article71659179.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
-      "published": "2026-11-03T02:15:00+00:00"
-     }
-    ],
-    "riesgos_climaticos": [
-     {
-      "title": "Irrigation helps in climate resilience but it not enough",
-      "url": "https://www.thehindubusinessline.com/opinion/irrigation-helps-in-climate-resilience-but-its-not-enough/article71657820.ece",
+      "title": "Building immunity to shocks - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/opinion/building-immunity-to-shocks/article71657750.ece",
       "domain": "thehindubusinessline.com",
       "country": "India",
       "published": "2026-11-03T02:15:00+00:00"
      },
      {
-      "title": "Scott Stinson : Daylight Savings Chaos means our clocks can no longer be trusted",
-      "url": "https://calgaryherald.com:443/np-comment/scott-stinson-daylight-savings-chaos-means-our-clocks-can-no-longer-be-trusted/wcm/74be1719-5da2-49b4-8e4b-8bda6f18ce25",
-      "domain": "calgaryherald.com",
+      "title": "Bank rate hike 2026 : Why real estate pros see opportunity",
+      "url": "https://www.northbaynipissing.com/business/real-estate/lindsay-smith-real-estate-columnrate-hike/article_01262e5f-08ab-59fe-bd99-62754dbb7423.html",
+      "domain": "northbaynipissing.com",
       "country": "Canada",
       "published": "2026-11-03T02:15:00+00:00"
      },
      {
-      "title": "One Nation Victorian policies dont add up",
-      "url": "https://www.crikey.com.au/2026/11/03/one-nation-victorian-state-election-pauline-hanson-policies/",
-      "domain": "crikey.com.au",
-      "country": "Australia",
+      "title": "CPP Investments and Dream Complete $585 . 8 Million Acquisition of GTA Industrial Portfolio",
+      "url": "https://www.saultstar.com/press-releases/business-wire/cpp-investments-and-dream-complete-585-8-million-acquisition-of-gta-industrial-portfolio/",
+      "domain": "saultstar.com",
+      "country": "Canada",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
+      "title": "Mercado Bitcoin drain moved $40M in plain transactions",
+      "url": "https://techreport.com/news/software/mercado-bitcoin-drain-moved-40-million-in-plain-transactions-pointing-to-stolen-signing-keys/",
+      "domain": "techreport.com",
+      "country": "United States",
       "published": "2026-11-03T02:15:00+00:00"
      }
     ]
    },
    "errors": {
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
