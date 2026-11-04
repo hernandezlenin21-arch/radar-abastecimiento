@@ -1,5 +1,22 @@
 [
  {
+  "id": "00c1b64d397e",
+  "indicator": "cp-ormuz",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-04",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Estrecho de Ormuz: 3 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “US Launches Airstrikes on Iran in Strait of Hormuz Ahead of Midterms” (wthitv.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "wthitv.com",
+  "url": "https://www.wthitv.com:443/2026/11/03/us-strikes-strait-hormuz-create-more-questions-about-whats-ahead/",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-03T22:08:52-06:00"
+ },
+ {
   "indicator": "wti",
   "name": "Petróleo WTI (Cushing, spot)",
   "group": "energia",

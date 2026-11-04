@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-03T19:22:14-06:00",
+  "at": "2026-11-03T22:08:52-06:00",
   "data": {
    "storms": [],
    "url": "https://www.nhc.noaa.gov/"
@@ -9,7 +9,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-03T19:22:14-06:00",
+  "at": "2026-11-03T22:08:52-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -18,159 +18,504 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-03T19:22:14-06:00",
+  "at": "2026-11-03T22:08:52-06:00",
   "data": {
    "raw": {
     "energia": [
      {
-      "title": "In the news today : U . S . midterms today , Carney in Antigua , is AI stealing youth jobs ?",
-      "url": "https://www.stcatharinesstandard.ca/news/canada/in-the-news-today-u-s-midterms-today-carney-in-antigua-is-ai-stealing-youth-jobs/article_67947e99-c468-5e65-bebd-541d4208cbcc.html",
-      "domain": "stcatharinesstandard.ca",
+      "title": "Ivanhoe Mines Issues 2026 Third - Quarter Financial Results , Overview of Operations and Exploration Activities",
+      "url": "https://www.elliotlakestandard.ca/press-releases/newsfile/ivanhoe-mines-issues-2026-third-quarter-financial-results-overview-of-operations-and-exploration-activities/",
+      "domain": "elliotlakestandard.ca",
       "country": "Canada",
-      "published": "2026-11-03T11:15:00+00:00"
+      "published": "2026-11-04T01:30:00+00:00"
      },
      {
-      "title": "Despite stock slide , reason remains for optimism in Sheng Siong business outlook : Analysts",
-      "url": "https://www.channelnewsasia.com/singapore/sheng-siong-stock-supermarket-share-price-6516586",
-      "domain": "channelnewsasia.com",
+      "title": "Ticker : Taco Bell sales recover ; Higher oil prices boost Saudi Aramco profits",
+      "url": "https://www.bostonherald.com/2026/11/03/ticker-taco-bell-sales-recover-higher-oil-prices-boost-saudi-aramco-profits/",
+      "domain": "bostonherald.com",
       "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
+      "published": "2026-11-04T01:30:00+00:00"
      },
      {
-      "title": "Low Storage Buffers In Europe Could Prolong Gas Market Tightness Into 2027 : IEA",
-      "url": "https://www.rttnews.com/3707610/low-storage-buffers-in-europe-could-prolong-gas-market-tightness-into-2027-iea.aspx",
-      "domain": "rttnews.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Americans head to the polls for midterm election referendum on Trump tenure – Brandon Sun",
-      "url": "https://www.brandonsun.com/business/2026/11/03/americans-head-to-the-polls-for-midterm-election-referendum-on-trumps-tenure",
-      "domain": "brandonsun.com",
+      "title": "Bank of Canada can no longer look through energy price shock , Macklem warns MPs",
+      "url": "https://calgaryherald.com:443/economy/bank-of-canada-can-no-longer-look-through-energy-price-shock-macklem-warns-mps/wcm/4a7c7c62-a63c-45d7-8f5d-18f41d0d7b34",
+      "domain": "calgaryherald.com",
       "country": "Canada",
-      "published": "2026-11-03T11:15:00+00:00"
+      "published": "2026-11-04T01:30:00+00:00"
      },
      {
-      "title": "Lebanon cuts power to public bodies as electricity crisis deepens",
-      "url": "https://www.aljazeera.com/news/2026/11/3/lebanon-cuts-power-to-public-bodies-as-electricity-crisis-deepens",
-      "domain": "aljazeera.com",
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://wjjz.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "wjjz.iheart.com",
       "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
+      "published": "2026-11-04T01:30:00+00:00"
      },
      {
-      "title": "In the news today : U . S . midterms today , Carney in Antigua , is AI stealing youth jobs ? – Brandon Sun",
-      "url": "https://www.brandonsun.com/national/2026/11/03/in-the-news-today-u-s-midterms-today-carney-in-antigua-is-ai-stealing-youth-jobs",
-      "domain": "brandonsun.com",
+      "title": "Alaska U . S . Senate race draws significant donations from AI company employees",
+      "url": "http://www.sitkasentinel.com/premium/stories/alaskas-us-senate-race-draws-significant-donations-from-ai-company-employees,183618",
+      "domain": "sitkasentinel.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://thetwister.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "thetwister.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Orca Announces Mailing of Special Meeting Circular and Meeting Business",
+      "url": "https://www.elliotlakestandard.ca/press-releases/globe-newswire/orca-announces-mailing-of-special-meeting-circular-and-meeting-business/",
+      "domain": "elliotlakestandard.ca",
       "country": "Canada",
-      "published": "2026-11-03T11:15:00+00:00"
+      "published": "2026-11-04T01:30:00+00:00"
      },
      {
-      "title": "​Sensex Surges 3670 Points in 4 Days to Cross 76 , 900",
-      "url": "https://pragativadi.com/sensex-surges-3670-points-in-4-days-to-cross-76900/",
-      "domain": "pragativadi.com",
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://now1051.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "now1051.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://wmrn.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "wmrn.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://b95radio.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "b95radio.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://kiss1067.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "kiss1067.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://mix1047.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "mix1047.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://big939.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "big939.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://hot1019nwa.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "hot1019nwa.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "The Latest : First Senate race call gives Democrats a win in Virginia",
+      "url": "http://www.idahopress.com/ap_news/us/the-latest-first-senate-race-call-gives-democrats-a-win-in-virginia/article_ed06cf14-906d-555b-b7e7-73838787bba9.html",
+      "domain": "idahopress.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://ktsmradio.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "ktsmradio.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://1005thewolf.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "1005thewolf.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://kisscincinnati.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "kisscincinnati.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Orca Announces Mailing of Special Meeting Circular and Meeting Business",
+      "url": "https://www.brantfordexpositor.ca/press-releases/globe-newswire/orca-announces-mailing-of-special-meeting-circular-and-meeting-business/",
+      "domain": "brantfordexpositor.ca",
+      "country": "Canada",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://961kissonline.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "961kissonline.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://1007wzxl.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "1007wzxl.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://kisslima.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "kisslima.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Ivanhoe Mines Issues 2026 Third - Quarter Financial Results , Overview of Operations and Exploration Activities",
+      "url": "https://www.brantfordexpositor.ca/press-releases/newsfile/ivanhoe-mines-issues-2026-third-quarter-financial-results-overview-of-operations-and-exploration-activities/",
+      "domain": "brantfordexpositor.ca",
+      "country": "Canada",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day | Twin Cities News Talk",
+      "url": "https://twincitiesnewstalk.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "twincitiesnewstalk.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Indus Towers eyes 100K solar sites by FY29 , says MD & CEO Prachur Sah",
+      "url": "https://www.business-standard.com/companies/people/indus-towers-targets-100-000-solar-installations-by-fy29-md-ceo-126110301846_1.html",
+      "domain": "business-standard.com",
       "country": "India",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Raja Venkatraman recommends three stocks for 4 November",
+      "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-4-november-11793752862815.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://wtam.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "wtam.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://z104fm.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "z104fm.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Suncor Energy reports third quarter 2026 results",
+      "url": "https://www.elliotlakestandard.ca/press-releases/newsfile/suncor-energy-reports-third-quarter-2026-results/",
+      "domain": "elliotlakestandard.ca",
+      "country": "Canada",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "S & P 500 rises as Nvidia , AI stocks rally despite Apple decline",
+      "url": "https://thebusinessjournal.com/sp-500-rises-nvidia-ai-stocks-apple-wall-street/",
+      "domain": "thebusinessjournal.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Donald Trump farm subsidies hit $47b as Aussie growers suffer | Farm Weekly",
+      "url": "https://www.farmweekly.com.au/story/9385186/donald-trump-farm-subsidies-hit-47b-as-aussie-growers-suffer/",
+      "domain": "farmweekly.com.au",
+      "country": "Australia",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://newsradio540.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "newsradio540.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://realradio.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "realradio.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://star1021.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "star1021.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://933theeagle.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "933theeagle.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://big1065.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "big1065.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://island985.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "island985.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices At Highest Levels Ever On Election Day",
+      "url": "https://jamn1075.iheart.com/content/2026-11-03-gas-prices-at-highest-levels-ever-on-election-day/",
+      "domain": "jamn1075.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "US job openings jump to 7 . 5 million in September as hiring shows signs of improvement",
+      "url": "https://thebusinessjournal.com/us-job-openings-september-2026-hiring-labor-market/",
+      "domain": "thebusinessjournal.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices Decline , But Still For Election Day",
+      "url": "https://jamn1075.iheart.com/content/2026-11-03-gas-prices-decline-but-still-for-election-day/",
+      "domain": "jamn1075.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     }
+    ],
+    "comercio_internacional": [
+     {
+      "title": "The Latest : First Senate race call gives Democrats a win in Virginia",
+      "url": "http://www.idahopress.com/ap_news/us/the-latest-first-senate-race-call-gives-democrats-a-win-in-virginia/article_ed06cf14-906d-555b-b7e7-73838787bba9.html",
+      "domain": "idahopress.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "How Jio is unlocking hidden value for Reliance shareholders",
+      "url": "https://www.livemint.com/market/stock-market-news/reliance-industries-holding-company-discount-jio-platforms-share-price-11793702625359.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "The Latest : First Senate race call gives Democrats a win in Virginia",
+      "url": "https://www.denverpost.com/2026/11/03/the-latest-first-senate-race-call-gives-democrats-a-win-in-virginia/",
+      "domain": "denverpost.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Davis , Buckhout compete for NC 1st Congressional District seat",
+      "url": "https://wcti12.com/news/local/davis-buckhout-compete-for-ncs-1st-congressional-district-seat",
+      "domain": "wcti12.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "NC 3rd Congressional District : Murphy , Smith face off on Election Day",
+      "url": "https://wcti12.com/news/local/ncs-3rd-congressional-district-murphy-smith-face-off-on-election-day",
+      "domain": "wcti12.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Ottawa focus groups report low awareness of federal deficit , budget updates – Brandon Sun",
+      "url": "https://www.brandonsun.com/business/2026/11/03/ottawas-focus-groups-report-low-awareness-of-federal-deficit-budget-updates",
+      "domain": "brandonsun.com",
+      "country": "Canada",
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "Americans head to the polls for midterm election referendum on Trump tenure",
-      "url": "https://www.stcatharinesstandard.ca/business/americans-head-to-the-polls-for-midterm-election-referendum-on-trump-s-tenure/article_0afc0a70-bc58-5400-ac96-e1389236f644.html",
+      "title": "Tariffs : Manufacturers group optimistic about Canada - U . S . trade",
+      "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/03/progress-on-trade-talks-is-encouraging-says-canadian-industry-group/",
+      "domain": "bnnbloomberg.ca",
+      "country": "Canada",
+      "published": "2026-11-03T11:15:00+00:00"
+     },
+     {
+      "title": "Ottawa focus groups report low awareness of federal deficit , budget updates",
+      "url": "https://www.stcatharinesstandard.ca/business/ottawa-s-focus-groups-report-low-awareness-of-federal-deficit-budget-updates/article_61c871bb-ead3-5ca9-8f0b-75e3548259f9.html",
       "domain": "stcatharinesstandard.ca",
       "country": "Canada",
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "Premarket : U . S . stock futures mixed as Apple slides , midterms loom",
-      "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-stocks-slip-as-ai-jitters-us-midterms-keep-investors-on-edge/",
-      "domain": "theglobeandmail.com",
+      "title": "Trump to strip South Africa and Rwanda of US trade benefits",
+      "url": "http://www.africaleader.com/news/279409213/trump-to-strip-south-africa-and-rwanda-of-us-trade-benefits",
+      "domain": "africaleader.com",
+      "country": "South Africa",
+      "published": "2026-11-03T11:15:00+00:00"
+     },
+     {
+      "title": "Screwed either way : Republican senator fights backlash over Trump tariffs in Maine – Brandon Sun",
+      "url": "https://www.brandonsun.com/business/2026/11/03/screwed-either-way-republican-senator-fights-backlash-over-trump-tariffs-in-maine",
+      "domain": "brandonsun.com",
       "country": "Canada",
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "Oil rises as peace prospects dim after U . S . hits Iran Qeshm Island",
-      "url": "https://www.theglobeandmail.com/investing/article-oil-rises-as-peace-prospects-dim-after-us-hits-irans-qeshm-island/",
-      "domain": "theglobeandmail.com",
+      "title": "Tariff news : Maine Sen . Susan Collins fights backlash",
+      "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/03/screwed-either-way-republican-senator-fights-backlash-over-trump-tariffs-in-maine/",
+      "domain": "bnnbloomberg.ca",
       "country": "Canada",
       "published": "2026-11-03T11:15:00+00:00"
      },
      {
-      "title": "Before the Bell : What every Canadian investor needs to know today",
-      "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-before-the-bell-what-every-canadian-investor-needs-to-know-today-1594/",
-      "domain": "theglobeandmail.com",
-      "country": "Canada",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Global markets were already fragile . Big AI bets could break them",
-      "url": "https://www.theglobeandmail.com/investing/article-global-markets-were-already-fragile-big-ai-bets-could-break-them/",
-      "domain": "theglobeandmail.com",
-      "country": "Canada",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "Polar Express train ride returns to Caledonian Railway for Christmas",
-      "url": "https://www.heraldscotland.com/news/26693741.polar-express-train-ride-returns-caledonian-railway-christmas/",
-      "domain": "heraldscotland.com",
-      "country": "United Kingdom",
-      "published": "2026-11-03T11:15:00+00:00"
-     },
-     {
-      "title": "San Diego gas prices down 40 cents a gallon in the past month . But what happens next ?",
-      "url": "https://www.sandiegouniontribune.com/2026/11/02/san-diego-gas-prices-down-40-cents-a-gallon-in-the-past-month-but-what-happens-next/",
-      "domain": "sandiegouniontribune.com",
-      "country": "United States",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "New investors spend $3 . 1 billion US buying into LNG Canada expansion plans",
-      "url": "https://calgaryherald.com:443/business/new-investors-spend-billions-buying-into-lng-canada-expansion-plans/wcm/f810a557-0af4-4715-9e34-2ed6c0f9f924",
+      "title": "B . C . First Nations file court challenge against the proposed Pacific Link pipeline",
+      "url": "https://calgaryherald.com:443/news/bc-first-nations-file-court-challenge-against-proposed-pacific-link-pipeline/wcm/ccea0cdc-1050-47a6-a975-161bae1cf2fe",
       "domain": "calgaryherald.com",
       "country": "Canada",
       "published": "2026-11-03T02:15:00+00:00"
      },
      {
-      "title": "America Votes : What To Expect",
-      "url": "https://www.zerohedge.com/political/america-votes-what-expect",
-      "domain": "zerohedge.com",
+      "title": "Businesses still grappling with Brexit red tape and want change , says BCC",
+      "url": "https://www.theargus.co.uk/news/national/26692856.businesses-still-grappling-brexit-red-tape-want-change-says-bcc/",
+      "domain": "theargus.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
+      "title": "Businesses still grappling with Brexit red tape and want change , says BCC",
+      "url": "https://www.salisburyjournal.co.uk/news/national/26692856.businesses-still-grappling-brexit-red-tape-want-change-says-bcc/",
+      "domain": "salisburyjournal.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
+      "title": "US midterms 2026 : What polls reveal about Democratic , Republican voters - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+      "url": "https://dominicanrepublicpost.com/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters/",
+      "domain": "dominicanrepublicpost.com",
       "country": "United States",
       "published": "2026-11-03T02:15:00+00:00"
      },
      {
-      "title": "Stock Market Today Live : Gift Nifty points to gap - up opening ; crude oil , US election in focus",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-3-november-2026/article71657258.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
+      "title": "Businesses still grappling with Brexit red tape and want change , says BCC",
+      "url": "https://www.bordertelegraph.com/news/national/26692856.businesses-still-grappling-brexit-red-tape-want-change-says-bcc/",
+      "domain": "bordertelegraph.com",
+      "country": "United Kingdom",
       "published": "2026-11-03T02:15:00+00:00"
      },
      {
-      "title": "Ontario gasoline , diesel prices to plummet Wednesday",
-      "url": "https://www.niagarathisweek.com/news/ontario-gas-price-prediction-for-nov-4/article_3a74bb58-21aa-579f-9247-a053deae89b2.html",
-      "domain": "niagarathisweek.com",
-      "country": "Canada",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "LG Energy Solution Releases 2026 Third - Quarter Financial Results",
-      "url": "https://www.prnewswire.com/news-releases/lg-energy-solution-releases-2026-third-quarter-financial-results-302927133.html",
-      "domain": "prnewswire.com",
+      "title": "War , tariffs and China : What the US midterms mean for the Asia - Pacific - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+      "url": "https://dominicanrepublicpost.com/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific/",
+      "domain": "dominicanrepublicpost.com",
       "country": "United States",
       "published": "2026-11-03T02:15:00+00:00"
      },
      {
-      "title": "Ontario gasoline , diesel prices to plummet Wednesday",
-      "url": "https://www.northbaynipissing.com/news/ontario-gas-price-prediction-for-nov-4/article_c181a28f-180f-54d8-a5e6-bfd46681d983.html",
-      "domain": "northbaynipissing.com",
+      "title": "The Midterms Will Change Us Politics . But NZ Will Keep Feeling The Trump Effect",
+      "url": "https://www.scoop.co.nz/stories/PO2611/S00019/the-midterms-will-change-us-politics-but-nz-will-keep-feeling-the-trump-effect.htm",
+      "domain": "scoop.co.nz",
+      "country": "New Zealand",
+      "published": "2026-11-03T02:15:00+00:00"
+     },
+     {
+      "title": "Sault Star Santa Fund , Christmas Cheer brace for big demand",
+      "url": "https://www.saultstar.com/news/families-are-struggling-sault-star-santa-fund-christmas-cheer-officials-brace-for-high-demand/",
+      "domain": "saultstar.com",
       "country": "Canada",
       "published": "2026-11-03T02:15:00+00:00"
      },
      {
-      "title": "Ringgit opens slightly higher amid hopes of US - Iran talks progress",
-      "url": "https://www.thestar.com.my/business/business-news/2026/11/03/ringgit-opens-slightly-higher-amid-hopes-of-us-iran-talks-progress",
-      "domain": "thestar.com.my",
-      "country": "Malaysia",
+      "title": "Businesses still grappling with Brexit red tape and want change , says BCC",
+      "url": "https://www.worcesternews.co.uk/news/national/26692856.businesses-still-grappling-brexit-red-tape-want-change-says-bcc/",
+      "domain": "worcesternews.co.uk",
+      "country": "United Kingdom",
       "published": "2026-11-03T02:15:00+00:00"
      }
     ],
     "geopolitica": [
+     {
+      "title": "Oil production nears pre - war levels , but lost capacity slows full recovery",
+      "url": "https://www.iraqoilreport.com/news/oil-production-nears-pre-war-levels-but-lost-capacity-slows-full-recovery-48051/",
+      "domain": "iraqoilreport.com",
+      "country": "Iraq",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "The Latest : First Senate race call gives Democrats a win in Virginia",
+      "url": "http://www.idahopress.com/ap_news/us/the-latest-first-senate-race-call-gives-democrats-a-win-in-virginia/article_ed06cf14-906d-555b-b7e7-73838787bba9.html",
+      "domain": "idahopress.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "US Launches Airstrikes on Iran in Strait of Hormuz Ahead of Midterms",
+      "url": "https://www.wthitv.com:443/2026/11/03/us-strikes-strait-hormuz-create-more-questions-about-whats-ahead/",
+      "domain": "wthitv.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Suncor Energy reports third quarter 2026 results",
+      "url": "https://www.elliotlakestandard.ca/press-releases/newsfile/suncor-energy-reports-third-quarter-2026-results/",
+      "domain": "elliotlakestandard.ca",
+      "country": "Canada",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "S & P 500 rises as Nvidia , AI stocks rally despite Apple decline",
+      "url": "https://thebusinessjournal.com/sp-500-rises-nvidia-ai-stocks-apple-wall-street/",
+      "domain": "thebusinessjournal.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Donald Trump farm subsidies hit $47b as Aussie growers suffer | Farm Weekly",
+      "url": "https://www.farmweekly.com.au/story/9385186/donald-trump-farm-subsidies-hit-47b-as-aussie-growers-suffer/",
+      "domain": "farmweekly.com.au",
+      "country": "Australia",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Iranian island in Hormuz strait attacked media",
+      "url": "https://www.manilatimes.net/2026/11/04/world/americas-emea/iranian-island-in-hormuz-strait-attacked-media/2460664",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices Decline , But Still For Election Day",
+      "url": "https://jamn1075.iheart.com/content/2026-11-03-gas-prices-decline-but-still-for-election-day/",
+      "domain": "jamn1075.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices Decline , But Still For Election Day | News Radio 1190 KEX",
+      "url": "https://1190kex.iheart.com/content/2026-11-03-gas-prices-decline-but-still-for-election-day/",
+      "domain": "1190kex.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Suncor Energy reports third quarter 2026 results",
+      "url": "https://www.brantfordexpositor.ca/press-releases/newsfile/suncor-energy-reports-third-quarter-2026-results/",
+      "domain": "brantfordexpositor.ca",
+      "country": "Canada",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
      {
       "title": "Iran chief negotiator says the US must act to prevent renewed war , and other Mideast news",
       "url": "https://www.wfmz.com/news/ap/ap-national/iran-s-chief-negotiator-says-the-us-must-act-to-prevent-renewed-war-and-other-mideast-news/article_4cd51f4d-14df-5d20-90c9-21ddc855c56c.html",
@@ -380,79 +725,58 @@
       "domain": "rnz.co.nz",
       "country": "",
       "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Building immunity to shocks - The HinduBusinessLine",
-      "url": "https://www.thehindubusinessline.com/opinion/building-immunity-to-shocks/article71657750.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Is America really that polarized ? The answer might be a surprise",
-      "url": "https://www.wxpr.org/2026-11-02/is-america-really-that-polarized-the-answer-might-be-a-surprise",
-      "domain": "wxpr.org",
-      "country": "United States",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Businesses still grappling with Brexit red tape and want change , says BCC",
-      "url": "https://www.theargus.co.uk/news/national/26692856.businesses-still-grappling-brexit-red-tape-want-change-says-bcc/",
-      "domain": "theargus.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Ontario gasoline , diesel prices to plummet Wednesday",
-      "url": "https://www.niagarathisweek.com/news/ontario-gas-price-prediction-for-nov-4/article_3a74bb58-21aa-579f-9247-a053deae89b2.html",
-      "domain": "niagarathisweek.com",
-      "country": "Canada",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Businesses still grappling with Brexit red tape and want change , says BCC",
-      "url": "https://www.salisburyjournal.co.uk/news/national/26692856.businesses-still-grappling-brexit-red-tape-want-change-says-bcc/",
-      "domain": "salisburyjournal.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Is America really that polarized ? The answer might be a surprise",
-      "url": "https://www.wlrn.org/national-politics/2026-11-02/is-america-really-that-polarized-the-answer-might-be-a-surprise",
-      "domain": "wlrn.org",
-      "country": "United States",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Businesses still grappling with Brexit red tape and want change , says BCC",
-      "url": "https://www.bordertelegraph.com/news/national/26692856.businesses-still-grappling-brexit-red-tape-want-change-says-bcc/",
-      "domain": "bordertelegraph.com",
-      "country": "United Kingdom",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Arab News | US struck Iran Qeshm Island , Wall Street Journal reports",
-      "url": "https://www.arabnews.com/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-3009496",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Is America really that polarized ? The answer might be a surprise",
-      "url": "https://www.interlochenpublicradio.org/2026-11-02/is-america-really-that-polarized-the-answer-might-be-a-surprise",
-      "domain": "interlochenpublicradio.org",
-      "country": "United States",
-      "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "RBA interest rate decision : Xmas , unemployment and Trump",
-      "url": "https://www.crikey.com.au/2026/11/03/interest-rate-decision-reserve-bank-rba-inflation-unemployment-donald-trump/",
-      "domain": "crikey.com.au",
-      "country": "Australia",
-      "published": "2026-11-03T02:15:00+00:00"
      }
     ],
     "transporte_maritimo": [
+     {
+      "title": "The Latest : First Senate race call gives Democrats a win in Virginia",
+      "url": "http://www.idahopress.com/ap_news/us/the-latest-first-senate-race-call-gives-democrats-a-win-in-virginia/article_ed06cf14-906d-555b-b7e7-73838787bba9.html",
+      "domain": "idahopress.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "US Launches Airstrikes on Iran in Strait of Hormuz Ahead of Midterms",
+      "url": "https://www.wthitv.com:443/2026/11/03/us-strikes-strait-hormuz-create-more-questions-about-whats-ahead/",
+      "domain": "wthitv.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Donald Trump farm subsidies hit $47b as Aussie growers suffer | Farm Weekly",
+      "url": "https://www.farmweekly.com.au/story/9385186/donald-trump-farm-subsidies-hit-47b-as-aussie-growers-suffer/",
+      "domain": "farmweekly.com.au",
+      "country": "Australia",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Iranian island in Hormuz strait attacked media",
+      "url": "https://www.manilatimes.net/2026/11/04/world/americas-emea/iranian-island-in-hormuz-strait-attacked-media/2460664",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices Decline , But Still For Election Day",
+      "url": "https://jamn1075.iheart.com/content/2026-11-03-gas-prices-decline-but-still-for-election-day/",
+      "domain": "jamn1075.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "Gas Prices Decline , But Still For Election Day | News Radio 1190 KEX",
+      "url": "https://1190kex.iheart.com/content/2026-11-03-gas-prices-decline-but-still-for-election-day/",
+      "domain": "1190kex.iheart.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
+     {
+      "title": "newsroomamerica . com",
+      "url": "https://newsroomamerica.com/?before=119465",
+      "domain": "newsroomamerica.com",
+      "country": "United States",
+      "published": "2026-11-04T01:30:00+00:00"
+     },
      {
       "title": "Iran chief negotiator says the US must act to prevent renewed war , and other Mideast news",
       "url": "https://www.wfmz.com/news/ap/ap-national/iran-s-chief-negotiator-says-the-us-must-act-to-prevent-renewed-war-and-other-mideast-news/article_4cd51f4d-14df-5d20-90c9-21ddc855c56c.html",
@@ -683,43 +1007,35 @@
       "domain": "thehindubusinessline.com",
       "country": "India",
       "published": "2026-11-03T02:15:00+00:00"
-     },
-     {
-      "title": "Ontario gasoline , diesel prices to plummet Wednesday",
-      "url": "https://www.northbaynipissing.com/news/ontario-gas-price-prediction-for-nov-4/article_c181a28f-180f-54d8-a5e6-bfd46681d983.html",
-      "domain": "northbaynipissing.com",
-      "country": "Canada",
-      "published": "2026-11-03T02:15:00+00:00"
      }
     ],
-    "produccion_agroindustrial": [
+    "riesgos_climaticos": [
      {
-      "title": "Kashmir Study Finds Chicken Processing Waste Can Replace 20 % of Fishmeal in Rainbow Trout Feed",
-      "url": "https://kashmirlife.net/kashmir-study-finds-chicken-processing-waste-can-replace-20-of-fishmeal-in-rainbow-trout-feed-459449/",
-      "domain": "kashmirlife.net",
+      "title": "Irrigation helps in climate resilience but it not enough",
+      "url": "https://www.thehindubusinessline.com/opinion/irrigation-helps-in-climate-resilience-but-its-not-enough/article71657820.ece",
+      "domain": "thehindubusinessline.com",
       "country": "India",
-      "published": "2026-11-03T11:15:00+00:00"
+      "published": "2026-11-03T02:15:00+00:00"
      },
      {
-      "title": "Phibro Animal Health ( PAHC ) Projected to Announce Quarterly Earnings on Wednesday",
-      "url": "https://www.themarketsdaily.com/2026/11/03/phibro-animal-health-pahc-projected-to-announce-quarterly-earnings-on-wednesday.html",
-      "domain": "themarketsdaily.com",
-      "country": "United States",
-      "published": "2026-11-03T11:15:00+00:00"
+      "title": "Scott Stinson : Daylight Savings Chaos means our clocks can no longer be trusted",
+      "url": "https://calgaryherald.com:443/np-comment/scott-stinson-daylight-savings-chaos-means-our-clocks-can-no-longer-be-trusted/wcm/74be1719-5da2-49b4-8e4b-8bda6f18ce25",
+      "domain": "calgaryherald.com",
+      "country": "Canada",
+      "published": "2026-11-03T02:15:00+00:00"
      },
      {
-      "title": "Almost $60 million in federal funding for small and medium meat processors , 10 candidates in Kansas",
-      "url": "https://www.kwch.com/2026/11/02/almost-60-million-federal-funding-small-medium-meat-processors-10-candidates-kansas/",
-      "domain": "kwch.com",
-      "country": "United States",
+      "title": "One Nation Victorian policies dont add up",
+      "url": "https://www.crikey.com.au/2026/11/03/one-nation-victorian-state-election-pauline-hanson-policies/",
+      "domain": "crikey.com.au",
+      "country": "Australia",
       "published": "2026-11-03T02:15:00+00:00"
      }
     ]
    },
    "errors": {
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
