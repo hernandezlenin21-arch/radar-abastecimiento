@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-07T01:16:24-06:00",
+  "at": "2026-11-07T03:58:38-06:00",
   "data": {
    "storms": [
     {
@@ -9,100 +9,100 @@
      "binNumber": "CP4",
      "name": "Pena",
      "classification": "TS",
-     "intensity": "40",
-     "pressure": "1002",
-     "latitude": "11.2N",
-     "longitude": "151.1W",
-     "latitudeNumeric": 11.2,
-     "longitudeNumeric": -151.1,
-     "movementDir": 270,
+     "intensity": "45",
+     "pressure": "1000",
+     "latitude": "11.4N",
+     "longitude": "152.4W",
+     "latitudeNumeric": 11.4,
+     "longitudeNumeric": -152.4,
+     "movementDir": 275,
      "movementSpeed": 12,
-     "lastUpdate": "2026-11-07T03:00:00.000Z",
+     "lastUpdate": "2026-11-07T09:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "002",
-      "issuance": "2026-11-07T03:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T02:41:00.612Z",
+      "advNum": "003",
+      "issuance": "2026-11-07T09:00:00.000Z",
+      "fileUpdateTime": "2026-11-07T08:39:33.054Z",
       "url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "002",
-      "issuance": "2026-11-07T03:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T02:37:02.223Z",
+      "advNum": "003",
+      "issuance": "2026-11-07T09:00:00.000Z",
+      "fileUpdateTime": "2026-11-07T08:38:32.717Z",
       "url": "https://www.nhc.noaa.gov/text/HFOTCMCP4.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "002",
-      "issuance": "2026-11-07T03:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T02:41:00.572Z",
+      "advNum": "003",
+      "issuance": "2026-11-07T09:00:00.000Z",
+      "fileUpdateTime": "2026-11-07T08:40:02.987Z",
       "url": "https://www.nhc.noaa.gov/text/HFOPWSCP4.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "002",
-      "issuance": "2026-11-07T03:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T02:42:01.074Z",
+      "advNum": "003",
+      "issuance": "2026-11-07T09:00:00.000Z",
+      "fileUpdateTime": "2026-11-07T08:41:04.113Z",
       "url": "https://www.nhc.noaa.gov/text/HFOTCDCP4.shtml"
      },
      "forecastGraphics": {
-      "advNum": "002",
-      "issuance": "2026-11-07T03:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T02:41:00.612Z",
+      "advNum": "003",
+      "issuance": "2026-11-07T09:00:00.000Z",
+      "fileUpdateTime": "2026-11-07T08:39:33.054Z",
       "url": "https://www.nhc.noaa.gov/graphics_cp4.shtml"
      },
      "forecastTrack": {
-      "advNum": "002",
-      "issuance": "2026-11-07T03:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T02:43:07.684Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_002.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_002adv_TRACK.kmz"
+      "advNum": "003",
+      "issuance": "2026-11-07T09:00:00.000Z",
+      "fileUpdateTime": "2026-11-07T08:42:51.725Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_003.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_003adv_TRACK.kmz"
      },
      "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "002",
-      "issuance": "2026-11-07T03:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T02:43:01.951Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_002.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_002adv_CONE.kmz"
+      "advNum": "003",
+      "issuance": "2026-11-07T09:00:00.000Z",
+      "fileUpdateTime": "2026-11-07T08:42:46.190Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_003.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_003adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "002",
-      "issuance": "2026-11-07T03:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T02:43:36.671Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_002.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_initialradii_002adv.kmz"
+      "advNum": "003",
+      "issuance": "2026-11-07T09:00:00.000Z",
+      "fileUpdateTime": "2026-11-07T08:43:20.953Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_003.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_initialradii_003adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "002",
-      "issuance": "2026-11-07T03:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T02:43:32.955Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_002.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_forecastradii_002adv.kmz"
+      "advNum": "003",
+      "issuance": "2026-11-07T09:00:00.000Z",
+      "fileUpdateTime": "2026-11-07T08:43:17.198Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_003.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_forecastradii_003adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-11-07T03:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T02:43:17.084Z",
+      "issuance": "2026-11-07T09:00:00.000Z",
+      "fileUpdateTime": "2026-11-07T08:43:01.103Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/cp042026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/cp042026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "002",
-      "issuance": "2026-11-07T03:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T02:43:03.863Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_002adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "003",
+      "issuance": "2026-11-07T09:00:00.000Z",
+      "fileUpdateTime": "2026-11-07T08:42:48.023Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_003adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "002",
-      "issuance": "2026-11-07T03:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T02:43:05.785Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_002adv_most_likely_toa_34.kmz"
+      "advNum": "003",
+      "issuance": "2026-11-07T09:00:00.000Z",
+      "fileUpdateTime": "2026-11-07T08:42:49.863Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_003adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-11-07T00:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T03:21:22.628Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110700_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110700_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110700_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110700_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110700_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-11-07T06:00:00.000Z",
+      "fileUpdateTime": "2026-11-07T09:21:54.129Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110706_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110706_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110706_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110706_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110706_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-07T01:16:24-06:00",
+  "at": "2026-11-07T03:58:38-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,297 +123,78 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-07T01:16:24-06:00",
+  "at": "2026-11-07T03:58:38-06:00",
   "data": {
    "raw": {
-    "comercio_internacional": [
+    "geopolitica": [
      {
-      "title": "Nifty , Sensex post strongest weekly gains in over a year amid strong foreign inflows",
-      "url": "https://ianslive.in/nifty-sensex-post-strongest-weekly-gains-in-over-a-year-amid-strong-foreign-inflows--20261107120147",
-      "domain": "ianslive.in",
-      "country": "India",
-      "published": "2026-11-07T07:00:00+00:00"
+      "title": "Goods delayed , banks demanding repayment â€  GUTA President details tradersâ€™ pressures – Ghanamma . com",
+      "url": "https://www.ghanamma.com/2026/11/07/goods-delayed-banks-demanding-repayment-guta-president-details-traders-pressures/",
+      "domain": "ghanamma.com",
+      "country": "Ghana",
+      "published": "2026-11-07T09:30:00+00:00"
      },
      {
-      "title": "The end of Maga as we know it",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
+      "title": "Diwali Fireworks ! Nifty surges over 8 % in Nov 2 - 6 week , best in 6 yrs after US Midterm Election results ; RIL soars 13 %",
+      "url": "https://www.livemint.com/market/stock-market-news/diwali-fireworks-nifty-surges-over-8-in-nov-2-6-week-best-in-6-yrs-after-us-midterm-election-results-ril-soars-13-11794030783772.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-07T09:30:00+00:00"
+     },
+     {
+      "title": "Finally there hope : united kingdom weighs up opportunities and risks after Trump midterms disaster | US midterm elections 2026",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/uk-weighs-risks-opportunities-after-trump-us-midterms-disaster",
       "domain": "theguardian.com",
       "country": "United Kingdom",
+      "published": "2026-11-07T09:30:00+00:00"
+     },
+     {
+      "title": "Iran warns US , claims military stronger - News Today",
+      "url": "https://newstodaynet.com/2026/11/07/iran-warns-us-claims-military-stronger/",
+      "domain": "newstodaynet.com",
+      "country": "India",
+      "published": "2026-11-07T09:30:00+00:00"
+     },
+     {
+      "title": "Explained : What is the ethanol issue in Karnataka and why have OMCs rejected the state govt excess blending claims ?",
+      "url": "https://www.livemint.com/news/india/explained-what-is-the-ethanol-issue-in-karnataka-and-why-have-omcs-rejected-the-state-govts-excess-blending-claims-11794038999496.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-07T09:30:00+00:00"
+     },
+     {
+      "title": "Trafigura Snaps Up Copper in Asia as China Faces Supply Crunch",
+      "url": "https://www.livemint.com/market/trafigura-snaps-up-copper-in-asia-as-china-faces-supply-crunch-11794040210737.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-07T09:30:00+00:00"
+     },
+     {
+      "title": "How the Iran war helped Democrats win the midterms",
+      "url": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms",
+      "domain": "aljazeera.com",
+      "country": "United States",
+      "published": "2026-11-07T08:00:00+00:00"
+     },
+     {
+      "title": "US military carries out new targeted strikes on Iran",
+      "url": "https://www.wdsu.com/article/us-military-new-targeted-strikes-iran-mediators-proposal/74363570",
+      "domain": "wdsu.com",
+      "country": "United States",
       "published": "2026-11-07T07:00:00+00:00"
      },
-     {
-      "title": "China Deepening Economic Crisis : A Self - Inflicted Wound",
-      "url": "https://www.chiangraitimes.com/china/chinas-economic-crisis/",
-      "domain": "chiangraitimes.com",
-      "country": "Thailand",
-      "published": "2026-11-07T06:30:00+00:00"
-     },
-     {
-      "title": "After the US midterm rout of Trumpism , the world struggles to trust America again",
-      "url": "http://www.dailyadvance.com/news/world/after-the-us-midterm-rout-of-trumpism-the-world-struggles-to-trust-america-again/article_335dfa6f-4d8e-5e77-8c57-492ccfd2be24.html",
-      "domain": "dailyadvance.com",
-      "country": "United States",
-      "published": "2026-11-07T06:30:00+00:00"
-     },
-     {
-      "title": "Wall Street grapples with $5 . 7 trillion rout as AI bets unwind",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-11-07T06:30:00+00:00"
-     },
-     {
-      "title": "After the US midterm rout of Trumpism , the world struggles to trust America again",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/after-the-us-midterm-rout-of-trumpism-the-world-struggles-to-trust-america-again/articleshow/135627272.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-11-07T06:30:00+00:00"
-     },
-     {
-      "title": "Blue landslide in US gives SA hope but Trump still has sharp teeth",
-      "url": "https://www.dailymaverick.co.za/article/2026-11-07-blue-landslide-in-us-gives-sa-hope-but-trump-still-has-sharp-teeth/",
-      "domain": "dailymaverick.co.za",
-      "country": "South Africa",
-      "published": "2026-11-07T06:30:00+00:00"
-     },
-     {
-      "title": "After rout of Trumpism , world struggles to trust America again",
-      "url": "https://www.wsbradio.com/news/politics/after-us-midterm/F52FTUMJVE3W7AR5H27JQEQAWA/",
-      "domain": "wsbradio.com",
-      "country": "United States",
-      "published": "2026-11-07T06:00:00+00:00"
-     },
-     {
-      "title": "After the US midterm rout of Trumpism , the world struggles to trust America again",
-      "url": "https://www.union-bulletin.com/news/world/after-the-us-midterm-rout-of-trumpism-the-world-struggles-to-trust-america-again/article_749b1679-ff68-5121-b71f-15fcb555d80e.html",
-      "domain": "union-bulletin.com",
-      "country": "United States",
-      "published": "2026-11-07T06:00:00+00:00"
-     },
-     {
-      "title": "Baumgartner early lead over Conroy is slight in Congressional District 5",
-      "url": "https://www.union-bulletin.com/news/local/elections/baumgartners-early-lead-over-conroy-is-slight-in-congressional-district-5/article_4199949f-cd8b-4a04-88db-cd2a4db3dd37.html",
-      "domain": "union-bulletin.com",
-      "country": "United States",
-      "published": "2026-11-07T06:00:00+00:00"
-     },
-     {
-      "title": "Wall Street wild ride : What the market volatility means for your money",
-      "url": "https://kcby.com/news/nation-world/wall-streets-wild-ride-what-the-market-volatility-means-for-your-money",
-      "domain": "kcby.com",
-      "country": "United States",
-      "published": "2026-11-07T02:00:00+00:00"
-     },
-     {
-      "title": "Carney says Canada welcomes  any move to restore free trade after U . S . midterms",
-      "url": "https://www.therecord.com/news/canada/carney-says-canada-welcomes-any-moves-to-restore-free-trade-after-u-s-midterms/article_ba67c321-72e6-54d3-9334-e49385e7d776.html",
-      "domain": "therecord.com",
-      "country": "Canada",
-      "published": "2026-11-07T02:00:00+00:00"
-     },
-     {
-      "title": "Letters : Bishop meeting with Trump raises questions about leadership",
-      "url": "https://www.eastbaytimes.com/2026/11/06/letters-bishops-meeting-trump-questions-leadership/",
-      "domain": "eastbaytimes.com",
-      "country": "United States",
-      "published": "2026-11-07T02:00:00+00:00"
-     },
-     {
-      "title": "Wall Street wild ride : What the market volatility means for your money",
-      "url": "https://kfdm.com/news/nation-world/wall-streets-wild-ride-what-the-market-volatility-means-for-your-money",
-      "domain": "kfdm.com",
-      "country": "United States",
-      "published": "2026-11-07T01:00:00+00:00"
-     },
-     {
-      "title": "Wall Street wild ride : What the market volatility means for your money",
-      "url": "https://midmichigannow.com/news/nation-world/wall-streets-wild-ride-what-the-market-volatility-means-for-your-money",
-      "domain": "midmichigannow.com",
-      "country": "",
-      "published": "2026-11-07T01:00:00+00:00"
-     },
-     {
-      "title": "Wall Street wild ride : What the market volatility means for your money",
-      "url": "https://cnycentral.com/news/nation-world/wall-streets-wild-ride-what-the-market-volatility-means-for-your-money",
-      "domain": "cnycentral.com",
-      "country": "United States",
-      "published": "2026-11-07T01:00:00+00:00"
-     },
-     {
-      "title": "Federal budget promises grocery relief , recreation funding and plan to end homelessness",
-      "url": "https://www.exetertoday.ca/2026/11/06/federal-budget-promises-grocery-relief-recreation-funding-and-plan-to-end-homelessness-2/",
-      "domain": "exetertoday.ca",
-      "country": "Canada",
-      "published": "2026-11-07T00:00:00+00:00"
-     },
-     {
-      "title": "Wall Street wild ride : What the market volatility means for your money",
-      "url": "https://kpic.com/news/nation-world/wall-streets-wild-ride-what-the-market-volatility-means-for-your-money",
-      "domain": "kpic.com",
-      "country": "United States",
-      "published": "2026-11-07T00:00:00+00:00"
-     },
-     {
-      "title": "Trone Garriott open to backing Jeffries for House speaker , floats Ernst for Defense Sec .",
-      "url": "https://cbs2iowa.com/news/local/trone-garriott-open-to-backing-jeffries-for-house-speaker-floats-ernst-for-defense-sec",
-      "domain": "cbs2iowa.com",
-      "country": "United States",
-      "published": "2026-11-07T00:00:00+00:00"
-     },
-     {
-      "title": "Wall Street wild ride : What the market volatility means for your money",
-      "url": "https://cbs2iowa.com/news/nation-world/wall-streets-wild-ride-what-the-market-volatility-means-for-your-money",
-      "domain": "cbs2iowa.com",
-      "country": "United States",
-      "published": "2026-11-07T00:00:00+00:00"
-     },
-     {
-      "title": "Wall Street wild ride : What the market volatility means for your money",
-      "url": "https://fox42kptm.com/news/nation-world/wall-streets-wild-ride-what-the-market-volatility-means-for-your-money",
-      "domain": "fox42kptm.com",
-      "country": "United States",
-      "published": "2026-11-07T00:00:00+00:00"
-     },
-     {
-      "title": "Wall Street wild ride : What the market volatility means for your money",
-      "url": "https://kfoxtv.com/news/nation-world/wall-streets-wild-ride-what-the-market-volatility-means-for-your-money",
-      "domain": "kfoxtv.com",
-      "country": "United States",
-      "published": "2026-11-07T00:00:00+00:00"
-     },
-     {
-      "title": "Wall Street wild ride : What the market volatility means for your money",
-      "url": "https://mynews4.com/news/nation-world/wall-streets-wild-ride-what-the-market-volatility-means-for-your-money",
-      "domain": "mynews4.com",
-      "country": "United States",
-      "published": "2026-11-07T00:00:00+00:00"
-     },
-     {
-      "title": "Algoma Central Corporation Reports Financial Results for the 2026 Third Quarter",
-      "url": "https://www.standard-freeholder.com/press-releases/business-wire/algoma-central-corporation-reports-financial-results-for-the-2026-third-quarter/",
-      "domain": "standard-freeholder.com",
-      "country": "Canada",
-      "published": "2026-11-06T14:00:00+00:00"
-     },
-     {
-      "title": "RenX Enterprises Corp .: RenX Microtec Mill Is Built ; Power and Commissioning Are Next",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70060445-renx-enterprises-corp-renx-microtec-mill-is-built-power-and-commissioning-are-next-200.htm",
-      "domain": "finanznachrichten.de",
-      "country": "Germany",
-      "published": "2026-11-06T14:00:00+00:00"
-     },
-     {
-      "title": "A wake - up call : Hamilton - area Americans react to U . S . midterm results",
-      "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-americans-us-midterm-results-democrats-control-congress-9.7411250",
-      "domain": "cbc.ca",
-      "country": "Canada",
-      "published": "2026-11-06T13:00:00+00:00"
-     },
-     {
-      "title": "Diesel drivers face 20p per mile charges in November",
-      "url": "https://www.express.co.uk/life-style/cars/2263836/diesel-drivers-face-20p-per",
-      "domain": "express.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-06T12:30:00+00:00"
-     },
-     {
-      "title": "Forget the midterm election results - Canadians should still not vacation in the United States",
-      "url": "https://www.theglobeandmail.com/opinion/article-forget-the-midterm-election-results-canadians-should-still-not/",
-      "domain": "theglobeandmail.com",
-      "country": "Canada",
-      "published": "2026-11-06T12:30:00+00:00"
-     },
-     {
-      "title": "Enbridge Reports Strong Third Quarter Results , Places Over $3 Billion of Gas Transmission Projects Into Service , and Reaffirms 2026 Financial Guidance",
-      "url": "https://www.prnewswire.com/news-releases/enbridge-reports-strong-third-quarter-results-places-over-3-billion-of-gas-transmission-projects-into-service-and-reaffirms-2026-financial-guidance-302931417.html",
-      "domain": "prnewswire.com",
-      "country": "United States",
-      "published": "2026-11-06T12:30:00+00:00"
-     },
-     {
-      "title": "Russell Brand first night in jail as star makes heartbroken call to wife",
-      "url": "https://www.express.co.uk/celebrity-news/2263846/petrified-russell-brands-first-night-prison",
-      "domain": "express.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-06T12:30:00+00:00"
-     },
-     {
-      "title": "Middle Corridor : $55 Billion in Investment Needed to Turn a Transit Route into an Economic Corridor",
-      "url": "https://timesca.com/middle-corridor-55-billion-in-investment-needed-to-turn-a-transit-route-into-an-economic-corridor/",
-      "domain": "timesca.com",
-      "country": "Kyrgyzstan",
-      "published": "2026-11-06T12:30:00+00:00"
-     },
-     {
-      "title": "Kickstarter CEO is championing human creativity in a flood of AI",
-      "url": "https://fortune.com/2026/11/06/kickstarter-ceo-everette-taylor-human-creativity-ai/",
-      "domain": "fortune.com",
-      "country": "United States",
-      "published": "2026-11-06T12:00:00+00:00"
-     },
-     {
-      "title": "The Trump Administration Tightens Its Stranglehold on Cuba as Regime - Change Threats Escalate",
-      "url": "https://countercurrents.org/2026/11/the-trump-administration-tightens-its-stranglehold-on-cuba-as-regime-change-threats-escalate/",
-      "domain": "countercurrents.org",
-      "country": "India",
-      "published": "2026-11-06T11:30:00+00:00"
-     },
-     {
-      "title": "Schumer , Gillibrand put lower costs and Trump oversight atop post - election agenda",
-      "url": "https://www.fingerlakes1.com/2026/11/06/schumer-gillibrand-put-lower-costs-and-trump-oversight-atop-post-election-agenda/",
-      "domain": "fingerlakes1.com",
-      "country": "United States",
-      "published": "2026-11-06T11:30:00+00:00"
-     },
-     {
-      "title": "No Kings in America . But What About India ?",
-      "url": "https://countercurrents.org/2026/11/no-kings-in-america-but-what-about-india/",
-      "domain": "countercurrents.org",
-      "country": "India",
-      "published": "2026-11-06T11:30:00+00:00"
-     },
-     {
-      "title": "Parex Resources Announces Q3 2026 Results , Delivers Step Change in Production , and Declares Q4 2026 Dividend",
-      "url": "https://www.chathamdailynews.ca/press-releases/globe-newswire/parex-resources-announces-q3-2026-results-delivers-step-change-in-production-and-declares-q4-2026-dividend/",
-      "domain": "chathamdailynews.ca",
-      "country": "Canada",
-      "published": "2026-11-06T11:30:00+00:00"
-     },
-     {
-      "title": "Parex Resources Announces Q3 2026 Results , Delivers Step Change in Production , and Declares Q4 2026 Dividend",
-      "url": "https://www.owensoundsuntimes.com/press-releases/globe-newswire/parex-resources-announces-q3-2026-results-delivers-step-change-in-production-and-declares-q4-2026-dividend/",
-      "domain": "owensoundsuntimes.com",
-      "country": "Canada",
-      "published": "2026-11-06T11:30:00+00:00"
-     },
-     {
-      "title": "Julia Norman | Countercurrents",
-      "url": "https://countercurrents.org/author/julia-norman/",
-      "domain": "countercurrents.org",
-      "country": "India",
-      "published": "2026-11-06T11:30:00+00:00"
-     },
-     {
-      "title": "Letters to the editor , Nov . 6 :  While it polite of us Canadians to believe the U . S . electorate is changing their ways … I dont think Americans have changed one iota",
-      "url": "https://www.theglobeandmail.com/opinion/letters/article-dont-believe-electorate-is-changing-americans-havent-changed-one-iota/",
-      "domain": "theglobeandmail.com",
-      "country": "Canada",
-      "published": "2026-11-06T09:30:00+00:00"
-     },
-     {
-      "title": "Tech Firms Suffer Bloodbath As US Midterms Fuel AI Fears",
-      "url": "https://www.deccanchronicle.com/technology/tech-firms-suffer-bloodbath-as-us-midterms-fuel-ai-fears-2002225",
-      "domain": "deccanchronicle.com",
-      "country": "India",
-      "published": "2026-11-06T09:30:00+00:00"
-     }
-    ],
-    "transporte_maritimo": [
      {
       "title": "Iran Weathering The Storm , But Saudi Arabia Is Sinking",
       "url": "http://www.zerohedge.com/geopolitical/iran-weathering-storm-saudi-arabia-sinking",
       "domain": "zerohedge.com",
       "country": "United States",
+      "published": "2026-11-07T07:00:00+00:00"
+     },
+     {
+      "title": "Nifty , Sensex post strongest weekly gains in over a year amid strong foreign inflows",
+      "url": "https://ianslive.in/nifty-sensex-post-strongest-weekly-gains-in-over-a-year-amid-strong-foreign-inflows--20261107120147",
+      "domain": "ianslive.in",
+      "country": "India",
       "published": "2026-11-07T07:00:00+00:00"
      },
      {
@@ -445,17 +226,17 @@
       "published": "2026-11-07T07:00:00+00:00"
      },
      {
-      "title": "Kiren Rijiju visits historic Al Rahmah Mosque in Saudi Arabia",
-      "url": "https://ianslive.in/kiren-rijiju-visits-historic-al-rahmah-mosque-in-saudi-arabia--20261107101134",
-      "domain": "ianslive.in",
-      "country": "India",
-      "published": "2026-11-07T07:00:00+00:00"
-     },
-     {
       "title": "US military carries out new targeted strikes on Iran",
       "url": "https://www.wisn.com/article/us-military-new-targeted-strikes-iran-mediators-proposal/74363570",
       "domain": "wisn.com",
       "country": "United States",
+      "published": "2026-11-07T07:00:00+00:00"
+     },
+     {
+      "title": "US senator Jon Ossoff emerges as presidential frontrunner after midterms",
+      "url": "https://www.abc.net.au/news/2026-11-07/us-senator-jon-ossoff-democrats-presidential-campaign/107359376",
+      "domain": "abc.net.au",
+      "country": "Australia",
       "published": "2026-11-07T07:00:00+00:00"
      },
      {
@@ -466,13 +247,6 @@
       "published": "2026-11-07T07:00:00+00:00"
      },
      {
-      "title": "Global Gas Supplies To Tighten In Winter Amid Hormuz LNG Shock : IEA",
-      "url": "https://www.businessworld.in/article/global-gas-supplies-to-tighten-in-winter-amid-hormuz-lng-shock-iea-632565",
-      "domain": "businessworld.in",
-      "country": "India",
-      "published": "2026-11-07T07:00:00+00:00"
-     },
-     {
       "title": "Iran claims forces stronger as US offers $20m info reward",
       "url": "https://www.rte.ie/news/world/2026/1107/1598334-information-iran-20m/",
       "domain": "rte.ie",
@@ -480,23 +254,9 @@
       "published": "2026-11-07T07:00:00+00:00"
      },
      {
-      "title": "Uae Natural Gas Shipments : Why new LNG projects may not prevent a global gas crunch this winter",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/why-new-lng-projects-may-not-prevent-a-global-gas-crunch-this-winter/articleshow/135627696.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-11-07T07:00:00+00:00"
-     },
-     {
-      "title": "US military carries out new targeted strikes on Iran",
-      "url": "https://www.wdsu.com/article/us-military-new-targeted-strikes-iran-mediators-proposal/74363570",
-      "domain": "wdsu.com",
-      "country": "United States",
-      "published": "2026-11-07T07:00:00+00:00"
-     },
-     {
-      "title": "Global gas supplies could tighten in winter amid unprecedented Strait of Hormuz supply shock : IEA",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/global-gas-supplies-could-tighten-in-winter-amid-unprecedented-strait-of-hormuz-supply-shock-iea/articleshow/135627211.cms",
-      "domain": "economictimes.indiatimes.com",
+      "title": "Renewed Contestations over Uranium Mining in Meghalaya",
+      "url": "https://www.epw.in/journal/2026/45/commentary/renewed-contestations-over-uranium-mining.html",
+      "domain": "epw.in",
       "country": "India",
       "published": "2026-11-07T06:30:00+00:00"
      },
@@ -508,6 +268,13 @@
       "published": "2026-11-07T06:30:00+00:00"
      },
      {
+      "title": "Blue wave in U . S . doesnt change businesses seeking immediate trade war relief , say sector reps - The Hill Times",
+      "url": "https://www.hilltimes.com/2026/11/07/blue-wave-in-u-s-doesnt-change-businesses-seeking-immediate-relief-in-trade-war/525023/",
+      "domain": "hilltimes.com",
+      "country": "Canada",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
       "title": "Trump says US talking to Iran amid sanctions push",
       "url": "http://www.calcuttanews.net/news/279417982/trump-says-us-talking-to-iran-amid-sanctions-push",
       "domain": "calcuttanews.net",
@@ -515,10 +282,10 @@
       "published": "2026-11-07T06:30:00+00:00"
      },
      {
-      "title": "Global gas supplies could tighten in winter amid unprecedented Strait of Hormuz supply shock : IEA",
-      "url": "http://www.bignewsnetwork.com/news/279418098/global-gas-supplies-could-tighten-in-winter-amid-unprecedented-strait-of-hormuz-supply-shock-iea",
-      "domain": "bignewsnetwork.com",
-      "country": "United States",
+      "title": "US - Iran Negotiations Progress Amid JD Vance Push for Ceasefire and Nuclear Talks",
+      "url": "https://openthemagazine.com/world/us-iran-talks-continue-as-jd-vance-pushes-for-a-new-ceasefire",
+      "domain": "openthemagazine.com",
+      "country": "India",
       "published": "2026-11-07T06:30:00+00:00"
      },
      {
@@ -536,6 +303,13 @@
       "published": "2026-11-07T06:30:00+00:00"
      },
      {
+      "title": "Wall Street grapples with $5 . 7 trillion rout as AI bets unwind",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
       "title": "Trump Signals Willingness to Collaborate with Democrats on Immigration and Taxes After Midterm Losses",
       "url": "https://openthemagazine.com/world/trump-offers-democrats-immigration-and-tax-talks-after-midterm-losses",
       "domain": "openthemagazine.com",
@@ -543,10 +317,10 @@
       "published": "2026-11-07T06:30:00+00:00"
      },
      {
-      "title": "Global gas supplies could tighten in winter amid unprecedented Strait of Hormuz supply shock : IEA",
-      "url": "https://aninews.in/news/business/global-gas-supplies-could-tighten-in-winter-amid-unprecedented-strait-of-hormuz-supply-shock-iea20261107102937/",
-      "domain": "aninews.in",
-      "country": "India",
+      "title": "Treasury Department sanctions eight Canadian firms over Iran ties",
+      "url": "https://www.el-balad.com/17064665",
+      "domain": "el-balad.com",
+      "country": "Egypt",
       "published": "2026-11-07T06:30:00+00:00"
      },
      {
@@ -564,9 +338,37 @@
       "published": "2026-11-07T06:30:00+00:00"
      },
      {
+      "title": "The Bibi Factor : How Netanyahu Political Longevity Impacts India - Israel Relations",
+      "url": "https://openthemagazine.com/columns/the-bibi-factor-is-netanyahus-political-longevity-good-for-india",
+      "domain": "openthemagazine.com",
+      "country": "India",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
+      "title": "RIGHT SPEAK : 180 Combat Clashes ( 15 Kostiantynivka , 8 Huliaipole , 7 Lyman ); Toll From RU Bombing of UKR Aid Point Hits 53 ; with SAR Ongoing ; Z : UKR To Keep Attacking RU Oil Refs ; Putin Expects More UKR Land for Security Guarantees ; Z Warns ...",
+      "url": "http://www.rightspeak.net/2026/11/180-combat-clashes-15-kostiantynivka-8.html",
+      "domain": "rightspeak.net",
+      "country": "United States",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
+      "title": "US Blue  Wash  Govt connections key ; final word on US T & T ambassador",
+      "url": "https://www.guardian.co.tt/opinion/us-blue-washgovt-connections-key-final-word-on-us-tt-ambassador-6.2.2704800.9094a2093d",
+      "domain": "guardian.co.tt",
+      "country": "Trinidad and Tobago",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
       "title": "Iran says forces  stronger  than at beginning of war",
       "url": "https://www.thehindu.com/news/international/iran-says-forces-stronger-than-at-beginning-of-war/article71677400.ece",
       "domain": "thehindu.com",
+      "country": "India",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
+      "title": "When will action be taken ?: Rahul Gandhi targets Centre over E20 petrol row",
+      "url": "http://www.calcuttanews.net/news/279418100/when-will-action-be-taken-rahul-gandhi-targets-centre-over-e20-petrol-row",
+      "domain": "calcuttanews.net",
       "country": "India",
       "published": "2026-11-07T06:30:00+00:00"
      },
@@ -599,105 +401,303 @@
       "published": "2026-11-07T06:30:00+00:00"
      },
      {
-      "title": "Iran reviews Qatar proposal to revive nuclear talks with US",
-      "url": "https://www.siasat.com/iran-reviews-qatar-proposal-to-revive-nuclear-talks-with-us-3571101/",
-      "domain": "siasat.com",
+      "title": "Shoppers blamed for Swindon town centre rats and pigeons mess",
+      "url": "https://www.swindonadvertiser.co.uk/news/26703687.shoppers-blamed-swindon-town-centre-rats-pigeons-mess/",
+      "domain": "swindonadvertiser.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-07T06:00:00+00:00"
+     }
+    ],
+    "economia_mundial": [
+     {
+      "title": "Diwali 2026 Muhurat Trading : Celebrations aboard ! Nifty gains in 12 out of 15 Muhurat sessions ; check performance",
+      "url": "https://www.livemint.com/market/stock-market-news/diwali-2026-muhurat-trading-celebrations-aboard-nifty-gains-in-12-out-of-15-muhurat-sessions-check-performance-11794040199490.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-07T09:30:00+00:00"
+     },
+     {
+      "title": "Muhurat trading 2026 : Ganesh Dongre of Anand Rathi sees Sensex at 1 , 00 , 000 next Diwali ? Shares 3 Samvat 2083 stock picks",
+      "url": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-ganesh-dongre-of-anand-rathi-sees-sensex-at-1-00-000-next-diwali-shares-3-samvat-2083-stock-picks-11794029018255.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-07T09:30:00+00:00"
+     },
+     {
+      "title": "Nifty , Sensex post strongest weekly gains in over a year amid strong foreign inflows",
+      "url": "https://ianslive.in/nifty-sensex-post-strongest-weekly-gains-in-over-a-year-amid-strong-foreign-inflows--20261107120147",
+      "domain": "ianslive.in",
+      "country": "India",
+      "published": "2026-11-07T07:00:00+00:00"
+     },
+     {
+      "title": "AI stocks halt their brutal , worldwide sell - off",
+      "url": "https://www.ironmountaindailynews.com/news/business/2026/11/ai-stocks-halt-their-brutal-worldwide-sell-off/",
+      "domain": "ironmountaindailynews.com",
+      "country": "United States",
+      "published": "2026-11-07T07:00:00+00:00"
+     },
+     {
+      "title": "Ousted Paraguay president under house arrest after bank collapse",
+      "url": "http://www.bignewsnetwork.com/news/279418169/ousted-paraguay-president-under-house-arrest-after-bank-collapse",
+      "domain": "bignewsnetwork.com",
+      "country": "United States",
+      "published": "2026-11-07T07:00:00+00:00"
+     },
+     {
+      "title": "Cars to Clogs : Dhanteras Brings Out the Riches",
+      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/nov/07/satet-front/cars-to-clogs-dhanteras-brings-out-the-riches/articleshow/135621280.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
+      "title": "Tariff cuts spark duty burden debate",
+      "url": "https://tribune.com.pk/story/2639043/tariff-cuts-spark-duty-burden-debate",
+      "domain": "tribune.com.pk",
+      "country": "Pakistan",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
+      "title": "Muhurat Trading 2026 Diwali stocks to buy for upto 109 % upside : BSE , Adani Power , HFCL , TechM - SAMCO 10 shares | List",
+      "url": "https://www.livemint.com/market/stock-market-news/muhurat-trading-2026-diwali-stocks-to-buy-for-upto-109-upside-bse-adani-power-hfcl-techm-samcos-10-shares-list-11794024034171.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
+      "title": "China Deepening Economic Crisis : A Self - Inflicted Wound",
+      "url": "https://www.chiangraitimes.com/china/chinas-economic-crisis/",
+      "domain": "chiangraitimes.com",
+      "country": "Thailand",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
+      "title": "Blue wave in U . S . doesnt change businesses seeking immediate trade war relief , say sector reps - The Hill Times",
+      "url": "https://www.hilltimes.com/2026/11/07/blue-wave-in-u-s-doesnt-change-businesses-seeking-immediate-relief-in-trade-war/525023/",
+      "domain": "hilltimes.com",
+      "country": "Canada",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
+      "title": "Crude gains on worries about renewed US attacks on Iran",
+      "url": "https://arynews.tv/crude-gains-on-worries-about-renewed-us-attacks-on-iran",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
+      "title": "Canada Foreign Buyer Ban Changes Could Boost British Columbia Housing Market , Expert Says",
+      "url": "https://www.thenorwester.ca/canadas-foreign-buyer-ban-changes-could-boost-british-columbia-housing-market-expert-says/",
+      "domain": "thenorwester.ca",
+      "country": "Canada",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
+      "title": "D St Lights Up , Ends Diwali Week with a Firecracker of a Friday",
+      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/nov/07/satet-front/d-st-lights-up-ends-diwali-week-with-a-firecracker-of-a-friday/articleshow/135621274.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
+      "title": "Molson Coors Beverage ( NYSE : TAP ) Announces Earnings Results , Beats Estimates By $0 . 02 EPS",
+      "url": "https://www.dailypolitical.com/2026/11/06/molson-coors-beverage-nysetap-announces-earnings-results-beats-estimates-by-0-02-eps.html",
+      "domain": "dailypolitical.com",
+      "country": "United States",
+      "published": "2026-11-07T06:00:00+00:00"
+     },
+     {
+      "title": "Federal Govt Pushes Production - Driven Economy As Non - Oil Exports Hit $6 . 1bn",
+      "url": "https://leadership.ng/federal-govt-pushes-production-driven-economy-as-non-oil-exports-hit-6-1bn/",
+      "domain": "leadership.ng",
+      "country": "Nigeria",
+      "published": "2026-11-07T06:00:00+00:00"
+     },
+     {
+      "title": "Rebalancing Nature Books | Countercurrents",
+      "url": "https://countercurrents.org/2026/11/rebalancing-natures-books/",
+      "domain": "countercurrents.org",
       "country": "India",
       "published": "2026-11-07T06:00:00+00:00"
      },
      {
-      "title": "Republican Post - Midterms War Denialism Is an Exercise in Special Pleading",
-      "url": "https://www.theamericanconservative.com/republicans-post-midterms-war-denialism-is-an-exercise-in-special-pleading/",
-      "domain": "theamericanconservative.com",
+      "title": "My Digital Strategy Secret for Corporate Brand – THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/11/07/my-digital-strategy-secret-for-corporate-brands/",
+      "domain": "thisdaylive.com",
+      "country": "Nigeria",
+      "published": "2026-11-07T05:00:00+00:00"
+     },
+     {
+      "title": "Molson Coors Beverage ( NYSE : TAP ) Issues Quarterly Earnings Results",
+      "url": "https://www.tickerreport.com/banking-finance/13653392/molson-coors-beverage-nysetap-issues-quarterly-earnings-results.html",
+      "domain": "tickerreport.com",
       "country": "United States",
-      "published": "2026-11-07T06:00:00+00:00"
+      "published": "2026-11-07T05:00:00+00:00"
      },
      {
-      "title": "US carries out targeted strikes as Iran leaders weigh proposals",
-      "url": "https://www.wsbradio.com/news/politics/iran-is-reviewing/DCKLGLLBZAYXHPUEJTEFOOS6FY/",
-      "domain": "wsbradio.com",
+      "title": "Elanco Animal Health ( NYSE : ELAN ) Announces Earnings Results , Beats Estimates By $0 . 07 EPS",
+      "url": "https://www.dailypolitical.com/2026/11/06/elanco-animal-health-nyseelan-announces-earnings-results-beats-estimates-by-0-07-eps.html",
+      "domain": "dailypolitical.com",
       "country": "United States",
-      "published": "2026-11-07T06:00:00+00:00"
+      "published": "2026-11-07T05:00:00+00:00"
      },
      {
-      "title": "Qatar continues mediation in US - Iran conflict",
-      "url": "https://www.goulburnpost.com.au/story/9387487/qatar-continues-mediation-in-us-iran-conflict/",
-      "domain": "goulburnpost.com.au",
-      "country": "Australia",
-      "published": "2026-11-07T06:00:00+00:00"
-     },
-     {
-      "title": "Overlooked holiday hotspot with 28C November weather and £71 Newcastle flights",
-      "url": "https://www.chroniclelive.co.uk/lifestyle/travel/overlooked-holiday-hotspot-28c-november-34862159",
-      "domain": "chroniclelive.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-07T06:00:00+00:00"
-     },
-     {
-      "title": "US carries out new targeted strikes on Iran , targeting air defense system",
-      "url": "https://www.hindustantimes.com/world-news/us-news/us-military-carries-out-new-targeted-strikes-on-iran-targeting-air-defense-system-101794018415195.html",
-      "domain": "hindustantimes.com",
+      "title": "Moneycontrol Pro Weekender | The Morning After",
+      "url": "https://www.moneycontrol.com/news/business/markets/moneycontrol-pro-weekender-the-morning-after-14073188.html",
+      "domain": "moneycontrol.com",
       "country": "India",
-      "published": "2026-11-07T06:00:00+00:00"
+      "published": "2026-11-07T05:00:00+00:00"
      },
      {
-      "title": "US military carries out new targeted strikes on Iran",
-      "url": "https://www.wvtm13.com/article/us-military-new-targeted-strikes-iran-mediators-proposal/74363570",
-      "domain": "wvtm13.com",
+      "title": "Compass Q3 Earnings Call Highlights",
+      "url": "https://www.dailypolitical.com/2026/11/06/compass-q3-earnings-call-highlights.html",
+      "domain": "dailypolitical.com",
       "country": "United States",
-      "published": "2026-11-07T06:00:00+00:00"
-     },
-     {
-      "title": "Trump says US talking to Iran amid sanctions push",
-      "url": "http://www.torontotelegraph.com/news/279417982/trump-says-us-talking-to-iran-amid-sanctions-push",
-      "domain": "torontotelegraph.com",
-      "country": "Canada",
-      "published": "2026-11-07T06:00:00+00:00"
-     },
-     {
-      "title": "Qatar continues mediation in US - Iran conflict",
-      "url": "https://www.juneesoutherncross.com.au/story/9387487/qatar-continues-mediation-in-us-iran-conflict/",
-      "domain": "juneesoutherncross.com.au",
-      "country": "Australia",
-      "published": "2026-11-07T06:00:00+00:00"
-     },
-     {
-      "title": "Global gas supplies could tighten in winter amid unprecedented Strait of Hormuz supply shock : IEA",
-      "url": "http://www.torontotelegraph.com/news/279418098/global-gas-supplies-could-tighten-in-winter-amid-unprecedented-strait-of-hormuz-supply-shock-iea",
-      "domain": "torontotelegraph.com",
-      "country": "Canada",
-      "published": "2026-11-07T06:00:00+00:00"
-     },
-     {
-      "title": "US carries out another round of  minor  strikes on Iran , Trump says",
-      "url": "https://www.aol.co.uk/articles/us-carries-another-round-minor-030701000.html",
-      "domain": "aol.co.uk",
-      "country": "United Kingdom",
       "published": "2026-11-07T05:00:00+00:00"
      },
      {
-      "title": "US offers $29m for details on Iran nuclear program , as part of Rewards for Justice",
-      "url": "https://www.abc.net.au/news/2026-11-07/us-20-million-rewards-for-justice-iran-nuclear-program-details/107359156",
-      "domain": "abc.net.au",
-      "country": "Australia",
+      "title": "10 Expenses You Need To Cut Now For The Upcoming Economic Depression",
+      "url": "https://www.zerohedge.com/personal-finance/10-expenses-you-need-cut-now-upcoming-economic-depression",
+      "domain": "zerohedge.com",
+      "country": "United States",
       "published": "2026-11-07T05:00:00+00:00"
      },
      {
-      "title": "Trump says US talking to Iran amid sanctions push",
-      "url": "http://www.austinglobe.com/news/279417982/trump-says-us-talking-to-iran-amid-sanctions-push",
+      "title": "US labour market regains ground as job growth surges , unemployment rate falls to 4 . 1 %",
+      "url": "https://bdnews24.com/business/bj6kpf9kp3",
+      "domain": "bdnews24.com",
+      "country": "Bangladesh",
+      "published": "2026-11-07T05:00:00+00:00"
+     },
+     {
+      "title": "Wall Street stocks rally after heavy AI - related selloff",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-stocks-rally-after-heavy-ai-related-selloff/articleshow/135626123.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-07T05:00:00+00:00"
+     },
+     {
+      "title": "D Street lights up , ends Diwali week with a firecracker of a Friday",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-lights-up-ends-diwali-week-with-a-firecracker-of-a-friday/articleshow/135625998.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-07T05:00:00+00:00"
+     },
+     {
+      "title": "Kentucky vs . Tennessee markets have expanded on Kalshi ; $55 referral code  ROCKY  now live through Week 10",
+      "url": "https://www.rockytopinsider.com/2026/11/06/kentucky-tennessee-markets-expanded-kalshi-referral-code-rocky-week-10/",
+      "domain": "rockytopinsider.com",
+      "country": "United States",
+      "published": "2026-11-07T02:00:00+00:00"
+     },
+     {
+      "title": "Impeached Paraguay President Peña placed under house arrest after bank collapse",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/impeached-paraguay-president-pea-placed-under-house-arrest-after-bank-collapse/articleshow/135624172.cms",
+      "domain": "timesofindia.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-07T02:00:00+00:00"
+     },
+     {
+      "title": "Kentucky vs . Tennessee markets have expanded on Polymarket ; $25 promo code  ROCKY  now live through Week 10",
+      "url": "https://www.rockytopinsider.com/2026/11/06/kentucky-tennessee-markets-expanded-polymarket-promo-code-rocky-week-10/",
+      "domain": "rockytopinsider.com",
+      "country": "United States",
+      "published": "2026-11-07T02:00:00+00:00"
+     },
+     {
+      "title": "Northern Thailand Rice Harvest Meets Two - Year Price High",
+      "url": "https://www.chiangraitimes.com/business/northern-thailand-rice/",
+      "domain": "chiangraitimes.com",
+      "country": "Thailand",
+      "published": "2026-11-07T02:00:00+00:00"
+     },
+     {
+      "title": "Nasdaq rebounds , ends week with with 264 points gain",
+      "url": "http://www.afghanistansun.com/news/279416723/nasdaq-rebounds-ends-week-with-with-264-points-gain",
+      "domain": "afghanistansun.com",
+      "country": "Afghanistan",
+      "published": "2026-11-07T02:00:00+00:00"
+     },
+     {
+      "title": "Technology stocks in demand Friday , Nasdaq surges 264 points",
+      "url": "http://www.myanmarnews.net/news/279416723/technology-stocks-in-demand-friday-nasdaq-surges-264-points",
+      "domain": "myanmarnews.net",
+      "country": "Myanmar",
+      "published": "2026-11-07T02:00:00+00:00"
+     },
+     {
+      "title": "D St Lights Up , Ends Diwali Week with a Firecracker of a Friday",
+      "url": "https://economictimes.indiatimes.com/satet-front/d-st-lights-up-ends-diwali-week-with-a-firecracker-of-a-friday/articleshow/135621274.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-07T01:00:00+00:00"
+     },
+     {
+      "title": "Kenorland Minerals Closes Oversubscribed $16 Million Financing",
+      "url": "https://www.chathamdailynews.ca/press-releases/newsfile/kenorland-minerals-closes-oversubscribed-16-million-financing/",
+      "domain": "chathamdailynews.ca",
+      "country": "Canada",
+      "published": "2026-11-07T01:00:00+00:00"
+     },
+     {
+      "title": "Pakistan external debt nearly doubled to $135bn in a decade : World Bank report",
+      "url": "https://www.dailyexcelsior.com/pakistans-external-debt-nearly-doubled-to-135bn-in-a-decade-world-bank-report/",
+      "domain": "dailyexcelsior.com",
+      "country": "India",
+      "published": "2026-11-07T01:00:00+00:00"
+     },
+     {
+      "title": "AI stocks halt their brutal , worldwide sell - off as Wall Street trims its loss for the week",
+      "url": "https://www.timesleader.com/news/1764658/ai-stocks-halt-their-brutal-worldwide-sell-off-as-wall-street-trims-its-loss-for-the-week",
+      "domain": "timesleader.com",
+      "country": "United States",
+      "published": "2026-11-07T01:00:00+00:00"
+     },
+     {
+      "title": "Guest commentary : What entrepreneurship teaches us about risk , responsibility and reinvention",
+      "url": "https://www.pacbiztimes.com/2026/11/06/guest-commentary-what-entrepreneurship-teaches-us-about-risk-responsibility-and-reinvention/",
+      "domain": "pacbiztimes.com",
+      "country": "United States",
+      "published": "2026-11-07T01:00:00+00:00"
+     },
+     {
+      "title": "AI stocks halt their brutal , worldwide sell - off as Wall Street trims its loss for the week",
+      "url": "http://www.wyomingnews.com/news/from_the_wire/ai-stocks-halt-their-brutal-worldwide-sell-off-as-wall-street-trims-its-loss-for/article_211b2f60-0e0e-5848-8da6-f27bda776f46.html",
+      "domain": "wyomingnews.com",
+      "country": "United States",
+      "published": "2026-11-07T00:00:00+00:00"
+     },
+     {
+      "title": "THE SHELL LEAKS FILES 6 NOVEMBER 2026 – Royal Dutch Shell Plc . com",
+      "url": "https://royaldutchshellplc.com/2026/11/06/the-shell-leaks-files-6-november-2026/",
+      "domain": "royaldutchshellplc.com",
+      "country": "Netherlands",
+      "published": "2026-11-07T00:00:00+00:00"
+     },
+     {
+      "title": "Nasdaq rebounds , ends week with with 264 points gain",
+      "url": "http://www.austinglobe.com/news/279416723/nasdaq-rebounds-ends-week-with-with-264-points-gain",
       "domain": "austinglobe.com",
       "country": "United States",
-      "published": "2026-11-07T05:00:00+00:00"
+      "published": "2026-11-07T00:00:00+00:00"
+     },
+     {
+      "title": "Liberty Gold Reports Q3 2026 Financial and Operating Results",
+      "url": "https://www.mykxlg.com/online_features/press_releases/liberty-gold-reports-q3-2026-financial-and-operating-results/article_3083d1eb-83b0-5043-8d71-edfadc63f9b0.html",
+      "domain": "mykxlg.com",
+      "country": "United States",
+      "published": "2026-11-07T00:00:00+00:00"
      }
     ]
    },
    "errors": {
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
