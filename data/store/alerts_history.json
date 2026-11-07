@@ -1,5 +1,22 @@
 [
  {
+  "id": "b51d03dd2d5d",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-07",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 4 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “An airstrike has killed 25 people near Yemen capital , Houthi official says” (wwaytv3.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "wwaytv3.com",
+  "url": "https://www.wwaytv3.com/an-airstrike-has-killed-25-people-near-yemens-capital-houthi-official-says/",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-07T12:58:57-06:00"
+ },
+ {
   "id": "81b75274db2b",
   "indicator": "cp-ormuz",
   "name": "Punto crítico logístico",
