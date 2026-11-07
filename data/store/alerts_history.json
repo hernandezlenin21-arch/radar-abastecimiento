@@ -1,5 +1,22 @@
 [
  {
+  "id": "81b75274db2b",
+  "indicator": "cp-ormuz",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-07",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Estrecho de Ormuz: 2 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “No backing down  Strait of Hormuz will stay shut until US accepts its terms , says Iran” (thestar.com.my). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "thestar.com.my",
+  "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/07/039no-backing-down039-strait-of-hormuz-will-stay-shut-until-us-accepts-its-terms-says-iran",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-07T07:07:38-06:00"
+ },
+ {
   "id": "1b66fb516edf",
   "indicator": "cp-ormuz",
   "name": "Punto crítico logístico",
