@@ -1,5 +1,22 @@
 [
  {
+  "id": "9a15b69cfff5",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-08",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 1 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Saudi Energy Ministry confirms attempted strike on Aramco facility in Riyadh after Houthis claim operations against kingdom” (kenyastar.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "kenyastar.com",
+  "url": "http://www.kenyastar.com/news/279420522/saudi-energy-ministry-confirms-attempted-strike-on-aramco-facility-in-riyadh-after-houthis-claim-operations-against-kingdom",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-08T15:50:35-06:00"
+ },
+ {
   "id": "f6f0e730f587",
   "indicator": "cp-ormuz",
   "name": "Punto crítico logístico",
