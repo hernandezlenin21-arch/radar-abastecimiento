@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-07T19:22:52-06:00",
+  "at": "2026-11-07T22:06:13-06:00",
   "data": {
    "storms": [
     {
@@ -9,100 +9,100 @@
      "binNumber": "CP4",
      "name": "Pena",
      "classification": "TS",
-     "intensity": "45",
-     "pressure": "998",
-     "latitude": "11.5N",
-     "longitude": "153.9W",
-     "latitudeNumeric": 11.5,
-     "longitudeNumeric": -153.9,
-     "movementDir": 285,
+     "intensity": "50",
+     "pressure": "993",
+     "latitude": "11.4N",
+     "longitude": "154.5W",
+     "latitudeNumeric": 11.4,
+     "longitudeNumeric": -154.5,
+     "movementDir": 280,
      "movementSpeed": 9,
-     "lastUpdate": "2026-11-07T21:00:00.000Z",
+     "lastUpdate": "2026-11-08T03:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "005",
-      "issuance": "2026-11-07T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T20:46:16.218Z",
+      "advNum": "006",
+      "issuance": "2026-11-08T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-08T02:32:45.728Z",
       "url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "005",
-      "issuance": "2026-11-07T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T20:45:46.340Z",
+      "advNum": "006",
+      "issuance": "2026-11-08T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-08T02:32:13.877Z",
       "url": "https://www.nhc.noaa.gov/text/HFOTCMCP4.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "005",
-      "issuance": "2026-11-07T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T20:46:16.242Z",
+      "advNum": "006",
+      "issuance": "2026-11-08T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-08T02:32:44.574Z",
       "url": "https://www.nhc.noaa.gov/text/HFOPWSCP4.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "005",
-      "issuance": "2026-11-07T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T20:46:41.006Z",
+      "advNum": "006",
+      "issuance": "2026-11-08T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-08T02:33:15.062Z",
       "url": "https://www.nhc.noaa.gov/text/HFOTCDCP4.shtml"
      },
      "forecastGraphics": {
-      "advNum": "005",
-      "issuance": "2026-11-07T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T20:46:16.218Z",
+      "advNum": "006",
+      "issuance": "2026-11-08T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-08T02:32:45.728Z",
       "url": "https://www.nhc.noaa.gov/graphics_cp4.shtml"
      },
      "forecastTrack": {
-      "advNum": "005",
-      "issuance": "2026-11-07T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T20:47:54.476Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_005.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_005adv_TRACK.kmz"
+      "advNum": "006",
+      "issuance": "2026-11-08T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-08T02:34:24.672Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_006.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_006adv_TRACK.kmz"
      },
      "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "005",
-      "issuance": "2026-11-07T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T20:47:48.340Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_005.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_005adv_CONE.kmz"
+      "advNum": "006",
+      "issuance": "2026-11-08T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-08T02:34:19.060Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_006.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_006adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "005",
-      "issuance": "2026-11-07T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T20:48:27.866Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_005.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_initialradii_005adv.kmz"
+      "advNum": "006",
+      "issuance": "2026-11-08T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-08T02:34:53.617Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_006.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_initialradii_006adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "005",
-      "issuance": "2026-11-07T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T20:48:23.627Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_005.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_forecastradii_005adv.kmz"
+      "advNum": "006",
+      "issuance": "2026-11-08T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-08T02:34:49.777Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_006.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_forecastradii_006adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-11-07T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T20:48:05.303Z",
+      "issuance": "2026-11-08T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-08T02:34:33.982Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/cp042026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/cp042026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "005",
-      "issuance": "2026-11-07T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T20:47:50.622Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_005adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "006",
+      "issuance": "2026-11-08T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-08T02:34:20.958Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_006adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "005",
-      "issuance": "2026-11-07T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T20:47:52.562Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_005adv_most_likely_toa_34.kmz"
+      "advNum": "006",
+      "issuance": "2026-11-08T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-08T02:34:22.833Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_006adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-11-07T18:00:00.000Z",
-      "fileUpdateTime": "2026-11-07T21:21:27.262Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110718_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110718_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110718_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110718_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110718_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-11-08T00:00:00.000Z",
+      "fileUpdateTime": "2026-11-08T03:21:30.066Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110800_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110800_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110800_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110800_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110800_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-07T19:22:52-06:00",
+  "at": "2026-11-07T22:06:13-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,291 +123,9 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-07T19:22:52-06:00",
+  "at": "2026-11-07T22:06:13-06:00",
   "data": {
    "raw": {
-    "energia": [
-     {
-      "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
-      "url": "http://www.theusnews.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
-      "domain": "theusnews.com",
-      "country": "United States",
-      "published": "2026-11-08T00:00:00+00:00"
-     },
-     {
-      "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
-      "url": "http://www.coloradostar.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
-      "domain": "coloradostar.com",
-      "country": "United States",
-      "published": "2026-11-08T00:00:00+00:00"
-     },
-     {
-      "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
-      "url": "http://www.sierraleonetimes.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
-      "domain": "sierraleonetimes.com",
-      "country": "Sierra Leone",
-      "published": "2026-11-08T00:00:00+00:00"
-     },
-     {
-      "title": "BYD , Geely to save this type of car",
-      "url": "https://www.canberratimes.com.au/story/9387589/byd-geely-to-save-this-type-of-car/",
-      "domain": "canberratimes.com.au",
-      "country": "Australia",
-      "published": "2026-11-08T00:00:00+00:00"
-     },
-     {
-      "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
-      "url": "http://www.haitisun.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
-      "domain": "haitisun.com",
-      "country": "United States",
-      "published": "2026-11-08T00:00:00+00:00"
-     },
-     {
-      "title": "Inflation , housing , jobs and corporate earnings will dominate the business calendar this week",
-      "url": "https://japantoday.com/category/business/inflation-housing-jobs-and-corporate-earnings-will-dominate-the-business-calendar-this-week",
-      "domain": "japantoday.com",
-      "country": "Japan",
-      "published": "2026-11-08T00:00:00+00:00"
-     },
-     {
-      "title": "The Iran War Is as America First as It Gets",
-      "url": "https://jewlicious.com/2026/11/iran-war-america-first/",
-      "domain": "jewlicious.com",
-      "country": "Israel",
-      "published": "2026-11-08T00:00:00+00:00"
-     },
-     {
-      "title": "Fuel costs jump 34 % in the last year",
-      "url": "https://www.namibian.com.na/fuel-costs-jump-34-in-the-last-year/",
-      "domain": "namibian.com.na",
-      "country": "Namibia",
-      "published": "2026-11-08T00:00:00+00:00"
-     },
-     {
-      "title": "Bahrain News : Call to transfer part of oil revenue to pension fund",
-      "url": "https://www.gdnonline.com:443/Details/1412164",
-      "domain": "gdnonline.com",
-      "country": "United States",
-      "published": "2026-11-08T00:00:00+00:00"
-     },
-     {
-      "title": "UAE : ADNOC Gas and Sharjah National Oil Corporation sign strategic collaboration agreement to advance UAE gas network integration",
-      "url": "https://www.energy-pedia.com/news/united-arab-emirates/adnoc-gas-and-sharjah-national-oil-corporation-sign-strategic-collaboration-agreement-to-advance-uae-gas-network-integration-205996",
-      "domain": "energy-pedia.com",
-      "country": "United Kingdom",
-      "published": "2026-11-08T00:00:00+00:00"
-     },
-     {
-      "title": "Reviewing ConocoPhillips ( NYSE : COP ) and Vaalco Energy ( NYSE : EGY )",
-      "url": "https://www.themarketsdaily.com/2026/11/07/reviewing-conocophillips-nysecop-and-vaalco-energy-nyseegy.html",
-      "domain": "themarketsdaily.com",
-      "country": "United States",
-      "published": "2026-11-07T22:00:00+00:00"
-     },
-     {
-      "title": "US Military Launches New Task Force To Block Iran Ground Routes , Target Weapons Shipments , Others",
-      "url": "https://saharareporters.com/2026/11/07/us-military-launches-new-task-force-block-irans-ground-routes-target-weapons-shipments",
-      "domain": "saharareporters.com",
-      "country": "Nigeria",
-      "published": "2026-11-07T22:00:00+00:00"
-     },
-     {
-      "title": "AI Stocks Are Falling ; Bitcoin Is Holding Ground . Here What Could Come Next .",
-      "url": "https://www.fool.com/investing/2026/11/07/ai-stocks-are-falling-bitcoin-is-holding-ground/",
-      "domain": "fool.com",
-      "country": "United States",
-      "published": "2026-11-07T19:00:00+00:00"
-     },
-     {
-      "title": "Tata Steel reports Rs 5 , 055 crore net profit in India business for Q2FY27",
-      "url": "http://www.coloradostar.com/news/279418523/tata-steel-reports-rs-5055-crore-net-profit-in-india-business-for-q2fy27",
-      "domain": "coloradostar.com",
-      "country": "United States",
-      "published": "2026-11-07T19:00:00+00:00"
-     },
-     {
-      "title": "AI sell - off wipes out Wall Street post - election rally ; major Asian markets also plunge up to 8 %",
-      "url": "http://www.zimbabwestar.com/news/279415265/ai-sell-off-wipes-out-wall-street-post-election-rally-major-asian-markets-also-plunge-up-to-8",
-      "domain": "zimbabwestar.com",
-      "country": "Zimbabwe",
-      "published": "2026-11-07T19:00:00+00:00"
-     },
-     {
-      "title": "Tata Steel reports Rs 5 , 055 crore net profit in India business for Q2FY27",
-      "url": "http://www.britainnews.net/news/279418523/tata-steel-reports-rs-5055-crore-net-profit-in-india-business-for-q2fy27",
-      "domain": "britainnews.net",
-      "country": "United Kingdom",
-      "published": "2026-11-07T18:30:00+00:00"
-     },
-     {
-      "title": "Tata Steel reports Rs 5 , 055 crore net profit in India business for Q2FY27",
-      "url": "http://www.japanherald.com/news/279418523/tata-steel-reports-rs-5055-crore-net-profit-in-india-business-for-q2fy27",
-      "domain": "japanherald.com",
-      "country": "Japan",
-      "published": "2026-11-07T18:30:00+00:00"
-     },
-     {
-      "title": "MGE Energy ( NASDAQ : MGEE ) Stock Rating Raised to  Buy  at Freedom Broker",
-      "url": "https://www.dailypolitical.com/2026/11/07/mge-energy-nasdaqmgee-stock-rating-raised-to-buy-at-freedom-broker.html",
-      "domain": "dailypolitical.com",
-      "country": "United States",
-      "published": "2026-11-07T18:30:00+00:00"
-     },
-     {
-      "title": "Tata Steel reports Rs 5 , 055 crore net profit in India business for Q2FY27",
-      "url": "http://www.chinanationalnews.com/news/279418523/tata-steel-reports-rs-5055-crore-net-profit-in-india-business-for-q2fy27",
-      "domain": "chinanationalnews.com",
-      "country": "China",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "Inflation , housing , jobs and corporate earnings will dominate the business calendar this week",
-      "url": "http://www.wdtimes.com/news/national/inflation-housing-jobs-and-corporate-earnings-will-dominate-the-business-calendar-this-week/article_b5a029a8-f4e0-5459-9cc3-0710f814d2b9.html",
-      "domain": "wdtimes.com",
-      "country": "United States",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "Tata Steel reports Rs 5 , 055 crore net profit in India business for Q2FY27",
-      "url": "http://www.brazilsun.com/news/279418523/tata-steel-reports-rs-5055-crore-net-profit-in-india-business-for-q2fy27",
-      "domain": "brazilsun.com",
-      "country": "Brazil",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "US Rig Count Hits 604 as Crude Output Sets Record",
-      "url": "https://en.shafaqna.com/489789/us-rig-count-604-crude-record/",
-      "domain": "en.shafaqna.com",
-      "country": "Saudi Arabia",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "India refineries turn Russian crude into global power",
-      "url": "https://avenuemail.in/indias-refineries-turn-russian-crude-into-global-power/",
-      "domain": "avenuemail.in",
-      "country": "India",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "Inflation , housing , jobs and corporate earnings will dominate the business calendar this week",
-      "url": "https://abcnews.com/Business/wireStory/inflation-housing-jobs-corporate-earnings-dominate-business-calendar-137941014",
-      "domain": "abcnews.com",
-      "country": "United States",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "November 7 , 2026 UPDATE - Radio Romania International",
-      "url": "https://www.rri.ro/en/news-and-current-affairs/newsflash/november-7-2026-update-id1080986.html",
-      "domain": "rri.ro",
-      "country": "Romania",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "From high - flying AI stocks to tariff - hit alcohol companies , the midterms shook up Wall Street",
-      "url": "https://abcnews.com/Business/wireStory/high-flying-ai-stocks-tariff-hit-alcohol-companies-137938660",
-      "domain": "abcnews.com",
-      "country": "United States",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "Energy Security Over Transition : Iran War Lesson",
-      "url": "https://en.shafaqna.com/489783/energy-security-over-transition/",
-      "domain": "en.shafaqna.com",
-      "country": "Saudi Arabia",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "From high - flying AI stocks to tariff - hit alcohol companies , the midterms shook up Wall Street",
-      "url": "https://www.nvdaily.com/associated_press_national/from-high-flying-ai-stocks-to-tariff-hit-alcohol-companies-the-midterms-shook-up-wall/article_47c0ae4b-6079-5863-8d8a-28761a1271f9.html",
-      "domain": "nvdaily.com",
-      "country": "United States",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "Tata Steel reports Rs 5 , 055 crore net profit in India business for Q2FY27",
-      "url": "http://www.azerbaijannews.net/news/279418523/tata-steel-reports-rs-5055-crore-net-profit-in-india-business-for-q2fy27",
-      "domain": "azerbaijannews.net",
-      "country": "Azerbaijan",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "Head - To - Head Survey : Star Group ( SGU ) & Its Peers",
-      "url": "https://www.themarketsdaily.com/2026/11/07/head-to-head-survey-star-group-sgu-its-peers.html",
-      "domain": "themarketsdaily.com",
-      "country": "United States",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "Tucker Carlson Explains How Republicans Betrayed Their Way Into A Massive Election Night Loss",
-      "url": "https://www.themainewire.com/2026/11/tucker-carlson-explains-how-republicans-betrayed-their-way-into-a-massive-election-night-loss/",
-      "domain": "themainewire.com",
-      "country": "United States",
-      "published": "2026-11-07T17:30:00+00:00"
-     },
-     {
-      "title": "Tata Steel reports Rs 5 , 055 crore net profit in India business for Q2FY27",
-      "url": "http://www.nigeriasun.com/news/279418523/tata-steel-reports-rs-5055-crore-net-profit-in-india-business-for-q2fy27",
-      "domain": "nigeriasun.com",
-      "country": "Nigeria",
-      "published": "2026-11-07T17:30:00+00:00"
-     },
-     {
-      "title": "Inflation , housing , jobs and corporate earnings will dominate the business calendar this week",
-      "url": "http://www.reflector.com/news/national/inflation-housing-jobs-and-corporate-earnings-will-dominate-the-business-calendar-this-week/article_be29e844-2339-57dd-ba1d-f9f105686dcb.html",
-      "domain": "reflector.com",
-      "country": "United States",
-      "published": "2026-11-07T17:30:00+00:00"
-     },
-     {
-      "title": "How Republican 2028 hopefuls are handling the midterm losses",
-      "url": "http://www.washingtonexaminer.com/news/campaigns/presidential/4795326/republican-2028-candidates-midterm-elections/",
-      "domain": "washingtonexaminer.com",
-      "country": "United States",
-      "published": "2026-11-07T17:30:00+00:00"
-     },
-     {
-      "title": "Tata Steel reports Rs 5 , 055 crore net profit in India business for Q2FY27",
-      "url": "http://www.utahindependent.com/news/279418523/tata-steel-reports-rs-5055-crore-net-profit-in-india-business-for-q2fy27",
-      "domain": "utahindependent.com",
-      "country": "United States",
-      "published": "2026-11-07T17:30:00+00:00"
-     },
-     {
-      "title": "Tata Steel reports Rs 5 , 055 crore net profit in India business for Q2FY27",
-      "url": "http://www.shanghainews.net/news/279418523/tata-steel-reports-rs-5055-crore-net-profit-in-india-business-for-q2fy27",
-      "domain": "shanghainews.net",
-      "country": "China",
-      "published": "2026-11-07T17:30:00+00:00"
-     },
-     {
-      "title": "Indorama Commits $261m To Fourth Nigeria Fertiliser Line As Urea Capacity Targets 5 . 6m Tonnes",
-      "url": "https://naija247news.com/indorama-commits-261m-to-fourth-nigeria-fertiliser-line-as-urea-capacity-targets-5-6m-tonnes/",
-      "domain": "naija247news.com",
-      "country": "Nigeria",
-      "published": "2026-11-07T17:30:00+00:00"
-     },
-     {
-      "title": "Delek US ( NYSE : DK ) Announces Earnings Results , Beats Estimates By $5 . 50 EPS",
-      "url": "https://www.themarketsdaily.com/2026/11/07/delek-us-nysedk-announces-earnings-results-beats-estimates-by-5-50-eps.html",
-      "domain": "themarketsdaily.com",
-      "country": "United States",
-      "published": "2026-11-07T17:30:00+00:00"
-     },
-     {
-      "title": "A glorious day for democracy | The Manila Times",
-      "url": "https://www.manilatimes.net/2026/11/08/opinion/columns/a-glorious-day-for-democracy/2464563",
-      "domain": "manilatimes.net",
-      "country": "Philippines",
-      "published": "2026-11-07T17:30:00+00:00"
-     },
-     {
-      "title": "Mader & Shannon Wealth Management Inc . Sells 9 , 653 Shares of Marathon Petroleum Corporation $MPC",
-      "url": "https://www.themarketsdaily.com/2026/11/07/mader-shannon-wealth-management-inc-sells-9653-shares-of-marathon-petroleum-corporation-mpc.html",
-      "domain": "themarketsdaily.com",
-      "country": "United States",
-      "published": "2026-11-07T17:30:00+00:00"
-     }
-    ],
     "geopolitica": [
      {
       "title": "World News : US looks to restrict Iran land trade",
@@ -690,125 +408,451 @@
       "published": "2026-11-07T18:00:00+00:00"
      }
     ],
-    "transporte_maritimo": [
+    "riesgos_climaticos": [
      {
-      "title": "World News : US looks to restrict Iran land trade",
-      "url": "https://www.gdnonline.com:443/Details/1412160/US-looks-to-restrict-Iran-land-trade",
-      "domain": "gdnonline.com",
+      "title": "Farmers in great distress : BJD Chief Naveen Patnaik visits flood - hit Ganjam , takes up grievances with Odisha govt",
+      "url": "http://www.calcuttanews.net/news/279418667/farmers-in-great-distress-bjd-chief-naveen-patnaik-visits-flood-hit-ganjam-takes-up-grievances-with-odisha-govt",
+      "domain": "calcuttanews.net",
+      "country": "India",
+      "published": "2026-11-07T18:00:00+00:00"
+     },
+     {
+      "title": "PhilRice develops climate maps for rice farming",
+      "url": "https://www.philstar.com/business/2026/11/08/2568562/philrice-develops-climate-maps-rice-farming",
+      "domain": "philstar.com",
+      "country": "Philippines",
+      "published": "2026-11-07T18:00:00+00:00"
+     },
+     {
+      "title": "Naveen Visits Ganjam 11 Days After Arnab Devastation , Says Victim Distress Remains Unheard",
+      "url": "https://www.deccanchronicle.com/nation/naveen-visits-ganjam-11-days-after-arnab-devastation-says-victims-distress-remains-unheard-2002603",
+      "domain": "deccanchronicle.com",
+      "country": "India",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "Farmers in great distress : BJD Chief Naveen Patnaik visits flood - hit Ganjam , takes up grievances with Odisha govt",
+      "url": "http://www.milwaukeesun.com/news/279418667/farmers-in-great-distress-bjd-chief-naveen-patnaik-visits-flood-hit-ganjam-takes-up-grievances-with-odisha-govt",
+      "domain": "milwaukeesun.com",
       "country": "United States",
-      "published": "2026-11-08T00:00:00+00:00"
+      "published": "2026-11-07T17:30:00+00:00"
      },
      {
-      "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
-      "url": "http://www.theusnews.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
-      "domain": "theusnews.com",
+      "title": "ARKANSAS A - Z : State Fourche La Fave River has long history of occupation | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/nov/07/arkansas-a-z-states-fourche-la-fave-river-has/",
+      "domain": "arkansasonline.com",
       "country": "United States",
-      "published": "2026-11-08T00:00:00+00:00"
+      "published": "2026-11-07T17:00:00+00:00"
      },
      {
-      "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
-      "url": "http://www.coloradostar.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
-      "domain": "coloradostar.com",
+      "title": "Nine new buddy volunteers complete training at peace garden",
+      "url": "https://www.ilfordrecorder.co.uk/news/26691594.nine-new-buddy-volunteers-complete-training-peace-garden/",
+      "domain": "ilfordrecorder.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-07T09:30:00+00:00"
+     },
+     {
+      "title": "Pune : Over 3 . 28 Lakh Farmers Receive ₹164 . 27 Crore In Diwali Aid ; Some Still Await ₹5 , 000 Due To Technical Issues",
+      "url": "https://www.freepressjournal.in/pune/pune-over-328-lakh-farmers-receive-16427-crore-in-diwali-aid-some-still-await-5000-due-to-technical-issues",
+      "domain": "freepressjournal.in",
+      "country": "India",
+      "published": "2026-11-07T07:00:00+00:00"
+     },
+     {
+      "title": "Asia Rice : Vietnam , Thai rice prices hit near two - year highs as India slips",
+      "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/asia-rice-vietnam-thai-rice-prices-hit-near-two-year-highs-as-india-slips/articleshow/135627665.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
+      "title": "Forage Fish Campaign Pollsters Told Voters What to Believe - Then Claimed Support for a Ban",
+      "url": "http://www.newjerseytelegraph.com/news/279416732/forage-fish-campaign-pollsters-told-voters-what-to-believe-then-claimed-support-for-a-ban",
+      "domain": "newjerseytelegraph.com",
       "country": "United States",
-      "published": "2026-11-08T00:00:00+00:00"
+      "published": "2026-11-07T01:00:00+00:00"
      },
      {
-      "title": "Iran IRGC says 2  violating  tankers hit mines in Hormuz Strait , U . S . forces disable vessel in Gulf of Oman - Xinhua",
-      "url": "https://english.news.cn/20261108/35f56d5f87294f648f3223cea814e580/c.html",
-      "domain": "english.news.cn",
-      "country": "",
-      "published": "2026-11-08T00:00:00+00:00"
+      "title": "From Italy to Croatia , a warming climate threatens prized white truffles",
+      "url": "https://japantoday.com/category/features/environment/from-italy-to-croatia-a-warming-climate-threatens-prized-white-truffles",
+      "domain": "japantoday.com",
+      "country": "Japan",
+      "published": "2026-11-07T00:00:00+00:00"
      },
      {
-      "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
-      "url": "http://www.sierraleonetimes.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
-      "domain": "sierraleonetimes.com",
-      "country": "Sierra Leone",
-      "published": "2026-11-08T00:00:00+00:00"
+      "title": "Jerusalem artichokes are nutty and delicious , but will run rampant if you let them",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/06/jerusalem-artichokes-nutty-delicious",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-11-06T11:30:00+00:00"
      },
      {
-      "title": "More than 50 killed in two attacks in Yemen , Houthi officials say",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/11/07/more-than-50-killed-in-two-attacks-in-yemen-houthi-officials-say/",
-      "domain": "irishtimes.com",
+      "title": "Global food prices fall 1 . 2 % in October as cereal , meat , dairy prices ease",
+      "url": "https://aa.com.tr/en/economy/global-food-prices-fall-12-in-october-as-cereal-meat-dairy-prices-ease/4113879",
+      "domain": "aa.com.tr",
+      "country": "Turkey",
+      "published": "2026-11-06T11:30:00+00:00"
+     },
+     {
+      "title": "Jerusalem artichokes are nutty and delicious , but will run rampant if you let them",
+      "url": "https://www.aol.co.uk/articles/jerusalem-artichokes-nutty-delicious-run-110050000.html",
+      "domain": "aol.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-06T11:30:00+00:00"
+     },
+     {
+      "title": "Growing problem : Why our food needs a bigger gene pool",
+      "url": "https://www.irishexaminer.com/lifestyle/outdoors/arid-41933964.html",
+      "domain": "irishexaminer.com",
       "country": "Ireland",
-      "published": "2026-11-08T00:00:00+00:00"
+      "published": "2026-11-06T08:30:00+00:00"
      },
      {
-      "title": "Oil tumbles as US midterm results raise hopes of Iran peace deal",
-      "url": "http://www.haitisun.com/news/279411615/oil-tumbles-as-us-midterm-results-raise-hopes-of-iran-peace-deal",
-      "domain": "haitisun.com",
-      "country": "United States",
-      "published": "2026-11-08T00:00:00+00:00"
+      "title": "Karnataka suffered ₹62 , 000 crore drought loss , seeks ₹22 , 000 crore from Centre : Deputy CM Parameshwara",
+      "url": "https://aninews.in/news/national/politics/karnataka-suffered-837762000-crore-drought-loss-seeks-837722000-crore-from-centre-deputy-cm-parameshwara20261106124438/",
+      "domain": "aninews.in",
+      "country": "India",
+      "published": "2026-11-06T08:00:00+00:00"
      },
      {
-      "title": "The Iran War Is as America First as It Gets",
-      "url": "https://jewlicious.com/2026/11/iran-war-america-first/",
-      "domain": "jewlicious.com",
-      "country": "Israel",
-      "published": "2026-11-08T00:00:00+00:00"
+      "title": "PH government steps up El Niño preparations as drought , water shortages threaten communities - Philippine Canadian Inquirer Nationwide Filipino Newspaper",
+      "url": "https://canadianinquirer.net/2026/11/06/ph-government-steps-up-el-nino-preparations-as-drought-water-shortages-threaten-communities/",
+      "domain": "canadianinquirer.net",
+      "country": "Philippines",
+      "published": "2026-11-06T07:30:00+00:00"
      },
      {
-      "title": "Explosions heard in Iran southern counties -- state TV - Xinhua",
-      "url": "https://english.news.cn/20261108/f39c2d4022aa443bbbfe219090babf62/c.html",
-      "domain": "english.news.cn",
-      "country": "",
-      "published": "2026-11-08T00:00:00+00:00"
-     },
-     {
-      "title": "Explosions heard on Iran Qeshm island linked to Strait of Hormuz , Iranian media says",
-      "url": "http://www.iraqsun.com/news/279418873/explosions-heard-on-iran-qeshm-island-linked-to-strait-of-hormuz-iranian-media-says",
-      "domain": "iraqsun.com",
-      "country": "Iraq",
-      "published": "2026-11-08T00:00:00+00:00"
-     },
-     {
-      "title": "IRAN WAR WEEK 37 , day # 1 : is perpetual combat and chaos Krasnov jam ?",
-      "url": "https://www.dailykos.com/stories/2026/11/7/800124647/community/iran-war-week-37-day-1-is-perpetual-combat-and-chaos-krasnovs-jam/",
-      "domain": "dailykos.com",
-      "country": "United States",
-      "published": "2026-11-07T22:00:00+00:00"
-     },
-     {
-      "title": "Trump Says U . S . Strikes on Iran Destroyed Air Defense System in  Minutes",
-      "url": "https://www.breitbart.com/politics/2026/11/07/trump-u-s-carried-out-minor-strikes-iran-destroyed-anti-aircraft-system-minutes/",
-      "domain": "breitbart.com",
-      "country": "United States",
-      "published": "2026-11-07T22:00:00+00:00"
-     },
-     {
-      "title": "US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade",
-      "url": "https://www.wral.com/news/ap/bc902-us-military-says-it-fired-on-commercial-vessel-in-gulf-of-oman-after-it-attempted-to-breach-blockade/",
-      "domain": "wral.com",
-      "country": "United States",
-      "published": "2026-11-07T22:00:00+00:00"
-     },
-     {
-      "title": "US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade",
-      "url": "https://www.clickondetroit.com/news/world/2026/11/07/us-military-says-it-fired-on-commercial-vessel-in-gulf-of-oman-after-it-attempted-to-breach-blockade/",
-      "domain": "clickondetroit.com",
-      "country": "United States",
-      "published": "2026-11-07T22:00:00+00:00"
-     },
-     {
-      "title": "Trump Insists On Strait Of Hormuz Blockade , Claims  Nothing Is Going To Iran , No Oil Going There",
-      "url": "https://saharareporters.com/2026/11/07/trump-insists-strait-hormuz-blockade-claims-nothing-going-iran-no-oil-going-there",
-      "domain": "saharareporters.com",
+      "title": "Port Harcourt Prepares For 10 , 000 Runners As International Marathon Returns",
+      "url": "https://www.thetidenewsonline.com/2026/11/port-harcourt-prepares-for-10000-runners-as-international-marathon-returns/",
+      "domain": "thetidenewsonline.com",
       "country": "Nigeria",
-      "published": "2026-11-07T22:00:00+00:00"
+      "published": "2026-11-06T06:30:00+00:00"
      },
      {
-      "title": "US military says it fired on commercial vessel in Gulf of Oman after it attempted to breach blockade",
-      "url": "https://www.wsls.com/news/world/2026/11/07/us-military-says-it-fired-on-commercial-vessel-in-gulf-of-oman-after-it-attempted-to-breach-blockade/",
-      "domain": "wsls.com",
+      "title": "UP Government increases disaster relief fund amounts ; over 10 lakh farmers to benefit",
+      "url": "https://aninews.in/news/national/general-news/up-government-increases-disaster-relief-fund-amounts-over-10-lakh-farmers-to-benefit20261106095420/",
+      "domain": "aninews.in",
+      "country": "India",
+      "published": "2026-11-06T05:30:00+00:00"
+     },
+     {
+      "title": "Drought Conditions Still Getting Worse in Maine",
+      "url": "https://wgan.com/news/074470-drought-conditions-still-getting-worse-in-maine/",
+      "domain": "wgan.com",
       "country": "United States",
-      "published": "2026-11-07T22:00:00+00:00"
+      "published": "2026-11-06T05:30:00+00:00"
      },
      {
-      "title": "Ethiopia Power Explained , Who Dominates Elites and Regions",
-      "url": "https://www.riotimesonline.com/ethiopia-power-structure-explained-2026/",
+      "title": "UP Government increases disaster relief fund amounts ; over 10 lakh farmers to benefit",
+      "url": "https://news.webindia123.com/news/Articles/India/20261106/4516508.html",
+      "domain": "news.webindia123.com",
+      "country": "India",
+      "published": "2026-11-06T05:30:00+00:00"
+     },
+     {
+      "title": "Scott Gladman : The farmer swimming 1650 kilometres down the Darling River for his mates",
+      "url": "https://www.theage.com.au/national/victoria/i-got-a-second-chance-they-didn-t-the-farmer-swimming-1650-kilometres-down-the-darling-river-for-his-mates-20261106-p61bcy.html",
+      "domain": "theage.com.au",
+      "country": "Australia",
+      "published": "2026-11-06T03:00:00+00:00"
+     },
+     {
+      "title": "Super El Niño could push CO2 levels to record highs in 2027",
+      "url": "https://www.dailymail.com/sciencetech/article-16268515/Strong-El-Nino-CO2-record.html",
+      "domain": "dailymail.com",
+      "country": "United States",
+      "published": "2026-11-06T02:30:00+00:00"
+     },
+     {
+      "title": "Drought Conditions Still Getting Worse in Maine",
+      "url": "https://989wclz.com/news/074470-drought-conditions-still-getting-worse-in-maine/",
+      "domain": "989wclz.com",
+      "country": "United States",
+      "published": "2026-11-06T01:30:00+00:00"
+     },
+     {
+      "title": "Scott Gladman : The farmer swimming 1650 kilometres down the Darling River for his mates",
+      "url": "https://www.smh.com.au/national/victoria/i-got-a-second-chance-they-didn-t-the-farmer-swimming-1650-kilometres-down-the-darling-river-for-his-mates-20261106-p61bcy.html",
+      "domain": "smh.com.au",
+      "country": "Australia",
+      "published": "2026-11-06T01:00:00+00:00"
+     },
+     {
+      "title": "Scott Gladman : The farmer swimming 1650 kilometres down the Darling River for his mates",
+      "url": "https://www.brisbanetimes.com.au/national/victoria/i-got-a-second-chance-they-didn-t-the-farmer-swimming-1650-kilometres-down-the-darling-river-for-his-mates-20261106-p61bcy.html",
+      "domain": "brisbanetimes.com.au",
+      "country": "Australia",
+      "published": "2026-11-06T01:00:00+00:00"
+     },
+     {
+      "title": "Indonesia Rice Plan and Soybean Buyers , What It Means",
+      "url": "https://www.riotimesonline.com/indonesia-rice-soybean-imports-brazil-argentina-2026/",
       "domain": "riotimesonline.com",
       "country": "Brazil",
+      "published": "2026-11-05T23:30:00+00:00"
+     },
+     {
+      "title": "Service Properties ( SVC ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/05/service-properties-svc-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "domain": "fool.com",
+      "country": "United States",
+      "published": "2026-11-05T22:00:00+00:00"
+     },
+     {
+      "title": "Cottco Seeks ZSE Delisting as Zimbabwe Cotton Rescue Intensifies - The Zimbabwe Mail Cottco Seeks ZSE Delisting as Zimbabwe Cotton Rescue Intensifies | Zimbabwe News",
+      "url": "https://thezimbabwemail.com/markets/cottco-zse-delisting-corporate-rescue-cotton/",
+      "domain": "thezimbabwemail.com",
+      "country": "Zimbabwe",
+      "published": "2026-11-05T22:00:00+00:00"
+     }
+    ],
+    "produccion_agroindustrial": [
+     {
+      "title": "Phibro Animal ( PAHC ) Q1 2027 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/07/phibro-animal-pahc-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
+      "domain": "fool.com",
+      "country": "United States",
+      "published": "2026-11-07T19:00:00+00:00"
+     },
+     {
+      "title": "Olam Agri Plans $400m Africa Expansion , Targets Nigeria Feed Market And 130 , 000 Smallholder Farmers",
+      "url": "https://naija247news.com/olam-agri-plans-400m-africa-expansion-targets-nigeria-feed-market-and-130000-smallholder-farmers/",
+      "domain": "naija247news.com",
+      "country": "Nigeria",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "Thanksgiving meal deals are here : What Walmart , Target , Aldi , Lidl and more are offering",
+      "url": "https://www.fox5atlanta.com/news/thanksgiving-meal-deals-here-what-walmart-target-aldi-lidl-more-offering",
+      "domain": "fox5atlanta.com",
+      "country": "United States",
+      "published": "2026-11-07T01:00:00+00:00"
+     },
+     {
+      "title": "Tag : fsis newsroomamerica . com",
+      "url": "https://newsroomamerica.com/tag/fsis",
+      "domain": "newsroomamerica.com",
+      "country": "United States",
+      "published": "2026-11-07T01:00:00+00:00"
+     },
+     {
+      "title": "Thanksgiving meal deals are here : What Walmart , Target , Aldi , Lidl and more are offering",
+      "url": "https://www.fox35orlando.com/news/thanksgiving-meal-deals-here-what-walmart-target-aldi-lidl-more-offering",
+      "domain": "fox35orlando.com",
+      "country": "United States",
+      "published": "2026-11-07T00:00:00+00:00"
+     },
+     {
+      "title": "ABP to snap up Pilgrim Europe lamb business",
+      "url": "https://www.foodmanufacture.co.uk/Article/2026/11/06/abp-to-snap-up-pilgrims-europes-lamb-business/",
+      "domain": "foodmanufacture.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-06T12:00:00+00:00"
+     },
+     {
+      "title": "Nigeria : FCCPC Moves Against Producers of Poorly Fortified Vegetable Oil , Salt",
+      "url": "https://allafrica.com/stories/202611060184.html",
+      "domain": "allafrica.com",
+      "country": "Nigeria",
+      "published": "2026-11-06T11:30:00+00:00"
+     },
+     {
+      "title": "17 Things That Take Up Far Less of American Budgets Than They Used To",
+      "url": "https://www.aol.com/articles/17-things-far-less-americans-110000000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-11-06T11:30:00+00:00"
+     },
+     {
+      "title": "Global food prices fall 1 . 2 % in October as cereal , meat , dairy prices ease",
+      "url": "https://aa.com.tr/en/economy/global-food-prices-fall-12-in-october-as-cereal-meat-dairy-prices-ease/4113879",
+      "domain": "aa.com.tr",
+      "country": "Turkey",
+      "published": "2026-11-06T11:30:00+00:00"
+     },
+     {
+      "title": "ABP to acquire Pilgrim Europe lamb business",
+      "url": "https://www.foodbev.com/news/abp-to-acquire-pilgrim-s-europe-s-lamb-business",
+      "domain": "foodbev.com",
+      "country": "United Kingdom",
+      "published": "2026-11-06T11:00:00+00:00"
+     },
+     {
+      "title": "World Food Prices Dip in October , but Remain Higher Than a Year Ago",
+      "url": "https://english.aawsat.com/business/5338229-world-food-prices-dip-october-remain-higher-year-ago",
+      "domain": "english.aawsat.com",
+      "country": "Syria",
+      "published": "2026-11-06T11:00:00+00:00"
+     },
+     {
+      "title": "FAO Food Price Index edges down in October amid subdued demand",
+      "url": "https://www.fao.org/newsroom/detail/fao-food-price-index-edges-down-in-october-amid-subdued-demand/en",
+      "domain": "fao.org",
+      "country": "Italy",
+      "published": "2026-11-06T11:00:00+00:00"
+     },
+     {
+      "title": "The hidden mining cost of meat and seafood - Shelbyville Times - Gazette",
+      "url": "http://www.t-g.com/premium/stacker/stories/the-hidden-mining-cost-of-meat-and-seafood,237538",
+      "domain": "t-g.com",
+      "country": "United States",
+      "published": "2026-11-06T09:30:00+00:00"
+     },
+     {
+      "title": "Poultry supply glut weighs on Pilgrim Pride earnings",
+      "url": "https://www.greeleytribune.com/2026/11/05/poultry-supply-glut-weighs-on-pilgrims-pride-earnings/",
+      "domain": "greeleytribune.com",
+      "country": "United States",
+      "published": "2026-11-06T09:00:00+00:00"
+     },
+     {
+      "title": "Cold hold case mold , evidence of rodent activity found during Berks restaurant and food safety inspections",
+      "url": "https://www.readingeagle.com/2026/11/06/berks-food-safety-inspections-found-cold-hold-case-mold-evidence-of-rodent-activity/",
+      "domain": "readingeagle.com",
+      "country": "United States",
+      "published": "2026-11-06T08:30:00+00:00"
+     },
+     {
+      "title": "FCCPC seals firms as oil , salt samples fail fortification tests",
+      "url": "https://www.vanguardngr.com/2026/11/fccpc-seals-firms-as-oil-salt-samples-fail-fortification-tests-2/",
+      "domain": "vanguardngr.com",
+      "country": "Nigeria",
+      "published": "2026-11-06T07:30:00+00:00"
+     },
+     {
+      "title": "Weekly protein report : US beef export sales fall 29 % below four - week average",
+      "url": "https://www.thecattlesite.com/articles/weekly-protein-report-us-beef-export-sales-fall-29-below-four-week-average",
+      "domain": "thecattlesite.com",
+      "country": "United Kingdom",
+      "published": "2026-11-06T06:30:00+00:00"
+     },
+     {
+      "title": "UP Government increases disaster relief fund amounts ; over 10 lakh farmers to benefit",
+      "url": "https://aninews.in/news/national/general-news/up-government-increases-disaster-relief-fund-amounts-over-10-lakh-farmers-to-benefit20261106095420/",
+      "domain": "aninews.in",
+      "country": "India",
+      "published": "2026-11-06T05:30:00+00:00"
+     },
+     {
+      "title": "UP Government increases disaster relief fund amounts ; over 10 lakh farmers to benefit",
+      "url": "https://news.webindia123.com/news/Articles/India/20261106/4516508.html",
+      "domain": "news.webindia123.com",
+      "country": "India",
+      "published": "2026-11-06T05:30:00+00:00"
+     },
+     {
+      "title": "Isabella County meat processor receives $250K USDA grant",
+      "url": "https://www.abc12.com/news/local/isabella-county-meat-processor-receives-250k-usda-grant/article_61022247-e080-4980-982a-c2f924bde58d.html",
+      "domain": "abc12.com",
+      "country": "United States",
+      "published": "2026-11-06T05:30:00+00:00"
+     },
+     {
+      "title": "Agriculture Q3 output down 5 % led by crops , fisheries - BusinessWorld Online",
+      "url": "https://bworldonline.com/economy/2026/11/06/792000/agriculture-q3-output-down-5-led-by-crops-fisheries/",
+      "domain": "bworldonline.com",
+      "country": "Philippines",
+      "published": "2026-11-06T05:00:00+00:00"
+     },
+     {
+      "title": "Weekly protein report : Poultry trade faces regulatory challenges as EU - Mercosur agreement advances",
+      "url": "https://www.thepoultrysite.com/articles/weekly-protein-report-us-beef-export-sales-fall-29-below-four-week-average",
+      "domain": "thepoultrysite.com",
+      "country": "United States",
+      "published": "2026-11-06T04:30:00+00:00"
+     },
+     {
+      "title": "Green Plains Q3 Earnings Call Highlights",
+      "url": "https://www.themarketsdaily.com/2026/11/06/green-plains-q3-earnings-call-highlights.html",
+      "domain": "themarketsdaily.com",
+      "country": "United States",
+      "published": "2026-11-06T03:00:00+00:00"
+     },
+     {
+      "title": "FG inaugurates Ekiti vet hospital , vows livestock boost",
+      "url": "https://punchng.com/fg-inaugurates-ekiti-vet-hospital-vows-livestock-boost/",
+      "domain": "punchng.com",
+      "country": "Nigeria",
+      "published": "2026-11-06T02:00:00+00:00"
+     },
+     {
+      "title": "What is the best meat for dogs ? Healthiest dog food protein options",
+      "url": "https://www.thegardenisland.com/syndicated/what-is-the-best-meat-for-dogs-healthiest-dog-food-protein-options",
+      "domain": "thegardenisland.com",
+      "country": "United States",
+      "published": "2026-11-06T01:30:00+00:00"
+     },
+     {
+      "title": "Shell New Green Jet - Fuel Deal : A Deep Dive into the $239 Million Moroccan Project Still Awaiting Financing Approval – Royal Dutch Shell Plc . com",
+      "url": "https://royaldutchshellplc.com/2026/11/05/shells-new-green-jet-fuel-deal-a-deep-dive-into-the-239-million-moroccan-project-still-awaiting-financing-approval/",
+      "domain": "royaldutchshellplc.com",
+      "country": "Netherlands",
+      "published": "2026-11-06T00:30:00+00:00"
+     },
+     {
+      "title": "Indonesia Rice Plan and Soybean Buyers , What It Means",
+      "url": "https://www.riotimesonline.com/indonesia-rice-soybean-imports-brazil-argentina-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-11-05T23:30:00+00:00"
+     },
+     {
+      "title": "What is the best meat for dogs ? Healthiest dog food protein options",
+      "url": "https://tucson.com/life-entertainment/nation-world/pets/article_893616b0-f68e-5c1c-b135-0b3b7f5b713e.html",
+      "domain": "tucson.com",
+      "country": "United States",
+      "published": "2026-11-05T22:30:00+00:00"
+     }
+    ],
+    "economia_mundial": [
+     {
+      "title": "The 21st Century of Those Who Dont Count",
+      "url": "https://www.pressenza.com/2026/11/the-21st-century-of-those-who-dont-count/",
+      "domain": "pressenza.com",
+      "country": "United States",
+      "published": "2026-11-08T00:00:00+00:00"
+     },
+     {
+      "title": "An AI reckoning ? Investors brace for potential fallout",
+      "url": "https://japantoday.com/category/tech/an-ai-reckoning-investors-brace-for-potential-fallout",
+      "domain": "japantoday.com",
+      "country": "Japan",
+      "published": "2026-11-08T00:00:00+00:00"
+     },
+     {
+      "title": "River Valley Capital : What Traders Should Know About Xaura Evaluation Limited",
+      "url": "https://gisuser.com/2026/11/river-valley-capital-what-traders-should-know-about-xaura-evaluation-limited/",
+      "domain": "gisuser.com",
+      "country": "United States",
       "published": "2026-11-07T22:00:00+00:00"
+     },
+     {
+      "title": "Unilever Targets 4 %- 6 % Sales Growth and Higher Margins After Foods Separation",
+      "url": "https://www.themarketsdaily.com/2026/11/07/unilever-targets-4-6-sales-growth-and-higher-margins-after-foods-separation.html",
+      "domain": "themarketsdaily.com",
+      "country": "United States",
+      "published": "2026-11-07T22:00:00+00:00"
+     },
+     {
+      "title": "Sappi Releases Financial Results for the Fourth Quarter of 2026",
+      "url": "https://www.paperage.com/2026news/11-07-2026sappi-releases-financial-results-for-the-fourth-quarter-of-2026.html",
+      "domain": "paperage.com",
+      "country": "United States",
+      "published": "2026-11-07T22:00:00+00:00"
+     },
+     {
+      "title": "Phibro Animal ( PAHC ) Q1 2027 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/07/phibro-animal-pahc-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
+      "domain": "fool.com",
+      "country": "United States",
+      "published": "2026-11-07T19:00:00+00:00"
+     },
+     {
+      "title": "AI Stocks Are Falling ; Bitcoin Is Holding Ground . Here What Could Come Next .",
+      "url": "https://www.fool.com/investing/2026/11/07/ai-stocks-are-falling-bitcoin-is-holding-ground/",
+      "domain": "fool.com",
+      "country": "United States",
+      "published": "2026-11-07T19:00:00+00:00"
      },
      {
       "title": "Lifetime Brands ( LCUT ) Q3 2026 Earnings Call Transcript",
@@ -818,67 +862,39 @@
       "published": "2026-11-07T19:00:00+00:00"
      },
      {
-      "title": "$20 MILLION | U . S . offers reward for information about Iran nuclear program",
-      "url": "https://fox4beaumont.com/news/nation-world/20-million-us-offers-reward-for-information-about-irans-nuclear-weapon-program-war-conflict-strait-of-hormuz-gasoline-gas-oil-fuel-new-strikes-midterms-midterm-elections-pete-hegseth-president-donald-trump",
-      "domain": "fox4beaumont.com",
+      "title": "Best Leisure Stocks To Add to Your Watchlist – November 7th",
+      "url": "https://www.themarketsdaily.com/2026/11/07/best-leisure-stocks-to-add-to-your-watchlist-november-7th.html",
+      "domain": "themarketsdaily.com",
       "country": "United States",
       "published": "2026-11-07T19:00:00+00:00"
      },
      {
-      "title": "$20 MILLION | U . S . offers reward for information about Iran nuclear program",
-      "url": "https://weartv.com/news/nation-world/20-million-us-offers-reward-for-information-about-irans-nuclear-weapon-program-war-conflict-strait-of-hormuz-gasoline-gas-oil-fuel-new-strikes-midterms-midterm-elections-pete-hegseth-president-donald-trump",
-      "domain": "weartv.com",
+      "title": "TELUS ( TU ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/07/telus-tu-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "domain": "fool.com",
       "country": "United States",
       "published": "2026-11-07T19:00:00+00:00"
      },
      {
-      "title": "$20 MILLION | U . S . offers reward for information about Iran nuclear program",
-      "url": "https://mynews4.com/news/nation-world/20-million-us-offers-reward-for-information-about-irans-nuclear-weapon-program-war-conflict-strait-of-hormuz-gasoline-gas-oil-fuel-new-strikes-midterms-midterm-elections-pete-hegseth-president-donald-trump",
-      "domain": "mynews4.com",
+      "title": "Breitbart Business Digest : America Sings the Blues",
+      "url": "https://www.breitbart.com/politics/2026/11/06/breitbart-business-digest-america-sings-the-blues/",
+      "domain": "breitbart.com",
+      "country": "United States",
+      "published": "2026-11-07T19:00:00+00:00"
+     },
+     {
+      "title": "What Stoneridge ( SRI ) Said on Its Q3 Earnings Call",
+      "url": "https://www.themarketsdaily.com/2026/11/07/what-stoneridge-sri-said-on-its-q3-earnings-call.html",
+      "domain": "themarketsdaily.com",
       "country": "United States",
       "published": "2026-11-07T18:30:00+00:00"
      },
      {
-      "title": "An airstrike has killed 25 people near Yemen capital , Houthi official says",
-      "url": "https://www.wwaytv3.com/an-airstrike-has-killed-25-people-near-yemens-capital-houthi-official-says/",
-      "domain": "wwaytv3.com",
-      "country": "United States",
-      "published": "2026-11-07T18:30:00+00:00"
-     },
-     {
-      "title": "Airstrikes kill more than 2 dozen people near Yemen capital , Houthis say",
-      "url": "https://www.business-standard.com/world-news/airstrikes-kill-more-than-2-dozen-people-near-yemen-s-capital-houthis-say-126110701261_1.html",
-      "domain": "business-standard.com",
+      "title": "Where is public interest : AGSU stages statewide protests against electricity tariff hike in Assam",
+      "url": "http://www.indiagazette.com/news/279418497/where-is-public-interest-agsu-stages-statewide-protests-against-electricity-tariff-hike-in-assam",
+      "domain": "indiagazette.com",
       "country": "India",
       "published": "2026-11-07T18:30:00+00:00"
-     },
-     {
-      "title": "Airstrikes kill more than 2 dozen people near Yemen capital , Houthis say",
-      "url": "http://www.rockymounttelegram.com/news/world/airstrikes-kill-more-than-2-dozen-people-near-yemens-capital-houthis-say/article_c74371d0-931f-5fdc-8497-850d3afc28f0.html",
-      "domain": "rockymounttelegram.com",
-      "country": "United States",
-      "published": "2026-11-07T18:30:00+00:00"
-     },
-     {
-      "title": "U . S .- Iran tensions intensify amid regional calls for restraint",
-      "url": "http://www.russiaherald.com/news/279418693/us-iran-tensions-intensify-amid-regional-calls-for-restraint",
-      "domain": "russiaherald.com",
-      "country": "Russia",
-      "published": "2026-11-07T18:30:00+00:00"
-     },
-     {
-      "title": "$20 MILLION | U . S . offers reward for information about Iran nuclear program",
-      "url": "https://kval.com/news/nation-world/20-million-us-offers-reward-for-information-about-irans-nuclear-weapon-program-war-conflict-strait-of-hormuz-gasoline-gas-oil-fuel-new-strikes-midterms-midterm-elections-pete-hegseth-president-donald-trump",
-      "domain": "kval.com",
-      "country": "United States",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "$20 MILLION | U . S . offers reward for information about Iran nuclear program",
-      "url": "https://foxrochester.com/news/nation-world/20-million-us-offers-reward-for-information-about-irans-nuclear-weapon-program-war-conflict-strait-of-hormuz-gasoline-gas-oil-fuel-new-strikes-midterms-midterm-elections-pete-hegseth-president-donald-trump",
-      "domain": "foxrochester.com",
-      "country": "United States",
-      "published": "2026-11-07T18:00:00+00:00"
      },
      {
       "title": "Middle East war will reshape regional economic , security landscape : Turkish finance minister",
@@ -888,74 +904,39 @@
       "published": "2026-11-07T18:00:00+00:00"
      },
      {
-      "title": "$20 MILLION | U . S . offers reward for information about Iran nuclear program",
-      "url": "https://katv.com/news/nation-world/20-million-us-offers-reward-for-information-about-irans-nuclear-weapon-program-war-conflict-strait-of-hormuz-gasoline-gas-oil-fuel-new-strikes-midterms-midterm-elections-pete-hegseth-president-donald-trump",
-      "domain": "katv.com",
-      "country": "United States",
+      "title": "Philippines Q2 GDP revised to 2 . 4 %",
+      "url": "https://www.philstar.com/business/2026/11/08/2568563/philippines-q2-gdp-revised-24",
+      "domain": "philstar.com",
+      "country": "Philippines",
       "published": "2026-11-07T18:00:00+00:00"
      },
      {
-      "title": "IRGC Says Iran Expanding Range Of Missiles",
-      "url": "http://www.centralasiatimes.com/news/279418399/irgc-says-iran-expanding-range-of-missiles",
-      "domain": "centralasiatimes.com",
-      "country": "Azerbaijan",
+      "title": "Middle East conflicts , reconstruction costs dominate TRT World Forum panel",
+      "url": "https://aa.com.tr/en/turkiye/middle-east-conflicts-reconstruction-costs-dominate-trt-world-forum-panel/4115371",
+      "domain": "aa.com.tr",
+      "country": "Turkey",
       "published": "2026-11-07T18:00:00+00:00"
      },
      {
-      "title": "Norfolk Southern Corporation $NSC Position Boosted by Calamos Advisors LLC",
-      "url": "https://www.themarketsdaily.com/2026/11/07/norfolk-southern-corporation-nsc-position-boosted-by-calamos-advisors-llc.html",
-      "domain": "themarketsdaily.com",
-      "country": "United States",
+      "title": "Gold at $3 , 800 – 4 , 000 : Could an AI spending crash trigger the next bullion rally ? Jefferies explains",
+      "url": "https://www.businesstoday.in/markets/story/gold-at-3800-4000-could-an-ai-spending-crash-trigger-the-next-bullion-rally-jefferies-explains-566338-2026-11-07",
+      "domain": "businesstoday.in",
+      "country": "India",
       "published": "2026-11-07T18:00:00+00:00"
      },
      {
-      "title": "Expanding on naval blockade , US military looks to restrict Iranian land commerce",
-      "url": "https://arynews.tv/news/liveblog/iran-war-2026-live-updates-trump-us-israel?update=07-Nov-2026-22-33-00",
-      "domain": "arynews.tv",
-      "country": "Pakistan",
+      "title": "Arab News | US voters care about the rent , not the war",
+      "url": "https://www.arabnews.com/opinion/us-voters-care-about-the-rent-not-the-war-3010345",
+      "domain": "arabnews.com",
+      "country": "Saudi Arabia",
       "published": "2026-11-07T18:00:00+00:00"
      },
      {
-      "title": "Trump Confirms US Strikes On Iran Qeshm Island",
-      "url": "http://www.centralasiatimes.com/news/279418449/trump-confirms-us-strikes-on-iran-qeshm-island",
-      "domain": "centralasiatimes.com",
-      "country": "Azerbaijan",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "US Forms Task Force to Disrupt Iran Land Supply Routes",
-      "url": "https://arynews.tv/expanding-on-naval-blockade-us-military-looks-to-restrict-iranian-land-commerce",
-      "domain": "arynews.tv",
-      "country": "Pakistan",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "$20 MILLION | U . S . offers reward for information about Iran nuclear program",
-      "url": "https://ktul.com/news/nation-world/20-million-us-offers-reward-for-information-about-irans-nuclear-weapon-program-war-conflict-strait-of-hormuz-gasoline-gas-oil-fuel-new-strikes-midterms-midterm-elections-pete-hegseth-president-donald-trump",
-      "domain": "ktul.com",
-      "country": "United States",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "Iowa 9 / WIS 82 Mississippi River bridge opens at Lansing",
-      "url": "https://wcfcourier.com/news/community/article_67c28811-afce-5b83-87d0-f096076bcf1b.html",
-      "domain": "wcfcourier.com",
-      "country": "United States",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "Expanding on naval blockade , US military looks to restrict Iranian land commerce",
-      "url": "https://www.yahoo.com/news/articles/exclusive-expanding-naval-blockade-us-133922238.html",
-      "domain": "yahoo.com",
-      "country": "United States",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "West Van inventors battled a few bombs to turn Lego world on its head",
-      "url": "https://vancouversun.com:443/news/west-vancouver-inventors-reimagine-genius-lego-sparkblocks",
-      "domain": "vancouversun.com",
-      "country": "Canada",
-      "published": "2026-11-07T18:00:00+00:00"
+      "title": "Private credit defaults record largest quarterly jump , KBRA says",
+      "url": "https://www.thehindubusinessline.com/markets/private-credit-defaults-record-largest-quarterly-jump-kbra-says/article71679229.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-11-07T17:30:00+00:00"
      },
      {
       "title": "Base metals : More Precious In Samvat 2082 - The HinduBusinessLine",
@@ -965,20 +946,152 @@
       "published": "2026-11-07T17:30:00+00:00"
      },
      {
-      "title": "$20 MILLION | U . S . offers reward for information about Iran nuclear program",
-      "url": "https://katu.com/news/nation-world/20-million-us-offers-reward-for-information-about-irans-nuclear-weapon-program-war-conflict-strait-of-hormuz-gasoline-gas-oil-fuel-new-strikes-midterms-midterm-elections-pete-hegseth-president-donald-trump",
-      "domain": "katu.com",
+      "title": "Biotech and Pharma Industry News | BioPharma Dive",
+      "url": "https://www.biopharmadive.com/?page=2&_sp=53e832ea-6e1d-4e13-a559-16ec877bf761",
+      "domain": "biopharmadive.com",
       "country": "United States",
       "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "US adds 165 , 000 jobs in October , beating forecasts",
+      "url": "http://www.clevelandstar.com/news/279416454/us-adds-165-000-jobs-in-october-beating-forecasts",
+      "domain": "clevelandstar.com",
+      "country": "United States",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "Strong US jobs report raises expectations of December Fed rate hike",
+      "url": "http://www.shanghainews.net/news/279416454/strong-us-jobs-report-raises-expectations-of-december-fed-rate-hike",
+      "domain": "shanghainews.net",
+      "country": "China",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "4 Hybrid Funds To Buy This Deepavali - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/big-story/4-hybrid-funds-to-buy-this-deepavali/article71670075.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "US adds 165 , 000 jobs in October , beating forecasts",
+      "url": "http://www.milwaukeesun.com/news/279416454/us-adds-165-000-jobs-in-october-beating-forecasts",
+      "domain": "milwaukeesun.com",
+      "country": "United States",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "ADIA subsidiary seeks $7 . 5 billion private investment financing",
+      "url": "https://thearabianpost.com/adia-subsidiary-seeks-7-5-billion-private-investment-financing/",
+      "domain": "thearabianpost.com",
+      "country": "United States",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "US adds 165 , 000 jobs in October , beating forecasts",
+      "url": "http://www.newyorktelegraph.com/news/279416454/us-adds-165-000-jobs-in-october-beating-forecasts",
+      "domain": "newyorktelegraph.com",
+      "country": "United States",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "Dow Jones , S & P 500 , Nasdaq : Last week AI stocks crash is not your garden variety correction",
+      "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/dow-jones-sampp-500-nasdaq-last-weeks-ai-stocks-crash-is-not-your-garden-variety-correction/article71678849.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "US adds 165 , 000 jobs in October , beating forecasts",
+      "url": "http://www.oklahomastar.com/news/279416454/us-adds-165-000-jobs-in-october-beating-forecasts",
+      "domain": "oklahomastar.com",
+      "country": "United States",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "US adds 165 , 000 jobs in October , beating forecasts",
+      "url": "http://www.trinidadtimes.com/news/279416454/us-adds-165-000-jobs-in-october-beating-forecasts",
+      "domain": "trinidadtimes.com",
+      "country": "Trinidad and Tobago",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "Nigeria 63 % Stock Market Rally Faces New Regional Competition As BRVM Plans Futures , ETFs And Commodity Exchange",
+      "url": "https://naija247news.com/nigerias-63-stock-market-rally-faces-new-regional-competition-as-brvm-plans-futures-etfs-and-commodity-exchange/",
+      "domain": "naija247news.com",
+      "country": "Nigeria",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "US Market Outlook : Support to give a relief - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/technical-analysis/us-market-outlook-support-to-give-a-relief/article71677490.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "Naira Strengthens To ₦1 , 346 . 79 As FX Turnover Jumps 184 % To $233m",
+      "url": "https://naija247news.com/naira-strengthens-to-%E2%82%A61346-79-as-fx-turnover-jumps-184-to-233m/",
+      "domain": "naija247news.com",
+      "country": "Nigeria",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "US adds 165 , 000 jobs in October , beating forecasts",
+      "url": "http://www.sandiegosun.com/news/279416454/us-adds-165-000-jobs-in-october-beating-forecasts",
+      "domain": "sandiegosun.com",
+      "country": "United States",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "US adds 165 , 000 jobs in October , beating forecasts",
+      "url": "http://www.nigeriasun.com/news/279416454/us-adds-165-000-jobs-in-october-beating-forecasts",
+      "domain": "nigeriasun.com",
+      "country": "Nigeria",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "Nigeria Cocoa Industry Faces Export Revenue Risks As Global Prices Slide 5 . 2 % On Rising Inventories",
+      "url": "https://naija247news.com/nigerias-cocoa-industry-faces-export-revenue-risks-as-global-prices-slide-5-2-on-rising-inventories/",
+      "domain": "naija247news.com",
+      "country": "Nigeria",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "US adds 165 , 000 jobs in October , beating forecasts",
+      "url": "http://www.singaporestar.com/news/279416454/us-adds-165-000-jobs-in-october-beating-forecasts",
+      "domain": "singaporestar.com",
+      "country": "Singapore",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "US adds 165 , 000 jobs in October , beating forecasts",
+      "url": "http://www.cincinnatisun.com/news/279416454/us-adds-165-000-jobs-in-october-beating-forecasts",
+      "domain": "cincinnatisun.com",
+      "country": "United States",
+      "published": "2026-11-07T17:00:00+00:00"
+     },
+     {
+      "title": "US adds 165 , 000 jobs in October , beating forecasts",
+      "url": "http://www.tucsonpost.com/news/279416454/us-adds-165-000-jobs-in-october-beating-forecasts",
+      "domain": "tucsonpost.com",
+      "country": "United States",
+      "published": "2026-11-07T16:00:00+00:00"
+     },
+     {
+      "title": "US adds 165 , 000 jobs in October , beating forecasts",
+      "url": "http://www.argentinastar.com/news/279416454/us-adds-165-000-jobs-in-october-beating-forecasts",
+      "domain": "argentinastar.com",
+      "country": "Argentina",
+      "published": "2026-11-07T16:00:00+00:00"
      }
     ]
    },
    "errors": {
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
