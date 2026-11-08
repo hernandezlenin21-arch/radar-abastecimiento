@@ -1,5 +1,22 @@
 [
  {
+  "id": "f6f0e730f587",
+  "indicator": "cp-ormuz",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-08",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Estrecho de Ormuz: 2 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “US military says it fired on ship that visited Iranian port after it tried to breach Strait of Hormuz blockade” (independent.co.uk). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "independent.co.uk",
+  "url": "https://www.independent.co.uk/news/world/americas/usa-military-strait-of-hormuz-ship-iran-st-kitts-b3081226.html",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-08T12:58:42-06:00"
+ },
+ {
   "id": "63a5ceeb31aa",
   "indicator": "cp-ormuz",
   "name": "Punto crítico logístico",
