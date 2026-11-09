@@ -1,5 +1,22 @@
 [
  {
+  "id": "cc9454e236af",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-09",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 2 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Houthi attack damages Aramco building in Riyadh” (thecourier.com.au). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "thecourier.com.au",
+  "url": "https://www.thecourier.com.au/story/9388058/houthi-attack-damages-aramco-building-in-riyadh/",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-08T22:12:47-06:00"
+ },
+ {
   "id": "45911c2506b4",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",

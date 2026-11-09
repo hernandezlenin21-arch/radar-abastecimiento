@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-08T19:26:31-06:00",
+  "at": "2026-11-08T22:12:47-06:00",
   "data": {
    "storms": [
     {
@@ -11,98 +11,98 @@
      "classification": "TS",
      "intensity": "40",
      "pressure": "1002",
-     "latitude": "11.6N",
-     "longitude": "157.2W",
-     "latitudeNumeric": 11.6,
-     "longitudeNumeric": -157.2,
-     "movementDir": 270,
-     "movementSpeed": 12,
-     "lastUpdate": "2026-11-08T21:00:00.000Z",
+     "latitude": "11.4N",
+     "longitude": "157.6W",
+     "latitudeNumeric": 11.4,
+     "longitudeNumeric": -157.6,
+     "movementDir": 260,
+     "movementSpeed": 8,
+     "lastUpdate": "2026-11-09T03:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "009",
-      "issuance": "2026-11-08T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-08T20:56:27.269Z",
+      "advNum": "010",
+      "issuance": "2026-11-09T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-09T02:42:27.365Z",
       "url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "009",
-      "issuance": "2026-11-08T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-08T20:55:56.739Z",
+      "advNum": "010",
+      "issuance": "2026-11-09T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-09T02:41:57.106Z",
       "url": "https://www.nhc.noaa.gov/text/HFOTCMCP4.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "009",
-      "issuance": "2026-11-08T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-08T20:56:27.274Z",
+      "advNum": "010",
+      "issuance": "2026-11-09T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-09T02:42:57.746Z",
       "url": "https://www.nhc.noaa.gov/text/HFOPWSCP4.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "009",
-      "issuance": "2026-11-08T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-08T20:56:57.895Z",
+      "advNum": "010",
+      "issuance": "2026-11-09T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-09T02:44:27.728Z",
       "url": "https://www.nhc.noaa.gov/text/HFOTCDCP4.shtml"
      },
      "forecastGraphics": {
-      "advNum": "009",
-      "issuance": "2026-11-08T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-08T20:56:27.269Z",
+      "advNum": "010",
+      "issuance": "2026-11-09T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-09T02:42:27.365Z",
       "url": "https://www.nhc.noaa.gov/graphics_cp4.shtml"
      },
      "forecastTrack": {
-      "advNum": "009",
-      "issuance": "2026-11-08T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-08T20:57:46.344Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_009.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_009adv_TRACK.kmz"
+      "advNum": "010",
+      "issuance": "2026-11-09T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-09T02:46:24.777Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_010.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_010adv_TRACK.kmz"
      },
      "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "009",
-      "issuance": "2026-11-08T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-08T20:57:40.563Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_009.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_009adv_CONE.kmz"
+      "advNum": "010",
+      "issuance": "2026-11-09T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-09T02:46:18.780Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_010.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_010adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "009",
-      "issuance": "2026-11-08T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-08T20:58:19.206Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_009.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_initialradii_009adv.kmz"
+      "advNum": "010",
+      "issuance": "2026-11-09T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-09T02:46:54.827Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_010.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_initialradii_010adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "009",
-      "issuance": "2026-11-08T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-08T20:58:14.638Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_009.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_forecastradii_009adv.kmz"
+      "advNum": "010",
+      "issuance": "2026-11-09T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-09T02:46:50.896Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_010.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_forecastradii_010adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-11-08T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-08T20:57:56.595Z",
+      "issuance": "2026-11-09T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-09T02:46:34.374Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/cp042026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/cp042026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "009",
-      "issuance": "2026-11-08T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-08T20:57:42.510Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_009adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "010",
+      "issuance": "2026-11-09T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-09T02:46:20.758Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_010adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "009",
-      "issuance": "2026-11-08T21:00:00.000Z",
-      "fileUpdateTime": "2026-11-08T20:57:44.433Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_009adv_most_likely_toa_34.kmz"
+      "advNum": "010",
+      "issuance": "2026-11-09T03:00:00.000Z",
+      "fileUpdateTime": "2026-11-09T02:46:22.696Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_010adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-11-08T18:00:00.000Z",
-      "fileUpdateTime": "2026-11-08T21:22:08.533Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110818_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110818_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110818_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110818_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110818_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-11-09T00:00:00.000Z",
+      "fileUpdateTime": "2026-11-09T03:21:41.674Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110900_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110900_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110900_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110900_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026110900_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-08T19:26:31-06:00",
+  "at": "2026-11-08T22:12:47-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,72 +123,23 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-08T19:26:31-06:00",
+  "at": "2026-11-08T22:12:47-06:00",
   "data": {
    "raw": {
-    "energia": [
+    "comercio_internacional": [
      {
-      "title": "Evening Shade Resistance Rising Sunday , November 8 , 2026",
-      "url": "https://www.dailykos.com/stories/2026/11/8/800122072/community/evening-shade-resistance-rising-sunday-november-8-2026/",
-      "domain": "dailykos.com",
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda | National",
+      "url": "http://www.reflector.com/news/national/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trump-s-fossil-fuel/article_fb08da8c-45a0-5c8e-9a0f-2d76cca00777.html",
+      "domain": "reflector.com",
       "country": "United States",
-      "published": "2026-11-09T01:00:00+00:00"
+      "published": "2026-11-09T02:00:00+00:00"
      },
      {
-      "title": "Farm debt is set to hit a record $605 billion this year",
-      "url": "https://www.wlwt.com/article/farm-finances-worsen-in-2026-as-diesel-and-fertilizer-costs-squeeze-us-farmers/74217744",
-      "domain": "wlwt.com",
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda :: WRAL . com",
+      "url": "https://www.wral.com/news/ap/b193e-democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trump-s-fossil-fuel-agenda/",
+      "domain": "wral.com",
       "country": "United States",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "Russia targets emergency crews at the site of deadly strike in southern Ukraine",
-      "url": "https://www.inquirer.com/news/nation-world/russia-ukraine-war-attacks-emergency-crews-komyshuvakha-aid-center-zelensky-20261108.html",
-      "domain": "inquirer.com",
-      "country": "",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "Head - To - Head Comparison : DTE Energy ( DTE ) versus Its Rivals",
-      "url": "https://www.tickerreport.com/banking-finance/13655740/head-to-head-comparison-dte-energy-dte-versus-its-rivals.html",
-      "domain": "tickerreport.com",
-      "country": "United States",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "Nigerian Sinotuck unveils electric commercial truck , Sitrak ,",
-      "url": "https://thesun.ng/nigerian-sinotuck-unveils-electric-commercial-truck-sitrak-targets-lower-haulage-costs-2/",
-      "domain": "thesun.ng",
-      "country": "",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "Promising Canadian Stocks To Add to Your Watchlist – November 6th",
-      "url": "https://www.tickerreport.com/banking-finance/13655747/promising-canadian-stocks-to-add-to-your-watchlist-november-6th.html",
-      "domain": "tickerreport.com",
-      "country": "United States",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "Democrats to push clean energy , challenging Trump fossil fuel plans",
-      "url": "https://gazette.com/2026/11/08/democrats-to-push-clean-energy-challenging-trumps-fossil-fuel-plans/",
-      "domain": "gazette.com",
-      "country": "United States",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "Analyzing Texas Pacific Land ( NYSE : TPL ) and W & T Offshore ( NYSE : WTI )",
-      "url": "https://www.themarketsdaily.com/2026/11/08/analyzing-texas-pacific-land-nysetpl-and-wt-offshore-nysewti.html",
-      "domain": "themarketsdaily.com",
-      "country": "United States",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "What Calumet ( CLMT ) Said on Its Q3 Earnings Call",
-      "url": "https://www.tickerreport.com/banking-finance/13655750/what-calumet-clmt-said-on-its-q3-earnings-call.html",
-      "domain": "tickerreport.com",
-      "country": "United States",
-      "published": "2026-11-09T00:30:00+00:00"
+      "published": "2026-11-09T02:00:00+00:00"
      },
      {
       "title": "Ticker : Inflation , housing data on tap",
@@ -205,13 +156,6 @@
       "published": "2026-11-08T21:00:00+00:00"
      },
      {
-      "title": "Indian economy to grow faster , foreign capital returning to markets : NSE CEO Ashishkumar Chauhan",
-      "url": "http://www.mexicostar.com/news/279420519/indian-economy-to-grow-faster-foreign-capital-returning-to-markets-nse-ceo-ashishkumar-chauhan",
-      "domain": "mexicostar.com",
-      "country": "Mexico",
-      "published": "2026-11-08T21:00:00+00:00"
-     },
-     {
       "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
       "url": "https://www.phillytrib.com/news/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/article_0897274d-a987-4cfc-9322-c981e8feaed5.html",
       "domain": "phillytrib.com",
@@ -219,45 +163,10 @@
       "published": "2026-11-08T21:00:00+00:00"
      },
      {
-      "title": "CPC to freeze fuel prices , despite international drop",
-      "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/09/2003867386",
-      "domain": "taipeitimes.com",
-      "country": "Taiwan",
-      "published": "2026-11-08T20:30:00+00:00"
-     },
-     {
-      "title": "Promising Streaming Stocks To Follow Today – November 8th",
-      "url": "https://www.themarketsdaily.com/2026/11/08/promising-streaming-stocks-to-follow-today-november-8th.html",
-      "domain": "themarketsdaily.com",
-      "country": "United States",
-      "published": "2026-11-08T20:30:00+00:00"
-     },
-     {
-      "title": "What Scotts Miracle - Gro ( SMG ) Said on Its Q4 Earnings Call",
-      "url": "https://www.themarketsdaily.com/2026/11/08/what-scotts-miracle-gro-smg-said-on-its-q4-earnings-call.html",
-      "domain": "themarketsdaily.com",
-      "country": "United States",
-      "published": "2026-11-08T20:30:00+00:00"
-     },
-     {
-      "title": "Trump Vows Comeback After Midterm Republican Losses",
-      "url": "https://www.theepochtimes.com/us/trump-vows-comeback-after-midterm-republican-losses-6122164",
-      "domain": "theepochtimes.com",
-      "country": "United States",
-      "published": "2026-11-08T20:30:00+00:00"
-     },
-     {
       "title": "The political economy of Bangladesh energy crisis",
       "url": "https://www.thedailystar.net/slow-reads/big-picture/news/the-political-economy-bangladeshs-energy-crisis-4318531",
       "domain": "thedailystar.net",
       "country": "Bangladesh",
-      "published": "2026-11-08T20:30:00+00:00"
-     },
-     {
-      "title": "The Kremlin hopes the US election shake - up wont shift Trump negotiations on Ukraine – Whittier Daily News",
-      "url": "https://www.whittierdailynews.com/2026/11/08/the-kremlin-hopes-the-us-election-shake-up-wont-shift-trumps-negotiations-on-ukraine/",
-      "domain": "whittierdailynews.com",
-      "country": "United States",
       "published": "2026-11-08T20:30:00+00:00"
      },
      {
@@ -268,13 +177,6 @@
       "published": "2026-11-08T20:30:00+00:00"
      },
      {
-      "title": "NNPC pitches investors on Nigeria – Morocco gas pipeline , eyes Trans - Saharan FID talks in 2027",
-      "url": "https://www.zawya.com/en/projects/oil-gas/nnpc-pitches-investors-on-nigeriamorocco-gas-pipeline-eyes-trans-saharan-fid-talks-in-2027-2126344",
-      "domain": "zawya.com",
-      "country": "United Arab Emirates",
-      "published": "2026-11-08T20:30:00+00:00"
-     },
-     {
       "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
       "url": "https://www.whittierdailynews.com/2026/11/08/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/",
       "domain": "whittierdailynews.com",
@@ -282,44 +184,16 @@
       "published": "2026-11-08T20:30:00+00:00"
      },
      {
-      "title": "Trump war in Iran driving shift from fossil fuels",
-      "url": "https://www.abc.net.au/news/2026-11-09/iran-conflict-strengthens-case-or-electrification/107351224",
-      "domain": "abc.net.au",
-      "country": "Australia",
-      "published": "2026-11-08T20:00:00+00:00"
-     },
-     {
-      "title": "Where Gold and Copper Prices Go From Here -- and 3 Mining Stocks to Own Either Way",
-      "url": "https://www.fool.com/investing/2026/11/08/where-gold-and-copper-prices-go-from-here-and/",
-      "domain": "fool.com",
+      "title": "What Tenaris ( TS ) Said on Its Q3 Earnings Call",
+      "url": "https://www.dailypolitical.com/2026/11/08/what-tenaris-ts-said-on-its-q3-earnings-call.html",
+      "domain": "dailypolitical.com",
       "country": "United States",
       "published": "2026-11-08T20:00:00+00:00"
-     },
-     {
-      "title": "WTI Crude Oil : How Durable Is the Calm Behind the Sell - Off ?",
-      "url": "https://www.dailyforex.com/forex-technical-analysis/2026/11/wti-crude-oil-forecast-8-november-2026/251559",
-      "domain": "dailyforex.com",
-      "country": "United Kingdom",
-      "published": "2026-11-08T19:30:00+00:00"
-     },
-     {
-      "title": "Lower crude , global stability to drive market growth in new Samvat : ANMI President Kamlesh Shroff",
-      "url": "http://www.calcuttanews.net/news/279420518/lower-crude-global-stability-to-drive-market-growth-in-new-samvat-anmi-president-kamlesh-shroff",
-      "domain": "calcuttanews.net",
-      "country": "India",
-      "published": "2026-11-08T19:30:00+00:00"
      },
      {
       "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda",
       "url": "https://www.kxl.com/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trumps-fossil-fuel-agenda/",
       "domain": "kxl.com",
-      "country": "United States",
-      "published": "2026-11-08T19:30:00+00:00"
-     },
-     {
-      "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
-      "url": "https://www.adn.com/nation-world/2026/11/08/russia-targets-emergency-crews-at-the-site-of-a-deadly-strike-in-southern-ukraine/",
-      "domain": "adn.com",
       "country": "United States",
       "published": "2026-11-08T19:30:00+00:00"
      },
@@ -331,20 +205,6 @@
       "published": "2026-11-08T19:30:00+00:00"
      },
      {
-      "title": "Indian economy to grow faster , foreign capital returning to markets : NSE CEO Ashishkumar Chauhan",
-      "url": "http://www.calcuttanews.net/news/279420519/indian-economy-to-grow-faster-foreign-capital-returning-to-markets-nse-ceo-ashishkumar-chauhan",
-      "domain": "calcuttanews.net",
-      "country": "India",
-      "published": "2026-11-08T19:30:00+00:00"
-     },
-     {
-      "title": "Indian economy to grow faster , foreign capital returning to markets : NSE CEO Ashishkumar Chauhan",
-      "url": "http://www.pakistantelegraph.com/news/279420519/indian-economy-to-grow-faster-foreign-capital-returning-to-markets-nse-ceo-ashishkumar-chauhan",
-      "domain": "pakistantelegraph.com",
-      "country": "Pakistan",
-      "published": "2026-11-08T19:30:00+00:00"
-     },
-     {
       "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
       "url": "https://www.adn.com/nation-world/2026/11/08/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/",
       "domain": "adn.com",
@@ -352,17 +212,10 @@
       "published": "2026-11-08T19:30:00+00:00"
      },
      {
-      "title": "5 Hidden Homeownership Costs That Catch Buyers Off Guard After Closing",
-      "url": "https://www.aol.com/articles/5-hidden-homeownership-costs-catch-180019000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-11-08T19:00:00+00:00"
-     },
-     {
-      "title": "Unbelievable : $30k caravan site shocks Aussie family",
-      "url": "https://www.realestate.com.au/news/unbelievable-30k-caravan-site-shocks-aussie-family/",
-      "domain": "realestate.com.au",
-      "country": "Australia",
+      "title": "Arab News | Lula set to double down on Global South leadership",
+      "url": "https://www.arabnews.com/opinion/lula-set-to-double-down-on-global-south-leadership-3010474",
+      "domain": "arabnews.com",
+      "country": "Saudi Arabia",
       "published": "2026-11-08T18:30:00+00:00"
      },
      {
@@ -380,24 +233,17 @@
       "published": "2026-11-08T18:30:00+00:00"
      },
      {
-      "title": "Farm debt is set to hit a record $605 billion this year",
-      "url": "https://www.kcra.com/article/farm-finances-worsen-in-2026-as-diesel-and-fertilizer-costs-squeeze-us-farmers/74217744",
-      "domain": "kcra.com",
+      "title": "Adam Hamilton Warns Democrats Against Trump Investigations After Kansas Win",
+      "url": "https://www.newsweek.com/adam-hamilton-trump-investigations-democrats-kansas-12683529",
+      "domain": "newsweek.com",
       "country": "United States",
       "published": "2026-11-08T18:30:00+00:00"
      },
      {
-      "title": "Head to Head Contrast : C3is ( CISS ) and Its Peers",
-      "url": "https://www.themarketsdaily.com/2026/11/08/head-to-head-contrast-c3is-ciss-and-its-peers.html",
-      "domain": "themarketsdaily.com",
+      "title": "Week in review : Test your knowledge of notable news",
+      "url": "https://www.news8000.com/news/national-world/week-in-review-test-your-knowledge-of-notable-news/article_d5a7e4b0-2dee-5eba-bbe4-ef32202e9afb.html",
+      "domain": "news8000.com",
       "country": "United States",
-      "published": "2026-11-08T18:30:00+00:00"
-     },
-     {
-      "title": "Labour expected to cut EV targets for united kingdom car industry despite MP protests | Electric , hybrid and low - emission cars",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
-      "domain": "theguardian.com",
-      "country": "United Kingdom",
       "published": "2026-11-08T18:30:00+00:00"
      },
      {
@@ -406,15 +252,232 @@
       "domain": "wtop.com",
       "country": "United States",
       "published": "2026-11-08T17:00:00+00:00"
+     },
+     {
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda",
+      "url": "https://www.clickondetroit.com/business/2026/11/08/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trumps-fossil-fuel-agenda/",
+      "domain": "clickondetroit.com",
+      "country": "United States",
+      "published": "2026-11-08T17:00:00+00:00"
+     },
+     {
+      "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
+      "url": "https://www.clickondetroit.com/news/politics/2026/11/08/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/",
+      "domain": "clickondetroit.com",
+      "country": "United States",
+      "published": "2026-11-08T17:00:00+00:00"
+     },
+     {
+      "title": "This Week  Transcript 11 - 8 - 26 : House Democratic Leader Hakeem Jeffries , Senator - elect Abdul El - Sayed & Governor - elect Keisha Lance Bottoms",
+      "url": "https://abcnews.com/Politics/week-transcript-11-8-26-house-democratic-leader/story?id=137944448",
+      "domain": "abcnews.com",
+      "country": "United States",
+      "published": "2026-11-08T17:00:00+00:00"
+     },
+     {
+      "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
+      "url": "https://abcnews.com/Politics/wireStory/voters-demanded-economic-relief-trump-democrats-face-tough-137952337",
+      "domain": "abcnews.com",
+      "country": "United States",
+      "published": "2026-11-08T17:00:00+00:00"
+     },
+     {
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda",
+      "url": "https://abcnews.com/Business/wireStory/democrats-plan-push-clean-energy-lower-bills-challenge-137953636",
+      "domain": "abcnews.com",
+      "country": "United States",
+      "published": "2026-11-08T17:00:00+00:00"
+     },
+     {
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda | Elections",
+      "url": "https://www.messenger-inquirer.com/ap/elections/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trump-s-fossil-fuel/article_377db042-fea9-5a04-af5c-22d4e0cafa63.html",
+      "domain": "messenger-inquirer.com",
+      "country": "United States",
+      "published": "2026-11-08T16:00:00+00:00"
+     },
+     {
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda | National & World",
+      "url": "http://www.dailyadvance.com/news/national/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trump-s-fossil-fuel/article_eb5018a5-398e-5749-bc05-c5396b32d31e.html",
+      "domain": "dailyadvance.com",
+      "country": "United States",
+      "published": "2026-11-08T16:00:00+00:00"
+     },
+     {
+      "title": "Democrats deliver a moment of redemption for US as voters finally turn on Donald Trump",
+      "url": "https://www.irishtimes.com/world/us/2026/11/08/democrats-deliver-a-moment-of-redemption-for-us-as-voters-finally-turn-on-donald-trump/",
+      "domain": "irishtimes.com",
+      "country": "Ireland",
+      "published": "2026-11-08T16:00:00+00:00"
+     },
+     {
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda | National News",
+      "url": "http://www.postregister.com/news/national/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trump-s-fossil-fuel/article_1b623615-01c0-5181-b369-a1c570d811f8.html",
+      "domain": "postregister.com",
+      "country": "United States",
+      "published": "2026-11-08T16:00:00+00:00"
+     },
+     {
+      "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
+      "url": "https://www.ksat.com/news/politics/2026/11/08/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/",
+      "domain": "ksat.com",
+      "country": "United States",
+      "published": "2026-11-08T16:00:00+00:00"
+     },
+     {
+      "title": "Trump and Democrats now face voter demand to deliver economic relief",
+      "url": "https://www.wsbradio.com/news/business/voters-demanded/ES4CE55RKI2WPBQ7LNETADZRAA/",
+      "domain": "wsbradio.com",
+      "country": "United States",
+      "published": "2026-11-08T16:00:00+00:00"
+     },
+     {
+      "title": "Democrats plan to push clean energy in Congress as Trump backs fossil fuels",
+      "url": "https://www.wsbradio.com/news/business/democrats-plan-push/Z7UNG52QNI4VTB5R4TTBSQZF34/",
+      "domain": "wsbradio.com",
+      "country": "United States",
+      "published": "2026-11-08T16:00:00+00:00"
+     },
+     {
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda",
+      "url": "http://www.bozemandailychronicle.com/wire/news/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trump-s-fossil-fuel/article_a5e7de68-60dc-515c-b59d-0dfb9d7fd0bd.html",
+      "domain": "bozemandailychronicle.com",
+      "country": "United States",
+      "published": "2026-11-08T16:00:00+00:00"
+     },
+     {
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda",
+      "url": "https://www.thepeterboroughexaminer.com/life/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trump-s-fossil-fuel-agenda/article_8191e90d-ab9f-5e51-95cb-1acf9f440373.html",
+      "domain": "thepeterboroughexaminer.com",
+      "country": "Canada",
+      "published": "2026-11-08T15:30:00+00:00"
+     },
+     {
+      "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
+      "url": "https://www.thepeterboroughexaminer.com/business/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/article_c0ac843b-59f9-57fe-9565-025a7b61be82.html",
+      "domain": "thepeterboroughexaminer.com",
+      "country": "Canada",
+      "published": "2026-11-08T15:30:00+00:00"
+     },
+     {
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda",
+      "url": "https://www.whec.com/ap-top-news/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trumps-fossil-fuel-agenda/",
+      "domain": "whec.com",
+      "country": "United States",
+      "published": "2026-11-08T15:30:00+00:00"
+     },
+     {
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda | National",
+      "url": "https://www.dailygazette.com/the_recorder/ap/national/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trump-s-fossil-fuel/article_8916326e-27b7-5bbf-80a4-2c005f6c9a02.html",
+      "domain": "dailygazette.com",
+      "country": "United States",
+      "published": "2026-11-08T15:30:00+00:00"
+     },
+     {
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda",
+      "url": "http://www.sitkasentinel.com/stories/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trumps-fossil-fuel-agenda,184776",
+      "domain": "sitkasentinel.com",
+      "country": "United States",
+      "published": "2026-11-08T15:30:00+00:00"
+     },
+     {
+      "title": "Trump and Democrats now face voter demand to deliver economic relief",
+      "url": "https://www.wdbo.com/news/business/voters-demanded/ES4CE55RKI2WPBQ7LNETADZRAA/",
+      "domain": "wdbo.com",
+      "country": "United States",
+      "published": "2026-11-08T14:30:00+00:00"
+     },
+     {
+      "title": "Clarence Page : How Trump helped the GOP lose",
+      "url": "https://www.troyrecord.com/2026/11/08/clarence-page-how-trump-helped-the-gop-lose/",
+      "domain": "troyrecord.com",
+      "country": "United States",
+      "published": "2026-11-08T14:30:00+00:00"
+     },
+     {
+      "title": "Indian Americans voted against Trump over domestic woes as bilateral ties took backseat",
+      "url": "https://www.newindianexpress.com/world/2026/Nov/08/indian-americans-voted-against-trump-over-domestic-woes-as-bilateral-ties-took-backseat",
+      "domain": "newindianexpress.com",
+      "country": "India",
+      "published": "2026-11-08T14:30:00+00:00"
+     },
+     {
+      "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/articleshow/135659761.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-08T14:30:00+00:00"
      }
     ],
-    "geopolitica": [
+    "transporte_maritimo": [
      {
-      "title": "Evening Shade Resistance Rising Sunday , November 8 , 2026",
-      "url": "https://www.dailykos.com/stories/2026/11/8/800122072/community/evening-shade-resistance-rising-sunday-november-8-2026/",
-      "domain": "dailykos.com",
+      "title": "Iran FM Abbas Araghchi gives ultimatum to US on ending war :  Our 2 - day proposal stands",
+      "url": "https://www.hindustantimes.com/world-news/irans-fm-abbas-araghchi-gives-ultimatum-to-us-on-ending-war-our-2-day-proposal-stands-101794181550576.html",
+      "domain": "hindustantimes.com",
+      "country": "India",
+      "published": "2026-11-09T02:00:00+00:00"
+     },
+     {
+      "title": "Houthi missiles hit Riyadh financial district , damage Aramco office as Saudi retaliates",
+      "url": "https://www.hindustantimes.com/world-news/houthi-missiles-hit-riyadh-financial-district-damage-aramco-office-as-saudi-retaliates-101794183754284.html",
+      "domain": "hindustantimes.com",
+      "country": "India",
+      "published": "2026-11-09T02:00:00+00:00"
+     },
+     {
+      "title": "Gold edges up as softer crude tempers inflation concerns",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-softer-crude-tempers-inflation-concerns/articleshow/135667365.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-09T02:00:00+00:00"
+     },
+     {
+      "title": "Sri Lanka Economic Recovery Tied to Strait of Hormuz as US - Israel Tensions Reshape Global Trade",
+      "url": "https://www.lankanewspapers.com/2026/11/08/sri-lanka-s-economic-recovery-tied-to-strait-of-hormuz-as-us-israel-tensions-reshape-global-trade",
+      "domain": "lankanewspapers.com",
+      "country": "Sri Lanka",
+      "published": "2026-11-09T02:00:00+00:00"
+     },
+     {
+      "title": "Gulf states sign landmark deal to advance regional railway network",
+      "url": "https://www.middle-east-online.com/en/gulf-states-sign-landmark-deal-advance-regional-railway-network",
+      "domain": "middle-east-online.com",
+      "country": "Iraq",
+      "published": "2026-11-09T02:00:00+00:00"
+     },
+     {
+      "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat",
+      "url": "http://www.goskagit.com/news/politics/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear/article_956c74a4-76f2-5934-89b7-d465e94ccadb.html",
+      "domain": "goskagit.com",
       "country": "United States",
-      "published": "2026-11-09T01:00:00+00:00"
+      "published": "2026-11-09T02:00:00+00:00"
+     },
+     {
+      "title": "Houthi attack damages Aramco building in Riyadh",
+      "url": "https://www.thecourier.com.au/story/9388058/houthi-attack-damages-aramco-building-in-riyadh/",
+      "domain": "thecourier.com.au",
+      "country": "Australia",
+      "published": "2026-11-09T02:00:00+00:00"
+     },
+     {
+      "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat",
+      "url": "https://www.wral.com/news/ap/f7b50-rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat/",
+      "domain": "wral.com",
+      "country": "United States",
+      "published": "2026-11-09T02:00:00+00:00"
+     },
+     {
+      "title": "Trump says Iran strikes highly unlikely with strong deal",
+      "url": "https://www.inquisitr.com/trump-iran-strikes-agreement/",
+      "domain": "inquisitr.com",
+      "country": "United States",
+      "published": "2026-11-09T02:00:00+00:00"
+     },
+     {
+      "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat",
+      "url": "http://www.reflector.com/news/national/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear/article_aebf9f20-3c23-5845-8fce-7dfa317bac5a.html",
+      "domain": "reflector.com",
+      "country": "United States",
+      "published": "2026-11-09T02:00:00+00:00"
      },
      {
       "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat – Winnipeg Free Press",
@@ -438,10 +501,10 @@
       "published": "2026-11-09T01:00:00+00:00"
      },
      {
-      "title": "Rain and wind sweeps through Gaza ! - Workers Revolutionary Party",
-      "url": "https://wrp.org.uk/news/rain-and-wind-sweeps-through-gaza/",
-      "domain": "wrp.org.uk",
-      "country": "United Kingdom",
+      "title": "Essentia Health opens nearly $50M orthopedic center",
+      "url": "https://www.duluthnewstribune.com/news/local/essentia-health-opens-nearly-50m-orthopedic-center",
+      "domain": "duluthnewstribune.com",
+      "country": "United States",
       "published": "2026-11-09T01:00:00+00:00"
      },
      {
@@ -501,17 +564,10 @@
       "published": "2026-11-09T01:00:00+00:00"
      },
      {
-      "title": "19 Indian seafarers stranded in Yemen safely evacuated , Embassy says",
-      "url": "http://www.arabherald.com/news/279420710/19-indian-seafarers-stranded-in-yemen-safely-evacuated-embassy-says",
-      "domain": "arabherald.com",
-      "country": "Syria",
-      "published": "2026-11-09T01:00:00+00:00"
-     },
-     {
-      "title": "The Tribe Has Spoken ... But Permanent Uncertainty Prevails",
-      "url": "https://www.scoop.co.nz/stories/BU2611/S00080/the-tribe-has-spoken-but-permanent-uncertainty-prevails.htm",
-      "domain": "scoop.co.nz",
-      "country": "New Zealand",
+      "title": "3 rescued after boat capsizes on Mississippi River",
+      "url": "https://www.wsaw.com/2026/11/08/3-rescued-after-boat-capsizes-mississippi-river/",
+      "domain": "wsaw.com",
+      "country": "United States",
       "published": "2026-11-09T01:00:00+00:00"
      },
      {
@@ -550,13 +606,6 @@
       "published": "2026-11-09T00:30:00+00:00"
      },
      {
-      "title": "Trump Is Not the Problem . Capitalism Is : The Liberal Delusion",
-      "url": "https://www.greanvillepost.com/trump-is-not-the-problem-capitalism-is-the-liberal-delusion/",
-      "domain": "greanvillepost.com",
-      "country": "United States",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
       "title": "Trump says renewed attacks on Iran  highly unlikely  if talks show progress",
       "url": "http://www.malaysiasun.com/news/279420668/trump-says-renewed-attacks-on-iran-highly-unlikely-if-talks-show-progress",
       "domain": "malaysiasun.com",
@@ -571,13 +620,6 @@
       "published": "2026-11-09T00:30:00+00:00"
      },
      {
-      "title": "19 Indian seafarers stranded in Yemen safely evacuated , Embassy says",
-      "url": "http://www.iranherald.com/news/279420710/19-indian-seafarers-stranded-in-yemen-safely-evacuated-embassy-says",
-      "domain": "iranherald.com",
-      "country": "Iran",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
       "title": "Trump says renewed attacks on Iran  highly unlikely  if talks show progress",
       "url": "http://www.iranherald.com/news/279420668/trump-says-renewed-attacks-on-iran-highly-unlikely-if-talks-show-progress",
       "domain": "iranherald.com",
@@ -585,18 +627,11 @@
       "published": "2026-11-09T00:30:00+00:00"
      },
      {
-      "title": "Ticker : Inflation , housing data on tap",
-      "url": "https://www.bostonherald.com/2026/11/08/ticker-inflation-housing-data-on-tap/",
-      "domain": "bostonherald.com",
-      "country": "United States",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "url": "https://www.bbc.com/news/articles/c6ly3mjx958eo",
+      "domain": "bbc.com",
+      "country": "United Kingdom",
       "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda | National",
-      "url": "http://www.thedailytimes.com/ap/national/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trump-s-fossil-fuel/article_87dbe6de-c3b2-54d7-90a3-b5297add1bff.html",
-      "domain": "thedailytimes.com",
-      "country": "United States",
-      "published": "2026-11-08T21:00:00+00:00"
      },
      {
       "title": "Arab News | Trump says he is highly unlikely to order Iran strikes if talks progress",
@@ -634,45 +669,10 @@
       "published": "2026-11-08T21:00:00+00:00"
      },
      {
-      "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
-      "url": "https://www.phillytrib.com/news/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/article_0897274d-a987-4cfc-9322-c981e8feaed5.html",
-      "domain": "phillytrib.com",
-      "country": "United States",
-      "published": "2026-11-08T21:00:00+00:00"
-     },
-     {
       "title": "Washington blinked . Now Israel enters the Blame Game",
       "url": "https://www.israelnationalnews.com/news/435863",
       "domain": "israelnationalnews.com",
       "country": "Israel",
-      "published": "2026-11-08T20:30:00+00:00"
-     },
-     {
-      "title": "Saudi Energy Ministry confirms attempted strike on Aramco facility in Riyadh after Houthis claim operations against kingdom",
-      "url": "http://www.kenyastar.com/news/279420522/saudi-energy-ministry-confirms-attempted-strike-on-aramco-facility-in-riyadh-after-houthis-claim-operations-against-kingdom",
-      "domain": "kenyastar.com",
-      "country": "Kenya",
-      "published": "2026-11-08T20:30:00+00:00"
-     },
-     {
-      "title": "The political economy of Bangladesh energy crisis",
-      "url": "https://www.thedailystar.net/slow-reads/big-picture/news/the-political-economy-bangladeshs-energy-crisis-4318531",
-      "domain": "thedailystar.net",
-      "country": "Bangladesh",
-      "published": "2026-11-08T20:30:00+00:00"
-     },
-     {
-      "title": "The Kremlin hopes the US election shake - up wont shift Trump negotiations on Ukraine – Whittier Daily News",
-      "url": "https://www.whittierdailynews.com/2026/11/08/the-kremlin-hopes-the-us-election-shake-up-wont-shift-trumps-negotiations-on-ukraine/",
-      "domain": "whittierdailynews.com",
-      "country": "United States",
-      "published": "2026-11-08T20:30:00+00:00"
-     },
-     {
-      "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
-      "url": "https://www.whittierdailynews.com/2026/11/08/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/",
-      "domain": "whittierdailynews.com",
-      "country": "United States",
       "published": "2026-11-08T20:30:00+00:00"
      },
      {
@@ -683,19 +683,195 @@
       "published": "2026-11-08T20:30:00+00:00"
      },
      {
-      "title": "What Tenaris ( TS ) Said on Its Q3 Earnings Call",
-      "url": "https://www.dailypolitical.com/2026/11/08/what-tenaris-ts-said-on-its-q3-earnings-call.html",
-      "domain": "dailypolitical.com",
-      "country": "United States",
+      "title": "Iran reverse - engineering captured US military equipment : IRGC adviser",
+      "url": "https://www.presstv.co.uk/Detail/2026/11/08/780263/iran-reverse-engineering-captured-us-equipment-irgc-adviser",
+      "domain": "presstv.co.uk",
+      "country": "",
+      "published": "2026-11-08T19:30:00+00:00"
+     }
+    ],
+    "riesgos_climaticos": [
+     {
+      "title": "Arab News | Syria 218 million fruit trees face challenges from drought and climate change",
+      "url": "https://www.arabnews.com/middle-east/syrias-218-million-fruit-trees-face-challenges-from-drought-and-climate-change-3010511",
+      "domain": "arabnews.com",
+      "country": "Saudi Arabia",
       "published": "2026-11-08T20:00:00+00:00"
+     },
+     {
+      "title": "Maharashtra Forest Minister Ganesh Naik Celebrates Diwali With Tribal And Farming Families In Shahapur Village",
+      "url": "https://www.freepressjournal.in/mumbai/maharashtra-forest-minister-ganesh-naik-celebrates-diwali-with-tribal-and-farming-families-in-shahapur-village",
+      "domain": "freepressjournal.in",
+      "country": "India",
+      "published": "2026-11-08T16:00:00+00:00"
+     },
+     {
+      "title": "Maharashtra CM Devendra Fadnavis Extends Borewell Drilling Deadline For Farmers Protecting Fruit Orchards Till December 15 Amid Drought",
+      "url": "https://www.freepressjournal.in/mumbai/maharashtra-cm-devendra-fadnavis-extends-borewell-drilling-deadline-for-farmers-protecting-fruit-orchards-till-december-15-amid-drought",
+      "domain": "freepressjournal.in",
+      "country": "India",
+      "published": "2026-11-08T16:00:00+00:00"
+     },
+     {
+      "title": "Champagne alcohol limits adjusted after heatwave",
+      "url": "https://www.theportugalnews.com/news/2026-11-08/champagne-alcohol-limits-adjusted-after-heatwave/1112347",
+      "domain": "theportugalnews.com",
+      "country": "Portugal",
+      "published": "2026-11-08T10:30:00+00:00"
+     },
+     {
+      "title": "Karnataka releases first instalment of Rs 2 , 500 drought relief to farmers , seeks Rs 22 , 400 crore from Centre",
+      "url": "http://www.indiagazette.com/news/279419542/karnataka-releases-first-instalment-of-rs-2500-drought-relief-to-farmers-seeks-rs-22400-crore-from-centre",
+      "domain": "indiagazette.com",
+      "country": "India",
+      "published": "2026-11-08T09:30:00+00:00"
+     },
+     {
+      "title": "Farmers in great distress : BJD Chief Naveen Patnaik visits flood - hit Ganjam , takes up grievances with Odisha govt",
+      "url": "http://www.calcuttanews.net/news/279418667/farmers-in-great-distress-bjd-chief-naveen-patnaik-visits-flood-hit-ganjam-takes-up-grievances-with-odisha-govt",
+      "domain": "calcuttanews.net",
+      "country": "India",
+      "published": "2026-11-07T18:00:00+00:00"
+     },
+     {
+      "title": "PhilRice develops climate maps for rice farming",
+      "url": "https://www.philstar.com/business/2026/11/08/2568562/philrice-develops-climate-maps-rice-farming",
+      "domain": "philstar.com",
+      "country": "Philippines",
+      "published": "2026-11-07T18:00:00+00:00"
+     },
+     {
+      "title": "Naveen Visits Ganjam 11 Days After Arnab Devastation , Says Victim Distress Remains Unheard",
+      "url": "https://www.deccanchronicle.com/nation/naveen-visits-ganjam-11-days-after-arnab-devastation-says-victims-distress-remains-unheard-2002603",
+      "domain": "deccanchronicle.com",
+      "country": "India",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "Farmers in great distress : BJD Chief Naveen Patnaik visits flood - hit Ganjam , takes up grievances with Odisha govt",
+      "url": "http://www.milwaukeesun.com/news/279418667/farmers-in-great-distress-bjd-chief-naveen-patnaik-visits-flood-hit-ganjam-takes-up-grievances-with-odisha-govt",
+      "domain": "milwaukeesun.com",
+      "country": "United States",
+      "published": "2026-11-07T17:30:00+00:00"
+     },
+     {
+      "title": "ARKANSAS A - Z : State Fourche La Fave River has long history of occupation | The Arkansas Democrat - Gazette",
+      "url": "https://www.arkansasonline.com/news/2026/nov/07/arkansas-a-z-states-fourche-la-fave-river-has/",
+      "domain": "arkansasonline.com",
+      "country": "United States",
+      "published": "2026-11-07T17:00:00+00:00"
+     },
+     {
+      "title": "Nine new buddy volunteers complete training at peace garden",
+      "url": "https://www.ilfordrecorder.co.uk/news/26691594.nine-new-buddy-volunteers-complete-training-peace-garden/",
+      "domain": "ilfordrecorder.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-07T09:30:00+00:00"
+     },
+     {
+      "title": "Pune : Over 3 . 28 Lakh Farmers Receive ₹164 . 27 Crore In Diwali Aid ; Some Still Await ₹5 , 000 Due To Technical Issues",
+      "url": "https://www.freepressjournal.in/pune/pune-over-328-lakh-farmers-receive-16427-crore-in-diwali-aid-some-still-await-5000-due-to-technical-issues",
+      "domain": "freepressjournal.in",
+      "country": "India",
+      "published": "2026-11-07T07:00:00+00:00"
+     },
+     {
+      "title": "Asia Rice : Vietnam , Thai rice prices hit near two - year highs as India slips",
+      "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/asia-rice-vietnam-thai-rice-prices-hit-near-two-year-highs-as-india-slips/articleshow/135627665.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-07T06:30:00+00:00"
+     },
+     {
+      "title": "Forage Fish Campaign Pollsters Told Voters What to Believe - Then Claimed Support for a Ban",
+      "url": "http://www.newjerseytelegraph.com/news/279416732/forage-fish-campaign-pollsters-told-voters-what-to-believe-then-claimed-support-for-a-ban",
+      "domain": "newjerseytelegraph.com",
+      "country": "United States",
+      "published": "2026-11-07T01:00:00+00:00"
+     },
+     {
+      "title": "From Italy to Croatia , a warming climate threatens prized white truffles",
+      "url": "https://japantoday.com/category/features/environment/from-italy-to-croatia-a-warming-climate-threatens-prized-white-truffles",
+      "domain": "japantoday.com",
+      "country": "Japan",
+      "published": "2026-11-07T00:00:00+00:00"
+     },
+     {
+      "title": "Jerusalem artichokes are nutty and delicious , but will run rampant if you let them",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/nov/06/jerusalem-artichokes-nutty-delicious",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-11-06T11:30:00+00:00"
+     },
+     {
+      "title": "Global food prices fall 1 . 2 % in October as cereal , meat , dairy prices ease",
+      "url": "https://aa.com.tr/en/economy/global-food-prices-fall-12-in-october-as-cereal-meat-dairy-prices-ease/4113879",
+      "domain": "aa.com.tr",
+      "country": "Turkey",
+      "published": "2026-11-06T11:30:00+00:00"
+     },
+     {
+      "title": "Jerusalem artichokes are nutty and delicious , but will run rampant if you let them",
+      "url": "https://www.aol.co.uk/articles/jerusalem-artichokes-nutty-delicious-run-110050000.html",
+      "domain": "aol.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-06T11:30:00+00:00"
+     },
+     {
+      "title": "Growing problem : Why our food needs a bigger gene pool",
+      "url": "https://www.irishexaminer.com/lifestyle/outdoors/arid-41933964.html",
+      "domain": "irishexaminer.com",
+      "country": "Ireland",
+      "published": "2026-11-06T08:30:00+00:00"
+     },
+     {
+      "title": "Karnataka suffered ₹62 , 000 crore drought loss , seeks ₹22 , 000 crore from Centre : Deputy CM Parameshwara",
+      "url": "https://aninews.in/news/national/politics/karnataka-suffered-837762000-crore-drought-loss-seeks-837722000-crore-from-centre-deputy-cm-parameshwara20261106124438/",
+      "domain": "aninews.in",
+      "country": "India",
+      "published": "2026-11-06T08:00:00+00:00"
+     },
+     {
+      "title": "PH government steps up El Niño preparations as drought , water shortages threaten communities - Philippine Canadian Inquirer Nationwide Filipino Newspaper",
+      "url": "https://canadianinquirer.net/2026/11/06/ph-government-steps-up-el-nino-preparations-as-drought-water-shortages-threaten-communities/",
+      "domain": "canadianinquirer.net",
+      "country": "Philippines",
+      "published": "2026-11-06T07:30:00+00:00"
+     },
+     {
+      "title": "Port Harcourt Prepares For 10 , 000 Runners As International Marathon Returns",
+      "url": "https://www.thetidenewsonline.com/2026/11/port-harcourt-prepares-for-10000-runners-as-international-marathon-returns/",
+      "domain": "thetidenewsonline.com",
+      "country": "Nigeria",
+      "published": "2026-11-06T06:30:00+00:00"
+     },
+     {
+      "title": "UP Government increases disaster relief fund amounts ; over 10 lakh farmers to benefit",
+      "url": "https://aninews.in/news/national/general-news/up-government-increases-disaster-relief-fund-amounts-over-10-lakh-farmers-to-benefit20261106095420/",
+      "domain": "aninews.in",
+      "country": "India",
+      "published": "2026-11-06T05:30:00+00:00"
+     },
+     {
+      "title": "Drought Conditions Still Getting Worse in Maine",
+      "url": "https://wgan.com/news/074470-drought-conditions-still-getting-worse-in-maine/",
+      "domain": "wgan.com",
+      "country": "United States",
+      "published": "2026-11-06T05:30:00+00:00"
+     },
+     {
+      "title": "UP Government increases disaster relief fund amounts ; over 10 lakh farmers to benefit",
+      "url": "https://news.webindia123.com/news/Articles/India/20261106/4516508.html",
+      "domain": "news.webindia123.com",
+      "country": "India",
+      "published": "2026-11-06T05:30:00+00:00"
      }
     ]
    },
    "errors": {
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
