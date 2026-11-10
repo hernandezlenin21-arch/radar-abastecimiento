@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-10T07:21:08-06:00",
+  "at": "2026-11-10T10:02:10-06:00",
   "data": {
    "storms": [
     {
@@ -11,98 +11,98 @@
      "classification": "TS",
      "intensity": "35",
      "pressure": "1004",
-     "latitude": "11.7N",
-     "longitude": "163.9W",
-     "latitudeNumeric": 11.7,
-     "longitudeNumeric": -163.9,
-     "movementDir": 270,
-     "movementSpeed": 14,
-     "lastUpdate": "2026-11-10T09:00:00.000Z",
+     "latitude": "11.1N",
+     "longitude": "164.7W",
+     "latitudeNumeric": 11.1,
+     "longitudeNumeric": -164.7,
+     "movementDir": 260,
+     "movementSpeed": 12,
+     "lastUpdate": "2026-11-10T15:00:00.000Z",
      "publicAdvisory": {
-      "advNum": "015",
-      "issuance": "2026-11-10T09:00:00.000Z",
-      "fileUpdateTime": "2026-11-10T08:33:21.061Z",
+      "advNum": "016",
+      "issuance": "2026-11-10T15:00:00.000Z",
+      "fileUpdateTime": "2026-11-10T14:41:26.629Z",
       "url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml"
      },
      "forecastAdvisory": {
-      "advNum": "015",
-      "issuance": "2026-11-10T09:00:00.000Z",
-      "fileUpdateTime": "2026-11-10T08:32:49.597Z",
+      "advNum": "016",
+      "issuance": "2026-11-10T15:00:00.000Z",
+      "fileUpdateTime": "2026-11-10T14:40:55.532Z",
       "url": "https://www.nhc.noaa.gov/text/HFOTCMCP4.shtml"
      },
      "windSpeedProbabilities": {
-      "advNum": "015",
-      "issuance": "2026-11-10T09:00:00.000Z",
-      "fileUpdateTime": "2026-11-10T08:33:51.513Z",
+      "advNum": "016",
+      "issuance": "2026-11-10T15:00:00.000Z",
+      "fileUpdateTime": "2026-11-10T14:41:26.602Z",
       "url": "https://www.nhc.noaa.gov/text/HFOPWSCP4.shtml"
      },
      "forecastDiscussion": {
-      "advNum": "015",
-      "issuance": "2026-11-10T09:00:00.000Z",
-      "fileUpdateTime": "2026-11-10T08:36:52.760Z",
+      "advNum": "016",
+      "issuance": "2026-11-10T15:00:00.000Z",
+      "fileUpdateTime": "2026-11-10T14:43:27.345Z",
       "url": "https://www.nhc.noaa.gov/text/HFOTCDCP4.shtml"
      },
      "forecastGraphics": {
-      "advNum": "015",
-      "issuance": "2026-11-10T09:00:00.000Z",
-      "fileUpdateTime": "2026-11-10T08:33:21.061Z",
+      "advNum": "016",
+      "issuance": "2026-11-10T15:00:00.000Z",
+      "fileUpdateTime": "2026-11-10T14:41:26.629Z",
       "url": "https://www.nhc.noaa.gov/graphics_cp4.shtml"
      },
      "forecastTrack": {
-      "advNum": "015",
-      "issuance": "2026-11-10T09:00:00.000Z",
-      "fileUpdateTime": "2026-11-10T08:38:37.586Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_015.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_015adv_TRACK.kmz"
+      "advNum": "016",
+      "issuance": "2026-11-10T15:00:00.000Z",
+      "fileUpdateTime": "2026-11-10T14:44:45.684Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_016.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_016adv_TRACK.kmz"
      },
      "windWatchesWarnings": null,
      "trackCone": {
-      "advNum": "015",
-      "issuance": "2026-11-10T09:00:00.000Z",
-      "fileUpdateTime": "2026-11-10T08:38:30.689Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_015.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_015adv_CONE.kmz"
+      "advNum": "016",
+      "issuance": "2026-11-10T15:00:00.000Z",
+      "fileUpdateTime": "2026-11-10T14:44:38.745Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_016.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_016adv_CONE.kmz"
      },
      "initialWindExtent": {
-      "advNum": "015",
-      "issuance": "2026-11-10T09:00:00.000Z",
-      "fileUpdateTime": "2026-11-10T08:39:08.174Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_015.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_initialradii_015adv.kmz"
+      "advNum": "016",
+      "issuance": "2026-11-10T15:00:00.000Z",
+      "fileUpdateTime": "2026-11-10T14:45:22.927Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_016.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_initialradii_016adv.kmz"
      },
      "forecastWindRadiiGIS": {
-      "advNum": "015",
-      "issuance": "2026-11-10T09:00:00.000Z",
-      "fileUpdateTime": "2026-11-10T08:39:04.060Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_015.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_forecastradii_015adv.kmz"
+      "advNum": "016",
+      "issuance": "2026-11-10T15:00:00.000Z",
+      "fileUpdateTime": "2026-11-10T14:45:18.321Z",
+      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_016.zip",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_forecastradii_016adv.kmz"
      },
      "bestTrackGIS": {
-      "issuance": "2026-11-10T09:00:00.000Z",
-      "fileUpdateTime": "2026-11-10T08:38:47.491Z",
+      "issuance": "2026-11-10T15:00:00.000Z",
+      "fileUpdateTime": "2026-11-10T14:44:58.480Z",
       "zipFile": "https://www.nhc.noaa.gov/gis/best_track/cp042026_best_track.zip",
       "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/cp042026_best_track.kmz"
      },
      "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "015",
-      "issuance": "2026-11-10T09:00:00.000Z",
-      "fileUpdateTime": "2026-11-10T08:38:33.424Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_015adv_earliest_reasonable_toa_34.kmz"
+      "advNum": "016",
+      "issuance": "2026-11-10T15:00:00.000Z",
+      "fileUpdateTime": "2026-11-10T14:44:41.044Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_016adv_earliest_reasonable_toa_34.kmz"
      },
      "mostLikelyTimeTSWindsGIS": {
-      "advNum": "015",
-      "issuance": "2026-11-10T09:00:00.000Z",
-      "fileUpdateTime": "2026-11-10T08:38:35.546Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_015adv_most_likely_toa_34.kmz"
+      "advNum": "016",
+      "issuance": "2026-11-10T15:00:00.000Z",
+      "fileUpdateTime": "2026-11-10T14:44:43.327Z",
+      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_016adv_most_likely_toa_34.kmz"
      },
      "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-11-10T06:00:00.000Z",
-      "fileUpdateTime": "2026-11-10T09:22:30.413Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111006_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111006_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111006_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111006_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111006_wsp64knt120hr_5km.kmz"
+      "issuance": "2026-11-10T12:00:00.000Z",
+      "fileUpdateTime": "2026-11-10T15:23:16.619Z",
+      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111012_wsp_120hr5km.zip",
+      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111012_wsp_120hrhalfDeg.zip",
+      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111012_wsp34knt120hr_5km.kmz",
+      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111012_wsp50knt120hr_5km.kmz",
+      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111012_wsp64knt120hr_5km.kmz"
      },
      "stormSurgeWatchWarningGIS": null,
      "potentialStormSurgeFloodingGIS": null,
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-10T07:21:08-06:00",
+  "at": "2026-11-10T10:02:10-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,289 +123,289 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-10T07:21:08-06:00",
+  "at": "2026-11-10T10:02:10-06:00",
   "data": {
    "raw": {
-    "commodities_agricolas": [
+    "energia": [
      {
-      "title": "Food security hinges on more than just boosting productivity , says Olam Agri CEO",
-      "url": "https://www.agnavigator.com/Article/2026/11/10/food-security-hinges-on-more-than-just-boosting-productivity-says-olam-agri-ceo/",
-      "domain": "agnavigator.com",
-      "country": "",
+      "title": "FIIs Pour $5 Bn Into Indian Stocks In Five Sessions Ahead Of Diwali",
+      "url": "https://www.businessworld.in/article/fiis-pour-5-bn-into-indian-stocks-in-five-sessions-ahead-of-diwali-632864",
+      "domain": "businessworld.in",
+      "country": "India",
       "published": "2026-11-10T06:00:00+00:00"
      },
      {
-      "title": "Global food prices fall 1 . 2 % in October as wheat , dairy and meat become cheaper : FAO",
-      "url": "http://www.nepalnational.com/news/279423154/global-food-prices-fall-12-in-october-as-wheat-dairy-and-meat-become-cheaper-fao",
-      "domain": "nepalnational.com",
-      "country": "Nepal",
+      "title": "Heat - trapping carbon pollution drops , but scientists cite the Iran war rather than energy progress",
+      "url": "https://mymotherlode.com/news/world/11295878/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress.html",
+      "domain": "mymotherlode.com",
+      "country": "United States",
       "published": "2026-11-10T06:00:00+00:00"
      },
      {
-      "title": "Global food prices fall 1 . 2 % in October as wheat , dairy and meat become cheaper : FAO",
-      "url": "http://www.malaysiasun.com/news/279423154/global-food-prices-fall-12-in-october-as-wheat-dairy-and-meat-become-cheaper-fao",
-      "domain": "malaysiasun.com",
+      "title": "US stocks rally and recover most of last week losses as oil prices swing lower",
+      "url": "https://www.manilatimes.net/2026/11/10/business/foreign-business/us-stocks-rally-and-recover-most-of-last-weeks-losses-as-oil-prices-swing-lower/2465954",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Biggest oil deal in world history : JD Vance claims US control of Venezuelan reserves , energy dominance",
+      "url": "http://www.venezuelastar.com/news/279423115/biggest-oil-deal-in-world-history-jd-vance-claims-us-control-of-venezuelan-reserves-energy-dominance",
+      "domain": "venezuelastar.com",
+      "country": "Venezuela",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-Below-92-as-Trump-Signals-Restraint-on-Iran.html",
+      "domain": "oilprice.com",
+      "country": "United States",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Power Solutions International Strengthens Longstanding HD Construction Equipment Partnership with Multi - Year Engine Supply Commitment",
+      "url": "https://www.elliotlakestandard.ca/press-releases/globe-newswire/power-solutions-international-strengthens-longstanding-hd-construction-equipment-partnership-with-multi-year-engine-supply-commitment/",
+      "domain": "elliotlakestandard.ca",
+      "country": "Canada",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "UK petrol prices fall as AA predicts further drops ahead",
+      "url": "https://www.worcesternews.co.uk/news/26713184.uk-petrol-prices-fall-aa-predicts-drops-ahead/",
+      "domain": "worcesternews.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "EPS Creative Health Technology Group Limited : EPS Creative Health Technology Group Strengthens Capabilities Through Executive Appointments",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70081756-eps-creative-health-technology-group-limited-eps-creative-health-technology-group-strengthens-capabilities-through-executive-appointments-011.htm",
+      "domain": "finanznachrichten.de",
+      "country": "Germany",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Malaysia IPI up 6 . 3 % y - o - y in Sept - DOSM",
+      "url": "https://www.thestar.com.my/business/business-news/2026/11/10/malaysia039s-ipi-up-63-y-o-y-in-sept---dosm",
+      "domain": "thestar.com.my",
       "country": "Malaysia",
       "published": "2026-11-10T06:00:00+00:00"
      },
      {
-      "title": "What The $60 Chipotle Big Box ?",
-      "url": "https://brobible.com/culture/article/chipotle-60-dollar-big-box/",
-      "domain": "brobible.com",
+      "title": "Mortgage holder confidence crashes to lowest level since 1994 as year that  feels like a recession  looms | Australian economy",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/10/mortgage-holders-confidence-crashes-to-lowest-level-since-1994-as-year-that-feels-like-a-recession-looms",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Asian stocks rise after technology shares advance on Wall Street",
+      "url": "https://mymotherlode.com/news/national/11296151/asian-stocks-rise-after-technology-shares-advance-on-wall-street.html",
+      "domain": "mymotherlode.com",
+      "country": "United States",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Biggest oil deal in world history : JD Vance claims US control of Venezuelan reserves , energy dominance",
+      "url": "http://www.kenyastar.com/news/279423115/biggest-oil-deal-in-world-history-jd-vance-claims-us-control-of-venezuelan-reserves-energy-dominance",
+      "domain": "kenyastar.com",
+      "country": "Kenya",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Heat - trapping carbon pollution drops , but scientists cite the Iran war rather than energy progress",
+      "url": "https://www.clickondetroit.com/business/2026/11/10/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress/",
+      "domain": "clickondetroit.com",
+      "country": "United States",
+      "published": "2026-11-10T05:30:00+00:00"
+     },
+     {
+      "title": "US Senate advances bill to fast - track data centre , energy project permits",
+      "url": "https://www.business-standard.com/world-news/us-senate-advances-bill-to-fast-track-data-centre-energy-project-permits-126111000056_1.html",
+      "domain": "business-standard.com",
+      "country": "India",
+      "published": "2026-11-10T05:30:00+00:00"
+     },
+     {
+      "title": "Biggest oil deal in world history : JD Vance claims US control of Venezuelan reserves , energy dominance",
+      "url": "https://aninews.in/news/world/us/biggest-oil-deal-in-world-history-jd-vance-claims-us-control-of-venezuelan-reserves-energy-dominance20261110033423/",
+      "domain": "aninews.in",
+      "country": "India",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "US ETFs to Buy for Samvat 2083 : Samco recommends 2 ETFs with potential upside of up to 60 % for Indian investors",
+      "url": "https://www.livemint.com/market/stock-market-news/us-etfs-to-buy-for-samvat-2083-samco-recommends-2-etfs-with-potential-upside-of-up-to-60-for-indian-investors-11794283267027.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Second Harvest Food Bank expects 12 - year high in demand for food assistance",
+      "url": "https://www.wfmj.com/community/feed-our-valley/second-harvest-food-bank-expects-12-year-high-in-demand-for-food-assistance/article_9332281d-b07c-4e5c-b026-0e649e616542.html",
+      "domain": "wfmj.com",
       "country": "United States",
       "published": "2026-11-10T05:00:00+00:00"
      },
      {
-      "title": "This $150 Bottle Is the World Best Bourbon , According to the 2026 Top Shelf Awards",
-      "url": "https://www.aol.com/articles/150-bottle-world-best-bourbon-015700000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-11-10T04:30:00+00:00"
-     },
-     {
-      "title": "Soaring cost of production takes gloss off record barley yields | Queensland Country Life",
-      "url": "https://www.queenslandcountrylife.com.au/story/9388743/soaring-cost-of-production-takes-gloss-off-record-barley-yields/",
-      "domain": "queenslandcountrylife.com.au",
-      "country": "Australia",
-      "published": "2026-11-10T04:30:00+00:00"
-     },
-     {
-      "title": "Roya in Austin makes Infatuation best new restaurants list",
-      "url": "https://austin.culturemap.com/news/restaurants-bars/infatuation-best-new-restaurants-2026/",
-      "domain": "austin.culturemap.com",
-      "country": "United States",
-      "published": "2026-11-10T04:30:00+00:00"
-     },
-     {
-      "title": "Economic Pulse : No silver bullet to sustain nation farm economy – AgriNews",
-      "url": "https://www.agrinews-pubs.com/opinion/columnists/2026/11/10/economic-pulse-no-silver-bullet-to-sustain-nations-farm-economy/",
-      "domain": "agrinews-pubs.com",
-      "country": "United States",
-      "published": "2026-11-10T03:30:00+00:00"
-     },
-     {
-      "title": "Soaring cost of production takes gloss off record barley yields | Stock Journal",
-      "url": "https://www.stockjournal.com.au/story/9388743/soaring-cost-of-production-takes-gloss-off-record-barley-yields/",
-      "domain": "stockjournal.com.au",
-      "country": "Australia",
-      "published": "2026-11-10T03:30:00+00:00"
-     },
-     {
-      "title": "Soaring cost of production takes gloss off record barley yields | North Queensland Register",
-      "url": "https://www.northqueenslandregister.com.au/story/9388743/soaring-cost-of-production-takes-gloss-off-record-barley-yields/",
-      "domain": "northqueenslandregister.com.au",
-      "country": "Australia",
-      "published": "2026-11-10T03:30:00+00:00"
-     },
-     {
-      "title": "Mohamed bin Zayed Water Initiative : UAE innovations tackle water consumption in cooling and irrigation",
-      "url": "http://www.iraqsun.com/news/279422462/mohamed-bin-zayed-water-initiative-uae-innovations-tackle-water-consumption-in-cooling-and-irrigation",
-      "domain": "iraqsun.com",
-      "country": "Iraq",
-      "published": "2026-11-10T03:30:00+00:00"
-     },
-     {
-      "title": "Strategy shift pays off with clean paddocks and better stubble at Owen",
-      "url": "https://www.stockjournal.com.au/story/9387177/strategy-shift-pays-off-with-clean-paddocks-and-better-stubble-at-owen/",
-      "domain": "stockjournal.com.au",
-      "country": "Australia",
-      "published": "2026-11-10T03:30:00+00:00"
-     },
-     {
-      "title": "Economic Pulse : No silver bullet to sustain nation farm economy – AgriNews",
-      "url": "https://www.agrinews-pubs.com:443/opinion/columnists/2026/11/10/economic-pulse-no-silver-bullet-to-sustain-nations-farm-economy/",
-      "domain": "agrinews-pubs.com",
-      "country": "United States",
-      "published": "2026-11-10T03:30:00+00:00"
-     },
-     {
-      "title": "Iowa Crop Progress & Condition Report – November 9 – Mix 94 . 7 KMCH",
-      "url": "https://kmch.com/2026/11/09/iowa-crop-progress-condition-report-november-9/",
-      "domain": "kmch.com",
-      "country": "United States",
-      "published": "2026-11-10T03:00:00+00:00"
-     },
-     {
-      "title": "Russia Krasnodar Region Shifts From Imported Seeds to Domestic Genetic Material",
-      "url": "https://english.pravda.ru/news/russia/172115-kuban-domestic-seed-production/",
-      "domain": "english.pravda.ru",
-      "country": "Russia",
-      "published": "2026-11-10T03:00:00+00:00"
-     },
-     {
-      "title": "Indonesia enters second year of rice import independence : Minister",
-      "url": "https://en.antaranews.com/news/441103/indonesia-enters-second-year-of-rice-import-independence-minister",
-      "domain": "en.antaranews.com",
-      "country": "Indonesia",
-      "published": "2026-11-10T03:00:00+00:00"
-     },
-     {
-      "title": "Soaring cost of production takes gloss off record barley yields | Stock & Land",
-      "url": "https://www.stockandland.com.au/story/9388743/soaring-cost-of-production-takes-gloss-off-record-barley-yields/",
-      "domain": "stockandland.com.au",
-      "country": "Australia",
-      "published": "2026-11-10T02:00:00+00:00"
-     },
-     {
-      "title": "Nigeria Inflation Slows To 14 . 63 % In September As Food Prices Fall , But Energy Costs Climb",
-      "url": "https://naija247news.com/nigerias-inflation-slows-to-14-63-in-september-as-food-prices-fall-but-energy-costs-climb/",
-      "domain": "naija247news.com",
-      "country": "Nigeria",
-      "published": "2026-11-10T01:00:00+00:00"
-     },
-     {
-      "title": "Colorado Springs and beyond holiday events",
-      "url": "https://gazette.com/2026/11/09/colorado-springs-and-beyond-holiday-events/",
-      "domain": "gazette.com",
-      "country": "United States",
-      "published": "2026-11-10T00:00:00+00:00"
-     },
-     {
-      "title": "Farmers fight to adapt as droughts loom in COP31 host Turkey",
-      "url": "https://www.al-monitor.com/originals/2026/11/farmers-fight-adapt-droughts-loom-cop31-host-turkey",
-      "domain": "al-monitor.com",
-      "country": "Israel",
-      "published": "2026-11-09T07:00:00+00:00"
-     },
-     {
-      "title": "Pakistan farmers in long fight to make German firms pay for flood damage",
-      "url": "https://www.standardmedia.co.ke/world/article/2001561863/pakistan-farmers-in-long-fight-to-make-german-firms-pay-for-flood-damage",
-      "domain": "standardmedia.co.ke",
-      "country": "Kenya",
-      "published": "2026-11-09T07:00:00+00:00"
-     },
-     {
-      "title": "THE PENINSULA INVITES FESTIVE - SEASON TRAVELLERS TO EXPERIENCE",
-      "url": "http://www.asiabulletin.com/news/279421051/the-peninsula-invites-festive-season-travellers-to-experience-the-home-of-christmas-around-the-globe",
-      "domain": "asiabulletin.com",
-      "country": "China",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "THE PENINSULA INVITES FESTIVE - SEASON TRAVELLERS TO EXPERIENCE",
-      "url": "http://www.sydneysun.com/news/279421051/the-peninsula-invites-festive-season-travellers-to-experience-the-home-of-christmas-around-the-globe",
-      "domain": "sydneysun.com",
-      "country": "Australia",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "THE PENINSULA INVITES FESTIVE - SEASON TRAVELLERS TO EXPERIENCE",
-      "url": "http://www.australiannews.net/news/279421051/the-peninsula-invites-festive-season-travellers-to-experience-the-home-of-christmas-around-the-globe",
-      "domain": "australiannews.net",
-      "country": "Australia",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "THE PENINSULA INVITES FESTIVE - SEASON TRAVELLERS TO EXPERIENCE",
-      "url": "http://www.malaysiasun.com/news/279421051/the-peninsula-invites-festive-season-travellers-to-experience-the-home-of-christmas-around-the-globe",
-      "domain": "malaysiasun.com",
-      "country": "Malaysia",
-      "published": "2026-11-09T05:30:00+00:00"
-     },
-     {
-      "title": "THE PENINSULA INVITES FESTIVE - SEASON TRAVELLERS TO EXPERIENCE",
-      "url": "http://www.philippinetimes.com/news/279421051/the-peninsula-invites-festive-season-travellers-to-experience-the-home-of-christmas-around-the-globe",
-      "domain": "philippinetimes.com",
-      "country": "Philippines",
-      "published": "2026-11-09T05:30:00+00:00"
-     },
-     {
-      "title": "7 Foods You Should Order And 4 To Avoid At An Irish Pub",
-      "url": "https://www.thedailymeal.com/2303481/foods-order-avoid-irish-pub/",
-      "domain": "thedailymeal.com",
-      "country": "United States",
-      "published": "2026-11-09T02:00:00+00:00"
-     },
-     {
-      "title": "Walmart Offers Holiday Meal Basket for 10 People for Just $35",
-      "url": "https://sunny943.com/2026/11/08/walmart-offers-holiday-meal-basket-for-10-people-for-just-35/",
-      "domain": "sunny943.com",
-      "country": "United States",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "BB eases LC cash margin for Ramadan essentials",
-      "url": "https://www.thedailystar.net/business/economy/news/bb-eases-lc-cash-margin-ramadan-essentials-4318581",
-      "domain": "thedailystar.net",
-      "country": "Bangladesh",
-      "published": "2026-11-08T20:30:00+00:00"
-     },
-     {
-      "title": "Walmart Offers Holiday Meal Basket for 10 People for Just $35",
-      "url": "https://power98fm.com/2026/11/08/walmart-offers-holiday-meal-basket-for-10-people-for-just-35/",
-      "domain": "power98fm.com",
-      "country": "United States",
-      "published": "2026-11-08T20:30:00+00:00"
-     },
-     {
-      "title": "Rethinking South Asia Agrarian History | David Ludden |Why we need to rethink South Asia agrarian history",
-      "url": "https://www.thedailystar.net/slow-reads/focus/news/why-we-need-rethink-south-asias-agrarian-history-4318476",
-      "domain": "thedailystar.net",
-      "country": "Bangladesh",
-      "published": "2026-11-08T20:30:00+00:00"
-     },
-     {
-      "title": "Walmart Offers Holiday Meal Basket for 10 People for Just $35",
-      "url": "https://hotaugusta.com/2026/11/08/walmart-offers-holiday-meal-basket-for-10-people-for-just-35/",
-      "domain": "hotaugusta.com",
-      "country": "United States",
-      "published": "2026-11-08T20:00:00+00:00"
-     },
-     {
-      "title": "Arab News | Lula set to double down on Global South leadership",
-      "url": "https://www.arabnews.com/opinion/lula-set-to-double-down-on-global-south-leadership-3010474",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-11-08T18:30:00+00:00"
-     },
-     {
-      "title": "75 Stunning Stained Glass Pieces That Might Make You Want To Try Your Hand At This Craft",
-      "url": "https://2.boredpanda.com/stained-glass-art-pics/?cexp_id=164095&_f=homepage_featured&cexp_var=10",
-      "domain": "2.boredpanda.com",
-      "country": "United States",
-      "published": "2026-11-08T18:30:00+00:00"
-     },
-     {
-      "title": "The 10 best songs about Michigan ever made",
-      "url": "https://www.pastemagazine.com/music/best-songs/the-10-best-songs-about-michigan-ever-made",
-      "domain": "pastemagazine.com",
-      "country": "United States",
-      "published": "2026-11-08T17:00:00+00:00"
-     },
-     {
-      "title": "History Corner , Good News , November 8ths",
-      "url": "https://www.dailykos.com/stories/2026/11/8/800124823/community/history-corner-good-news-november-8ths/",
-      "domain": "dailykos.com",
-      "country": "United States",
-      "published": "2026-11-08T16:00:00+00:00"
-     },
-     {
-      "title": "Democrats deliver a moment of redemption for US as voters finally turn on Donald Trump",
-      "url": "https://www.irishtimes.com/world/us/2026/11/08/democrats-deliver-a-moment-of-redemption-for-us-as-voters-finally-turn-on-donald-trump/",
-      "domain": "irishtimes.com",
-      "country": "Ireland",
-      "published": "2026-11-08T16:00:00+00:00"
-     },
-     {
-      "title": "Korean winter street food : Warm treats to find in Seoul and Busan",
-      "url": "https://www.asiaone.com:443/lifestyle/winter-street-food-seoul-busan",
-      "domain": "asiaone.com",
-      "country": "Singapore",
-      "published": "2026-11-08T16:00:00+00:00"
-     },
-     {
-      "title": "Monde Nissin shares climb on earnings , higher dividend",
-      "url": "https://bworldonline.com/corporate/2026/11/08/792105/monde-nissin-shares-climb-on-earnings-higher-dividend/",
-      "domain": "bworldonline.com",
-      "country": "Philippines",
-      "published": "2026-11-08T13:30:00+00:00"
-     },
-     {
-      "title": "Bangladesh trade deficit jumps up by 31 per cent",
-      "url": "https://www.prokerala.com/news/articles/a1834425.html",
-      "domain": "prokerala.com",
+      "title": "Panchgaon tops pollution chart with AQI of 365 , Delhi ranks eleventh",
+      "url": "https://www.livemint.com/news/panchgaon-tops-pollution-chart-with-aqi-of-365-delhi-ranks-eleventh-emission-air-quality-11794278697261.html",
+      "domain": "livemint.com",
       "country": "India",
-      "published": "2026-11-08T13:00:00+00:00"
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Stock market holiday : Closed today on Tuesday 10 November 2026 on Diwali - Balipratipada ; no trading in NSE , BSE exchanges",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-closed-today-on-tuesday-10-november-2026-on-diwali-balipratipada-no-trading-in-nse-bse-exchanges-11794275379042.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Gold , silver prices today , 10 Nov Tuesday : Check retail rates of 24K , 22K gold , 999 silver in Delhi , Mumbai and Kolkata",
+      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-10-nov-tuesday-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11794279668430.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Asian stocks climb as sliding oil prices lift sentiment",
+      "url": "https://www.dailyliberal.com.au/story/9389055/asian-stocks-climb-as-sliding-oil-prices-lift-sentiment/",
+      "domain": "dailyliberal.com.au",
+      "country": "Australia",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Drone Strikes Khor Mor Gas Field 12th Time ; Baghdad Never Deployed Promised Air Defenses",
+      "url": "https://www.techtimes.com/articles/330291/20261109/drone-strikes-khor-mor-gas-field-12th-time-baghdad-never-deployed-promised-air-defenses.htm",
+      "domain": "techtimes.com",
+      "country": "United States",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Asian stocks rise after technology shares advance on Wall Street",
+      "url": "https://www.winknews.com/news/international/asian-stocks-rise-after-technology-shares-advance-on-wall-street/article_73236ce8-01d6-535a-b964-d6a0c89e1088.html",
+      "domain": "winknews.com",
+      "country": "United States",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Dow Jones Top Markets Headlines at 11 PM ET : Investors Brush Off Election , Selloff and Even Nvidia Spy Scandal to Buy Stocks | A ...",
+      "url": "https://www.morningstar.com/news/dow-jones/2026110914402/dow-jones-top-markets-headlines-at-11-pm-et-investors-brush-off-election-selloff-and-even-nvidias-spy-scandal-to-buy-stocks-a",
+      "domain": "morningstar.com",
+      "country": "China",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Indian stock markets closed for Diwali - Balipratipada ; Asian markets rally , crude oil falls",
+      "url": "https://aninews.in/news/business/indian-stock-markets-closed-for-diwali-balipratipada-asian-markets-rally-crude-oil-falls20261110092328/",
+      "domain": "aninews.in",
+      "country": "India",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Markets closed today for Diwali - Balipratipada , trading to resume on November 11",
+      "url": "https://www.thehindubusinessline.com/markets/markets-closed-today-for-diwali-balipratipada-trading-to-resume-on-november-11/article71684945.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Lower oil prices pull down bond yields ; 10 - year G - sec seen trading at 7 . 10 - 7 . 25 %: Report",
+      "url": "https://aninews.in/news/business/lower-oil-prices-pull-down-bond-yields-10-year-g-sec-seen-trading-at-710-725-report20261110081629/",
+      "domain": "aninews.in",
+      "country": "India",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Heat - trapping carbon pollution drops , but scientists cite the Iran war rather than energy progress",
+      "url": "http://www.sitkasentinel.com/stories/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress,185097",
+      "domain": "sitkasentinel.com",
+      "country": "United States",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Power Solutions International Strengthens Longstanding HD Construction Equipment Partnership with Multi - Year Engine Supply Commitment",
+      "url": "https://www.thewhig.com/press-releases/globe-newswire/power-solutions-international-strengthens-longstanding-hd-construction-equipment-partnership-with-multi-year-engine-supply-commitment/",
+      "domain": "thewhig.com",
+      "country": "Canada",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Midterm blowout : Placing blame and finding a bright spot * WorldNetDaily * by Robert Knight",
+      "url": "https://www.wnd.com/2026/11/midterm-blowout-placing-blame-finding-bright-spot/",
+      "domain": "wnd.com",
+      "country": "United States",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "WHEN COAL WAS KING : 1922 photo of Northern Pacific ( NP ) engine # 4009 : VOICE of the Valley",
+      "url": "https://voiceofthevalley.com/2026/11/09/when-coal-was-king-1922-photo-of-northern-pacific-np-engine-4009/",
+      "domain": "voiceofthevalley.com",
+      "country": "United States",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Hormuz LNG traffic hits highest in October since Iran war began",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-lng-traffic-hits-highest-in-october-since-iran-war-began/articleshow/135699220.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-10T05:00:00+00:00"
+     },
+     {
+      "title": "Wall Street jumps as oil slide cools inflation worries ; Nvidia slumps",
+      "url": "https://www.moneycontrol.com/news/business/markets/wall-street-jumps-as-oil-slide-cools-inflation-worries-nvidia-slumps-14075800.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-11-10T04:30:00+00:00"
+     },
+     {
+      "title": "Asian Markets A Sea Of Green",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70081511-asian-markets-a-sea-of-green-020.htm",
+      "domain": "finanznachrichten.de",
+      "country": "Germany",
+      "published": "2026-11-10T04:30:00+00:00"
+     },
+     {
+      "title": "Asian stocks climb as sliding oil prices lift sentiment",
+      "url": "https://www.sconeadvocate.com.au/story/9389055/asian-stocks-climb-as-sliding-oil-prices-lift-sentiment/",
+      "domain": "sconeadvocate.com.au",
+      "country": "Australia",
+      "published": "2026-11-10T04:30:00+00:00"
+     },
+     {
+      "title": "Gold and silver price today , November 10 : Check rates of 24K , 22K gold in Delhi , Mumbai , Kolkata other cities",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-price-today-november-10-check-rates-of-24k-22k-gold-in-delhi-mumbai-kolkata-other-cities-14075921.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-11-10T04:30:00+00:00"
+     },
+     {
+      "title": "Heat - trapping carbon pollution drops , but scientists cite the Iran war rather than energy progress",
+      "url": "https://www.wfmz.com/business/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress/article_abc35e6d-3f4a-5257-b18c-06a9cb7aad84.html",
+      "domain": "wfmz.com",
+      "country": "United States",
+      "published": "2026-11-10T04:30:00+00:00"
+     },
+     {
+      "title": "Oil falls as Trump downplays prospect of escalation with Iran",
+      "url": "https://www.moneycontrol.com/news/business/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran-14075922.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-11-10T04:30:00+00:00"
+     },
+     {
+      "title": "Asian stocks climb as sliding oil prices lift sentiment",
+      "url": "https://www.illawarramercury.com.au/story/9389055/asian-stocks-climb-as-sliding-oil-prices-lift-sentiment/",
+      "domain": "illawarramercury.com.au",
+      "country": "Australia",
+      "published": "2026-11-10T04:30:00+00:00"
+     },
+     {
+      "title": "Turkmenistan fulfills natural gas production plan at 108 . 3 % in Jan - Oct",
+      "url": "https://www.trend.az/casia/turkmenistan/4244802.html",
+      "domain": "trend.az",
+      "country": "Azerbaijan",
+      "published": "2026-11-10T04:30:00+00:00"
      }
     ],
     "comercio_internacional": [
@@ -690,288 +690,286 @@
       "published": "2026-11-10T00:30:00+00:00"
      }
     ],
-    "riesgos_climaticos": [
+    "geopolitica": [
      {
-      "title": "Philippine Q3 rice output slumps 18 %, but El Niño biggest impact is yet to hit",
-      "url": "https://www.agnavigator.com/Article/2026/11/10/philippine-q3-rice-output-slumps-18-but-el-ninos-biggest-impact-is-yet-to-hit/",
-      "domain": "agnavigator.com",
-      "country": "",
-      "published": "2026-11-10T06:00:00+00:00"
-     },
-     {
-      "title": "85 pc of Maharashtra gripped by drought as rural belt struggles during Diwali : Shiv Sena ( UBT ) in  Samaana",
-      "url": "https://bilkulonline.com/2026/11/10/85-pc-of-maharashtra-gripped-by-drought-as-rural-belt-struggles-during-diwali-shiv-senaubt-in-samaana/",
-      "domain": "bilkulonline.com",
-      "country": "India",
-      "published": "2026-11-10T06:00:00+00:00"
-     },
-     {
-      "title": "Soaring cost of production takes gloss off record barley yields | Queensland Country Life",
-      "url": "https://www.queenslandcountrylife.com.au/story/9388743/soaring-cost-of-production-takes-gloss-off-record-barley-yields/",
-      "domain": "queenslandcountrylife.com.au",
-      "country": "Australia",
-      "published": "2026-11-10T04:30:00+00:00"
-     },
-     {
-      "title": "Over 3 million Kenyans face acute food insecurity , report shows",
-      "url": "https://www.the-star.co.ke/news/2026-11-10-report-over-3m-kenyans-face-acute-food-insecurity",
-      "domain": "the-star.co.ke",
-      "country": "Kenya",
-      "published": "2026-11-10T04:30:00+00:00"
-     },
-     {
-      "title": "Soaring cost of production takes gloss off record barley yields | Stock Journal",
-      "url": "https://www.stockjournal.com.au/story/9388743/soaring-cost-of-production-takes-gloss-off-record-barley-yields/",
-      "domain": "stockjournal.com.au",
-      "country": "Australia",
-      "published": "2026-11-10T03:30:00+00:00"
-     },
-     {
-      "title": "Soaring cost of production takes gloss off record barley yields | North Queensland Register",
-      "url": "https://www.northqueenslandregister.com.au/story/9388743/soaring-cost-of-production-takes-gloss-off-record-barley-yields/",
-      "domain": "northqueenslandregister.com.au",
-      "country": "Australia",
-      "published": "2026-11-10T03:30:00+00:00"
-     },
-     {
-      "title": "11 , 000 Scientists + Micky Mouse Sign Climate Paper Without Fact Checking Cites - Carbon Tax Error - And Uncited Fate Of Humanity",
-      "url": "https://science20.com/robert_walker/11000_scientists_signing_climate_paper_didnt_check_cites_carbon_tax_blooper_and_uninhabitable_undefined_and",
-      "domain": "science20.com",
+      "title": "Hegseth is set for his first Pentagon news briefing since May as he faces possible impeachment",
+      "url": "http://www.dailyadvance.com/news/national/hegseth-is-set-for-his-first-pentagon-news-briefing-since-may-as-he-faces-possible/article_7f69bbdc-4b40-5d86-a907-fff6d8bf4814.html",
+      "domain": "dailyadvance.com",
       "country": "United States",
-      "published": "2026-11-10T03:00:00+00:00"
+      "published": "2026-11-10T06:00:00+00:00"
      },
      {
-      "title": "Glaciers lost five Olympic pool worth of ice a second in 2025 - UN agency",
-      "url": "https://www.malaysiakini.com/news/888785-glaciers-lost-five-olympic-pools-worth-of-ice-a-second-in-2025-un-agency",
-      "domain": "malaysiakini.com",
-      "country": "Malaysia",
-      "published": "2026-11-10T02:00:00+00:00"
+      "title": "Heat - trapping carbon pollution drops , but scientists cite the Iran war rather than energy progress",
+      "url": "https://mymotherlode.com/news/world/11295878/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress.html",
+      "domain": "mymotherlode.com",
+      "country": "United States",
+      "published": "2026-11-10T06:00:00+00:00"
      },
      {
-      "title": "R32m relief support for commercial farmers",
-      "url": "https://www.sanews.gov.za/south-africa/r32m-relief-support-commercial-farmers",
-      "domain": "sanews.gov.za",
-      "country": "South Africa",
-      "published": "2026-11-10T02:00:00+00:00"
-     },
-     {
-      "title": "Soaring cost of production takes gloss off record barley yields | Stock & Land",
-      "url": "https://www.stockandland.com.au/story/9388743/soaring-cost-of-production-takes-gloss-off-record-barley-yields/",
-      "domain": "stockandland.com.au",
-      "country": "Australia",
-      "published": "2026-11-10T02:00:00+00:00"
-     },
-     {
-      "title": "Farmers fight to adapt as droughts loom in COP31 host Turkey",
-      "url": "https://www.al-monitor.com/originals/2026/11/farmers-fight-adapt-droughts-loom-cop31-host-turkey",
-      "domain": "al-monitor.com",
-      "country": "Israel",
-      "published": "2026-11-09T07:00:00+00:00"
-     },
-     {
-      "title": "Pakistan farmers in long fight to make German firms pay for flood damage",
-      "url": "https://www.standardmedia.co.ke/world/article/2001561863/pakistan-farmers-in-long-fight-to-make-german-firms-pay-for-flood-damage",
-      "domain": "standardmedia.co.ke",
-      "country": "Kenya",
-      "published": "2026-11-09T07:00:00+00:00"
-     },
-     {
-      "title": "Beautification in middle of drought : KTR targets Revanth Reddy - led Telangana govt",
-      "url": "https://news.webindia123.com/news/Articles/India/20261109/4517547.html",
-      "domain": "news.webindia123.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Maharashtra relaxes borewell restrictions till December 15 to help farmers save trees amid drought",
-      "url": "https://www.thehindu.com/news/national/maharashtra/maharashtra-relaxes-borewell-restrictions-till-december-15-to-help-farmers-save-trees-amid-drought/article71681480.ece",
-      "domain": "thehindu.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Arab News | Syria 218 million fruit trees face challenges from drought and climate change",
-      "url": "https://www.arabnews.com/middle-east/syrias-218-million-fruit-trees-face-challenges-from-drought-and-climate-change-3010511",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-11-08T20:00:00+00:00"
-     },
-     {
-      "title": "Maharashtra Forest Minister Ganesh Naik Celebrates Diwali With Tribal And Farming Families In Shahapur Village",
-      "url": "https://www.freepressjournal.in/mumbai/maharashtra-forest-minister-ganesh-naik-celebrates-diwali-with-tribal-and-farming-families-in-shahapur-village",
-      "domain": "freepressjournal.in",
-      "country": "India",
-      "published": "2026-11-08T16:00:00+00:00"
-     },
-     {
-      "title": "Maharashtra CM Devendra Fadnavis Extends Borewell Drilling Deadline For Farmers Protecting Fruit Orchards Till December 15 Amid Drought",
-      "url": "https://www.freepressjournal.in/mumbai/maharashtra-cm-devendra-fadnavis-extends-borewell-drilling-deadline-for-farmers-protecting-fruit-orchards-till-december-15-amid-drought",
-      "domain": "freepressjournal.in",
-      "country": "India",
-      "published": "2026-11-08T16:00:00+00:00"
-     },
-     {
-      "title": "Champagne alcohol limits adjusted after heatwave",
-      "url": "https://www.theportugalnews.com/news/2026-11-08/champagne-alcohol-limits-adjusted-after-heatwave/1112347",
-      "domain": "theportugalnews.com",
-      "country": "Portugal",
-      "published": "2026-11-08T10:30:00+00:00"
-     },
-     {
-      "title": "Karnataka releases first instalment of Rs 2 , 500 drought relief to farmers , seeks Rs 22 , 400 crore from Centre",
-      "url": "http://www.indiagazette.com/news/279419542/karnataka-releases-first-instalment-of-rs-2500-drought-relief-to-farmers-seeks-rs-22400-crore-from-centre",
-      "domain": "indiagazette.com",
-      "country": "India",
-      "published": "2026-11-08T09:30:00+00:00"
-     },
-     {
-      "title": "Farmers in great distress : BJD Chief Naveen Patnaik visits flood - hit Ganjam , takes up grievances with Odisha govt",
-      "url": "http://www.calcuttanews.net/news/279418667/farmers-in-great-distress-bjd-chief-naveen-patnaik-visits-flood-hit-ganjam-takes-up-grievances-with-odisha-govt",
-      "domain": "calcuttanews.net",
-      "country": "India",
-      "published": "2026-11-07T18:00:00+00:00"
-     },
-     {
-      "title": "PhilRice develops climate maps for rice farming",
-      "url": "https://www.philstar.com/business/2026/11/08/2568562/philrice-develops-climate-maps-rice-farming",
-      "domain": "philstar.com",
+      "title": "US stocks rally and recover most of last week losses as oil prices swing lower",
+      "url": "https://www.manilatimes.net/2026/11/10/business/foreign-business/us-stocks-rally-and-recover-most-of-last-weeks-losses-as-oil-prices-swing-lower/2465954",
+      "domain": "manilatimes.net",
       "country": "Philippines",
-      "published": "2026-11-07T18:00:00+00:00"
+      "published": "2026-11-10T06:00:00+00:00"
      },
      {
-      "title": "Naveen Visits Ganjam 11 Days After Arnab Devastation , Says Victim Distress Remains Unheard",
-      "url": "https://www.deccanchronicle.com/nation/naveen-visits-ganjam-11-days-after-arnab-devastation-says-victims-distress-remains-unheard-2002603",
-      "domain": "deccanchronicle.com",
-      "country": "India",
-      "published": "2026-11-07T17:30:00+00:00"
-     },
-     {
-      "title": "Farmers in great distress : BJD Chief Naveen Patnaik visits flood - hit Ganjam , takes up grievances with Odisha govt",
-      "url": "http://www.milwaukeesun.com/news/279418667/farmers-in-great-distress-bjd-chief-naveen-patnaik-visits-flood-hit-ganjam-takes-up-grievances-with-odisha-govt",
-      "domain": "milwaukeesun.com",
+      "title": "Rep . Thomas Massie of Kentucky launches bid to impeach Defense Secretary Pete Hegseth",
+      "url": "https://www.santafenewmexican.com/ap/washington/rep-thomas-massie-of-kentucky-launches-bid-to-impeach-defense-secretary-pete-hegseth/article_ae8f93c6-865a-5433-9153-4aa69d6fe653.html",
+      "domain": "santafenewmexican.com",
       "country": "United States",
-      "published": "2026-11-07T17:30:00+00:00"
+      "published": "2026-11-10T06:00:00+00:00"
      },
      {
-      "title": "ARKANSAS A - Z : State Fourche La Fave River has long history of occupation | The Arkansas Democrat - Gazette",
-      "url": "https://www.arkansasonline.com/news/2026/nov/07/arkansas-a-z-states-fourche-la-fave-river-has/",
-      "domain": "arkansasonline.com",
+      "title": "Shots rang out . I hid behind a car . Then I wrestled the gun from the Bondi beach shooter",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/10/shots-rang-out-i-hid-behind-a-car-then-i-wrestled-the-gun-from-the-bondi-beach-shooter-ntwnfb",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Oil Prices Plunge Below $92 as Trump Signals Restraint on Iran",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-Below-92-as-Trump-Signals-Restraint-on-Iran.html",
+      "domain": "oilprice.com",
       "country": "United States",
-      "published": "2026-11-07T17:00:00+00:00"
-     }
-    ],
-    "produccion_agroindustrial": [
-     {
-      "title": "Food security hinges on more than just boosting productivity , says Olam Agri CEO",
-      "url": "https://www.agnavigator.com/Article/2026/11/10/food-security-hinges-on-more-than-just-boosting-productivity-says-olam-agri-ceo/",
-      "domain": "agnavigator.com",
-      "country": "",
       "published": "2026-11-10T06:00:00+00:00"
      },
      {
-      "title": "Global food prices fall 1 . 2 % in October as wheat , dairy and meat become cheaper : FAO",
-      "url": "http://www.nepalnational.com/news/279423154/global-food-prices-fall-12-in-october-as-wheat-dairy-and-meat-become-cheaper-fao",
-      "domain": "nepalnational.com",
-      "country": "Nepal",
+      "title": "Donald Trump says Qatar , Saudi Arabia want peaceful Iran deal",
+      "url": "https://arynews.tv/donald-trump-says-qatar-saudi-arabia-want-peaceful-iran-deal",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
       "published": "2026-11-10T06:00:00+00:00"
      },
      {
-      "title": "Global food prices fall 1 . 2 % in October as wheat , dairy and meat become cheaper : FAO",
-      "url": "http://www.malaysiasun.com/news/279423154/global-food-prices-fall-12-in-october-as-wheat-dairy-and-meat-become-cheaper-fao",
-      "domain": "malaysiasun.com",
-      "country": "Malaysia",
+      "title": "Americans are",
+      "url": "http://www.kenyastar.com/news/279423049/americans-are-disgusted-with-israel-and-tired-of-its-forever-wars-iranian-foreign-minister",
+      "domain": "kenyastar.com",
+      "country": "Kenya",
       "published": "2026-11-10T06:00:00+00:00"
      },
      {
-      "title": "60 % of the ethanol offered to OMCs this year is maize - based",
-      "url": "https://www.hindustantimes.com/india-news/60-of-the-ethanol-offered-to-omcs-this-year-is-maizebased-101794251609081.html",
-      "domain": "hindustantimes.com",
+      "title": "G7 attention in Paris turns to Ukraine while US - mediated talks get underway in Abu Dhabi – Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/world/2026/11/10/g7-attention-in-paris-turns-to-ukraine-while-us-mediated-talks-get-underway-in-abu-dhabi",
+      "domain": "winnipegfreepress.com",
+      "country": "Canada",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Sudan : Proxy Politics and Border Clashes - an Escalating Crisis Between Sudan and Ethiopia",
+      "url": "https://allafrica.com/stories/202611100043.html",
+      "domain": "allafrica.com",
+      "country": "Nigeria",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "US - brokered talks are set to start in Abu Dhabi to discuss Ukraine - Russia peace deal",
+      "url": "http://www.dailyadvance.com/news/world/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace/article_62c64435-a2f9-5c48-868e-a122633d548c.html",
+      "domain": "dailyadvance.com",
+      "country": "United States",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "John Oliver highlights Hegseth most embarrassing moments",
+      "url": "https://www.themarysue.com/john-oliver-highlights-pete-hegseths-most-embarrassing-career-moments-then-he-reveals-what-happened-when-he-contacted-the-pentagon-for-comment/",
+      "domain": "themarysue.com",
+      "country": "United States",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Exclusive : AP joins EU naval patrol as piracy rebounds amid regional conflicts",
+      "url": "http://www.dailyadvance.com/news/world/exclusive-ap-joins-eu-naval-patrol-as-piracy-rebounds-amid-regional-conflicts/article_d88a3660-6e2e-5a4c-bd65-00c161f2a4cc.html",
+      "domain": "dailyadvance.com",
+      "country": "United States",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Time to surrender to Tehran seven condition : Iran security chief tells US",
+      "url": "https://arynews.tv/news/liveblog/iran-war-2026-live-updates-trump-us-israel?update=10-Nov-2026-09-37-00",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Seoul reiterates noninvolvement in Iran war as Tehran warns against naval deployment",
+      "url": "https://www.koreaherald.com/article/10932274",
+      "domain": "koreaherald.com",
+      "country": "South Korea",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Time to surrender to Tehran seven condition : Iran security chief tells US",
+      "url": "https://arynews.tv/news/liveblog/iran-war-2026-live-updates-trump-us-israel?update=10-Nov-2026-08-55-00",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Trump sees  positive momentum  on Iran after Qatar PM talks",
+      "url": "https://www.jacarandafm.com/news/news/trump-sees-positive-momentum-after-qatar-talks/",
+      "domain": "jacarandafm.com",
+      "country": "South Africa",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Exclusive : AP joins EU naval patrol as piracy rebounds amid regional conflicts – Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/business/2026/11/10/exclusive-ap-joins-eu-naval-patrol-as-piracy-rebounds-amid-regional-conflicts",
+      "domain": "winnipegfreepress.com",
+      "country": "Canada",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "G7 attention in Paris turns to Ukraine while US - mediated talks get underway in Abu Dhabi",
+      "url": "http://www.dailyadvance.com/news/world/g7-attention-in-paris-turns-to-ukraine-while-us-mediated-talks-get-underway-in-abu/article_d5ed4c4b-71e9-5fa5-a70e-e19f4dc997ba.html",
+      "domain": "dailyadvance.com",
+      "country": "United States",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Heat - trapping carbon pollution drops , but scientists cite the Iran war rather than energy progress",
+      "url": "https://www.thesunchronicle.com/business/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress/article_1b520d9e-8c2d-58e3-b415-222fef20c237.html",
+      "domain": "thesunchronicle.com",
+      "country": "United States",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Exclusive : AP joins EU naval patrol as piracy rebounds amid regional conflicts",
+      "url": "http://www.goskagit.com/news/world/exclusive-ap-joins-eu-naval-patrol-as-piracy-rebounds-amid-regional-conflicts/article_156d80ee-17fb-578b-ae0d-0d26730c5848.html",
+      "domain": "goskagit.com",
+      "country": "United States",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Trump questions midterm elections integrity after previously accepting results",
+      "url": "https://www.newzimbabwe.com/trump-questions-midterm-elections-integrity-after-previously-accepting-results/",
+      "domain": "newzimbabwe.com",
+      "country": "Zimbabwe",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Mortgage holder confidence crashes to lowest level since 1994 as year that  feels like a recession  looms | Australian economy",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/10/mortgage-holders-confidence-crashes-to-lowest-level-since-1994-as-year-that-feels-like-a-recession-looms",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Time to surrender to Tehran seven condition : Iran security chief tells US",
+      "url": "https://arynews.tv/news/liveblog/iran-war-2026-live-updates-trump-us-israel?update=10-Nov-2026-08-13-00",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Asian stocks rise after technology shares advance on Wall Street",
+      "url": "https://mymotherlode.com/news/national/11296151/asian-stocks-rise-after-technology-shares-advance-on-wall-street.html",
+      "domain": "mymotherlode.com",
+      "country": "United States",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Time to surrender to Tehran seven condition : Iran security chief tells US",
+      "url": "https://arynews.tv/news/liveblog/iran-war-2026-live-updates-trump-us-israel?update=10-Nov-2026-08-33-00",
+      "domain": "arynews.tv",
+      "country": "Pakistan",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Iran war led to rare carbon dioxide emissions drop this year , scientists say",
+      "url": "https://www.fox13news.com/news/iran-war-led-rare-carbon-dioxide-emissions-drop-year-scientists-say",
+      "domain": "fox13news.com",
+      "country": "United States",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "New Mexico delegation split over Sen . Heinrich co - sponsored energy - permitting bill",
+      "url": "https://www.kunm.org/local-news/2026-11-09/new-mexico-delegation-split-over-sen-heinrichs-co-sponsored-energy-permitting-bill",
+      "domain": "kunm.org",
+      "country": "United States",
+      "published": "2026-11-10T06:00:00+00:00"
+     },
+     {
+      "title": "Interest rates hiked to 4 per cent in first increase in over three years",
+      "url": "http://www.businessghana.com/site/news/business/359332/Interest-rates-hiked-to-4-per-cent-in-first-increase-in-over-three-years",
+      "domain": "businessghana.com",
+      "country": "Ghana",
+      "published": "2026-11-10T05:30:00+00:00"
+     },
+     {
+      "title": "US - brokered talks are set to start in Abu Dhabi to discuss Ukraine - Russia peace deal",
+      "url": "https://www.clickondetroit.com/news/world/2026/11/10/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal/",
+      "domain": "clickondetroit.com",
+      "country": "United States",
+      "published": "2026-11-10T05:30:00+00:00"
+     },
+     {
+      "title": "Interest rates hiked to 4 per cent in first increase in over three years",
+      "url": "http://www.businessghana.com/site/news/business/359327/Interest-rates-hiked-to-4-per-cent-in-first-increase-in-over-three-years",
+      "domain": "businessghana.com",
+      "country": "Ghana",
+      "published": "2026-11-10T05:30:00+00:00"
+     },
+     {
+      "title": "Heat - trapping carbon pollution drops , but scientists cite the Iran war rather than energy progress",
+      "url": "https://www.clickondetroit.com/business/2026/11/10/heat-trapping-carbon-pollution-drops-but-scientists-cite-the-iran-war-rather-than-energy-progress/",
+      "domain": "clickondetroit.com",
+      "country": "United States",
+      "published": "2026-11-10T05:30:00+00:00"
+     },
+     {
+      "title": "US - brokered talks are set to start in Abu Dhabi to discuss Ukraine - Russia peace deal – Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/world/2026/11/10/us-brokered-talks-are-set-to-start-in-abu-dhabi-to-discuss-ukraine-russia-peace-deal",
+      "domain": "winnipegfreepress.com",
+      "country": "Canada",
+      "published": "2026-11-10T05:30:00+00:00"
+     },
+     {
+      "title": "Massie files articles of impeachment against Hegseth : NPR",
+      "url": "https://www.npr.org/transcripts/nx-s1-6034483",
+      "domain": "npr.org",
+      "country": "United States",
+      "published": "2026-11-10T05:30:00+00:00"
+     },
+     {
+      "title": "Ukraine Invasion Day 1 , 720 : Russian casualty numbers rise  Staggering",
+      "url": "https://www.dailykos.com/stories/2026/11/9/800126144/community/1720/",
+      "domain": "dailykos.com",
+      "country": "United States",
+      "published": "2026-11-10T05:30:00+00:00"
+     },
+     {
+      "title": "ExxonMobil signs deal with Venezuela in step toward re - entering the country",
+      "url": "https://www.business-standard.com/world-news/exxonmobil-signs-deal-with-venezuela-in-step-toward-re-entering-the-country-126111000117_1.html",
+      "domain": "business-standard.com",
       "country": "India",
       "published": "2026-11-10T05:30:00+00:00"
      },
      {
-      "title": "Economic Pulse : No silver bullet to sustain nation farm economy – AgriNews",
-      "url": "https://www.agrinews-pubs.com/opinion/columnists/2026/11/10/economic-pulse-no-silver-bullet-to-sustain-nations-farm-economy/",
-      "domain": "agrinews-pubs.com",
-      "country": "United States",
-      "published": "2026-11-10T03:30:00+00:00"
-     },
-     {
-      "title": "Economic Pulse : No silver bullet to sustain nation farm economy – AgriNews",
-      "url": "https://www.agrinews-pubs.com:443/opinion/columnists/2026/11/10/economic-pulse-no-silver-bullet-to-sustain-nations-farm-economy/",
-      "domain": "agrinews-pubs.com",
-      "country": "United States",
-      "published": "2026-11-10T03:30:00+00:00"
-     },
-     {
-      "title": "Olam Agri Breaks Ground on $70m New Integrated Feed Mill in Delta State – THISDAYLIVE",
-      "url": "https://www.thisdaylive.com/2026/11/10/olam-agri-breaks-ground-on-70m-new-integrated-feed-mill-in-delta-state/",
-      "domain": "thisdaylive.com",
-      "country": "Nigeria",
-      "published": "2026-11-10T02:30:00+00:00"
-     },
-     {
-      "title": "R32m relief support for commercial farmers",
-      "url": "https://www.sanews.gov.za/south-africa/r32m-relief-support-commercial-farmers",
-      "domain": "sanews.gov.za",
-      "country": "South Africa",
-      "published": "2026-11-10T02:00:00+00:00"
-     },
-     {
-      "title": "State ag directors press USDA for bird flu vaccine for cattle",
-      "url": "https://capitalpress.com/2026/11/09/state-ag-directors-press-usda-for-bird-flu-vaccine-for-cattle/",
-      "domain": "capitalpress.com",
-      "country": "United States",
-      "published": "2026-11-10T00:30:00+00:00"
-     },
-     {
-      "title": "17 attend nutritional tech training in Ludhiana",
-      "url": "https://www.tribuneindia.com/news/ludhiana/17-attend-nutritional-tech-training-in-ludhiana/",
-      "domain": "tribuneindia.com",
+      "title": "Trump says Iran war is  effectively over : How the conflict unfolded",
+      "url": "https://www.business-standard.com/world-news/trump-says-iran-war-is-effectively-over-how-the-conflict-unfolded-126111000144_1.html",
+      "domain": "business-standard.com",
       "country": "India",
-      "published": "2026-11-10T00:00:00+00:00"
+      "published": "2026-11-10T05:30:00+00:00"
      },
      {
-      "title": "Vulcan Materials ( NYSE : VMC ) versus Loma Negra Compania Industrial Argentina ( NYSE : LOMA ) Head - To - Head Survey",
-      "url": "https://www.tickerreport.com/banking-finance/13655801/vulcan-materials-nysevmc-versus-loma-negra-compania-industrial-argentina-nyseloma-head-to-head-survey.html",
-      "domain": "tickerreport.com",
-      "country": "United States",
-      "published": "2026-11-09T06:00:00+00:00"
+      "title": "SHAWN HAGEDORN | From Agoa towards an engaged worldview",
+      "url": "https://www.businessday.co.za/opinion/2026-11-10-shawn-hagedorn-from-agoa-towards-an-engaged-worldview/",
+      "domain": "businessday.co.za",
+      "country": "South Africa",
+      "published": "2026-11-10T05:30:00+00:00"
      },
      {
-      "title": "Franchise interest grows as businesses seek stronger legal protection",
-      "url": "https://capitalethiopia.com/2026/11/08/franchise-interest-grows-as-businesses-seek-stronger-legal-protection/",
-      "domain": "capitalethiopia.com",
-      "country": "Ethiopia",
-      "published": "2026-11-08T17:00:00+00:00"
+      "title": "After Trump indicates possible end of military ops in West Asia , Iran warns  surrender to seven conditions",
+      "url": "https://aninews.in/news/world/middle-east/after-trump-indicates-possible-end-of-military-ops-in-west-asia-iran-warns-surrender-to-seven-conditions16020261110083459/",
+      "domain": "aninews.in",
+      "country": "India",
+      "published": "2026-11-10T05:00:00+00:00"
      },
      {
-      "title": "Secours Populaire : French solidarity in action for Cuba",
-      "url": "https://www.plenglish.com/news/2026/11/08/secours-populaire-french-solidarity-in-action-for-cuba/",
-      "domain": "plenglish.com",
-      "country": "Cuba",
-      "published": "2026-11-08T15:30:00+00:00"
-     },
-     {
-      "title": "I turned our family farm eggs into a £77m brand",
-      "url": "https://www.dailymail.com/money/smallbusiness/article-16272009/I-turned-family-farms-eggs-77m-brand-St-Ewe-one-Britains-fastest-growing-firms.html",
-      "domain": "dailymail.com",
-      "country": "United States",
-      "published": "2026-11-08T09:00:00+00:00"
-     },
-     {
-      "title": "Phibro Animal ( PAHC ) Q1 2027 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/07/phibro-animal-pahc-q1-2027-earnings-call-transcript/?source=iedfolrf0000001",
-      "domain": "fool.com",
-      "country": "United States",
-      "published": "2026-11-07T19:00:00+00:00"
-     },
-     {
-      "title": "Olam Agri Plans $400m Africa Expansion , Targets Nigeria Feed Market And 130 , 000 Smallholder Farmers",
-      "url": "https://naija247news.com/olam-agri-plans-400m-africa-expansion-targets-nigeria-feed-market-and-130000-smallholder-farmers/",
-      "domain": "naija247news.com",
-      "country": "Nigeria",
-      "published": "2026-11-07T17:30:00+00:00"
+      "title": "US ETFs to Buy for Samvat 2083 : Samco recommends 2 ETFs with potential upside of up to 60 % for Indian investors",
+      "url": "https://www.livemint.com/market/stock-market-news/us-etfs-to-buy-for-samvat-2083-samco-recommends-2-etfs-with-potential-upside-of-up-to-60-for-indian-investors-11794283267027.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-10T05:00:00+00:00"
      }
     ],
     "economia_mundial": [
@@ -1258,9 +1256,10 @@
     ]
    },
    "errors": {
-    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
