@@ -1,5 +1,22 @@
 [
  {
+  "id": "0cad018030ef",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-10",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 2 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline - Dominican Republic Post – Caribbean News , Business , Travel & Culture” (dominicanrepublicpost.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "dominicanrepublicpost.com",
+  "url": "https://dominicanrepublicpost.com/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline/",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-10T01:26:51-06:00"
+ },
+ {
   "id": "cc9454e236af",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
