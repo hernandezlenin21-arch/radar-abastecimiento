@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-09T15:59:05-06:00",
+  "at": "2026-11-09T19:19:03-06:00",
   "data": {
    "storms": [
     {
@@ -114,7 +114,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-09T15:59:05-06:00",
+  "at": "2026-11-09T19:19:03-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than an 83&#37; chance).",
@@ -123,99 +123,367 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-09T15:59:05-06:00",
+  "at": "2026-11-09T19:19:03-06:00",
   "data": {
    "raw": {
     "energia": [
      {
-      "title": "Rupee gains 25 paise against US dollar on lower crude , positive global cues",
-      "url": "https://www.prokerala.com/news/articles/a1834545.html",
-      "domain": "prokerala.com",
-      "country": "India",
-      "published": "2026-11-09T07:00:00+00:00"
+      "title": "Keep It Local : Inside Nigeria 1Tbps Internet Infrastructure Upgrade",
+      "url": "https://naija247news.com/keep-it-local-inside-nigerias-1tbps-internet-infrastructure-upgrade/",
+      "domain": "naija247news.com",
+      "country": "Nigeria",
+      "published": "2026-11-10T01:00:00+00:00"
      },
      {
-      "title": "A Bruising Week for the Australian Dollar",
-      "url": "https://www.actionforex.com/contributors/fundamental-analysis/660249-a-bruising-week-for-the-australian-dollar/",
-      "domain": "actionforex.com",
-      "country": "United Kingdom",
-      "published": "2026-11-09T07:00:00+00:00"
+      "title": "Senate weighs sweeping energy legislation in first major action since midterm elections",
+      "url": "https://www.kvoa.com/news/national/senate-weighs-sweeping-energy-legislation-in-first-major-action-since-midterm-elections/article_51835302-ad21-580c-9a34-21ca4c84ab16.html",
+      "domain": "kvoa.com",
+      "country": "United States",
+      "published": "2026-11-10T01:00:00+00:00"
      },
      {
-      "title": "Citi bullish on Indian equities , sees Nifty at 28 , 000 by end - 2027",
-      "url": "https://www.business-standard.com/markets/stock-market-news/citi-bullish-on-indian-equities-sees-nifty-at-28-000-by-end-2027-126110900222_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
+      "title": "A Trump deal that would have imported Russian oil to the US is falling apart",
+      "url": "https://www.ksby.com/politics/foreign-policy/a-white-house-deal-that-would-have-imported-russian-oil-to-the-us-is-falling-apart",
+      "domain": "ksby.com",
+      "country": "United States",
+      "published": "2026-11-10T01:00:00+00:00"
      },
      {
-      "title": "TMK smashes Mongolian gas record as 30 - year licence beckons",
-      "url": "https://www.smh.com.au/business/companies/tmk-smashes-mongolian-gas-record-as-30-year-licence-beckons-20261109-p61cox.html",
+      "title": "The Civil War in France : Causes and consequences",
+      "url": "https://www.peoplesworld.org/article/the-civil-war-in-france-causes-and-consequences/",
+      "domain": "peoplesworld.org",
+      "country": "United States",
+      "published": "2026-11-10T01:00:00+00:00"
+     },
+     {
+      "title": "What Gulfport Energy ( GPOR ) Said on Its Q3 Earnings Call",
+      "url": "https://www.dailypolitical.com/2026/11/09/what-gulfport-energy-gpor-said-on-its-q3-earnings-call.html",
+      "domain": "dailypolitical.com",
+      "country": "United States",
+      "published": "2026-11-10T01:00:00+00:00"
+     },
+     {
+      "title": "Dow Jumps 1 , 104 ; Nasdaq Climbs 674 ; S & P 500 Adds 173",
+      "url": "https://tvnewscheck.com/business/article/dow-jumps-1104-nasdaq-climbs-674-sp-500-adds-173/",
+      "domain": "tvnewscheck.com",
+      "country": "United States",
+      "published": "2026-11-10T01:00:00+00:00"
+     },
+     {
+      "title": "Ukraine peace talks to restart after 9 months . What makes them different this time ? - LocalNews8 . com",
+      "url": "https://localnews8.com/news/national-world/cnn-world/2026/11/09/ukraine-peace-talks-to-restart-after-9-months-what-makes-them-different-this-time/",
+      "domain": "localnews8.com",
+      "country": "United States",
+      "published": "2026-11-10T01:00:00+00:00"
+     },
+     {
+      "title": "US and Iran are quietly negotiating as Middle East remains on edge . Here what to know",
+      "url": "https://keyt.com/news/national-world/cnn-world/2026/11/09/us-and-iran-are-quietly-negotiating-as-middle-east-remains-on-edge-heres-what-to-know/",
+      "domain": "keyt.com",
+      "country": "United States",
+      "published": "2026-11-10T01:00:00+00:00"
+     },
+     {
+      "title": "How major US stock indexes fared Monday 11 / 9 / 2026",
+      "url": "https://mymotherlode.com/news/national/11295563/how-major-us-stock-indexes-fared-monday-11-9-2026.html",
+      "domain": "mymotherlode.com",
+      "country": "United States",
+      "published": "2026-11-10T01:00:00+00:00"
+     },
+     {
+      "title": "Journey Announces Third Quarter 2026 Financial and Operating Results ; Expands 2026 Capital Program",
+      "url": "https://www.recorder.ca/press-releases/newsfile/journey-announces-third-quarter-2026-financial-and-operating-results-expands-2026-capital-program/",
+      "domain": "recorder.ca",
+      "country": "Canada",
+      "published": "2026-11-10T01:00:00+00:00"
+     },
+     {
+      "title": "Secretary of State McLean highlights Government of Canada investments from Budget 2026 to improve affordability",
+      "url": "http://www.torontotelegraph.com/news/279422426/secretary-of-state-mclean-highlights-government-of-canada-investments-from-budget-2026-to-improve-affordability",
+      "domain": "torontotelegraph.com",
+      "country": "Canada",
+      "published": "2026-11-10T01:00:00+00:00"
+     },
+     {
+      "title": "Alcoa refinery fire : What happens when a country forgets how to make its own fuel",
+      "url": "https://www.theage.com.au/politics/federal/what-happens-when-a-country-forgets-how-to-make-its-own-fuel-20261110-p61c42.html",
+      "domain": "theage.com.au",
+      "country": "Australia",
+      "published": "2026-11-10T01:00:00+00:00"
+     },
+     {
+      "title": "Ukraine peace talks to restart after 9 months . What makes them different this time ?",
+      "url": "https://keyt.com/news/national-world/cnn-world/2026/11/09/ukraine-peace-talks-to-restart-after-9-months-what-makes-them-different-this-time/",
+      "domain": "keyt.com",
+      "country": "United States",
+      "published": "2026-11-10T01:00:00+00:00"
+     },
+     {
+      "title": "Alcoa refinery fire : What happens when a country forgets how to make its own fuel",
+      "url": "https://www.smh.com.au/politics/federal/what-happens-when-a-country-forgets-how-to-make-its-own-fuel-20261110-p61c42.html",
       "domain": "smh.com.au",
       "country": "Australia",
-      "published": "2026-11-09T06:30:00+00:00"
+      "published": "2026-11-10T01:00:00+00:00"
      },
      {
-      "title": "Markets slip into red after opening in green , Sensex down 150 points , Nifty below 25 , 000",
-      "url": "https://news.webindia123.com/news/Articles/Business/20261109/4517531.html",
-      "domain": "news.webindia123.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
+      "title": "Journey Announces Third Quarter 2026 Financial and Operating Results ; Expands 2026 Capital Program",
+      "url": "https://www.stratfordbeaconherald.com/press-releases/newsfile/journey-announces-third-quarter-2026-financial-and-operating-results-expands-2026-capital-program/",
+      "domain": "stratfordbeaconherald.com",
+      "country": "Canada",
+      "published": "2026-11-10T00:30:00+00:00"
      },
      {
-      "title": "Oil falls as Trump says new Iran attacks  unlikely",
-      "url": "https://dunyanews.tv/en/Business/981939-oil-falls-as-trump-says-new-iran-attacks-unlikely",
-      "domain": "dunyanews.tv",
-      "country": "Pakistan",
-      "published": "2026-11-09T06:30:00+00:00"
+      "title": "AP News in Brief at 6 : 04 p . m . EST",
+      "url": "https://www.idahostatejournal.com/news/national/ap-news-in-brief-at-6-04-p-m-est/article_36294db8-ab7f-5e2b-90c8-0cb183b20f7a.html",
+      "domain": "idahostatejournal.com",
+      "country": "United States",
+      "published": "2026-11-10T00:30:00+00:00"
      },
      {
-      "title": "NSE Chief Sees FII Comeback As Crude Cools , Rupee Stabilises",
-      "url": "https://www.businessworld.in/article/nse-chief-sees-fii-comeback-as-crude-cools-rupee-stabilises-632675",
-      "domain": "businessworld.in",
-      "country": "India",
-      "published": "2026-11-09T06:00:00+00:00"
+      "title": "The Latest : Republican Rep . Thomas Massie files resolution to impeach Defense Secretary Pete Hegseth",
+      "url": "https://www.idahostatejournal.com/news/national/the-latest-republican-rep-thomas-massie-files-resolution-to-impeach-defense-secretary-pete-hegseth/article_022cbf5b-7408-5a19-897c-8c754b5b6889.html",
+      "domain": "idahostatejournal.com",
+      "country": "United States",
+      "published": "2026-11-10T00:30:00+00:00"
      },
      {
-      "title": "Why petrol prices may take longer to fall than crude oil",
-      "url": "https://www.abc.net.au/news/2026-11-09/why-petrol-prices-may-take-longer-to-fall-than-crude-oil/107365104",
-      "domain": "abc.net.au",
+      "title": "These 3 Pipeline Stocks Collect Fees on Everything They Move , and $120 , 000 Pays $8 , 791 a Year",
+      "url": "https://www.aol.com/articles/3-pipeline-stocks-collect-fees-233711000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-11-10T00:30:00+00:00"
+     },
+     {
+      "title": "Malaysia Stock Market May See Renewed Support",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/malaysia-stock-market-may-see-renewed-support-1036739837",
+      "domain": "finanzen.ch",
+      "country": "Switzerland",
+      "published": "2026-11-10T00:30:00+00:00"
+     },
+     {
+      "title": "A Trump deal that would have imported Russian oil to the US is falling apart",
+      "url": "https://www.kshb.com/politics/foreign-policy/a-white-house-deal-that-would-have-imported-russian-oil-to-the-us-is-falling-apart",
+      "domain": "kshb.com",
+      "country": "United States",
+      "published": "2026-11-10T00:30:00+00:00"
+     },
+     {
+      "title": "The Latest : Republican Rep . Thomas Massie files resolution to impeach Defense Secretary Pete Hegseth",
+      "url": "https://www.weny.com/wires/the-latest-republican-rep-thomas-massie-files-resolution-to-impeach-defense-secretary-pete-hegseth/article_e821de46-aef2-5c39-a7d0-be5e0489d53b.html",
+      "domain": "weny.com",
+      "country": "United States",
+      "published": "2026-11-10T00:30:00+00:00"
+     },
+     {
+      "title": "These 3 Pipeline Stocks Collect Fees on Everything They Move , and $120 , 000 Pays $8 , 791 a Year",
+      "url": "https://247wallst.com/investing/2026/11/09/these-3-pipeline-stocks-collect-fees-on-everything-they-move-and-120000-pays-8791-a-year/",
+      "domain": "247wallst.com",
+      "country": "United States",
+      "published": "2026-11-10T00:30:00+00:00"
+     },
+     {
+      "title": "Retailers suffer subdued October as shoppers hold back ahead of Black Friday",
+      "url": "https://www.aol.co.uk/articles/retailers-suffer-subdued-october-shoppers-000100000.html",
+      "domain": "aol.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-10T00:30:00+00:00"
+     },
+     {
+      "title": "Applied Digital ( NASDAQ : APLD ) Earns Strong Sell Rating As Losses Deepen And Analyst Estimates Deteriorate Sharply",
+      "url": "https://www.foreignpolicyjournal.com/2026/11/09/applied-digital-nasdaq-apld-earns-strong-sell-rating-as-losses-deepen-and-analyst-estimates-deteriorate-sharply/",
+      "domain": "foreignpolicyjournal.com",
+      "country": "Israel",
+      "published": "2026-11-10T00:30:00+00:00"
+     },
+     {
+      "title": "Kitchen - table issues drove my victory : Ghaziabad - born Saba Haider scripts history in Illinois amid concerns over rising costs , bias",
+      "url": "http://www.asiabulletin.com/news/279422578/kitchen-table-issues-drove-my-victory-ghaziabad-born-saba-haider-scripts-history-in-illinois-amid-concerns-over-rising-costs-bias",
+      "domain": "asiabulletin.com",
+      "country": "China",
+      "published": "2026-11-10T00:30:00+00:00"
+     },
+     {
+      "title": "Senate weighing sweeping energy legislation",
+      "url": "https://www.wpbf.com/article/senates-weighing-energy-legislation/74378770",
+      "domain": "wpbf.com",
+      "country": "United States",
+      "published": "2026-11-10T00:30:00+00:00"
+     },
+     {
+      "title": "Japan Stock Market Tipped To Open In The Green",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/japan-stock-market-tipped-to-open-in-the-green-1036739831",
+      "domain": "finanzen.ch",
+      "country": "Switzerland",
+      "published": "2026-11-10T00:30:00+00:00"
+     },
+     {
+      "title": "Singapore Stock Market Tipped To Open To The Upside",
+      "url": "https://www.finanzen.ch/nachrichten/aktien/singapore-stock-market-tipped-to-open-to-the-upside-1036739857",
+      "domain": "finanzen.ch",
+      "country": "Switzerland",
+      "published": "2026-11-10T00:30:00+00:00"
+     },
+     {
+      "title": "Journey Energy Inc .: Journey Announces Third Quarter 2026 Financial and Operating Results ; Expands 2026 Capital Program",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70080954-journey-energy-inc-journey-announces-third-quarter-2026-financial-and-operating-results-expands-2026-capital-program-296.htm",
+      "domain": "finanznachrichten.de",
+      "country": "Germany",
+      "published": "2026-11-10T00:00:00+00:00"
+     },
+     {
+      "title": "Summit County officials have little control over proposed pipeline , says attorney",
+      "url": "https://www.parkrecord.com/2026/11/09/summit-county-officials-have-little-control-over-proposed-pipeline-says-attorney/",
+      "domain": "parkrecord.com",
+      "country": "United States",
+      "published": "2026-11-10T00:00:00+00:00"
+     },
+     {
+      "title": "Barrick targets November filing for North American IPO - Canadian Mining Journal",
+      "url": "https://www.canadianminingjournal.com/news/barrick-targets-november-filing-for-north-american-ipo/",
+      "domain": "canadianminingjournal.com",
+      "country": "Canada",
+      "published": "2026-11-10T00:00:00+00:00"
+     },
+     {
+      "title": "How data center demand is reshaping electricity costs across the US",
+      "url": "https://www.wsbtv.com/news/how-data-center/EZXZIDKMFYZ6PK7LB7OCPYQNYI/",
+      "domain": "wsbtv.com",
+      "country": "United States",
+      "published": "2026-11-10T00:00:00+00:00"
+     },
+     {
+      "title": "Feeling the heat : As winter nears , soaring energy prices have residents bracing for bigger bills",
+      "url": "https://gazettenet.com/2026/11/09/feeling-the-heat-as-winter-nears-soaring-energy-prices-have-residents-bracing-for-bigger-bills/",
+      "domain": "gazettenet.com",
+      "country": "United States",
+      "published": "2026-11-10T00:00:00+00:00"
+     },
+     {
+      "title": "Senate weighing sweeping energy legislation",
+      "url": "https://www.gulfcoastnewsnow.com/article/senates-weighing-energy-legislation/74378770",
+      "domain": "gulfcoastnewsnow.com",
+      "country": "",
+      "published": "2026-11-10T00:00:00+00:00"
+     },
+     {
+      "title": "Diesel tank sales surge across WA grainbelt after supply shocks | Farm Weekly",
+      "url": "https://www.farmweekly.com.au/story/9388644/diesel-tank-sales-surge-across-was-grainbelt-after-supply-shocks/",
+      "domain": "farmweekly.com.au",
       "country": "Australia",
-      "published": "2026-11-09T06:00:00+00:00"
+      "published": "2026-11-10T00:00:00+00:00"
      },
      {
-      "title": "Citi Sees Nifty 50 Scaling 28 , 000 By End - 2027 , Flags 12 % Upside",
-      "url": "https://www.businessworld.in/article/citi-sees-nifty-50-scaling-28-000-by-end-2027-632698",
-      "domain": "businessworld.in",
+      "title": "THE SHELL LEAKS FILES 9 NOVEMBER 2026 – Royal Dutch Shell Plc . com",
+      "url": "https://royaldutchshellplc.com/2026/11/09/the-shell-leaks-files-9-november-2026/",
+      "domain": "royaldutchshellplc.com",
+      "country": "Netherlands",
+      "published": "2026-11-10T00:00:00+00:00"
+     },
+     {
+      "title": "Saudi Arabia reports new attack on key East - West pipeline - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+      "url": "https://dominicanrepublicpost.com/saudi-arabia-reports-new-attack-on-key-east-west-pipeline/",
+      "domain": "dominicanrepublicpost.com",
+      "country": "United States",
+      "published": "2026-11-10T00:00:00+00:00"
+     },
+     {
+      "title": "A Trump deal that would have imported Russian oil to the US is falling apart",
+      "url": "https://www.kztv10.com/politics/foreign-policy/a-white-house-deal-that-would-have-imported-russian-oil-to-the-us-is-falling-apart",
+      "domain": "kztv10.com",
+      "country": "United States",
+      "published": "2026-11-10T00:00:00+00:00"
+     },
+     {
+      "title": "How data center demand is reshaping electricity costs across the US",
+      "url": "https://www.wape.com/news/how-data-center/EZXZIDKMFYZ6PK7LB7OCPYQNYI/",
+      "domain": "wape.com",
+      "country": "United States",
+      "published": "2026-11-10T00:00:00+00:00"
+     },
+     {
+      "title": "AAA : Average Rhode Island gas price drops 11 cents",
+      "url": "https://www.thewesterlysun.com/news/charlestown/aaa-average-rhode-island-gas-price-drops-11-cents/article_42573d00-8adb-4c43-bb9d-725d736cb091.html",
+      "domain": "thewesterlysun.com",
+      "country": "United States",
+      "published": "2026-11-10T00:00:00+00:00"
+     }
+    ],
+    "comercio_internacional": [
+     {
+      "title": "These 3 Pipeline Stocks Collect Fees on Everything They Move , and $120 , 000 Pays $8 , 791 a Year",
+      "url": "https://www.aol.com/articles/3-pipeline-stocks-collect-fees-233711000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-11-10T00:30:00+00:00"
+     },
+     {
+      "title": "These 3 Pipeline Stocks Collect Fees on Everything They Move , and $120 , 000 Pays $8 , 791 a Year",
+      "url": "https://247wallst.com/investing/2026/11/09/these-3-pipeline-stocks-collect-fees-on-everything-they-move-and-120000-pays-8791-a-year/",
+      "domain": "247wallst.com",
+      "country": "United States",
+      "published": "2026-11-10T00:30:00+00:00"
+     },
+     {
+      "title": "J & K leadership fails its forests - Daily Excelsior",
+      "url": "https://www.dailyexcelsior.com/jks-leadership-fails-its-forests/",
+      "domain": "dailyexcelsior.com",
       "country": "India",
-      "published": "2026-11-09T06:00:00+00:00"
+      "published": "2026-11-10T00:30:00+00:00"
      },
      {
-      "title": "Dominion Energy ( NYSE : D ) & E . On ( OTCMKTS : EONGY ) Head - To - Head Analysis",
-      "url": "https://www.tickerreport.com/banking-finance/13655803/dominion-energy-nysed-e-on-otcmktseongy-head-to-head-analysis.html",
-      "domain": "tickerreport.com",
-      "country": "United States",
-      "published": "2026-11-09T06:00:00+00:00"
+      "title": "Ottawa amends , extends tariff relief program beyond U . S . steel imports",
+      "url": "https://cheknews.ca/ottawa-amends-extends-tariff-relief-program-beyond-u-s-steel-imports-1360193/",
+      "domain": "cheknews.ca",
+      "country": "Canada",
+      "published": "2026-11-10T00:30:00+00:00"
      },
      {
-      "title": "Cummins Q3 Earnings Call Highlights",
-      "url": "https://www.tickerreport.com/banking-finance/13655795/cummins-q3-earnings-call-highlights.html",
-      "domain": "tickerreport.com",
+      "title": "KKR ( KKR ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/09/kkr-kkr-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
+      "domain": "fool.com",
       "country": "United States",
-      "published": "2026-11-09T06:00:00+00:00"
+      "published": "2026-11-10T00:30:00+00:00"
      },
      {
-      "title": "Strathcona Resources Ltd . Announces Agreement to Acquire Greenfire Resources Ltd .",
-      "url": "https://www.prnewswire.com/news-releases/strathcona-resources-ltd-announces-agreement-to-acquire-greenfire-resources-ltd-302932925.html",
-      "domain": "prnewswire.com",
-      "country": "United States",
-      "published": "2026-11-09T06:00:00+00:00"
+      "title": "Ottawa extends tariff relief program for firms importing U . S . goods",
+      "url": "https://www.theglobeandmail.com/canada/article-tariff-relief-us-import-trump/",
+      "domain": "theglobeandmail.com",
+      "country": "Canada",
+      "published": "2026-11-10T00:00:00+00:00"
      },
      {
-      "title": "Strathcona Resources Ltd . Reports Third Quarter 2026 Financial and Operating Results and Announces Quarterly Dividend",
-      "url": "https://www.prnewswire.com/news-releases/strathcona-resources-ltd-reports-third-quarter-2026-financial-and-operating-results-and-announces-quarterly-dividend-302932929.html",
-      "domain": "prnewswire.com",
+      "title": "COP31 is the summit where climate promises come due",
+      "url": "https://www.dailysabah.com/opinion/op-ed/cop31-is-the-summit-where-climate-promises-come-due",
+      "domain": "dailysabah.com",
+      "country": "Turkey",
+      "published": "2026-11-10T00:00:00+00:00"
+     },
+     {
+      "title": "THE SHELL LEAKS FILES 9 NOVEMBER 2026 – Royal Dutch Shell Plc . com",
+      "url": "https://royaldutchshellplc.com/2026/11/09/the-shell-leaks-files-9-november-2026/",
+      "domain": "royaldutchshellplc.com",
+      "country": "Netherlands",
+      "published": "2026-11-10T00:00:00+00:00"
+     },
+     {
+      "title": "Op - Ed | Store discounts are at risk under potential NYC law",
+      "url": "https://www.amny.com/opinion/store-discounts-risk-under-potential-nyc-law/",
+      "domain": "amny.com",
       "country": "United States",
+      "published": "2026-11-10T00:00:00+00:00"
+     },
+     {
+      "title": "newsroomamerica . com",
+      "url": "https://newsroomamerica.com/?before=120928",
+      "domain": "newsroomamerica.com",
+      "country": "United States",
+      "published": "2026-11-10T00:00:00+00:00"
+     },
+     {
+      "title": "( CIIE ) Economic Watch : Buoyed by zero tariffs , African exporters eye bigger China market - Xinhua",
+      "url": "https://english.news.cn/20261109/9d06adfacfa54171b78aa2f99ae86760/c.html",
+      "domain": "english.news.cn",
+      "country": "",
       "published": "2026-11-09T06:00:00+00:00"
      },
      {
@@ -226,13 +494,6 @@
       "published": "2026-11-09T06:00:00+00:00"
      },
      {
-      "title": "Shanghai Forum : The Iran - China economic axis on a $300 billion horizon",
-      "url": "https://www.presstv.co.uk/Detail/2026/11/09/780297/shanghai-forum-the-iran-china-economic-axis-on-a-300-billion-horizon",
-      "domain": "presstv.co.uk",
-      "country": "",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
       "title": "Asian markets bounce back after a recovery for AI stocks on Wall Street",
       "url": "https://www.idahostatejournal.com/news/national/asian-markets-bounce-back-after-a-recovery-for-ai-stocks-on-wall-street/article_44554571-dde2-5793-b7b0-77cfb082fddd.html",
       "domain": "idahostatejournal.com",
@@ -240,18 +501,18 @@
       "published": "2026-11-09T06:00:00+00:00"
      },
      {
-      "title": "Markets slip into red after opening in green , Sensex down 150 points , Nifty below 25 , 000",
-      "url": "https://aninews.in/news/business/markets-slip-into-red-after-opening-in-green-sensex-down-150-points-nifty-below-2500020261109093548/",
-      "domain": "aninews.in",
-      "country": "India",
-      "published": "2026-11-09T05:30:00+00:00"
+      "title": "South Africa : Trump Trade Decision Could Hurt Rural Families , Warns Azania Movement",
+      "url": "https://allafrica.com/stories/202611090073.html",
+      "domain": "allafrica.com",
+      "country": "Nigeria",
+      "published": "2026-11-09T06:00:00+00:00"
      },
      {
-      "title": "Rupee extends winning streak , breaks below 94 against dollar : What next",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-extends-winning-streak-breaks-below-94-against-dollar-whats-next/articleshow/135670806.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-11-09T05:30:00+00:00"
+      "title": "Strathcona Resources Ltd . Announces Agreement to Acquire Greenfire Resources Ltd .",
+      "url": "https://www.prnewswire.com/news-releases/strathcona-resources-ltd-announces-agreement-to-acquire-greenfire-resources-ltd-302932925.html",
+      "domain": "prnewswire.com",
+      "country": "United States",
+      "published": "2026-11-09T06:00:00+00:00"
      },
      {
       "title": "India may gain from changing global investment environment after US midterm elections : Report",
@@ -261,37 +522,16 @@
       "published": "2026-11-09T05:30:00+00:00"
      },
      {
-      "title": "Rupee rises 24 paise to 93 . 74 against U . S . dollar in early trade",
-      "url": "https://www.thehindu.com/business/markets/rupee-rises-24-paise-to-9374-against-us-dollar-in-early-trade/article71681429.ece",
-      "domain": "thehindu.com",
-      "country": "India",
-      "published": "2026-11-09T05:30:00+00:00"
-     },
-     {
-      "title": "Divis Laboratories Share Price : Divis joins ₹3 trn market cap club ; rallies 15 % in 2 days post Q2 results",
-      "url": "https://www.business-standard.com/markets/news/divis-joins-3-trn-market-cap-club-rallies-15-in-2-days-post-q2-results-126110900182_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
+      "title": "Brazil : Lessons for the Left",
+      "url": "https://cpa.org.au/guardian/issue-2214/brazil-lessons-for-the-left/",
+      "domain": "cpa.org.au",
+      "country": "Australia",
       "published": "2026-11-09T05:00:00+00:00"
      },
      {
-      "title": "South Korea moves up launch of nuclear submarine construction project to 2027",
-      "url": "https://www.hani.co.kr/arti/english_edition/e_national/1286410.html",
-      "domain": "hani.co.kr",
-      "country": "South Korea",
-      "published": "2026-11-09T05:00:00+00:00"
-     },
-     {
-      "title": "The Failure Of The Divisive Playbook",
-      "url": "https://www.thecitizen.in/opinion/the-failure-of-the-divisive-playbook-1389095",
-      "domain": "thecitizen.in",
-      "country": "India",
-      "published": "2026-11-09T05:00:00+00:00"
-     },
-     {
-      "title": "Democratic Win Set to Reshuffle U . S . Energy Policy  | Peak Oil News and Message Boards",
-      "url": "https://peakoil.com/publicpolicy/democratic-win-set-to-reshuffle-u-s-energy-policy",
-      "domain": "peakoil.com",
+      "title": "10 takeaways from Trump 60 Minutes interview : Why GOP lost midterms , what went wrong on immigration , more",
+      "url": "https://www.newson6.com/tulsa-oklahoma-news/trumps-60-minutes-interview-gop-midterms-immigration",
+      "domain": "newson6.com",
       "country": "United States",
       "published": "2026-11-09T05:00:00+00:00"
      },
@@ -301,27 +541,6 @@
       "domain": "goskagit.com",
       "country": "United States",
       "published": "2026-11-09T05:00:00+00:00"
-     },
-     {
-      "title": "Sri Lanka Economic Recovery Tied to Strait of Hormuz as US - Israel Tensions Reshape Global Trade",
-      "url": "https://www.lankanewspapers.com/2026/11/08/sri-lanka-s-economic-recovery-tied-to-strait-of-hormuz-as-us-israel-tensions-reshape-global-trade",
-      "domain": "lankanewspapers.com",
-      "country": "Sri Lanka",
-      "published": "2026-11-09T02:00:00+00:00"
-     },
-     {
-      "title": "Latest Articles",
-      "url": "https://freerepublic.com/tag/*/index?more=4402314",
-      "domain": "freerepublic.com",
-      "country": "United States",
-      "published": "2026-11-09T02:00:00+00:00"
-     },
-     {
-      "title": "AI analytics , technological upgrades to drive retail investor experience in new Samvat : NSE CEO Ashishkumar Chauhan",
-      "url": "http://www.mexicostar.com/news/279420849/ai-analytics-technological-upgrades-to-drive-retail-investor-experience-in-new-samvat-nse-ceo-ashishkumar-chauhan",
-      "domain": "mexicostar.com",
-      "country": "Mexico",
-      "published": "2026-11-09T02:00:00+00:00"
      },
      {
       "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda | National",
@@ -338,644 +557,144 @@
       "published": "2026-11-09T02:00:00+00:00"
      },
      {
-      "title": "Evening Shade Resistance Rising Sunday , November 8 , 2026",
-      "url": "https://www.dailykos.com/stories/2026/11/8/800122072/community/evening-shade-resistance-rising-sunday-november-8-2026/",
-      "domain": "dailykos.com",
-      "country": "United States",
-      "published": "2026-11-09T01:00:00+00:00"
-     },
-     {
-      "title": "Farm debt is set to hit a record $605 billion this year",
-      "url": "https://www.wlwt.com/article/farm-finances-worsen-in-2026-as-diesel-and-fertilizer-costs-squeeze-us-farmers/74217744",
-      "domain": "wlwt.com",
-      "country": "United States",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "Russia targets emergency crews at the site of deadly strike in southern Ukraine",
-      "url": "https://www.inquirer.com/news/nation-world/russia-ukraine-war-attacks-emergency-crews-komyshuvakha-aid-center-zelensky-20261108.html",
-      "domain": "inquirer.com",
-      "country": "",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "Head - To - Head Comparison : DTE Energy ( DTE ) versus Its Rivals",
-      "url": "https://www.tickerreport.com/banking-finance/13655740/head-to-head-comparison-dte-energy-dte-versus-its-rivals.html",
-      "domain": "tickerreport.com",
-      "country": "United States",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "Nigerian Sinotuck unveils electric commercial truck , Sitrak ,",
-      "url": "https://thesun.ng/nigerian-sinotuck-unveils-electric-commercial-truck-sitrak-targets-lower-haulage-costs-2/",
-      "domain": "thesun.ng",
-      "country": "",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "Promising Canadian Stocks To Add to Your Watchlist – November 6th",
-      "url": "https://www.tickerreport.com/banking-finance/13655747/promising-canadian-stocks-to-add-to-your-watchlist-november-6th.html",
-      "domain": "tickerreport.com",
-      "country": "United States",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "Democrats to push clean energy , challenging Trump fossil fuel plans",
-      "url": "https://gazette.com/2026/11/08/democrats-to-push-clean-energy-challenging-trumps-fossil-fuel-plans/",
-      "domain": "gazette.com",
-      "country": "United States",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "Analyzing Texas Pacific Land ( NYSE : TPL ) and W & T Offshore ( NYSE : WTI )",
-      "url": "https://www.themarketsdaily.com/2026/11/08/analyzing-texas-pacific-land-nysetpl-and-wt-offshore-nysewti.html",
-      "domain": "themarketsdaily.com",
-      "country": "United States",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
-      "title": "What Calumet ( CLMT ) Said on Its Q3 Earnings Call",
-      "url": "https://www.tickerreport.com/banking-finance/13655750/what-calumet-clmt-said-on-its-q3-earnings-call.html",
-      "domain": "tickerreport.com",
-      "country": "United States",
-      "published": "2026-11-09T00:30:00+00:00"
-     },
-     {
       "title": "Ticker : Inflation , housing data on tap",
       "url": "https://www.bostonherald.com/2026/11/08/ticker-inflation-housing-data-on-tap/",
       "domain": "bostonherald.com",
       "country": "United States",
       "published": "2026-11-09T00:30:00+00:00"
-     }
-    ],
-    "geopolitica": [
-     {
-      "title": "COP31 faces uphill battle as war , AI reshape climate agenda",
-      "url": "https://www.middle-east-online.com/en/cop31-faces-uphill-battle-war-ai-reshape-climate-agenda",
-      "domain": "middle-east-online.com",
-      "country": "Iraq",
-      "published": "2026-11-09T07:00:00+00:00"
      },
      {
-      "title": "Rupee gains 25 paise against US dollar on lower crude , positive global cues",
-      "url": "https://www.prokerala.com/news/articles/a1834545.html",
-      "domain": "prokerala.com",
-      "country": "India",
-      "published": "2026-11-09T07:00:00+00:00"
-     },
-     {
-      "title": "Trump says renewed strikes on Iran  highly unlikely  if talks progress",
-      "url": "https://www.mangalorean.com/trump-says-renewed-strikes-on-iran-highly-unlikely-if-talks-progress/",
-      "domain": "mangalorean.com",
-      "country": "India",
-      "published": "2026-11-09T07:00:00+00:00"
-     },
-     {
-      "title": "Immigration policy too tough : 5 key takeaways from Trump 60 minutes interview after midterm setback",
-      "url": "https://www.chinatechnews.com/2026/11/09/132374-immigration-policy-too-tough-5-key-takeaways-from-trumps-60-minutes-interview-after-midterm-setback",
-      "domain": "chinatechnews.com",
-      "country": "China",
-      "published": "2026-11-09T07:00:00+00:00"
-     },
-     {
-      "title": "Norris Wins in Brazil as Rate Cuts Stall",
-      "url": "https://www.riotimesonline.com/the-big-read-brazil-9-november-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-11-09T07:00:00+00:00"
-     },
-     {
-      "title": "Knox County House Seat Flips Democratic as Local Parties Analyze Election Results",
-      "url": "https://www.wivk.com/2026/11/08/knox-county-house-seat-flips-democratic-as-local-parties-analyze-election-results/",
-      "domain": "wivk.com",
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda | National",
+      "url": "http://www.thedailytimes.com/ap/national/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trump-s-fossil-fuel/article_87dbe6de-c3b2-54d7-90a3-b5297add1bff.html",
+      "domain": "thedailytimes.com",
       "country": "United States",
-      "published": "2026-11-09T06:30:00+00:00"
+      "published": "2026-11-08T21:00:00+00:00"
      },
      {
-      "title": "Citi bullish on Indian equities , sees Nifty at 28 , 000 by end - 2027",
-      "url": "https://www.business-standard.com/markets/stock-market-news/citi-bullish-on-indian-equities-sees-nifty-at-28-000-by-end-2027-126110900222_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Explosions reported in Iran Bandar Abbas , Qeshm Island",
-      "url": "https://dunyanews.tv/en/World/981942-explosions-reported-in-irans-bandar-abbas-qeshm-island",
-      "domain": "dunyanews.tv",
-      "country": "Pakistan",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Painstaking rescue of Kabul crumbling Bala Hissar fortress reveals 2 , 000 years of Afghan history | National",
-      "url": "http://www.reflector.com/news/national/painstaking-rescue-of-kabul-s-crumbling-bala-hissar-fortress-reveals-2-000-years-of-afghan/article_f30c2909-f0ec-58ba-9e83-88286fed09d7.html",
-      "domain": "reflector.com",
+      "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
+      "url": "https://www.phillytrib.com/news/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/article_0897274d-a987-4cfc-9322-c981e8feaed5.html",
+      "domain": "phillytrib.com",
       "country": "United States",
-      "published": "2026-11-09T06:30:00+00:00"
+      "published": "2026-11-08T21:00:00+00:00"
      },
      {
-      "title": "Americans are  disgusted with Israel  and tired of its  forever wars : Iranian Foreign Minister",
-      "url": "https://news.webindia123.com/news/Articles/World/20261109/4517546.html",
-      "domain": "news.webindia123.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "US - Iran war : What is Trump  Task Force Iron Gate ? How will land  blockade  impact Tehran , its economy ? Explained",
-      "url": "https://www.livemint.com/news/us-news/usiran-war-what-is-trumps-task-force-iron-gate-how-will-land-blockade-impact-tehran-its-economy-explained-11794198846233.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat",
-      "url": "https://www.newindianexpress.com/world/2026/Nov/09/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat",
-      "domain": "newindianexpress.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "COP31 to open in Türkiye , with climate goals under pressure from war and AI",
-      "url": "https://www.channelnewsasia.com/world/cop31-turkiye-climate-goals-war-ai-6534996",
-      "domain": "channelnewsasia.com",
-      "country": "United States",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Leaders gather in Turkey for UN climate summit after a disastrous year of extreme weather",
-      "url": "https://www.newindianexpress.com/world/2026/Nov/09/leaders-gather-in-turkey-for-un-climate-summit-after-a-disastrous-year-of-extreme-weather-2",
-      "domain": "newindianexpress.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "COLUMNIST : Why This Election Felt So Personal",
-      "url": "https://www.shorelinemedia.net/ludington_daily_news/opinion/columnists/columnist-why-this-election-felt-so-personal/article_e446d3f3-b2ac-49f4-b2e9-6071883f437f.html",
-      "domain": "shorelinemedia.net",
-      "country": "United States",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Rubio to meet G7 counterparts in Paris amid global crises and US policy questions",
-      "url": "https://www.orissapost.com/rubio-to-meet-g7-counterparts-in-paris-amid-global-crises-and-us-policy-questions/",
-      "domain": "orissapost.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "COP31 to open in Turkey , with climate goals under pressure from war and AI",
-      "url": "https://dunyanews.tv/en/World/981927-cop31-to-open-in-turkey-with-climate-goals-under-pressure-from-war-an",
-      "domain": "dunyanews.tv",
-      "country": "Pakistan",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Marco Rubio defends Trump war against Iran , says military action was necessary to stop  nuclear threat",
-      "url": "https://dunyanews.tv/en/World/981921-marco-rubio-defends-trumps-war-against-iran-says-military-action-was",
-      "domain": "dunyanews.tv",
-      "country": "Pakistan",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Oil falls as Trump says new Iran attacks  unlikely",
-      "url": "https://dunyanews.tv/en/Business/981939-oil-falls-as-trump-says-new-iran-attacks-unlikely",
-      "domain": "dunyanews.tv",
-      "country": "Pakistan",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "US asks Iraq to shut most border crossings with Iran : Iraqi FM",
-      "url": "http://www.newzealandstar.com/news/279420827/us-asks-iraq-to-shut-most-border-crossings-with-iran-iraqi-fm",
-      "domain": "newzealandstar.com",
-      "country": "New Zealand",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "American people have spoken : US Senator Warren says illegal war on Iran must end as Democrats gain leverage",
-      "url": "https://www.presstv.co.uk/Detail/2026/11/09/780292/american-people-have-spoken-us-senator-warren-says-illegal-war-on-iran-must-end-as-democrats-gain-le",
-      "domain": "presstv.co.uk",
-      "country": "",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "AP News in Brief at 11 : 04 p . m . EST",
-      "url": "https://www.idahostatejournal.com/news/national/ap-news-in-brief-at-11-04-p-m-est/article_81422da3-fc0c-52da-a824-ba6117eea82f.html",
-      "domain": "idahostatejournal.com",
-      "country": "United States",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "Leaders gather in Turkey for UN climate summit after a disastrous year of extreme weather",
-      "url": "https://mymotherlode.com/news/national/11293267/leaders-gather-in-turkey-for-un-climate-summit-after-a-disastrous-year-of-extreme-weather.html",
-      "domain": "mymotherlode.com",
-      "country": "United States",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "Arab News | Rubio will discuss Iran , Ukraine , AI and more with G7 allies in France",
-      "url": "https://www.arabnews.com/world/rubio-will-discuss-iran-ukraine-ai-and-more-with-g7-allies-in-france-3010608",
-      "domain": "arabnews.com",
-      "country": "Saudi Arabia",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat",
-      "url": "https://mymotherlode.com/news/national/11293302/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat.html",
-      "domain": "mymotherlode.com",
-      "country": "United States",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "Saudi Arabia intercepts missiles as Riyadh Aramco building gets damaged",
-      "url": "https://theshillongtimes.com/2026/11/09/saudi-arabia-intercepts-missiles-as-riyadh-aramco-building-gets-damaged/",
-      "domain": "theshillongtimes.com",
-      "country": "India",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "Strathcona Resources Ltd . Reports Third Quarter 2026 Financial and Operating Results and Announces Quarterly Dividend",
-      "url": "https://www.prnewswire.com/news-releases/strathcona-resources-ltd-reports-third-quarter-2026-financial-and-operating-results-and-announces-quarterly-dividend-302932929.html",
-      "domain": "prnewswire.com",
-      "country": "United States",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "US Midterm Results Could Boost India FPI Inflows , Ease Rupee Pressure : Axis MF",
-      "url": "https://www.businessworld.in/article/us-midterm-results-could-boost-india-s-fpi-inflows-ease-rupee-pressure-axis-mf-632702",
-      "domain": "businessworld.in",
-      "country": "India",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "We need to talk : The three words that strike fear into husbands everywhere",
-      "url": "https://www.ynetnews.com/culture/lifestyle/article/s1u3tnatze",
-      "domain": "ynetnews.com",
-      "country": "Israel",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "COP31 opens as climate and geopolitical pressures mount",
-      "url": "https://www.thedailystar.net/news/world/news/cop31-opens-climate-and-geopolitical-pressures-mount-4318911",
+      "title": "The political economy of Bangladesh energy crisis",
+      "url": "https://www.thedailystar.net/slow-reads/big-picture/news/the-political-economy-bangladeshs-energy-crisis-4318531",
       "domain": "thedailystar.net",
       "country": "Bangladesh",
-      "published": "2026-11-09T06:00:00+00:00"
+      "published": "2026-11-08T20:30:00+00:00"
      },
      {
-      "title": "Americans , regional nations sick and tired of Israel duping US into  forever war : Iran FM",
-      "url": "https://www.presstv.co.uk/Detail/2026/11/09/780296/iran-fm-americans-regional-nations-sick-and-tired-of-israel-dragging-us-into-forever-wars",
-      "domain": "presstv.co.uk",
-      "country": "",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "Shanghai Forum : The Iran - China economic axis on a $300 billion horizon",
-      "url": "https://www.presstv.co.uk/Detail/2026/11/09/780297/shanghai-forum-the-iran-china-economic-axis-on-a-300-billion-horizon",
-      "domain": "presstv.co.uk",
-      "country": "",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "Trump says  a lot of people  objected to Vance remarks blaming midterm defeat on Iran war",
-      "url": "https://aninews.in/news/world/us/trump-says-a-lot-of-people-objected-to-vances-remarks-blaming-midterm-defeat-on-iran-war20261109080332/",
-      "domain": "aninews.in",
-      "country": "India",
-      "published": "2026-11-09T05:30:00+00:00"
-     },
-     {
-      "title": "Americans are  disgusted with Israel  and tired of its  forever wars : Iranian Foreign Minister",
-      "url": "https://aninews.in/news/world/middle-east/americans-are-disgusted-with-israel-and-tired-of-its-forever-wars-iranian-foreign-minister20261109102951/",
-      "domain": "aninews.in",
-      "country": "India",
-      "published": "2026-11-09T05:30:00+00:00"
-     },
-     {
-      "title": "India may gain from changing global investment environment after US midterm elections : Report",
-      "url": "https://aninews.in/news/business/india-may-gain-from-changing-global-investment-environment-after-us-midterm-elections-report20261109081934/",
-      "domain": "aninews.in",
-      "country": "India",
-      "published": "2026-11-09T05:30:00+00:00"
-     },
-     {
-      "title": "LETTER : After the Midterms , Guam Should Follow the Money",
-      "url": "https://www.guampdn.com/news/letter-after-the-midterms-guam-should-follow-the-money/article_cddeccbd-f6f3-47f3-a876-c804aa8b0867.html",
-      "domain": "guampdn.com",
-      "country": "Guam",
-      "published": "2026-11-09T05:30:00+00:00"
-     },
-     {
-      "title": "COP31 summit to open with climate goals under pressure",
-      "url": "https://www.bordermail.com.au/story/9388346/cop31-summit-to-open-with-climate-goals-under-pressure/",
-      "domain": "bordermail.com.au",
-      "country": "Australia",
-      "published": "2026-11-09T05:30:00+00:00"
-     },
-     {
-      "title": "US asks Iraq to shut most border crossings with Iran : Iraqi FM",
-      "url": "http://www.iranherald.com/news/279420827/us-asks-iraq-to-shut-most-border-crossings-with-iran-iraqi-fm",
-      "domain": "iranherald.com",
-      "country": "Iran",
-      "published": "2026-11-09T05:30:00+00:00"
-     },
-     {
-      "title": "Cannon fodder from down under",
-      "url": "https://cpa.org.au/guardian/issue-2214/cannon-fodder-from-down-under/",
-      "domain": "cpa.org.au",
-      "country": "Australia",
-      "published": "2026-11-09T05:00:00+00:00"
-     },
-     {
-      "title": "Brazil : Lessons for the Left",
-      "url": "https://cpa.org.au/guardian/issue-2214/brazil-lessons-for-the-left/",
-      "domain": "cpa.org.au",
-      "country": "Australia",
-      "published": "2026-11-09T05:00:00+00:00"
-     }
-    ],
-    "transporte_maritimo": [
-     {
-      "title": "COP31 faces uphill battle as war , AI reshape climate agenda",
-      "url": "https://www.middle-east-online.com/en/cop31-faces-uphill-battle-war-ai-reshape-climate-agenda",
-      "domain": "middle-east-online.com",
-      "country": "Iraq",
-      "published": "2026-11-09T07:00:00+00:00"
-     },
-     {
-      "title": "Rupee gains 25 paise against US dollar on lower crude , positive global cues",
-      "url": "https://www.prokerala.com/news/articles/a1834545.html",
-      "domain": "prokerala.com",
-      "country": "India",
-      "published": "2026-11-09T07:00:00+00:00"
-     },
-     {
-      "title": "Iran says no unauthorised vessels transited Strait of Hormuz overnight after navigation aids destroyed",
-      "url": "https://www.al-monitor.com/originals/2026/11/iran-says-no-unauthorised-vessels-transited-strait-hormuz-overnight-after",
-      "domain": "al-monitor.com",
-      "country": "Israel",
-      "published": "2026-11-09T07:00:00+00:00"
-     },
-     {
-      "title": "Trump says renewed strikes on Iran  highly unlikely  if talks progress",
-      "url": "https://www.mangalorean.com/trump-says-renewed-strikes-on-iran-highly-unlikely-if-talks-progress/",
-      "domain": "mangalorean.com",
-      "country": "India",
-      "published": "2026-11-09T07:00:00+00:00"
-     },
-     {
-      "title": "Immigration policy too tough : 5 key takeaways from Trump 60 minutes interview after midterm setback",
-      "url": "https://www.chinatechnews.com/2026/11/09/132374-immigration-policy-too-tough-5-key-takeaways-from-trumps-60-minutes-interview-after-midterm-setback",
-      "domain": "chinatechnews.com",
-      "country": "China",
-      "published": "2026-11-09T07:00:00+00:00"
-     },
-     {
-      "title": "Explosions reported in Iran Bandar Abbas , Qeshm Island",
-      "url": "https://dunyanews.tv/en/World/981942-explosions-reported-in-irans-bandar-abbas-qeshm-island",
-      "domain": "dunyanews.tv",
-      "country": "Pakistan",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Americans are  disgusted with Israel  and tired of its  forever wars : Iranian Foreign Minister",
-      "url": "https://news.webindia123.com/news/Articles/World/20261109/4517546.html",
-      "domain": "news.webindia123.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "US - Iran war : What is Trump  Task Force Iron Gate ? How will land  blockade  impact Tehran , its economy ? Explained",
-      "url": "https://www.livemint.com/news/us-news/usiran-war-what-is-trumps-task-force-iron-gate-how-will-land-blockade-impact-tehran-its-economy-explained-11794198846233.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat",
-      "url": "https://www.newindianexpress.com/world/2026/Nov/09/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat",
-      "domain": "newindianexpress.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Leaders gather in Turkey for UN climate summit after a disastrous year of extreme weather",
-      "url": "https://www.newindianexpress.com/world/2026/Nov/09/leaders-gather-in-turkey-for-un-climate-summit-after-a-disastrous-year-of-extreme-weather-2",
-      "domain": "newindianexpress.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Rubio to meet G7 counterparts in Paris amid global crises and US policy questions",
-      "url": "https://www.orissapost.com/rubio-to-meet-g7-counterparts-in-paris-amid-global-crises-and-us-policy-questions/",
-      "domain": "orissapost.com",
-      "country": "India",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "COP31 to open in Turkey , with climate goals under pressure from war and AI",
-      "url": "https://dunyanews.tv/en/World/981927-cop31-to-open-in-turkey-with-climate-goals-under-pressure-from-war-an",
-      "domain": "dunyanews.tv",
-      "country": "Pakistan",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Marco Rubio defends Trump war against Iran , says military action was necessary to stop  nuclear threat",
-      "url": "https://dunyanews.tv/en/World/981921-marco-rubio-defends-trumps-war-against-iran-says-military-action-was",
-      "domain": "dunyanews.tv",
-      "country": "Pakistan",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "Oil falls as Trump says new Iran attacks  unlikely",
-      "url": "https://dunyanews.tv/en/Business/981939-oil-falls-as-trump-says-new-iran-attacks-unlikely",
-      "domain": "dunyanews.tv",
-      "country": "Pakistan",
-      "published": "2026-11-09T06:30:00+00:00"
-     },
-     {
-      "title": "US asks Iraq to shut most border crossings with Iran : Iraqi FM",
-      "url": "http://www.newzealandstar.com/news/279420827/us-asks-iraq-to-shut-most-border-crossings-with-iran-iraqi-fm",
-      "domain": "newzealandstar.com",
-      "country": "New Zealand",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "AP News in Brief at 11 : 04 p . m . EST",
-      "url": "https://www.idahostatejournal.com/news/national/ap-news-in-brief-at-11-04-p-m-est/article_81422da3-fc0c-52da-a824-ba6117eea82f.html",
-      "domain": "idahostatejournal.com",
+      "title": "Rural Mainstreet Index Signals Continued Economic Pressure Across Farm Country",
+      "url": "https://www.rfdtv.com/rural-mainstreet-index-signals-continued-economic-pressure-across-farm-country",
+      "domain": "rfdtv.com",
       "country": "United States",
-      "published": "2026-11-09T06:00:00+00:00"
+      "published": "2026-11-08T20:30:00+00:00"
      },
      {
-      "title": "Leaders gather in Turkey for UN climate summit after a disastrous year of extreme weather",
-      "url": "https://mymotherlode.com/news/national/11293267/leaders-gather-in-turkey-for-un-climate-summit-after-a-disastrous-year-of-extreme-weather.html",
-      "domain": "mymotherlode.com",
+      "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
+      "url": "https://www.whittierdailynews.com/2026/11/08/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/",
+      "domain": "whittierdailynews.com",
       "country": "United States",
-      "published": "2026-11-09T06:00:00+00:00"
+      "published": "2026-11-08T20:30:00+00:00"
      },
      {
-      "title": "Arab News | Rubio will discuss Iran , Ukraine , AI and more with G7 allies in France",
-      "url": "https://www.arabnews.com/world/rubio-will-discuss-iran-ukraine-ai-and-more-with-g7-allies-in-france-3010608",
+      "title": "What Tenaris ( TS ) Said on Its Q3 Earnings Call",
+      "url": "https://www.dailypolitical.com/2026/11/08/what-tenaris-ts-said-on-its-q3-earnings-call.html",
+      "domain": "dailypolitical.com",
+      "country": "United States",
+      "published": "2026-11-08T20:00:00+00:00"
+     },
+     {
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda",
+      "url": "https://www.kxl.com/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trumps-fossil-fuel-agenda/",
+      "domain": "kxl.com",
+      "country": "United States",
+      "published": "2026-11-08T19:30:00+00:00"
+     },
+     {
+      "title": "The Pitfalls Ahead for the Democratic Congress",
+      "url": "https://washingtonmonthly.com/2026/11/08/the-pitfalls-ahead-for-the-democratic-congress/",
+      "domain": "washingtonmonthly.com",
+      "country": "United States",
+      "published": "2026-11-08T19:30:00+00:00"
+     },
+     {
+      "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
+      "url": "https://www.adn.com/nation-world/2026/11/08/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/",
+      "domain": "adn.com",
+      "country": "United States",
+      "published": "2026-11-08T19:30:00+00:00"
+     },
+     {
+      "title": "Arab News | Lula set to double down on Global South leadership",
+      "url": "https://www.arabnews.com/opinion/lula-set-to-double-down-on-global-south-leadership-3010474",
       "domain": "arabnews.com",
       "country": "Saudi Arabia",
-      "published": "2026-11-09T06:00:00+00:00"
+      "published": "2026-11-08T18:30:00+00:00"
      },
      {
-      "title": "Why petrol prices may take longer to fall than crude oil",
-      "url": "https://www.abc.net.au/news/2026-11-09/why-petrol-prices-may-take-longer-to-fall-than-crude-oil/107365104",
-      "domain": "abc.net.au",
-      "country": "Australia",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat",
-      "url": "https://mymotherlode.com/news/national/11293302/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat.html",
-      "domain": "mymotherlode.com",
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda | National",
+      "url": "https://www.dailygazette.com/ap/national/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trump-s-fossil-fuel/article_8916326e-27b7-5bbf-80a4-2c005f6c9a02.html",
+      "domain": "dailygazette.com",
       "country": "United States",
-      "published": "2026-11-09T06:00:00+00:00"
+      "published": "2026-11-08T18:30:00+00:00"
      },
      {
-      "title": "Americans , regional nations sick and tired of Israel duping US into  forever war : Iran FM",
-      "url": "https://www.presstv.co.uk/Detail/2026/11/09/780296/iran-fm-americans-regional-nations-sick-and-tired-of-israel-dragging-us-into-forever-wars",
-      "domain": "presstv.co.uk",
-      "country": "",
-      "published": "2026-11-09T06:00:00+00:00"
-     },
-     {
-      "title": "Trump says  a lot of people  objected to Vance remarks blaming midterm defeat on Iran war",
-      "url": "https://aninews.in/news/world/us/trump-says-a-lot-of-people-objected-to-vances-remarks-blaming-midterm-defeat-on-iran-war20261109080332/",
-      "domain": "aninews.in",
-      "country": "India",
-      "published": "2026-11-09T05:30:00+00:00"
-     },
-     {
-      "title": "Americans are  disgusted with Israel  and tired of its  forever wars : Iranian Foreign Minister",
-      "url": "https://aninews.in/news/world/middle-east/americans-are-disgusted-with-israel-and-tired-of-its-forever-wars-iranian-foreign-minister20261109102951/",
-      "domain": "aninews.in",
-      "country": "India",
-      "published": "2026-11-09T05:30:00+00:00"
-     },
-     {
-      "title": "COP31 summit to open with climate goals under pressure",
-      "url": "https://www.bordermail.com.au/story/9388346/cop31-summit-to-open-with-climate-goals-under-pressure/",
-      "domain": "bordermail.com.au",
-      "country": "Australia",
-      "published": "2026-11-09T05:30:00+00:00"
-     },
-     {
-      "title": "US asks Iraq to shut most border crossings with Iran : Iraqi FM",
-      "url": "http://www.iranherald.com/news/279420827/us-asks-iraq-to-shut-most-border-crossings-with-iran-iraqi-fm",
-      "domain": "iranherald.com",
-      "country": "Iran",
-      "published": "2026-11-09T05:30:00+00:00"
-     },
-     {
-      "title": "G7 meet as Europe seeks greater say in Ukraine peace talks",
-      "url": "https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960",
-      "domain": "dw.com",
-      "country": "Germany",
-      "published": "2026-11-09T05:00:00+00:00"
-     },
-     {
-      "title": "Democratic Win Set to Reshuffle U . S . Energy Policy  | Peak Oil News and Message Boards",
-      "url": "https://peakoil.com/publicpolicy/democratic-win-set-to-reshuffle-u-s-energy-policy",
-      "domain": "peakoil.com",
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda",
+      "url": "https://www.clickorlando.com/business/2026/11/08/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trumps-fossil-fuel-agenda/",
+      "domain": "clickorlando.com",
       "country": "United States",
-      "published": "2026-11-09T05:00:00+00:00"
+      "published": "2026-11-08T18:30:00+00:00"
      },
      {
-      "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat",
-      "url": "https://www.winchesterstar.com/associated_press/washington/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear/article_62df8bd5-b1ee-50a7-8150-7b8eab6eba13.html",
-      "domain": "winchesterstar.com",
+      "title": "Adam Hamilton Warns Democrats Against Trump Investigations After Kansas Win",
+      "url": "https://www.newsweek.com/adam-hamilton-trump-investigations-democrats-kansas-12683529",
+      "domain": "newsweek.com",
       "country": "United States",
-      "published": "2026-11-09T05:00:00+00:00"
+      "published": "2026-11-08T18:30:00+00:00"
      },
      {
-      "title": "What Is  Operation Midnight Hammer ? - Windermere Sun - For Healthier / Happier / More Sustainable Living",
-      "url": "https://www.windermeresun.com/2026/11/07/what-is-operation-midnight-hammer/",
-      "domain": "windermeresun.com",
+      "title": "Week in review : Test your knowledge of notable news",
+      "url": "https://www.news8000.com/news/national-world/week-in-review-test-your-knowledge-of-notable-news/article_d5a7e4b0-2dee-5eba-bbe4-ef32202e9afb.html",
+      "domain": "news8000.com",
       "country": "United States",
-      "published": "2026-11-09T05:00:00+00:00"
+      "published": "2026-11-08T18:30:00+00:00"
      },
      {
-      "title": "Iran FM Abbas Araghchi gives ultimatum to US on ending war :  Our 2 - day proposal stands",
-      "url": "https://www.hindustantimes.com/world-news/irans-fm-abbas-araghchi-gives-ultimatum-to-us-on-ending-war-our-2-day-proposal-stands-101794181550576.html",
-      "domain": "hindustantimes.com",
-      "country": "India",
-      "published": "2026-11-09T02:00:00+00:00"
-     },
-     {
-      "title": "Houthi missiles hit Riyadh financial district , damage Aramco office as Saudi retaliates",
-      "url": "https://www.hindustantimes.com/world-news/houthi-missiles-hit-riyadh-financial-district-damage-aramco-office-as-saudi-retaliates-101794183754284.html",
-      "domain": "hindustantimes.com",
-      "country": "India",
-      "published": "2026-11-09T02:00:00+00:00"
-     },
-     {
-      "title": "Gold edges up as softer crude tempers inflation concerns",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-softer-crude-tempers-inflation-concerns/articleshow/135667365.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-11-09T02:00:00+00:00"
-     },
-     {
-      "title": "Sri Lanka Economic Recovery Tied to Strait of Hormuz as US - Israel Tensions Reshape Global Trade",
-      "url": "https://www.lankanewspapers.com/2026/11/08/sri-lanka-s-economic-recovery-tied-to-strait-of-hormuz-as-us-israel-tensions-reshape-global-trade",
-      "domain": "lankanewspapers.com",
-      "country": "Sri Lanka",
-      "published": "2026-11-09T02:00:00+00:00"
-     },
-     {
-      "title": "Gulf states sign landmark deal to advance regional railway network",
-      "url": "https://www.middle-east-online.com/en/gulf-states-sign-landmark-deal-advance-regional-railway-network",
-      "domain": "middle-east-online.com",
-      "country": "Iraq",
-      "published": "2026-11-09T02:00:00+00:00"
-     },
-     {
-      "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat",
-      "url": "http://www.goskagit.com/news/politics/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear/article_956c74a4-76f2-5934-89b7-d465e94ccadb.html",
-      "domain": "goskagit.com",
+      "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver – WTOP News",
+      "url": "https://wtop.com/national/2026/11/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/",
+      "domain": "wtop.com",
       "country": "United States",
-      "published": "2026-11-09T02:00:00+00:00"
+      "published": "2026-11-08T17:00:00+00:00"
      },
      {
-      "title": "Houthi attack damages Aramco building in Riyadh",
-      "url": "https://www.thecourier.com.au/story/9388058/houthi-attack-damages-aramco-building-in-riyadh/",
-      "domain": "thecourier.com.au",
-      "country": "Australia",
-      "published": "2026-11-09T02:00:00+00:00"
-     },
-     {
-      "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat",
-      "url": "https://www.wral.com/news/ap/f7b50-rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat/",
-      "domain": "wral.com",
+      "title": "Democrats plan to push clean energy to lower bills and challenge Trump fossil fuel agenda",
+      "url": "https://www.clickondetroit.com/business/2026/11/08/democrats-plan-to-push-clean-energy-to-lower-bills-and-challenge-trumps-fossil-fuel-agenda/",
+      "domain": "clickondetroit.com",
       "country": "United States",
-      "published": "2026-11-09T02:00:00+00:00"
+      "published": "2026-11-08T17:00:00+00:00"
      },
      {
-      "title": "Trump says Iran strikes highly unlikely with strong deal",
-      "url": "https://www.inquisitr.com/trump-iran-strikes-agreement/",
-      "domain": "inquisitr.com",
+      "title": "Voters demanded economic relief . Trump and Democrats face tough choices on how to deliver",
+      "url": "https://www.clickondetroit.com/news/politics/2026/11/08/voters-demanded-economic-relief-trump-and-democrats-face-tough-choices-on-how-to-deliver/",
+      "domain": "clickondetroit.com",
       "country": "United States",
-      "published": "2026-11-09T02:00:00+00:00"
+      "published": "2026-11-08T17:00:00+00:00"
      },
      {
-      "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat",
-      "url": "http://www.reflector.com/news/national/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear/article_aebf9f20-3c23-5845-8fce-7dfa317bac5a.html",
-      "domain": "reflector.com",
+      "title": "This Week  Transcript 11 - 8 - 26 : House Democratic Leader Hakeem Jeffries , Senator - elect Abdul El - Sayed & Governor - elect Keisha Lance Bottoms",
+      "url": "https://abcnews.com/Politics/week-transcript-11-8-26-house-democratic-leader/story?id=137944448",
+      "domain": "abcnews.com",
       "country": "United States",
-      "published": "2026-11-09T02:00:00+00:00"
-     },
-     {
-      "title": "Rubio says Trump war against Iran not  necessarily popular  but needed to stop a nuclear threat – Winnipeg Free Press",
-      "url": "https://www.winnipegfreepress.com/world/2026/11/08/rubio-says-trumps-war-against-iran-not-necessarily-popular-but-needed-to-stop-a-nuclear-threat",
-      "domain": "winnipegfreepress.com",
-      "country": "Canada",
-      "published": "2026-11-09T01:00:00+00:00"
+      "published": "2026-11-08T17:00:00+00:00"
      }
     ]
    },
    "errors": {
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
