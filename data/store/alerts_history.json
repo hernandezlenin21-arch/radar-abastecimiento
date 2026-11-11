@@ -1,5 +1,22 @@
 [
  {
+  "id": "92ad77b0e446",
+  "indicator": "cp-ormuz",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-11",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Estrecho de Ormuz: 3 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Oil rises from 2 - month low as Hormuz shipping attacks offset truce hopes” (business-standard.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "business-standard.com",
+  "url": "https://www.business-standard.com/markets/commodities/oil-rises-from-2-month-low-as-hormuz-shipping-attacks-offset-truce-hopes-126111100088_1.html",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-11T04:13:57-06:00"
+ },
+ {
   "indicator": "wti",
   "name": "Petróleo WTI (Cushing, spot)",
   "group": "energia",
