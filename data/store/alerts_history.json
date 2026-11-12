@@ -1,5 +1,21 @@
 [
  {
+  "indicator": "henry_hub",
+  "name": "Gas natural Henry Hub (spot)",
+  "group": "energia",
+  "date": "2026-11-11",
+  "source": "FRED — Federal Reserve Bank of St. Louis",
+  "url": "https://fred.stlouisfed.org/series/DHHNGSP",
+  "frequency": "diaria",
+  "id": "6ecb7aeacd85",
+  "rule": "cambio_7d",
+  "severity": "alto",
+  "title": "Gas natural Henry Hub (spot): +14.1% acumulado en 7 días",
+  "evidence": "2.63 (2026-11-04) → 3.00. Umbral ±8.0%.",
+  "action": "Revisar cobertura de inventario y cotizaciones vigentes con proveedores.",
+  "first_seen": "2026-11-12T13:12:39-06:00"
+ },
+ {
   "id": "92ad77b0e446",
   "indicator": "cp-ormuz",
   "name": "Punto crítico logístico",
