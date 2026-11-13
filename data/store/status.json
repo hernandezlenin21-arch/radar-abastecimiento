@@ -2,21 +2,21 @@
  "sources": {
   "nhc": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00"
+   "at": "2026-11-13T15:58:06-06:00"
   },
   "enso": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00"
+   "at": "2026-11-13T15:58:06-06:00"
   },
   "news": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00"
+   "at": "2026-11-13T15:58:06-06:00"
   }
  },
  "indicators": {
   "maiz": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 142,
@@ -26,7 +26,7 @@
   },
   "soya": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 142,
@@ -36,7 +36,7 @@
   },
   "harina_soya": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 142,
@@ -48,11 +48,11 @@
    "ok": false,
    "error": "Falta la variable de entorno AMS_API_KEY",
    "kind": "credencial",
-   "at": "2026-11-13T13:11:36-06:00"
+   "at": "2026-11-13T15:58:06-06:00"
   },
   "trigo": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 142,
@@ -62,7 +62,7 @@
   },
   "aceite_soya": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 142,
@@ -72,7 +72,7 @@
   },
   "aceite_palma": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 142,
@@ -82,7 +82,7 @@
   },
   "aceite_mani": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 142,
@@ -92,7 +92,7 @@
   },
   "wti": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://fred.stlouisfed.org/series/DCOILWTICO",
    "published": "2026-11-12 19:31:25-06",
    "received": 2962,
@@ -102,7 +102,7 @@
   },
   "brent": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://fred.stlouisfed.org/series/DCOILBRENTEU",
    "published": "2026-11-12 19:31:23-06",
    "received": 3012,
@@ -112,7 +112,7 @@
   },
   "diesel_nyh": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://fred.stlouisfed.org/series/DDFUELNYH",
    "published": "2026-11-12 19:31:25-06",
    "received": 2968,
@@ -122,7 +122,7 @@
   },
   "diesel_retail_us": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMD_EPD2D_PTE_NUS_DPG&f=W",
    "published": null,
    "received": 619,
@@ -132,7 +132,7 @@
   },
   "henry_hub": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://fred.stlouisfed.org/series/DHHNGSP",
    "published": "2026-11-12 13:05:21-06",
    "received": 2991,
@@ -142,7 +142,7 @@
   },
   "carbon": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 142,
@@ -152,7 +152,7 @@
   },
   "oro": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 142,
@@ -162,7 +162,7 @@
   },
   "plata": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 142,
@@ -172,7 +172,7 @@
   },
   "carne_bovina": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://thedocs.worldbank.org/en/doc/74e8be41ceb20fa0da750cda2f6b9e4e-0050012026/related/CMO-Historical-Data-Monthly.xlsx",
    "published": null,
    "received": 142,
@@ -184,11 +184,11 @@
    "ok": false,
    "error": "BadZipFile: File is not a zip file",
    "kind": "fuente",
-   "at": "2026-11-13T13:11:36-06:00"
+   "at": "2026-11-13T15:58:06-06:00"
   },
   "usd_index": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://fred.stlouisfed.org/series/DTWEXBGS",
    "published": "2026-11-09 15:16:53-06",
    "received": 2955,
@@ -198,17 +198,17 @@
   },
   "tasa_10y": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://fred.stlouisfed.org/series/DGS10",
-   "published": "2026-11-12 15:16:39-06",
-   "received": 2966,
-   "added": 0,
+   "published": "2026-11-13 15:16:47-06",
+   "received": 2967,
+   "added": 1,
    "revised": 0,
    "duplicates_in_batch": 0
   },
   "oni": {
    "ok": true,
-   "at": "2026-11-13T13:11:36-06:00",
+   "at": "2026-11-13T15:58:06-06:00",
    "url": "https://www.cpc.ncep.noaa.gov/data/indices/oni.ascii.txt",
    "published": null,
    "received": 141,
@@ -217,5 +217,5 @@
    "duplicates_in_batch": 0
   }
  },
- "run_at": "2026-11-13T13:11:36-06:00"
+ "run_at": "2026-11-13T15:58:06-06:00"
 }
