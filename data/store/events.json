@@ -1,120 +1,15 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-12T15:58:54-06:00",
+  "at": "2026-11-12T19:24:59-06:00",
   "data": {
-   "storms": [
-    {
-     "id": "cp042026",
-     "binNumber": "CP4",
-     "name": "Pena",
-     "classification": "PTC",
-     "intensity": "30",
-     "pressure": "1006",
-     "latitude": "9.8N",
-     "longitude": "173.4W",
-     "latitudeNumeric": 9.8,
-     "longitudeNumeric": -173.4,
-     "movementDir": 270,
-     "movementSpeed": 18,
-     "lastUpdate": "2026-11-12T15:00:00.000Z",
-     "publicAdvisory": {
-      "advNum": "024",
-      "issuance": "2026-11-12T15:00:00.000Z",
-      "fileUpdateTime": "2026-11-12T14:33:28.852Z",
-      "url": "https://www.nhc.noaa.gov/text/HFOTCPCP4.shtml"
-     },
-     "forecastAdvisory": {
-      "advNum": "024",
-      "issuance": "2026-11-12T15:00:00.000Z",
-      "fileUpdateTime": "2026-11-12T14:32:58.934Z",
-      "url": "https://www.nhc.noaa.gov/text/HFOTCMCP4.shtml"
-     },
-     "windSpeedProbabilities": {
-      "advNum": "024",
-      "issuance": "2026-11-12T15:00:00.000Z",
-      "fileUpdateTime": "2026-11-12T14:33:28.858Z",
-      "url": "https://www.nhc.noaa.gov/text/HFOPWSCP4.shtml"
-     },
-     "forecastDiscussion": {
-      "advNum": "024",
-      "issuance": "2026-11-12T15:00:00.000Z",
-      "fileUpdateTime": "2026-11-12T14:33:57.927Z",
-      "url": "https://www.nhc.noaa.gov/text/HFOTCDCP4.shtml"
-     },
-     "forecastGraphics": {
-      "advNum": "024",
-      "issuance": "2026-11-12T15:00:00.000Z",
-      "fileUpdateTime": "2026-11-12T14:33:28.852Z",
-      "url": "https://www.nhc.noaa.gov/graphics_cp4.shtml"
-     },
-     "forecastTrack": {
-      "advNum": "024",
-      "issuance": "2026-11-12T15:00:00.000Z",
-      "fileUpdateTime": "2026-11-12T14:34:57.284Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_024.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_024adv_TRACK.kmz"
-     },
-     "windWatchesWarnings": null,
-     "trackCone": {
-      "advNum": "024",
-      "issuance": "2026-11-12T15:00:00.000Z",
-      "fileUpdateTime": "2026-11-12T14:34:50.770Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_5day_024.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_024adv_CONE.kmz"
-     },
-     "initialWindExtent": {
-      "advNum": "024",
-      "issuance": "2026-11-12T15:00:00.000Z",
-      "fileUpdateTime": "2026-11-12T14:35:33.858Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_024.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_initialradii_024adv.kmz"
-     },
-     "forecastWindRadiiGIS": {
-      "advNum": "024",
-      "issuance": "2026-11-12T15:00:00.000Z",
-      "fileUpdateTime": "2026-11-12T14:35:29.808Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/forecast/archive/cp042026_fcst_024.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_forecastradii_024adv.kmz"
-     },
-     "bestTrackGIS": {
-      "issuance": "2026-11-12T15:00:00.000Z",
-      "fileUpdateTime": "2026-11-12T14:35:08.937Z",
-      "zipFile": "https://www.nhc.noaa.gov/gis/best_track/cp042026_best_track.zip",
-      "kmzFile": "https://www.nhc.noaa.gov/gis/best_track/cp042026_best_track.kmz"
-     },
-     "earliestArrivalTimeTSWindsGIS": {
-      "advNum": "024",
-      "issuance": "2026-11-12T15:00:00.000Z",
-      "fileUpdateTime": "2026-11-12T14:34:52.787Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_024adv_earliest_reasonable_toa_34.kmz"
-     },
-     "mostLikelyTimeTSWindsGIS": {
-      "advNum": "024",
-      "issuance": "2026-11-12T15:00:00.000Z",
-      "fileUpdateTime": "2026-11-12T14:34:55.152Z",
-      "kmzFile": "https://www.nhc.noaa.gov/storm_graphics/api/CP042026_024adv_most_likely_toa_34.kmz"
-     },
-     "windSpeedProbabilitiesGIS": {
-      "issuance": "2026-11-12T12:00:00.000Z",
-      "fileUpdateTime": "2026-11-12T15:23:29.466Z",
-      "zipFile5km": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111212_wsp_120hr5km.zip",
-      "zipFile0p5deg": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111212_wsp_120hrhalfDeg.zip",
-      "kmzFile34kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111212_wsp34knt120hr_5km.kmz",
-      "kmzFile50kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111212_wsp50knt120hr_5km.kmz",
-      "kmzFile64kt": "https://www.nhc.noaa.gov/gis/forecast/archive/2026111212_wsp64knt120hr_5km.kmz"
-     },
-     "stormSurgeWatchWarningGIS": null,
-     "potentialStormSurgeFloodingGIS": null,
-     "peakSurgeKML": null
-    }
-   ],
+   "storms": [],
    "url": "https://www.nhc.noaa.gov/"
   }
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-12T15:58:54-06:00",
+  "at": "2026-11-12T19:24:59-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than a 79&#37; chance).",
@@ -123,10 +18,31 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-12T15:58:54-06:00",
+  "at": "2026-11-12T19:24:59-06:00",
   "data": {
    "raw": {
     "commodities_agricolas": [
+     {
+      "title": "Taco Bell is spotlighting two Flamin  Hot items – San Bernardino Sun",
+      "url": "https://www.sbsun.com/2026/11/12/taco-bell-is-spotlighting-two-flamin-hot-items/",
+      "domain": "sbsun.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "UN says over 333 , 000 displaced in Yemen since August",
+      "url": "https://aa.com.tr/en/middle-east/un-says-over-333-000-displaced-in-yemen-since-august/4123525",
+      "domain": "aa.com.tr",
+      "country": "Turkey",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Georgia Begins De Facto Diplomatic Reset with Russia",
+      "url": "https://jamestown.org/georgia-begins-de-facto-diplomatic-reset-with-russia/",
+      "domain": "jamestown.org",
+      "country": "Russia",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
      {
       "title": "Michigan turkey growers fight diseases , high costs to put birds on dinner tables",
       "url": "https://www.dailypress.net/news/2026/11/michigan-turkey-growers-fight-diseases-high-costs-to-put-birds-on-dinner-tables/",
@@ -385,30 +301,128 @@
       "domain": "wptf.com",
       "country": "United States",
       "published": "2026-11-11T00:00:00+00:00"
-     },
-     {
-      "title": "Jimmy Carter farm to be preserved in Georgia",
-      "url": "https://www.wdbo.com/news/weird-news/jimmy-carters-family/WAKFPMOS7Y7VLMO6VACKLG4AJI/",
-      "domain": "wdbo.com",
-      "country": "United States",
-      "published": "2026-11-11T00:00:00+00:00"
-     },
-     {
-      "title": "What lurking in the weeds ?   - Wednesday Journal",
-      "url": "https://www.oakpark.com/2026/11/10/whats-lurking-in-the-weeds/",
-      "domain": "oakpark.com",
-      "country": "United States",
-      "published": "2026-11-11T00:00:00+00:00"
-     },
-     {
-      "title": "B & G Foods ( NYSE : BGS ) Issues Earnings Results",
-      "url": "https://www.dailypolitical.com/2026/11/10/bg-foods-nysebgs-issues-earnings-results.html",
-      "domain": "dailypolitical.com",
-      "country": "United States",
-      "published": "2026-11-11T00:00:00+00:00"
      }
     ],
-    "comercio_internacional": [
+    "energia": [
+     {
+      "title": "Democrat Midterm Wins Encourage Activists at Climate Change Convention",
+      "url": "https://www.theepochtimes.com/business/democrats-midterm-wins-encourage-activists-at-climate-change-convention-6124411",
+      "domain": "theepochtimes.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Atlas Energy Corp Reports Third Quarter 2026 Financial Results",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/atlas-energy-corp-reports-third-quarter-2026-financial-results/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Condor Announces 2026 Third Quarter Results and Record Production of 18 , 631 boe / d",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/condor-announces-2026-third-quarter-results-and-record-production-of-18631-boe-d/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Ontario gasoline , diesel prices expected to climb",
+      "url": "https://www.northumberlandnews.com/news/ontario-gas-price-prediction-for-nov-13-14/article_3a987cc8-8db6-5e61-9a96-a5485cd02c2f.html",
+      "domain": "northumberlandnews.com",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Diesel , Cherries , and Debt : The Hidden Economic Fault Lines Behind Chile Trucker Standoff",
+      "url": "https://www.latintimes.com/chile-truckers-strike-diesel-fuel-costs-601238",
+      "domain": "latintimes.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "US stocks end day lower as oil climbs , Europe closes mixed",
+      "url": "https://aa.com.tr/en/americas/us-stocks-end-day-lower-as-oil-climbs-europe-closes-mixed/4123520",
+      "domain": "aa.com.tr",
+      "country": "Turkey",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Ontario gasoline , diesel prices expected to climb",
+      "url": "https://www.cambridgetimes.ca/news/ontario-gas-price-prediction-for-nov-13-14/article_f3075fd7-8ec3-5d45-a525-b086d5ed9899.html",
+      "domain": "cambridgetimes.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Tackling LPG sector challenges effectively - Pakistan Observer",
+      "url": "https://pakobserver.net/tackling-lpg-sector-challenges-effectively/",
+      "domain": "pakobserver.net",
+      "country": "Pakistan",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Georgia Begins De Facto Diplomatic Reset with Russia",
+      "url": "https://jamestown.org/georgia-begins-de-facto-diplomatic-reset-with-russia/",
+      "domain": "jamestown.org",
+      "country": "Russia",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Emera ( TSE : EMA ) Stock Gets Price Target Trim from Royal Bank Of Canada",
+      "url": "https://www.dailypolitical.com/2026/11/11/emera-tseema-stock-gets-price-target-trim-from-royal-bank-of-canada.html",
+      "domain": "dailypolitical.com",
+      "country": "United States",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "Motilal Oswal , CAMS , other capital market stocks rise up to 5 % as benchmarks sustain at 8 - month high",
+      "url": "https://www.moneycontrol.com/news/business/markets/motilal-oswal-cams-other-capital-market-stocks-rise-up-to-5-as-benchmarks-sustain-at-8-month-high-14077917.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "Singapore opens applications for LNG floating storage unit licences",
+      "url": "https://www.asiaone.com:443/singapore/mpa-lng-floating-storage-unit-licences-singapore",
+      "domain": "asiaone.com",
+      "country": "Singapore",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "Emera ( TSE : EMA ) Price Target Raised to C$75 . 00",
+      "url": "https://www.themarketsdaily.com/2026/11/12/emera-tseema-price-target-raised-to-c75-00.html",
+      "domain": "themarketsdaily.com",
+      "country": "United States",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "Nigeria 10 - Month Oil Output Reaches 502m Barrels , Still Below 2026 Budget Benchmark",
+      "url": "https://leadership.ng/nigerias-10-month-oil-output-reaches-502m-barrels-still-below-2026-budget-benchmark/",
+      "domain": "leadership.ng",
+      "country": "Nigeria",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "Sensex Climbs 773 Points to 82 , 013 . 58 ; Nifty Ends at 25 , 255 on November 12",
+      "url": "https://udaipurkiran.com/sensex-climbs-773-points-to-82013-58-nifty-ends-at-25255-on-november-12/",
+      "domain": "udaipurkiran.com",
+      "country": "India",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "Sensex , Nifty trade higher in early deals amid decline in crude oil prices",
+      "url": "https://www.prokerala.com/news/articles/a1835727.html",
+      "domain": "prokerala.com",
+      "country": "India",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "They Test The Jesus In Me : Pennsylvania Truckers Pushed To Their Limits As Diesel Prices Soar",
+      "url": "https://www.zerohedge.com/markets/they-test-jesus-me-pennsylvania-truckers-pushed-their-limits-diesel-prices-soar",
+      "domain": "zerohedge.com",
+      "country": "United States",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
      {
       "title": "Beyond exhibitions : How CIIE opens new export frontiers for Africa - Blueprint Newspapers Limited",
       "url": "https://blueprint.ng/beyond-exhibitions-how-ciie-opens-new-export-frontiers-for-africa/",
@@ -417,24 +431,143 @@
       "published": "2026-11-12T07:00:00+00:00"
      },
      {
-      "title": "Mississippi elects Democrat Scott Colom as state first Black US senator since Reconstruction",
-      "url": "https://www.ksl.com:443/article/51645320/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction",
-      "domain": "ksl.com",
+      "title": "Sensex , Nifty Open Flat as FIIs Buy , DIIs Sell ; October CPI in Focus",
+      "url": "https://www.deccanchronicle.com/business/market/sensex-nifty-open-flat-as-fiis-buy-diis-sell-october-cpi-in-focus-2003701",
+      "domain": "deccanchronicle.com",
+      "country": "India",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "India Renewable Energy Push Saves $100 Billion in Fuel Imports : IEA",
+      "url": "https://www.siliconindia.com/news/general/indias-renewable-energy-push-saves-100-billion-in-fuel-imports-iea-nid-243075-cid-1.html",
+      "domain": "siliconindia.com",
+      "country": "India",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "Azeri Light price exceeds $100 per barrel at Augusta port",
+      "url": "https://www.trend.az/azerbaijan/4245468.html",
+      "domain": "trend.az",
+      "country": "Azerbaijan",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "Caught between costly inputs and cautious buyers , India Inc takes a hit",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/caught-between-costly-inputs-and-cautious-buyers-india-inc-takes-a-hit/articleshow/135757328.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "Turkmenistan regional climate technology center to begin operations in 2027",
+      "url": "https://www.trend.az/casia/turkmenistan/4245490.html",
+      "domain": "trend.az",
+      "country": "Azerbaijan",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "First - time buyers , easy loans drive festive used - car sales to nearly 6 lakh",
+      "url": "https://www.thehindubusinessline.com/companies/first-time-buyers-easy-loans-drive-festive-used-car-sales-to-nearly-6-lakh/article71692416.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "Oil slips as hopes of Iran peace efforts weigh on markets",
+      "url": "https://tradearabia.com:443/News/489620/Oil-slips-as-hopes-of-Iran-peace-efforts-weigh-on-markets",
+      "domain": "tradearabia.com",
+      "country": "United Arab Emirates",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "Oil slips as hopes of Iran peace efforts weigh on markets",
+      "url": "https://tradearabia.com:443/News/489620/Oil-slips-as-hopes-of-Iran-peace-efforts-weigh-on-markets/OGN",
+      "domain": "tradearabia.com",
+      "country": "United Arab Emirates",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "UAE Business : Oil slips as hopes of Iran peace efforts weigh on markets",
+      "url": "https://www.gdnonline.com:443/Details/1412618",
+      "domain": "gdnonline.com",
       "country": "United States",
       "published": "2026-11-12T06:45:00+00:00"
      },
      {
-      "title": "Mississippi elects Democrat Scott Colom as state first Black US senator since Reconstruction - Boston News , Weather , Sports",
-      "url": "https://whdh.com/news/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/",
-      "domain": "whdh.com",
+      "title": "Pembina Pipeline ( TSE : PPL ) Price Target Raised to C$74 . 00",
+      "url": "https://www.dailypolitical.com/2026/11/11/pembina-pipeline-tseppl-price-target-raised-to-c74-00.html",
+      "domain": "dailypolitical.com",
       "country": "United States",
       "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "Govt reduces petroleum prices for today",
+      "url": "https://www.radio.gov.pk/12-11-2026/govt-revises-petroleum-prices-for-today",
+      "domain": "radio.gov.pk",
+      "country": "Pakistan",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "Customers without bank accounts can send up to ₹50 , 000 with cash pay - in service , say RBI guidelines",
+      "url": "https://www.hindustantimes.com/business/customers-without-bank-accounts-can-send-up-to-rs-50-000-with-cash-pay-in-service-say-rbi-guidelines-101794459798941.html",
+      "domain": "hindustantimes.com",
+      "country": "India",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "Hoax Bomb Threats Against European Schools Add to Hybrid Warfare Risks",
+      "url": "https://foreignpolicy.com/2026/11/11/hoax-bomb-threats-schools-italy-europe-hybrid-warfare-russia-iran/?tpcc=recirc_trending062921",
+      "domain": "foreignpolicy.com",
+      "country": "United States",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "National average falls 16 cents in one week - Tribune Chronicle",
+      "url": "https://www.tribtoday.com/news/business/2026/11/national-average-falls-16-cents-in-one-week/",
+      "domain": "tribtoday.com",
+      "country": "United States",
+      "published": "2026-11-12T05:30:00+00:00"
      },
      {
       "title": "Gas prices likely to increase in Pakistan amid winter season",
       "url": "https://en.dailypakistan.com.pk/12-Nov-2026/gas-prices-likely-to-increase-in-pakistan-amid-winter-season",
       "domain": "en.dailypakistan.com.pk",
       "country": "Pakistan",
+      "published": "2026-11-12T05:30:00+00:00"
+     },
+     {
+      "title": "Stock markets climb in early trade led by foreign fund inflows , lower crude oil prices",
+      "url": "https://www.thehindu.com/business/markets/stock-markets-climb-in-early-trade-led-by-foreign-fund-inflows-lower-crude-oil-prices/article71692361.ece",
+      "domain": "thehindu.com",
+      "country": "India",
+      "published": "2026-11-12T05:30:00+00:00"
+     },
+     {
+      "title": "GrainCorp posts $10m loss as leadership transition announced | Farm Weekly",
+      "url": "https://www.farmweekly.com.au/story/9390571/graincorp-posts-10m-loss-as-leadership-transition-announced/",
+      "domain": "farmweekly.com.au",
+      "country": "Australia",
+      "published": "2026-11-12T05:30:00+00:00"
+     },
+     {
+      "title": "Refiners , Marketers To FCCPC : Understand Market Before Petrol Price Cut Demand",
+      "url": "https://leadership.ng/refiners-marketers-to-fccpc-understand-market-before-petrol-price-cut-demand/",
+      "domain": "leadership.ng",
+      "country": "Nigeria",
+      "published": "2026-11-12T05:30:00+00:00"
+     },
+     {
+      "title": "LNG opportunities abound in Canada , but also challenges , study finds",
+      "url": "https://www.theglobeandmail.com/business/article-lng-opportunities-abound-in-canada-but-also-challenges-study-finds/",
+      "domain": "theglobeandmail.com",
+      "country": "Canada",
+      "published": "2026-11-12T05:30:00+00:00"
+     },
+     {
+      "title": "GrainCorp posts $10m loss as leadership transition announced | Stock Journal",
+      "url": "https://www.stockjournal.com.au/story/9390571/graincorp-posts-10m-loss-as-leadership-transition-announced/",
+      "domain": "stockjournal.com.au",
+      "country": "Australia",
       "published": "2026-11-12T05:30:00+00:00"
      },
      {
@@ -445,252 +578,140 @@
       "published": "2026-11-12T05:30:00+00:00"
      },
      {
-      "title": "Why India and Pakistan stock markets are rallying after the US midterms",
-      "url": "https://www.channelnewsasia.com/asia/why-india-and-pakistans-stock-markets-are-rallying-after-us-midterms-6544681",
-      "domain": "channelnewsasia.com",
-      "country": "United States",
-      "published": "2026-11-12T04:00:00+00:00"
-     },
-     {
-      "title": "United States the People Defeated Trump",
-      "url": "https://www.pressenza.com/2026/11/united-states-the-people-defeated-trump/",
-      "domain": "pressenza.com",
-      "country": "United States",
-      "published": "2026-11-12T04:00:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom to US Senate",
-      "url": "https://www.wdsu.com/article/mississippi-democrat-scott-colom-wins-senate/74405027",
-      "domain": "wdsu.com",
-      "country": "United States",
-      "published": "2026-11-12T04:00:00+00:00"
-     },
-     {
-      "title": "Scott Colom defeats Cindy Hyde - Smith in Mississippi Senate race – NBC Connecticut",
-      "url": "https://www.nbcconnecticut.com/elections/scott-colom-cindy-hyde-smith-mississippi-senate-race/3792978/",
-      "domain": "nbcconnecticut.com",
-      "country": "United States",
-      "published": "2026-11-12T04:00:00+00:00"
-     },
-     {
-      "title": "China Economic Transition to 2030 : Q & A - CKGSB Knowledge",
-      "url": "https://english.ckgsb.edu.cn/knowledge/article/china-economic-transition-2030/",
-      "domain": "english.ckgsb.edu.cn",
-      "country": "China",
-      "published": "2026-11-12T04:00:00+00:00"
-     },
-     {
-      "title": "Cindy Hyde - Smith leaves Senate after eight years",
-      "url": "https://www.wapt.com/article/cindy-hyde-smith-mississippi-senate-exit/74405297",
-      "domain": "wapt.com",
-      "country": "United States",
-      "published": "2026-11-12T04:00:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom as state first Black US senator since Reconstruction",
-      "url": "https://www.wpxi.com/news/local/mississippi-elects-democrat-scott-colom-states-first-black-us-senator-since-reconstruction/QFJTPWBC7ND7NCJ7AE5TUD2I54/",
-      "domain": "wpxi.com",
-      "country": "United States",
-      "published": "2026-11-12T04:00:00+00:00"
-     },
-     {
-      "title": "Fuels , no extension on excise duties : risk of increases in diesel prices",
-      "url": "https://www.odnako.org/fuels-no-extension-on-excise-duties-risk-of-increases-in-diesel-prices/",
-      "domain": "odnako.org",
-      "country": "Russia",
-      "published": "2026-11-12T03:45:00+00:00"
-     },
-     {
-      "title": "Thailand Business News Morning Briefing – Thailand Business News",
-      "url": "https://www.thailand-business-news.com/news/339983-thailand-business-news-morning-briefing-10",
-      "domain": "thailand-business-news.com",
-      "country": "Thailand",
-      "published": "2026-11-12T03:45:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom as state first Black U . S . senator since Reconstruction",
-      "url": "https://www.thehindu.com/news/international/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/article71692151.ece",
-      "domain": "thehindu.com",
-      "country": "India",
-      "published": "2026-11-12T03:30:00+00:00"
-     },
-     {
-      "title": "Press Release",
-      "url": "https://www.mining.com/press-release?id=6af4f8ac2fd1aa7c588d3d62",
-      "domain": "mining.com",
-      "country": "Canada",
-      "published": "2026-11-12T03:30:00+00:00"
-     },
-     {
-      "title": "Whitmer wants end to food tariffs",
-      "url": "https://www.wmuk.org/2026-11-11/whitmer-wants-end-to-food-tariffs",
-      "domain": "wmuk.org",
-      "country": "United States",
-      "published": "2026-11-12T03:30:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom as state first Black US senator since Reconstruction",
-      "url": "https://www.dailygazette.com/ap/national/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/article_abd19ef0-a929-5b56-bb04-19eb6f94f1d9.html",
-      "domain": "dailygazette.com",
-      "country": "United States",
-      "published": "2026-11-12T03:30:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom as state first Black US senator since Reconstruction",
-      "url": "https://www.ky3.com/2026/11/11/mississippi-elects-democrat-scott-colom-states-first-black-us-senator-since-reconstruction/",
-      "domain": "ky3.com",
-      "country": "United States",
-      "published": "2026-11-12T03:30:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom as state first Black US senator since Reconstruction",
-      "url": "https://www.wfmj.com/news/national/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/article_af5de802-145c-5c18-a1a5-4ca086603c3d.html",
-      "domain": "wfmj.com",
-      "country": "United States",
-      "published": "2026-11-12T03:30:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom as state first Black US senator since Reconstruction",
-      "url": "https://www.dailygazette.com/leader_herald/ap/national/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/article_abd19ef0-a929-5b56-bb04-19eb6f94f1d9.html",
-      "domain": "dailygazette.com",
-      "country": "United States",
-      "published": "2026-11-12T03:30:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom as state first Black US senator since Reconstruction",
-      "url": "https://www.wbay.com:443/2026/11/11/mississippi-elects-democrat-scott-colom-states-first-black-us-senator-since-reconstruction-2/",
-      "domain": "wbay.com",
-      "country": "United States",
-      "published": "2026-11-12T03:30:00+00:00"
-     },
-     {
-      "title": "Texas Will Be Red Again : Cruz Opens  Saving Texa HQ After Democrat Rout",
-      "url": "https://www.zerohedge.com/political/texas-will-be-red-again-cruz-opens-saving-texas-hq-after-democrat-rout",
-      "domain": "zerohedge.com",
-      "country": "United States",
-      "published": "2026-11-12T03:30:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom to US Senate",
-      "url": "https://www.wcvb.com/article/mississippi-democrat-scott-colom-wins-senate/74405027",
-      "domain": "wcvb.com",
-      "country": "United States",
-      "published": "2026-11-12T03:30:00+00:00"
-     },
-     {
-      "title": "Gov . Sarah Sanders Says Nothing Democrats Do  Makes Life More Affordable",
-      "url": "https://radio.foxnews.com/2026/11/11/gov-sarah-sanders-says-nothing-democrats-do-makes-life-more-affordable/",
-      "domain": "radio.foxnews.com",
-      "country": "United States",
-      "published": "2026-11-12T03:30:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom as state first Black US senator since Reconstruction",
-      "url": "https://www.wral.com/news/ap/56c18-mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/",
-      "domain": "wral.com",
-      "country": "United States",
-      "published": "2026-11-12T03:00:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom as state first Black US senator since Reconstruction",
-      "url": "https://www.dailygazette.com/the_recorder/ap/national/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/article_abd19ef0-a929-5b56-bb04-19eb6f94f1d9.html",
-      "domain": "dailygazette.com",
-      "country": "United States",
-      "published": "2026-11-12T03:00:00+00:00"
-     },
-     {
-      "title": "We opened the door to trade first . Then we stood still",
-      "url": "https://www.ft.lk/columns/We-opened-the-door-to-trade-first-Then-we-stood-still/4-799992",
-      "domain": "ft.lk",
-      "country": "Sri Lanka",
-      "published": "2026-11-12T03:00:00+00:00"
-     },
-     {
-      "title": "Democrat Scott Colom wins Mississippi Senate seat , breaking GOP grip on the state",
-      "url": "https://www.aol.com/articles/democrat-scott-colom-wins-mississippi-225931000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-11-12T03:00:00+00:00"
-     },
-     {
-      "title": "Scott Colom defeats Cindy Hyde - Smith in Mississippi Senate race – NBC Chicago",
-      "url": "https://www.nbcchicago.com/elections/scott-colom-cindy-hyde-smith-mississippi-senate-race/4012904/",
-      "domain": "nbcchicago.com",
-      "country": "United States",
-      "published": "2026-11-12T03:00:00+00:00"
-     },
-     {
-      "title": "2026 US Congress Midterm : Power , Policy and Global Impact",
-      "url": "https://www.dailyexcelsior.com/2026-us-congress-midterm-power-policy-and-global-impact/",
-      "domain": "dailyexcelsior.com",
-      "country": "India",
-      "published": "2026-11-12T03:00:00+00:00"
-     },
-     {
-      "title": "Every American will see heating bills rise 7 %, leaving millions at risk this winter",
-      "url": "https://www.independent.co.uk/us/money/winter-heating-costs-increase-inflation-b3083429.html",
-      "domain": "independent.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-12T03:00:00+00:00"
-     },
-     {
-      "title": "Team , Inc . Reports Third Quarter 2026 Results",
-      "url": "https://www.manilatimes.net/2026/11/12/tmt-newswire/globenewswire/team-inc-reports-third-quarter-2026-results/2468004",
-      "domain": "manilatimes.net",
-      "country": "Philippines",
-      "published": "2026-11-12T01:30:00+00:00"
-     },
-     {
-      "title": "As higher prices seep into broader economy , Fed considers faster hikes",
-      "url": "https://www.mcall.com/2026/11/11/higher-prices-fed-rate-hikes/",
-      "domain": "mcall.com",
-      "country": "United States",
-      "published": "2026-11-12T01:30:00+00:00"
-     },
-     {
-      "title": "COP31 : Beyond the negotiating rooms Organising to adapt and survive",
-      "url": "https://links.org.au/cop31-beyond-negotiating-rooms-organising-adapt-and-survive",
-      "domain": "links.org.au",
+      "title": "GrainCorp posts $10m loss as leadership transition announced | Stock & Land",
+      "url": "https://www.stockandland.com.au/story/9390571/graincorp-posts-10m-loss-as-leadership-transition-announced/",
+      "domain": "stockandland.com.au",
       "country": "Australia",
-      "published": "2026-11-12T01:30:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom as state first Black US senator since Reconstruction – Daily Press",
-      "url": "https://www.dailypress.com/2026/11/11/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/",
-      "domain": "dailypress.com",
-      "country": "United States",
-      "published": "2026-11-12T01:30:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom as state first Black US senator since Reconstruction",
-      "url": "https://www.clickorlando.com/news/politics/2026/11/11/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/",
-      "domain": "clickorlando.com",
-      "country": "United States",
-      "published": "2026-11-12T01:30:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom to US Senate",
-      "url": "https://www.ksbw.com/article/mississippi-democrat-scott-colom-wins-senate/74405027",
-      "domain": "ksbw.com",
-      "country": "United States",
-      "published": "2026-11-12T01:30:00+00:00"
-     },
-     {
-      "title": "Mississippi elects Democrat Scott Colom as state first Black US senator since Reconstruction",
-      "url": "https://www.santafenewmexican.com/ap/national/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/article_7ac36dd0-0a1e-522b-8657-f6f41e20ca0c.html",
-      "domain": "santafenewmexican.com",
-      "country": "United States",
-      "published": "2026-11-12T01:30:00+00:00"
-     },
-     {
-      "title": "Franco - Nevada Reports Q3 2026 Results",
-      "url": "https://www.simcoereformer.ca/press-releases/pr-newswire/franco-nevada-reports-q3-2026-results/",
-      "domain": "simcoereformer.ca",
-      "country": "Canada",
-      "published": "2026-11-12T01:30:00+00:00"
+      "published": "2026-11-12T05:30:00+00:00"
      }
     ],
     "geopolitica": [
+     {
+      "title": "There can be no progress in reaching Ukraine peace agreement without EU – Martin",
+      "url": "https://www.barryanddistrictnews.co.uk/news/national/26725533.can-no-progress-reaching-ukraine-peace-agreement-without-eu---martin/",
+      "domain": "barryanddistrictnews.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
+      "url": "http://www.bangladeshsun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
+      "domain": "bangladeshsun.com",
+      "country": "Bangladesh",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Trump claims arch at Arlington National Cemetery would honor military personnel , veterans",
+      "url": "https://www.armytimes.com/veterans/2026/11/12/trump-claims-arch-at-arlington-national-cemetery-would-honor-military-personnel-veterans/",
+      "domain": "armytimes.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Trump bluntly tells JD Vance to shift focus from Iran",
+      "url": "https://www.twincities.com/2026/11/12/us-iran-war-trump-vance-focus/",
+      "domain": "twincities.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "There can be no progress in reaching Ukraine peace agreement without EU – Martin",
+      "url": "https://www.bridgwatermercury.co.uk/news/national/26725533.can-no-progress-reaching-ukraine-peace-agreement-without-eu---martin/",
+      "domain": "bridgwatermercury.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Condor Announces 2026 Third Quarter Results and Record Production of 18 , 631 boe / d",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/condor-announces-2026-third-quarter-results-and-record-production-of-18631-boe-d/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Exchange Income Corporation Posts Record Results in the Third Quarter , Upgrades 2026 Guidance and Issues 2027 Adjusted EBITDA Guidance in excess of $1 billion",
+      "url": "https://www.simcoereformer.ca/press-releases/business-wire/exchange-income-corporation-posts-record-results-in-the-third-quarter-upgrades-2026-guidance-and-issues-2027-adjusted-ebitda-guidance-in-excess-of-1-billion/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Ontario gasoline , diesel prices expected to climb",
+      "url": "https://www.northumberlandnews.com/news/ontario-gas-price-prediction-for-nov-13-14/article_3a987cc8-8db6-5e61-9a96-a5485cd02c2f.html",
+      "domain": "northumberlandnews.com",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Diesel , Cherries , and Debt : The Hidden Economic Fault Lines Behind Chile Trucker Standoff",
+      "url": "https://www.latintimes.com/chile-truckers-strike-diesel-fuel-costs-601238",
+      "domain": "latintimes.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities",
+      "url": "http://www.australiannews.net/news/279429293/nasdaq-extends-losses-on-nvidia-ceo-s-resignation-mideast-hostilities",
+      "domain": "australiannews.net",
+      "country": "Australia",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "PM not  reading too much  into Ukraine peace talks and urges focus on ceasefire",
+      "url": "https://www.barryanddistrictnews.co.uk/news/national/26725532.pm-not-reading-much-ukraine-peace-talks-urges-focus-ceasefire/",
+      "domain": "barryanddistrictnews.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities",
+      "url": "http://www.myanmarnews.net/news/279429293/nasdaq-extends-losses-on-nvidia-ceo-s-resignation-mideast-hostilities",
+      "domain": "myanmarnews.net",
+      "country": "Myanmar",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Israel hits Gaza hospital and France turns away a settler leader , and other Mideast news",
+      "url": "https://krmg.com/2026/11/12/israel-hits-gaza-hospital-and-france-turns-away-a-settler-leader-and-other-mideast-news/",
+      "domain": "krmg.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Ontario gasoline , diesel prices expected to climb",
+      "url": "https://www.cambridgetimes.ca/news/ontario-gas-price-prediction-for-nov-13-14/article_f3075fd7-8ec3-5d45-a525-b086d5ed9899.html",
+      "domain": "cambridgetimes.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Tackling LPG sector challenges effectively - Pakistan Observer",
+      "url": "https://pakobserver.net/tackling-lpg-sector-challenges-effectively/",
+      "domain": "pakobserver.net",
+      "country": "Pakistan",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Libya Signals Tourism Revival with Nationwide Cultural Caravan After Years of Conflict",
+      "url": "https://eturbonews.com/libya-tourism-revival-cultural-artistic-tourism-caravan-heritage-domestic-travel/",
+      "domain": "eturbonews.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Georgia Begins De Facto Diplomatic Reset with Russia",
+      "url": "https://jamestown.org/georgia-begins-de-facto-diplomatic-reset-with-russia/",
+      "domain": "jamestown.org",
+      "country": "Russia",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
+      "url": "http://www.haitisun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
+      "domain": "haitisun.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
      {
       "title": "6 Reasons to add fatty fishes to the daily diet",
       "url": "https://timesofindia.indiatimes.com/etimes/wellness/6-reasons-to-add-fatty-fishes-to-the-daily-diet/articleshow/135756757.cms",
@@ -811,27 +832,6 @@
       "published": "2026-11-12T07:00:00+00:00"
      },
      {
-      "title": "Ocean Harvesters and Omega Protein Condemn Attacks on Commissioners and Fishing Families After Menhaden Vote",
-      "url": "http://www.reflector.com/news/national/ocean-harvesters-and-omega-protein-condemn-attacks-on-commissioners-and-fishing-families-after-menhaden-vote/article_1abb78c0-de95-5ec0-90cc-ed491a4bf0ee.html",
-      "domain": "reflector.com",
-      "country": "United States",
-      "published": "2026-11-12T06:45:00+00:00"
-     },
-     {
-      "title": "Oil slicks seen from space : the devastating impact of boat strikes on fragile Gulf ecosystems",
-      "url": "https://peakoil.com/enviroment/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
-      "domain": "peakoil.com",
-      "country": "United States",
-      "published": "2026-11-12T06:45:00+00:00"
-     },
-     {
-      "title": "UAE Business : Oil slips as hopes of Iran peace efforts weigh on markets",
-      "url": "https://www.gdnonline.com:443/Details/1412618",
-      "domain": "gdnonline.com",
-      "country": "United States",
-      "published": "2026-11-12T06:45:00+00:00"
-     },
-     {
       "title": "Cheonghae Unit would answer to on - site commander in multinational operations near Hormuz",
       "url": "https://www.hani.co.kr/arti/english_edition/e_national/1287006.html",
       "domain": "hani.co.kr",
@@ -865,6 +865,141 @@
       "domain": "economictimes.indiatimes.com",
       "country": "India",
       "published": "2026-11-12T06:45:00+00:00"
+     }
+    ],
+    "transporte_maritimo": [
+     {
+      "title": "Trump bluntly tells JD Vance to shift focus from Iran",
+      "url": "https://www.twincities.com/2026/11/12/us-iran-war-trump-vance-focus/",
+      "domain": "twincities.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Ontario gasoline , diesel prices expected to climb",
+      "url": "https://www.northumberlandnews.com/news/ontario-gas-price-prediction-for-nov-13-14/article_3a987cc8-8db6-5e61-9a96-a5485cd02c2f.html",
+      "domain": "northumberlandnews.com",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Diesel , Cherries , and Debt : The Hidden Economic Fault Lines Behind Chile Trucker Standoff",
+      "url": "https://www.latintimes.com/chile-truckers-strike-diesel-fuel-costs-601238",
+      "domain": "latintimes.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Israel hits Gaza hospital and France turns away a settler leader , and other Mideast news",
+      "url": "https://krmg.com/2026/11/12/israel-hits-gaza-hospital-and-france-turns-away-a-settler-leader-and-other-mideast-news/",
+      "domain": "krmg.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Ontario gasoline , diesel prices expected to climb",
+      "url": "https://www.cambridgetimes.ca/news/ontario-gas-price-prediction-for-nov-13-14/article_f3075fd7-8ec3-5d45-a525-b086d5ed9899.html",
+      "domain": "cambridgetimes.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Tackling LPG sector challenges effectively - Pakistan Observer",
+      "url": "https://pakobserver.net/tackling-lpg-sector-challenges-effectively/",
+      "domain": "pakobserver.net",
+      "country": "Pakistan",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+      "url": "https://abcnews.com/Business/wireStory/ireland-faces-pressure-stop-sending-russia-ingredient-vital-138069913",
+      "domain": "abcnews.com",
+      "country": "United States",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "Iran tells COP31 it wants compensation for environmental damage from US - Israeli strikes",
+      "url": "https://www.asiaone.com:443/asia/iran-tells-cop31-it-wants-compensation-environmental-damage-us-israeli-strikes",
+      "domain": "asiaone.com",
+      "country": "Singapore",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "Saudi Arabia intercepts Houthi missiles , drones ; group denies targeting Mecca",
+      "url": "https://www.asiaone.com:443/asia/saudi-arabia-intercepts-houthi-missiles-drones-group-denies-targeting-mecca",
+      "domain": "asiaone.com",
+      "country": "Singapore",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "Strait of Hormuz Latest : Iran Vows Waterway Will Never Return to Pre - War Status as More Tankers Hit Mines",
+      "url": "https://www.ibtimes.com.au/iran-strait-hormuz-prewar-status-shipping-concerns-1878465",
+      "domain": "ibtimes.com.au",
+      "country": "Australia",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+      "url": "https://abcnews.com/International/wireStory/ireland-faces-pressure-stop-sending-russia-ingredient-vital-138069912",
+      "domain": "abcnews.com",
+      "country": "United States",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine",
+      "url": "http://www.idahopress.com/news/world/ireland-faces-pressure-to-stop-sending-russia-an-ingredient-vital-to-its-war-on-ukraine/article_61908687-d4ca-5bf7-b4f7-6a0fc3d63d4a.html",
+      "domain": "idahopress.com",
+      "country": "United States",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "Saudi Arabia says debris from intercepted missiles falls in Mecca region | Ariana News",
+      "url": "https://www.ariananews.af/saudi-arabia-says-debris-from-intercepted-missiles-falls-in-mecca-region/",
+      "domain": "ariananews.af",
+      "country": "Afghanistan",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "Strait of Hormuz Crisis : Iran Rejects Pre - War Status Amid US Peace Talks Stalemate",
+      "url": "https://openthemagazine.com/world/strait-of-hormuz-crisis-iran-says-key-oil-route-will-never-return-to-pre-war-status-as-us-peace-talks-stall",
+      "domain": "openthemagazine.com",
+      "country": "India",
+      "published": "2026-11-12T07:00:00+00:00"
+     },
+     {
+      "title": "Cheonghae Unit would answer to on - site commander in multinational operations near Hormuz",
+      "url": "https://www.hani.co.kr/arti/english_edition/e_national/1287006.html",
+      "domain": "hani.co.kr",
+      "country": "South Korea",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "Report Warns World Near Irreversible Climate Warming Overshoot - Jowhar News Leader",
+      "url": "https://jowhar.com/report-warns-world-near-irreversible-climate-warming-overshoot/",
+      "domain": "jowhar.com",
+      "country": "Somalia",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "Azeri Light price exceeds $100 per barrel at Augusta port",
+      "url": "https://www.trend.az/azerbaijan/4245468.html",
+      "domain": "trend.az",
+      "country": "Azerbaijan",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "DP World moves 1 million TEUs by road , rail ; accelerates Fujairah terminals opening",
+      "url": "https://tradearabia.com:443/News/489614/DP-World-moves-1-million-TEUs-by-road-rail-accelerates-Fujairah-terminals-opening",
+      "domain": "tradearabia.com",
+      "country": "United Arab Emirates",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops",
+      "url": "https://tradearabia.com:443/News/489625/Fertiglobe-9M-adjusted-net-soars-56_Percent-to-$341m-Q3-net-drops/IND",
+      "domain": "tradearabia.com",
+      "country": "United Arab Emirates",
+      "published": "2026-11-12T06:45:00+00:00"
      },
      {
       "title": "US war in Iran : How midterms put pressure on Donald Trump",
@@ -878,13 +1013,6 @@
       "url": "http://www.reflector.com/news/national/ireland-faces-pressure-to-stop-sending-russia-an-ingredient-vital-to-its-war-on-ukraine/article_221c0c91-fef6-5af9-a284-a0b8a482f954.html",
       "domain": "reflector.com",
       "country": "United States",
-      "published": "2026-11-12T06:45:00+00:00"
-     },
-     {
-      "title": "Indian bonds drift as US debt rout saps oil relief before CPI",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-as-us-debt-rout-saps-oil-relief-before-cpi/articleshow/135758028.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
       "published": "2026-11-12T06:45:00+00:00"
      },
      {
@@ -916,23 +1044,30 @@
       "published": "2026-11-12T06:45:00+00:00"
      },
      {
-      "title": "This Beirut family has sold falafel for 100 years , through war and crisis . It has no plan to stop",
-      "url": "http://www.reflector.com/news/national/this-beirut-family-has-sold-falafel-for-100-years-through-war-and-crisis-it-has/article_924ae7dc-648d-53da-bc3c-d7c1f9ccb7e3.html",
-      "domain": "reflector.com",
-      "country": "United States",
+      "title": "Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops",
+      "url": "https://tradearabia.com:443/News/489625/Fertiglobe-9M-adjusted-net-soars-56_Percent-to-%24341m-Q3-net-drops",
+      "domain": "tradearabia.com",
+      "country": "United Arab Emirates",
       "published": "2026-11-12T06:45:00+00:00"
      },
      {
-      "title": "Hoax Bomb Threats Against European Schools Add to Hybrid Warfare Risks",
-      "url": "https://foreignpolicy.com/2026/11/11/hoax-bomb-threats-schools-italy-europe-hybrid-warfare-russia-iran/?tpcc=recirc_trending062921",
-      "domain": "foreignpolicy.com",
-      "country": "United States",
-      "published": "2026-11-12T06:45:00+00:00"
-     },
-     {
-      "title": "Trump , Long term help or hurt Climate Change ? : Peak Oil Discussion - Peak Oil News and Message Boards",
-      "url": "https://peakoil.com/forums/viewtopic.php?p=1505496",
+      "title": "Oil slicks seen from space : the devastating impact of boat strikes on fragile Gulf ecosystems",
+      "url": "https://peakoil.com/enviroment/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
       "domain": "peakoil.com",
+      "country": "United States",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "UAE Business : Oil slips as hopes of Iran peace efforts weigh on markets",
+      "url": "https://www.gdnonline.com:443/Details/1412618",
+      "domain": "gdnonline.com",
+      "country": "United States",
+      "published": "2026-11-12T06:45:00+00:00"
+     },
+     {
+      "title": "UAE Business : Fertiglobe 9M adjusted net soars 56 % to $341m ; Q3 net drops",
+      "url": "https://www.gdnonline.com:443/Details/1412622",
+      "domain": "gdnonline.com",
       "country": "United States",
       "published": "2026-11-12T06:45:00+00:00"
      },
@@ -941,6 +1076,13 @@
       "url": "https://www.theamericanconservative.com/as-geopolitical-realities-shift-trumps-power-to-shape-events-recedes/",
       "domain": "theamericanconservative.com",
       "country": "United States",
+      "published": "2026-11-12T05:30:00+00:00"
+     },
+     {
+      "title": "INS Trishul concludes port call at Safaga Naval Base in Egypt",
+      "url": "https://www.mangalorean.com/ins-trishul-concludes-port-call-at-safaga-naval-base-in-egypt/",
+      "domain": "mangalorean.com",
+      "country": "India",
       "published": "2026-11-12T05:30:00+00:00"
      },
      {
@@ -958,21 +1100,70 @@
       "published": "2026-11-12T05:30:00+00:00"
      },
      {
-      "title": "LNG opportunities abound in Canada , but also challenges , study finds",
-      "url": "https://www.theglobeandmail.com/business/article-lng-opportunities-abound-in-canada-but-also-challenges-study-finds/",
-      "domain": "theglobeandmail.com",
-      "country": "Canada",
-      "published": "2026-11-12T05:30:00+00:00"
-     },
-     {
-      "title": "Tanzania in Africa , Its Role , Weight and Alliances",
-      "url": "https://www.riotimesonline.com/tanzania-role-in-africa-explained-2026/",
+      "title": "Egypt Regions and Provinces Explained",
+      "url": "https://www.riotimesonline.com/egypt-regions-provinces-explained-2026/",
       "domain": "riotimesonline.com",
       "country": "Brazil",
       "published": "2026-11-12T05:30:00+00:00"
+     },
+     {
+      "title": "Ethiopia in Africa , Its Role , Weight and Alliances",
+      "url": "https://www.riotimesonline.com/ethiopia-role-in-africa-explained-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-11-12T05:30:00+00:00"
+     },
+     {
+      "title": "N . Korea unlikely to attend APEC or hold talks with US : official",
+      "url": "https://www.koreaherald.com/article/10935019",
+      "domain": "koreaherald.com",
+      "country": "South Korea",
+      "published": "2026-11-12T04:00:00+00:00"
+     },
+     {
+      "title": "Why are gas prices dropping and how low will they go ?",
+      "url": "https://www.ketv.com/article/why-are-gas-prices-dropping-and-how-low-will-they-go/74404165",
+      "domain": "ketv.com",
+      "country": "United States",
+      "published": "2026-11-12T04:00:00+00:00"
+     },
+     {
+      "title": "Flights resume at Israel Ramon Airport after earthquake in Eilat region",
+      "url": "https://www.hindustantimes.com/world-news/flights-resume-at-israels-ramon-airport-after-earthquake-in-eilat-region-101794453714297.html",
+      "domain": "hindustantimes.com",
+      "country": "India",
+      "published": "2026-11-12T04:00:00+00:00"
+     },
+     {
+      "title": "Why are gas prices dropping and how low will they go ?",
+      "url": "https://www.wdsu.com/article/why-are-gas-prices-dropping-and-how-low-will-they-go/74404165",
+      "domain": "wdsu.com",
+      "country": "United States",
+      "published": "2026-11-12T04:00:00+00:00"
+     },
+     {
+      "title": "Scott Bessent the latest Trump official to move onto a US military base",
+      "url": "https://www.abc.net.au/news/2026-11-12/treasury-scott-bessent-military-base-iran-threats/107377812",
+      "domain": "abc.net.au",
+      "country": "Australia",
+      "published": "2026-11-12T04:00:00+00:00"
      }
     ],
     "produccion_agroindustrial": [
+     {
+      "title": "Thailand rice farmers halt crop burning to curb air pollution | Stock & Land",
+      "url": "https://www.stockandland.com.au/story/9386274/thailand-rice-farmers-halt-crop-burning-to-curb-air-pollution/",
+      "domain": "stockandland.com.au",
+      "country": "Australia",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "The Best Gifts for Frequent Travelers in 2026",
+      "url": "https://matadornetwork.com/read/best-travel-gifts-2026/",
+      "domain": "matadornetwork.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
      {
       "title": "Michigan turkey growers fight diseases , high costs to put birds on dinner tables",
       "url": "https://www.dailypress.net/news/2026/11/michigan-turkey-growers-fight-diseases-high-costs-to-put-birds-on-dinner-tables/",
@@ -1161,23 +1352,79 @@
       "domain": "sanews.gov.za",
       "country": "South Africa",
       "published": "2026-11-10T02:00:00+00:00"
-     },
-     {
-      "title": "State ag directors press USDA for bird flu vaccine for cattle",
-      "url": "https://capitalpress.com/2026/11/09/state-ag-directors-press-usda-for-bird-flu-vaccine-for-cattle/",
-      "domain": "capitalpress.com",
-      "country": "United States",
-      "published": "2026-11-10T00:30:00+00:00"
-     },
-     {
-      "title": "17 attend nutritional tech training in Ludhiana",
-      "url": "https://www.tribuneindia.com/news/ludhiana/17-attend-nutritional-tech-training-in-ludhiana/",
-      "domain": "tribuneindia.com",
-      "country": "India",
-      "published": "2026-11-10T00:00:00+00:00"
      }
     ],
     "economia_mundial": [
+     {
+      "title": "Atlas Energy Corp Reports Third Quarter 2026 Financial Results",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/atlas-energy-corp-reports-third-quarter-2026-financial-results/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Aventus Reports Q3 Results for the Quarter Ended September 30 , 2026",
+      "url": "https://www.simcoereformer.ca/press-releases/business-wire/aventus-reports-q3-results-for-the-quarter-ended-september-30-2026/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
+      "url": "http://www.bangladeshsun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
+      "domain": "bangladeshsun.com",
+      "country": "Bangladesh",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Travel Tech : The great frequent flyer betrayal – Gadget",
+      "url": "https://gadget.co.za/frequentflyers32f/",
+      "domain": "gadget.co.za",
+      "country": "South Africa",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Condor Announces 2026 Third Quarter Results and Record Production of 18 , 631 boe / d",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/condor-announces-2026-third-quarter-results-and-record-production-of-18631-boe-d/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Exchange Income Corporation Posts Record Results in the Third Quarter , Upgrades 2026 Guidance and Issues 2027 Adjusted EBITDA Guidance in excess of $1 billion",
+      "url": "https://www.simcoereformer.ca/press-releases/business-wire/exchange-income-corporation-posts-record-results-in-the-third-quarter-upgrades-2026-guidance-and-issues-2027-adjusted-ebitda-guidance-in-excess-of-1-billion/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Bitcoin and Ether Open Interest Rise as Three Other Markets Retreat",
+      "url": "https://econotimes.com/Bitcoin-and-Ether-Open-Interest-Rise-as-Three-Other-Markets-Retreat-1776097",
+      "domain": "econotimes.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities",
+      "url": "http://www.australiannews.net/news/279429293/nasdaq-extends-losses-on-nvidia-ceo-s-resignation-mideast-hostilities",
+      "domain": "australiannews.net",
+      "country": "Australia",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Nasdaq extends losses on Nvidia CEO resignation , Mideast hostilities",
+      "url": "http://www.myanmarnews.net/news/279429293/nasdaq-extends-losses-on-nvidia-ceo-s-resignation-mideast-hostilities",
+      "domain": "myanmarnews.net",
+      "country": "Myanmar",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
+      "url": "http://www.haitisun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
+      "domain": "haitisun.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
      {
       "title": "Mineros Delivers Record Nine - Months Revenue of $838 Million and Record Adjusted EBITDA of $402 Million on sales of 187 , 133 Gold Equivalent Ounces .",
       "url": "https://www.brantfordexpositor.ca/press-releases/globe-newswire/mineros-delivers-record-nine-months-revenue-of-838-million-and-record-adjusted-ebitda-of-402-million-on-sales-of-187133-gold-equivalent-ounces/",
@@ -1387,82 +1634,11 @@
       "domain": "riotimesonline.com",
       "country": "Brazil",
       "published": "2026-11-12T05:30:00+00:00"
-     },
-     {
-      "title": "Paladin Energy Announces A$525 Million Fully Underwritten Equity Raising to Accelerate Paladin Growth Strategy",
-      "url": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/331-tsx/pdn/214631-paladin-announces-a-525-million-fully-underwritten-equity-raising-to-accelerate-paladin-s-growth-strategy.html",
-      "domain": "juniorminingnetwork.com",
-      "country": "Canada",
-      "published": "2026-11-12T05:30:00+00:00"
-     },
-     {
-      "title": "Moving to and Living in Zimbabwe in 2026",
-      "url": "https://www.riotimesonline.com/zimbabwe-moving-living-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-11-12T05:30:00+00:00"
-     },
-     {
-      "title": "Why India and Pakistan stock markets are rallying after the US midterms",
-      "url": "https://www.channelnewsasia.com/asia/why-india-and-pakistans-stock-markets-are-rallying-after-us-midterms-6544681",
-      "domain": "channelnewsasia.com",
-      "country": "United States",
-      "published": "2026-11-12T04:00:00+00:00"
-     },
-     {
-      "title": "Ferguson ( NYSE : FERG ) raises its sales outlook to 7 % growth , but gross margin slips",
-      "url": "https://www.tickerreport.com/banking-finance/13660071/ferguson-nyse-ferg-raises-its-sales-outlook-to-7-growth-but-gross-margin-slips.html",
-      "domain": "tickerreport.com",
-      "country": "United States",
-      "published": "2026-11-12T04:00:00+00:00"
-     },
-     {
-      "title": "DoubleDown ( DDI ) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.aol.com/articles/doubledown-ddi-q3-2026-earnings-022856000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-11-12T04:00:00+00:00"
-     },
-     {
-      "title": "Cocoa buying point to benefit West Sepik farmers",
-      "url": "https://www.thenational.com.pg/cocoa-buying-point-to-benefit-west-sepik-farmers/",
-      "domain": "thenational.com.pg",
-      "country": "Papua New Guinea",
-      "published": "2026-11-12T03:45:00+00:00"
-     },
-     {
-      "title": "SGX derivatives daily trading volume hits six - month high in October ; securities turnover rises 32 %",
-      "url": "https://www.businesstimes.com.sg/companies-markets/sgx-derivatives-daily-trading-volume-hits-six-month-high-october-securities-turnover-rises-32",
-      "domain": "businesstimes.com.sg",
-      "country": "Singapore",
-      "published": "2026-11-12T03:45:00+00:00"
-     },
-     {
-      "title": "CitroTech ( CITR ) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/11/citrotech-citr-q3-2026-earnings-call-transcript/?source=iedfolrf0000001",
-      "domain": "fool.com",
-      "country": "United States",
-      "published": "2026-11-12T03:45:00+00:00"
-     },
-     {
-      "title": "Thailand Business News Morning Briefing – Thailand Business News",
-      "url": "https://www.thailand-business-news.com/news/339983-thailand-business-news-morning-briefing-10",
-      "domain": "thailand-business-news.com",
-      "country": "Thailand",
-      "published": "2026-11-12T03:45:00+00:00"
-     },
-     {
-      "title": "Gas prices fall below $4 as more oil flows , but experts warn relief may not last",
-      "url": "https://www.wxyz.com/science-and-tech/energy/gas-prices-fall-below-4-as-more-oil-flows-but-experts-warn-relief-may-not-last",
-      "domain": "wxyz.com",
-      "country": "United States",
-      "published": "2026-11-12T03:45:00+00:00"
      }
     ]
    },
    "errors": {
-    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
