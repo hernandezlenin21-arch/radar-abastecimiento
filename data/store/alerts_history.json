@@ -1,5 +1,21 @@
 [
  {
+  "indicator": "usd_index",
+  "name": "Índice del dólar (amplio, nominal)",
+  "group": "macro",
+  "date": "2026-11-06",
+  "source": "FRED — Federal Reserve Bank of St. Louis",
+  "url": "https://fred.stlouisfed.org/series/DTWEXBGS",
+  "frequency": "diaria",
+  "id": "01ef49e59c73",
+  "rule": "dato_obsoleto",
+  "severity": "informativo",
+  "title": "Índice del dólar (amplio, nominal): dato sin actualizar (8 días)",
+  "evidence": "Última observación 2026-11-06; frecuencia esperada diaria.",
+  "action": "Revisar el estado del conector o la publicación de la fuente.",
+  "first_seen": "2026-11-13T19:19:22-06:00"
+ },
+ {
   "indicator": "henry_hub",
   "name": "Gas natural Henry Hub (spot)",
   "group": "energia",
