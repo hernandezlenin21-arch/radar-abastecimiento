@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-15T13:00:04-06:00",
+  "at": "2026-11-15T15:52:05-06:00",
   "data": {
    "storms": [],
    "url": "https://www.nhc.noaa.gov/"
@@ -9,7 +9,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-15T13:00:04-06:00",
+  "at": "2026-11-15T15:52:05-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than a 79&#37; chance).",
@@ -18,9 +18,235 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-15T13:00:04-06:00",
+  "at": "2026-11-15T15:52:05-06:00",
   "data": {
    "raw": {
+    "energia": [
+     {
+      "title": "Global economy to grow 2 . 8 % in 2027 , buoyed by lower oil prices and AI investments : Goldman Sachs",
+      "url": "https://www.thehindubusinessline.com/economy/global-economy-to-grow-28-in-2027-buoyed-by-lower-oil-prices-and-ai-investments-goldman-sachs/article71704111.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "Voters rejected data centers . Many will be built anyway .",
+      "url": "https://www.texarkanagazette.com/news/2026/nov/14/voters-rejected-data-centers-many-will-be-built/",
+      "domain": "texarkanagazette.com",
+      "country": "United States",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "US diesel below $6 a gallon at 2 - month low on easing tensions , weaker demand",
+      "url": "https://bdnews24.com/business/29lzj7z8ab",
+      "domain": "bdnews24.com",
+      "country": "Bangladesh",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "Trump , Xi and Putin plan joint meeting",
+      "url": "https://nagalandpost.com/trump-xi-and-putin-plan-joint-meeting/",
+      "domain": "nagalandpost.com",
+      "country": "",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "FPIs infuse ₹84 , 290 cr into equities in first half of November",
+      "url": "https://www.thehindubusinessline.com/markets/fpis-infuse-84290-cr-into-equities-in-first-half-of-november/article71704298.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "Will We Really Put Data Centers in Space ?",
+      "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+      "domain": "forethought.org",
+      "country": "",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Kashmir gears up for winter ; depts asked to ensure adequate stocks , essential services",
+      "url": "https://www.tribuneindia.com/news/j-k/kashmir-gears-up-for-winter-depts-asked-to-ensure-adequate-stocks-essential-services/",
+      "domain": "tribuneindia.com",
+      "country": "India",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "With shifting Iran rhetoric , Trump leaves Mideast in limbo",
+      "url": "https://www.wisn.com/article/iran-rhetoric-elections-trump-mideast-limbo/74431136",
+      "domain": "wisn.com",
+      "country": "United States",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "IRAN SHOWDOWN : Trump Weighs Halting New Strikes Despite Israeli Pressure As U . S . Tightens Economic Blockade",
+      "url": "https://www.theyeshivaworld.com/news/israel-news/2623104/iran-showdown-trump-weighs-halting-new-strikes-despite-israeli-pressure-as-u-s-tightens-economic-blockade.html",
+      "domain": "theyeshivaworld.com",
+      "country": "United States",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Rs 15 sugarcane hike a cruel joke on farmers , says Bhupinder Singh Hooda",
+      "url": "https://www.tribuneindia.com/news/haryana/rs-15-sugarcane-hike-a-cruel-joke-on-farmers-says-bhupinder-singh-hooda/",
+      "domain": "tribuneindia.com",
+      "country": "India",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Trump , Xi and Putin plan an unprecedented joint meeting , White House says",
+      "url": "https://www.kcbd.com/2026/11/14/trump-xi-putin-plan-an-unprecedented-joint-meeting-white-house-says/",
+      "domain": "kcbd.com",
+      "country": "United States",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "New Zealand card spending falls for a third month in October as fuel prices squeeze shoppers",
+      "url": "https://newswire.co.nz/2026/11/new-zealand-card-spending-october-2026-fuel-prices/",
+      "domain": "newswire.co.nz",
+      "country": "New Zealand",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Oil markets stay flush despite tanker attacks",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-markets-stay-flush-despite-tanker-attacks/articleshow/135841578.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Trump to meet Xi and Putin in trilateral talks in China",
+      "url": "https://www.cbc.bb/main-stories/trump-to-meet-xi-and-putin-in-trilateral-talks-in-china/",
+      "domain": "cbc.bb",
+      "country": "Barbados",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Wholesale inflation declined in October yet remains elevated",
+      "url": "https://www.orlandosentinel.com/2026/11/13/wholesale-inflation-declined-october/",
+      "domain": "orlandosentinel.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "Wholesale inflation declined in October yet remains elevated",
+      "url": "https://www.fortmorgantimes.com/2026/11/13/wholesale-inflation-declined-october/",
+      "domain": "fortmorgantimes.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "REPLOID explores potential for Austrian farmers and foresters to save hundreds of millions of euros annually in mineral oil tax with locally produced biodiesel from insect fat",
+      "url": "https://www.ots.at/presseaussendung/EQS_20261113_EQS0007/reploid-explores-potential-for-austrian-farmers-and-foresters-to-save-hundreds-of-millions-of-euros-annually-in-mineral-oil-tax-with-locally-produced-biodiesel-from-insect-fat",
+      "domain": "ots.at",
+      "country": "Austria",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "Russia Oil Revenues Hit Five - Month High on Crude Rally , IEA Says",
+      "url": "https://gcaptain.com/russia-oil-revenues-hit-five-month-high-on-crude-rally-iea-says/",
+      "domain": "gcaptain.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "Interactive : How to save on holiday décor without skimping on your setup",
+      "url": "https://www.turnto23.com/life/money/interactive-how-to-save-on-holiday-decor-without-skimping-on-your-setup",
+      "domain": "turnto23.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "World Oil Market is Returning to Surplus as Gulf Exports Recover",
+      "url": "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/",
+      "domain": "gcaptain.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "Ontario News Today : Gas prices , Dunkin  return – Nov . 13",
+      "url": "https://www.northbaynipissing.com/news/ontario-news-today-nov-13-2026/article_9c09a150-360a-5358-a3cc-4e8c55a0d64f.html",
+      "domain": "northbaynipissing.com",
+      "country": "Canada",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "On Wall Street , stocks sway as market aims for a winning week",
+      "url": "https://www.fortmorgantimes.com/2026/11/13/wall-street-futures-nvidia-microsoft/",
+      "domain": "fortmorgantimes.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "On Wall Street , stocks sway as market aims for a winning week",
+      "url": "https://www.orlandosentinel.com/2026/11/13/wall-street-futures-nvidia-microsoft/",
+      "domain": "orlandosentinel.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "Democrat Midterm Wins Encourage Activists at Climate Change Convention",
+      "url": "https://www.theepochtimes.com/business/democrats-midterm-wins-encourage-activists-at-climate-change-convention-6124411",
+      "domain": "theepochtimes.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Atlas Energy Corp Reports Third Quarter 2026 Financial Results",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/atlas-energy-corp-reports-third-quarter-2026-financial-results/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Georgia Begins De Facto Diplomatic Reset with Russia",
+      "url": "https://jamestown.org/georgia-begins-de-facto-diplomatic-reset-with-russia/",
+      "domain": "jamestown.org",
+      "country": "Russia",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Condor Announces 2026 Third Quarter Results and Record Production of 18 , 631 boe / d",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/condor-announces-2026-third-quarter-results-and-record-production-of-18631-boe-d/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Ontario gasoline , diesel prices expected to climb",
+      "url": "https://www.northumberlandnews.com/news/ontario-gas-price-prediction-for-nov-13-14/article_3a987cc8-8db6-5e61-9a96-a5485cd02c2f.html",
+      "domain": "northumberlandnews.com",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Diesel , Cherries , and Debt : The Hidden Economic Fault Lines Behind Chile Trucker Standoff",
+      "url": "https://www.latintimes.com/chile-truckers-strike-diesel-fuel-costs-601238",
+      "domain": "latintimes.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "US stocks end day lower as oil climbs , Europe closes mixed",
+      "url": "https://aa.com.tr/en/americas/us-stocks-end-day-lower-as-oil-climbs-europe-closes-mixed/4123520",
+      "domain": "aa.com.tr",
+      "country": "Turkey",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Ontario gasoline , diesel prices expected to climb",
+      "url": "https://www.cambridgetimes.ca/news/ontario-gas-price-prediction-for-nov-13-14/article_f3075fd7-8ec3-5d45-a525-b086d5ed9899.html",
+      "domain": "cambridgetimes.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Tackling LPG sector challenges effectively - Pakistan Observer",
+      "url": "https://pakobserver.net/tackling-lpg-sector-challenges-effectively/",
+      "domain": "pakobserver.net",
+      "country": "Pakistan",
+      "published": "2026-11-13T00:45:00+00:00"
+     }
+    ],
     "comercio_internacional": [
      {
       "title": "Bobby Charles Blames National Wave , Out - of - State Spending , and Independent Candidacy in First Post - Election Interview",
@@ -107,21 +333,7 @@
       "published": "2026-11-13T00:45:00+00:00"
      }
     ],
-    "geopolitica": [
-     {
-      "title": "Four generations keep Lebanon falafel heritage alive",
-      "url": "http://www.milwaukeesun.com/news/279429101/four-generations-keep-lebanon-s-falafel-heritage-alive",
-      "domain": "milwaukeesun.com",
-      "country": "United States",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "The world is facing a new credit crunch",
-      "url": "https://www.aol.com/articles/world-facing-credit-crunch-060000000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
+    "transporte_maritimo": [
      {
       "title": "US must respect India rightto defend itself , says Blinken",
       "url": "https://nagalandpost.com/us-must-respect-indias-rightto-defend-itself-says-blinken/",
@@ -144,51 +356,37 @@
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
-      "title": "US diesel below $6 a gallon at 2 - month low on easing tensions , weaker demand",
-      "url": "https://bdnews24.com/business/29lzj7z8ab",
+      "title": "New Orleans port accuses tanker companies of negligence in $1 million lawsuit",
+      "url": "https://cbs4local.com/news/nation-world/new-orleans-port-accuses-tanker-companies-of-negligence-in-1-million-lawsuit",
+      "domain": "cbs4local.com",
+      "country": "United States",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "17 Filipino seafarers safe after Mississippi River vessel collision",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/15/17-filipino-seafarers-safe-after-mississippi-river-vessel-collision",
+      "domain": "thestar.com.my",
+      "country": "Malaysia",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "Iran navy says three tankers on fire after hitting mines in Hormuz",
+      "url": "https://bdnews24.com/world/middle-east/47mh9vo0tx",
       "domain": "bdnews24.com",
       "country": "Bangladesh",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Russian economy growth slows to 1 percent in third quarter",
-      "url": "https://www.hurriyetdailynews.com/russian-economy-growth-slows-to-1-percent-in-third-quarter-229399",
-      "domain": "hurriyetdailynews.com",
-      "country": "Turkey",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Saudi intercepts two ballistic missiles fired towards Riyadh",
-      "url": "https://www.omanobserver.om/article/1199693/world/region/saudi-intercepts-two-ballistic-missiles-fired-towards-riyadh",
-      "domain": "omanobserver.om",
-      "country": "Oman",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Trump , Xi and Putin plan joint meeting",
-      "url": "https://nagalandpost.com/trump-xi-and-putin-plan-joint-meeting/",
-      "domain": "nagalandpost.com",
-      "country": "",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Iran claims drone attack on US base in Bahrain as Gulf tensions rise",
-      "url": "https://www.ynetnews.com/article/s1wbfalrzx",
-      "domain": "ynetnews.com",
-      "country": "Israel",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Britain 1 , 000 unsolved murders : Interactive cold case map reveals gangland hits and innocent victims",
-      "url": "https://www.bristolpost.co.uk/news/bristol-news/britains-1000-unsolved-murders-interactive-11240980",
-      "domain": "bristolpost.co.uk",
-      "country": "United Kingdom",
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
       "title": "AP News Summary at 10 : 11 p . m . EST",
       "url": "https://www.capitalgazette.com/2026/11/14/ap-news-summary-at-1011-p-m-est/",
       "domain": "capitalgazette.com",
+      "country": "United States",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "Port of New Orleans sues tanker owner hours after riverboat crash",
+      "url": "https://www.fox32chicago.com/news/port-new-orleans-sues-tanker-owner-hours-after-riverboat-crash",
+      "domain": "fox32chicago.com",
       "country": "United States",
       "published": "2026-11-15T07:45:00+00:00"
      },
@@ -200,16 +398,30 @@
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "Dramatic drop in US home sales in October",
-      "url": "https://littleapplepost.com/posts/d34492de-e62d-4cff-8a92-69bc4fae244c",
-      "domain": "littleapplepost.com",
+      "title": "Port sues to get control of tanker that crashed into cruise ship on Mississippi",
+      "url": "https://www.enfieldindependent.co.uk/news/national/26729940.port-sues-get-control-tanker-crashed-cruise-ship-mississippi/",
+      "domain": "enfieldindependent.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "8 remain hospitalized as city leaders provide update after boat capsizes in New Orleans",
+      "url": "https://www.wbrz.com/news/8-remain-hospitalized-as-city-leaders-provide-update-after-boat-capsizes-in-new-orleans",
+      "domain": "wbrz.com",
       "country": "United States",
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "15 Best Hard Sci - Fi Movies Of All Time , Ranked",
-      "url": "https://www.slashfilm.com/2303935/best-hard-sci-fi-movies-ranked/",
-      "domain": "slashfilm.com",
+      "title": "Creole Queen crew rescues 9 after Mississippi cruise ship collision",
+      "url": "https://www.wisn.com/article/creole-queen-crew-rescue-mississippi-cruise-ship-collision/74431180",
+      "domain": "wisn.com",
+      "country": "United States",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Shrinking barge fleet could threaten U . S . grain exports",
+      "url": "https://kxel.com:443/news/2026/11/13/shrinking-barge-fleet-could-threaten-us-grain-exports",
+      "domain": "kxel.com",
       "country": "United States",
       "published": "2026-11-14T21:00:00+00:00"
      },
@@ -228,6 +440,13 @@
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
+      "title": "Port sues to get control of tanker that crashed into cruise ship on Mississippi",
+      "url": "https://www.borehamwoodtimes.co.uk/news/national/26729940.port-sues-get-control-tanker-crashed-cruise-ship-mississippi/",
+      "domain": "borehamwoodtimes.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
       "title": "PM to highlight Philippines ties ahead of Trump meeting",
       "url": "https://www.redlandcitybulletin.com.au/story/9391656/pm-to-highlight-philippines-ties-ahead-of-trump-meeting/",
       "domain": "redlandcitybulletin.com.au",
@@ -235,23 +454,44 @@
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "The Trump administration is diverting billions in health funding away from low - income countries , defying Congres plans",
-      "url": "https://kesq.com/news/national-world/cnn-world/2026/11/14/the-trump-administration-is-diverting-billions-in-health-funding-away-from-low-income-countries-defying-congress-plans/",
+      "title": "Port sues to get control of tanker that crashed into cruise ship on Mississippi",
+      "url": "https://www.worcesternews.co.uk/news/national/26729940.port-sues-get-control-tanker-crashed-cruise-ship-mississippi/",
+      "domain": "worcesternews.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Police lift evacuation order issued after bomb found at Illinois ethanol plant , officials say",
+      "url": "https://kesq.com/news/national-world/cnn-national/2026/11/14/bomb-found-at-ethanol-plant-in-illinois-forcing-evacuations-officials-say/",
       "domain": "kesq.com",
       "country": "United States",
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "Samuel Alito urges Americans to protect free speech and religious liberty",
-      "url": "https://www.foxnews.com/politics/justice-alito-warns-america-preserve-3-core-principles-regardless-countrys-atmosphere",
-      "domain": "foxnews.com",
+      "title": "New Orleans port sues to get control of tanker that hit cruise ship",
+      "url": "https://www.pressdemocrat.com/2026/11/14/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on-mississippi-river/",
+      "domain": "pressdemocrat.com",
       "country": "United States",
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "California Democrats plan to investigate Trump but leave a third impeachment off the table for now",
-      "url": "https://www.pressdemocrat.com/2026/11/14/california-democrats-plan-to-investigate-trump-but-leave-a-third-impeachment-off-the-table-for-now-2/",
-      "domain": "pressdemocrat.com",
+      "title": "Port sues to get control of tanker that crashed into cruise ship on Mississippi",
+      "url": "https://www.hampshirechronicle.co.uk/news/national/26729940.port-sues-get-control-tanker-crashed-cruise-ship-mississippi/",
+      "domain": "hampshirechronicle.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+      "url": "https://www.niagarafallsreview.ca/business/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on-mississippi-river/article_176d8933-3430-5bac-a841-9b464fbb284c.html",
+      "domain": "niagarafallsreview.ca",
+      "country": "Canada",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Chalmette Ferry suspended  several day after overnight collision with tugboat , RTA says",
+      "url": "https://www.fox8live.com/2026/11/14/chalmette-ferry-suspended-several-days-after-overnight-collision-with-tugboat-rta-says/",
+      "domain": "fox8live.com",
       "country": "United States",
       "published": "2026-11-14T21:00:00+00:00"
      },
@@ -270,31 +510,10 @@
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
-      "title": "Trump , Xi and Putin plan an unprecedented joint meeting , White House says",
-      "url": "https://www.kcbd.com/2026/11/14/trump-xi-putin-plan-an-unprecedented-joint-meeting-white-house-says/",
-      "domain": "kcbd.com",
-      "country": "United States",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
       "title": "PM to highlight Philippines ties ahead of Trump meeting",
       "url": "https://www.inverelltimes.com.au/story/9391656/pm-to-highlight-philippines-ties-ahead-of-trump-meeting/",
       "domain": "inverelltimes.com.au",
       "country": "Australia",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
-      "title": "New Zealand card spending falls for a third month in October as fuel prices squeeze shoppers",
-      "url": "https://newswire.co.nz/2026/11/new-zealand-card-spending-october-2026-fuel-prices/",
-      "domain": "newswire.co.nz",
-      "country": "New Zealand",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
-      "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
-      "url": "https://www.newsday.com/news/nation/russia-ukraine-war-nato-us-zelenskyy-n54910",
-      "domain": "newsday.com",
-      "country": "United States",
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
@@ -312,10 +531,24 @@
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
+      "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+      "url": "https://www.baltimoresun.com/2026/11/14/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on-mississippi-river/",
+      "domain": "baltimoresun.com",
+      "country": "United States",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
       "title": "Oil markets stay flush despite tanker attacks",
       "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-markets-stay-flush-despite-tanker-attacks/articleshow/135841578.cms",
       "domain": "economictimes.indiatimes.com",
       "country": "India",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+      "url": "http://www.thegazette.com/news/national/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on/article_ccaad5a6-a245-5752-9daa-6fef04511853.html",
+      "domain": "thegazette.com",
+      "country": "United States",
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
@@ -326,30 +559,23 @@
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
+      "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+      "url": "http://www.goskagit.com/news/nation/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on/article_c5e38c79-481e-5b83-bd1c-f9c5d0255741.html",
+      "domain": "goskagit.com",
+      "country": "United States",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Creole Queen crew rescues nine after Mississippi cruise ship collision",
+      "url": "https://www.wdsu.com/article/creole-queen-crew-rescue-mississippi-cruise-ship-collision/74430752",
+      "domain": "wdsu.com",
+      "country": "United States",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
       "title": "Israeli drone strike kills 2 Palestinians in Gaza , and other Mideast news",
       "url": "https://bakersfieldnow.com/news/nation-world/israeli-drone-strike-kills-2-palestinians-in-gaza-and-other-mideast-news",
       "domain": "bakersfieldnow.com",
-      "country": "United States",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
-      "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO - Grenada Chronicle – Daily Grenada And Caribbean News",
-      "url": "https://grenadachronicle.com/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato/",
-      "domain": "grenadachronicle.com",
-      "country": "United States",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
-      "title": "Earl Zimmerman | Climate , energy news roundup : What making news",
-      "url": "https://augustafreepress.com/news/earl-zimmerman-climate-energy-news-roundup-whats-making-news/",
-      "domain": "augustafreepress.com",
-      "country": "United States",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
-      "title": "10 Greatest Thanksgiving Episodes of the 2000s , Ranked",
-      "url": "https://collider.com/best-thanksgiving-tv-episodes-2000s-ranked/",
-      "domain": "collider.com",
       "country": "United States",
       "published": "2026-11-14T20:00:00+00:00"
      },
@@ -375,18 +601,18 @@
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
-      "title": "Chris Van Hollen eyes Senate Majority Leader post - The Washington Informer",
-      "url": "https://www.washingtoninformer.com/maryland-democrats-congressional-majorities/",
-      "domain": "washingtoninformer.com",
+      "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+      "url": "http://www.bozemandailychronicle.com/wire/business/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on/article_2141a143-9313-5857-a948-7cc68a79d201.html",
+      "domain": "bozemandailychronicle.com",
       "country": "United States",
-      "published": "2026-11-13T18:00:00+00:00"
+      "published": "2026-11-14T20:00:00+00:00"
      },
      {
-      "title": "What up with … Nokia , NTT , SpaceX , 5G Evolution",
-      "url": "https://www.telecomtv.com/content/5g/what-s-up-with-nokia-ntt-spacex-56689/",
-      "domain": "telecomtv.com",
-      "country": "United Kingdom",
-      "published": "2026-11-13T18:00:00+00:00"
+      "title": "New Orleans port sues to get control of tanker that crashed into cruise ship on Mississippi River",
+      "url": "http://www.hngnews.com/nation_world/new-orleans-port-sues-to-get-control-of-tanker-that-crashed-into-cruise-ship-on/article_e37fbb82-e332-5bf5-9422-ab4de211813b.html",
+      "domain": "hngnews.com",
+      "country": "United States",
+      "published": "2026-11-14T20:00:00+00:00"
      }
     ],
     "riesgos_climaticos": [
@@ -490,13 +716,293 @@
       "country": "United States",
       "published": "2026-11-13T00:45:00+00:00"
      }
+    ],
+    "economia_mundial": [
+     {
+      "title": "Leading a Bionic Transformation",
+      "url": "https://www.strategy-business.com/article/Leading-a-Bionic-Transformation",
+      "domain": "strategy-business.com",
+      "country": "United States",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "The world is facing a new credit crunch",
+      "url": "https://www.aol.com/articles/world-facing-credit-crunch-060000000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "How data centers lost in the midterm elections",
+      "url": "https://www.fox32chicago.com/news/how-data-centers-lost-big-midterm-elections",
+      "domain": "fox32chicago.com",
+      "country": "United States",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "US diesel below $6 a gallon at 2 - month low on easing tensions , weaker demand",
+      "url": "https://bdnews24.com/business/29lzj7z8ab",
+      "domain": "bdnews24.com",
+      "country": "Bangladesh",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "FPIs infuse ₹84 , 290 cr into equities in first half of November",
+      "url": "https://www.thehindubusinessline.com/markets/fpis-infuse-84290-cr-into-equities-in-first-half-of-november/article71704298.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Oberon Review",
+      "url": "https://www.oberonreview.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "oberonreview.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Dramatic drop in US home sales in October",
+      "url": "https://littleapplepost.com/posts/d34492de-e62d-4cff-8a92-69bc4fae244c",
+      "domain": "littleapplepost.com",
+      "country": "United States",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Mandurah Mail",
+      "url": "https://www.mandurahmail.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "mandurahmail.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Glen Innes Examiner",
+      "url": "https://www.gleninnesexaminer.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "gleninnesexaminer.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "IRAN SHOWDOWN : Trump Weighs Halting New Strikes Despite Israeli Pressure As U . S . Tightens Economic Blockade",
+      "url": "https://www.theyeshivaworld.com/news/israel-news/2623104/iran-showdown-trump-weighs-halting-new-strikes-despite-israeli-pressure-as-u-s-tightens-economic-blockade.html",
+      "domain": "theyeshivaworld.com",
+      "country": "United States",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Redland City Bulletin",
+      "url": "https://www.redlandcitybulletin.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "redlandcitybulletin.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Western Advocate",
+      "url": "https://www.westernadvocate.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "westernadvocate.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "The Trump administration is diverting billions in health funding away from low - income countries , defying Congres plans",
+      "url": "https://kesq.com/news/national-world/cnn-world/2026/11/14/the-trump-administration-is-diverting-billions-in-health-funding-away-from-low-income-countries-defying-congress-plans/",
+      "domain": "kesq.com",
+      "country": "United States",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "5 Dividend Stocks With High Yields That Are Safer Than You Might Think",
+      "url": "https://www.fool.com/investing/2026/11/14/5-dividend-stocks-with-high-yields-that-are-safer/",
+      "domain": "fool.com",
+      "country": "United States",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | The Queanbeyan Age",
+      "url": "https://www.queanbeyanage.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "queanbeyanage.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Namoi Valley Independent",
+      "url": "https://www.nvi.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "nvi.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Bendigo Advertiser",
+      "url": "https://www.bendigoadvertiser.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "bendigoadvertiser.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Braidwood Times",
+      "url": "https://www.braidwoodtimes.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "braidwoodtimes.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Oil markets stay flush despite tanker attacks",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-markets-stay-flush-despite-tanker-attacks/articleshow/135841578.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "How a $49 sushi boat and sizzling dumplings help turn P . F . Chang around | Business",
+      "url": "https://www.kten.com/news/business/how-a-49-sushi-boat-and-sizzling-dumplings-help-turn-p-f-chang-s-around/article_abf33b74-d359-56e6-96b6-082aeb377a79.html",
+      "domain": "kten.com",
+      "country": "United States",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Earl Zimmerman | Climate , energy news roundup : What making news",
+      "url": "https://augustafreepress.com/news/earl-zimmerman-climate-energy-news-roundup-whats-making-news/",
+      "domain": "augustafreepress.com",
+      "country": "United States",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Manning River Times",
+      "url": "https://www.manningrivertimes.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "manningrivertimes.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | The Inverell Times",
+      "url": "https://www.inverelltimes.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "inverelltimes.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Lithgow Mercury",
+      "url": "https://www.lithgowmercury.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "lithgowmercury.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Trump tariffs face a new threat : Republicans",
+      "url": "https://www.rnz.co.nz/news/world/2585339/trump-s-tariffs-face-a-new-threat-republicans",
+      "domain": "rnz.co.nz",
+      "country": "",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "Brandweek 2026 : Why Gopuff Would  Rather Be Debated Than Ignored  ft . Tyler Stewart",
+      "url": "https://www.adweek.com/brand-marketing/brandweek-2026-why-gopuff-would-rather-be-debated-than-ignored-ft-tyler-stewart/",
+      "domain": "adweek.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "Wholesale Prices Rise Less Than Expected In October",
+      "url": "https://790waeb.iheart.com/content/2026-11-13-wholesale-prices-rise-less-than-expected-in-october/",
+      "domain": "790waeb.iheart.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "Press Release",
+      "url": "https://www.mining.com/press-release?id=6af71d2ef6300c82dfd412e9",
+      "domain": "mining.com",
+      "country": "Canada",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "Wholesale Prices Rise Less Than Expected In October",
+      "url": "https://veropatriot.iheart.com/content/2026-11-13-wholesale-prices-rise-less-than-expected-in-october/",
+      "domain": "veropatriot.iheart.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "Wholesale Prices Rise Less Than Expected In October",
+      "url": "https://ktok.iheart.com/content/2026-11-13-wholesale-prices-rise-less-than-expected-in-october/",
+      "domain": "ktok.iheart.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "Padenga Revenue Surges 47 % as Gold Sales Rise and Mining Output Strengthens - The Zimbabwe Mail Padenga Revenue Surges 47 % as Gold Sales Rise and Mining Output Strengthens | Zimbabwe News",
+      "url": "https://thezimbabwemail.com/business/padenga-holdings-revenue-gold-production-trading-update-2026/",
+      "domain": "thezimbabwemail.com",
+      "country": "Zimbabwe",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "Wholesale Prices Rise Less Than Expected In October",
+      "url": "https://600kcol.iheart.com/content/2026-11-13-wholesale-prices-rise-less-than-expected-in-october/",
+      "domain": "600kcol.iheart.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "States push short - term insurance as healthcare costs climb",
+      "url": "https://www.orlandosentinel.com/2026/11/13/short-term-insurance-healthcare-costs/",
+      "domain": "orlandosentinel.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "Atlas Energy Corp Reports Third Quarter 2026 Financial Results",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/atlas-energy-corp-reports-third-quarter-2026-financial-results/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Aventus Reports Q3 Results for the Quarter Ended September 30 , 2026",
+      "url": "https://www.simcoereformer.ca/press-releases/business-wire/aventus-reports-q3-results-for-the-quarter-ended-september-30-2026/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
+      "url": "http://www.haitisun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
+      "domain": "haitisun.com",
+      "country": "United States",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "U . S . stocks lose steam on Nvidia CEO exit , rising bond yields",
+      "url": "http://www.bangladeshsun.com/news/279429293/u-s-stocks-lose-steam-on-nvidia-ceo-exit-rising-bond-yields",
+      "domain": "bangladeshsun.com",
+      "country": "Bangladesh",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Travel Tech : The great frequent flyer betrayal – Gadget",
+      "url": "https://gadget.co.za/frequentflyers32f/",
+      "domain": "gadget.co.za",
+      "country": "South Africa",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Condor Announces 2026 Third Quarter Results and Record Production of 18 , 631 boe / d",
+      "url": "https://www.simcoereformer.ca/press-releases/globe-newswire/condor-announces-2026-third-quarter-results-and-record-production-of-18631-boe-d/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     },
+     {
+      "title": "Exchange Income Corporation Posts Record Results in the Third Quarter , Upgrades 2026 Guidance and Issues 2027 Adjusted EBITDA Guidance in excess of $1 billion",
+      "url": "https://www.simcoereformer.ca/press-releases/business-wire/exchange-income-corporation-posts-record-results-in-the-third-quarter-upgrades-2026-guidance-and-issues-2027-adjusted-ebitda-guidance-in-excess-of-1-billion/",
+      "domain": "simcoereformer.ca",
+      "country": "Canada",
+      "published": "2026-11-13T00:45:00+00:00"
+     }
     ]
    },
    "errors": {
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
