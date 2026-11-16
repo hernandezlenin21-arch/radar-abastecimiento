@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-16T04:47:15-06:00",
+  "at": "2026-11-16T09:22:49-06:00",
   "data": {
    "storms": [],
    "url": "https://www.nhc.noaa.gov/"
@@ -9,7 +9,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-16T04:47:15-06:00",
+  "at": "2026-11-16T09:22:49-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than a 79&#37; chance).",
@@ -18,51 +18,16 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-16T04:47:15-06:00",
+  "at": "2026-11-16T09:22:49-06:00",
   "data": {
    "raw": {
-    "energia": [
-     {
-      "title": "China Turns to Iraqi Oil as U . S . Blockade Chokes Iranian Supply",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Turns-to-Iraqi-Oil-as-US-Blockade-Chokes-Iranian-Supply.html",
-      "domain": "oilprice.com",
-      "country": "United States",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
+    "commodities_agricolas": [
      {
       "title": "U . S . Trade negotiators still insisting on market access in Indian Agri - Foods sector",
       "url": "https://thenorthlines.com/u-s-trade-negotiators-still-insisting-on-market-access-in-indian-agri-foods-sector/",
       "domain": "thenorthlines.com",
       "country": "India",
       "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "WPI Inflation Rises to 12 . 29 % in October on Costlier Food , Fuel",
-      "url": "https://www.oneindia.com/india/wpi-inflation-rises-to-12-29-in-october-on-costlier-food-fuel-8260795.html",
-      "domain": "oneindia.com",
-      "country": "India",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Heating Allowance : What data you need for applications",
-      "url": "https://www.keeptalkinggreece.com/2026/11/11/heating-allowance-online-application-data-needed/",
-      "domain": "keeptalkinggreece.com",
-      "country": "Greece",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Business confidence says nothing about small business survival",
-      "url": "https://it-online.co.za/2026/11/16/business-confidence-says-nothing-about-small-business-survival/",
-      "domain": "it-online.co.za",
-      "country": "South Africa",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Global economy to grow 2 . 8 % in 2027 , buoyed by lower oil prices and AI investments : Goldman Sachs",
-      "url": "https://www.thehindubusinessline.com/economy/global-economy-to-grow-28-in-2027-buoyed-by-lower-oil-prices-and-ai-investments-goldman-sachs/article71704111.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
-      "published": "2026-11-15T07:45:00+00:00"
      },
      {
       "title": "Voters rejected data centers . Many will be built anyway .",
@@ -72,228 +37,107 @@
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
-      "title": "US diesel below $6 a gallon at 2 - month low on easing tensions , weaker demand",
-      "url": "https://bdnews24.com/business/29lzj7z8ab",
-      "domain": "bdnews24.com",
-      "country": "Bangladesh",
+      "title": "Two Crop Years , One Busy Deadline for FSA - AG INFORMATION NETWORK OF THE WEST",
+      "url": "https://www.aginfo.net/report/66587/36/Two-Crop-Years-One-Busy-Deadline-for-FSA",
+      "domain": "aginfo.net",
+      "country": "United States",
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
-      "title": "Trump , Xi and Putin plan joint meeting",
-      "url": "https://nagalandpost.com/trump-xi-and-putin-plan-joint-meeting/",
-      "domain": "nagalandpost.com",
-      "country": "",
+      "title": "Experiential dining spots and events in Bristol as dining habits change",
+      "url": "https://www.bristolpost.co.uk/whats-on/whats-on-news/experiential-dining-spots-events-bristol-11238654",
+      "domain": "bristolpost.co.uk",
+      "country": "United Kingdom",
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
-      "title": "FPIs infuse ₹84 , 290 cr into equities in first half of November",
-      "url": "https://www.thehindubusinessline.com/markets/fpis-infuse-84290-cr-into-equities-in-first-half-of-november/article71704298.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
+      "title": "KOVELS : Dugan glassware even approached art glass",
+      "url": "http://www.thedailytimes.com/community/kovels-dugans-glassware-even-approached-art-glass/article_6623d274-40db-4de9-a67d-5a46b0a70f2c.html",
+      "domain": "thedailytimes.com",
+      "country": "United States",
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
-      "title": "Will We Really Put Data Centers in Space ?",
-      "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
-      "domain": "forethought.org",
-      "country": "",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "Kashmir gears up for winter ; depts asked to ensure adequate stocks , essential services",
-      "url": "https://www.tribuneindia.com/news/j-k/kashmir-gears-up-for-winter-depts-asked-to-ensure-adequate-stocks-essential-services/",
-      "domain": "tribuneindia.com",
-      "country": "India",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "With shifting Iran rhetoric , Trump leaves Mideast in limbo",
-      "url": "https://www.wisn.com/article/iran-rhetoric-elections-trump-mideast-limbo/74431136",
-      "domain": "wisn.com",
+      "title": "Some of this year crop issues could carry into 2027",
+      "url": "https://kxel.com:443/news/2026/11/12/some-of-this-years-crop-issues-could-carry-into-2027",
+      "domain": "kxel.com",
       "country": "United States",
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "IRAN SHOWDOWN : Trump Weighs Halting New Strikes Despite Israeli Pressure As U . S . Tightens Economic Blockade",
-      "url": "https://www.theyeshivaworld.com/news/israel-news/2623104/iran-showdown-trump-weighs-halting-new-strikes-despite-israeli-pressure-as-u-s-tightens-economic-blockade.html",
-      "domain": "theyeshivaworld.com",
+      "title": "Soybean balance sheet breakdown following November WASDE report",
+      "url": "https://kxel.com:443/news/2026/11/13/soybean-balance-sheet-breakdown-following-november-wasde-report",
+      "domain": "kxel.com",
       "country": "United States",
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "Rs 15 sugarcane hike a cruel joke on farmers , says Bhupinder Singh Hooda",
-      "url": "https://www.tribuneindia.com/news/haryana/rs-15-sugarcane-hike-a-cruel-joke-on-farmers-says-bhupinder-singh-hooda/",
-      "domain": "tribuneindia.com",
-      "country": "India",
+      "title": "U . S . Export Sales Report ( 11 - 13 - 26 )",
+      "url": "https://kxel.com:443/news/2026/11/13/us-export-sales-report-11-13-26",
+      "domain": "kxel.com",
+      "country": "United States",
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "Trump , Xi and Putin plan an unprecedented joint meeting , White House says",
-      "url": "https://www.kcbd.com/2026/11/14/trump-xi-putin-plan-an-unprecedented-joint-meeting-white-house-says/",
-      "domain": "kcbd.com",
+      "title": "Maine Restaurants Open On Thanksgiving Day 2026",
+      "url": "https://949whom.com/ixp/488/p/maine-restaurants-open-thanksgiving-2026/",
+      "domain": "949whom.com",
       "country": "United States",
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
-      "title": "New Zealand card spending falls for a third month in October as fuel prices squeeze shoppers",
-      "url": "https://newswire.co.nz/2026/11/new-zealand-card-spending-october-2026-fuel-prices/",
-      "domain": "newswire.co.nz",
-      "country": "New Zealand",
+      "title": "Maine Restaurants Open On Thanksgiving Day 2026",
+      "url": "https://wblm.com/ixp/488/p/maine-restaurants-open-thanksgiving-2026/",
+      "domain": "wblm.com",
+      "country": "United States",
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
-      "title": "Oil markets stay flush despite tanker attacks",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-markets-stay-flush-despite-tanker-attacks/articleshow/135841578.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
+      "title": "Maine Restaurants Open On Thanksgiving Day 2026",
+      "url": "https://shark1053.com/ixp/488/p/maine-restaurants-open-thanksgiving-2026/",
+      "domain": "shark1053.com",
+      "country": "United States",
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
-      "title": "Trump to meet Xi and Putin in trilateral talks in China",
-      "url": "https://www.cbc.bb/main-stories/trump-to-meet-xi-and-putin-in-trilateral-talks-in-china/",
-      "domain": "cbc.bb",
-      "country": "Barbados",
+      "title": "Maine Restaurants Open On Thanksgiving Day 2026",
+      "url": "https://92moose.fm/ixp/488/p/maine-restaurants-open-thanksgiving-2026/",
+      "domain": "92moose.fm",
+      "country": "United States",
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
-      "title": "Wholesale inflation declined in October yet remains elevated",
-      "url": "https://www.orlandosentinel.com/2026/11/13/wholesale-inflation-declined-october/",
-      "domain": "orlandosentinel.com",
+      "title": "8 gardening & garden - themed gifts for the holidays , from tools to tech",
+      "url": "https://www.news-herald.com/2026/11/13/gardening-garden-themed-gifts/",
+      "domain": "news-herald.com",
       "country": "United States",
       "published": "2026-11-13T18:00:00+00:00"
      },
      {
-      "title": "Wholesale inflation declined in October yet remains elevated",
-      "url": "https://www.fortmorgantimes.com/2026/11/13/wholesale-inflation-declined-october/",
+      "title": "Thanksgiving turkey shock as prices jump 12 % and family farms warn rising costs are forcing them to charge more",
+      "url": "https://www.dailymail.com/yourmoney/article-16289717/thanksgiving-turkey-prices-family-farms-new-jersey.html",
+      "domain": "dailymail.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "8 gardening & garden - themed gifts for the holidays , from tools to tech",
+      "url": "https://www.santacruzsentinel.com/2026/11/13/gardening-garden-themed-gifts/",
+      "domain": "santacruzsentinel.com",
+      "country": "United States",
+      "published": "2026-11-13T18:00:00+00:00"
+     },
+     {
+      "title": "8 gardening & garden - themed gifts for the holidays , from tools to tech",
+      "url": "https://www.fortmorgantimes.com/2026/11/13/gardening-garden-themed-gifts/",
       "domain": "fortmorgantimes.com",
       "country": "United States",
       "published": "2026-11-13T18:00:00+00:00"
      },
      {
-      "title": "REPLOID explores potential for Austrian farmers and foresters to save hundreds of millions of euros annually in mineral oil tax with locally produced biodiesel from insect fat",
-      "url": "https://www.ots.at/presseaussendung/EQS_20261113_EQS0007/reploid-explores-potential-for-austrian-farmers-and-foresters-to-save-hundreds-of-millions-of-euros-annually-in-mineral-oil-tax-with-locally-produced-biodiesel-from-insect-fat",
-      "domain": "ots.at",
-      "country": "Austria",
-      "published": "2026-11-13T18:00:00+00:00"
-     },
-     {
-      "title": "Russia Oil Revenues Hit Five - Month High on Crude Rally , IEA Says",
-      "url": "https://gcaptain.com/russia-oil-revenues-hit-five-month-high-on-crude-rally-iea-says/",
-      "domain": "gcaptain.com",
-      "country": "United States",
-      "published": "2026-11-13T18:00:00+00:00"
-     },
-     {
-      "title": "Interactive : How to save on holiday décor without skimping on your setup",
-      "url": "https://www.turnto23.com/life/money/interactive-how-to-save-on-holiday-decor-without-skimping-on-your-setup",
-      "domain": "turnto23.com",
-      "country": "United States",
-      "published": "2026-11-13T18:00:00+00:00"
-     },
-     {
-      "title": "World Oil Market is Returning to Surplus as Gulf Exports Recover",
-      "url": "https://gcaptain.com/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover/",
-      "domain": "gcaptain.com",
-      "country": "United States",
-      "published": "2026-11-13T18:00:00+00:00"
-     },
-     {
-      "title": "Ontario News Today : Gas prices , Dunkin  return – Nov . 13",
-      "url": "https://www.northbaynipissing.com/news/ontario-news-today-nov-13-2026/article_9c09a150-360a-5358-a3cc-4e8c55a0d64f.html",
-      "domain": "northbaynipissing.com",
-      "country": "Canada",
-      "published": "2026-11-13T18:00:00+00:00"
-     },
-     {
-      "title": "On Wall Street , stocks sway as market aims for a winning week",
-      "url": "https://www.fortmorgantimes.com/2026/11/13/wall-street-futures-nvidia-microsoft/",
-      "domain": "fortmorgantimes.com",
-      "country": "United States",
-      "published": "2026-11-13T18:00:00+00:00"
-     },
-     {
-      "title": "On Wall Street , stocks sway as market aims for a winning week",
-      "url": "https://www.orlandosentinel.com/2026/11/13/wall-street-futures-nvidia-microsoft/",
-      "domain": "orlandosentinel.com",
-      "country": "United States",
-      "published": "2026-11-13T18:00:00+00:00"
-     }
-    ],
-    "comercio_internacional": [
-     {
-      "title": "U . S . Trade negotiators still insisting on market access in Indian Agri - Foods sector",
-      "url": "https://thenorthlines.com/u-s-trade-negotiators-still-insisting-on-market-access-in-indian-agri-foods-sector/",
-      "domain": "thenorthlines.com",
-      "country": "India",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Ohio US Senator - elect Sherrod Brown could get an early start in Washington",
-      "url": "https://www.mariettatimes.com/news/2026/11/ohios-us-senator-elect-sherrod-brown-could-get-an-early-start-in-washington/",
-      "domain": "mariettatimes.com",
-      "country": "United States",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Bobby Charles Blames National Wave , Out - of - State Spending , and Independent Candidacy in First Post - Election Interview",
-      "url": "https://coast931.com/news/074470-bobby-charles-blames-national-wave-out-of-state-spending-and-independent-candidacy-in-first-post-election-interview/",
-      "domain": "coast931.com",
-      "country": "United States",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "California Democrats plan to investigate Trump but leave a third impeachment off the table for now",
-      "url": "https://www.pressdemocrat.com/2026/11/14/california-democrats-plan-to-investigate-trump-but-leave-a-third-impeachment-off-the-table-for-now-2/",
-      "domain": "pressdemocrat.com",
-      "country": "United States",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "Chris Van Hollen eyes Senate Majority Leader post - The Washington Informer",
-      "url": "https://www.washingtoninformer.com/maryland-democrats-congressional-majorities/",
-      "domain": "washingtoninformer.com",
-      "country": "United States",
-      "published": "2026-11-13T18:00:00+00:00"
-     },
-     {
-      "title": "Trump tariffs face a new threat : Republicans",
-      "url": "https://www.rnz.co.nz/news/world/2585339/trump-s-tariffs-face-a-new-threat-republicans",
-      "domain": "rnz.co.nz",
-      "country": "",
-      "published": "2026-11-13T18:00:00+00:00"
-     },
-     {
-      "title": "Wholesale Prices Rise Less Than Expected In October",
-      "url": "https://790waeb.iheart.com/content/2026-11-13-wholesale-prices-rise-less-than-expected-in-october/",
-      "domain": "790waeb.iheart.com",
-      "country": "United States",
-      "published": "2026-11-13T18:00:00+00:00"
-     },
-     {
-      "title": "Georgia Garvey - The Mining Gazette",
-      "url": "https://www.mininggazette.com/opinion/columns/2026/11/georgia-garvey-42/",
-      "domain": "mininggazette.com",
-      "country": "United States",
-      "published": "2026-11-13T18:00:00+00:00"
-     },
-     {
-      "title": "Wholesale Prices Rise Less Than Expected In October",
-      "url": "https://veropatriot.iheart.com/content/2026-11-13-wholesale-prices-rise-less-than-expected-in-october/",
-      "domain": "veropatriot.iheart.com",
-      "country": "United States",
-      "published": "2026-11-13T18:00:00+00:00"
-     },
-     {
-      "title": "Wholesale Prices Rise Less Than Expected In October",
-      "url": "https://ktok.iheart.com/content/2026-11-13-wholesale-prices-rise-less-than-expected-in-october/",
-      "domain": "ktok.iheart.com",
-      "country": "United States",
-      "published": "2026-11-13T18:00:00+00:00"
-     },
-     {
-      "title": "Wholesale Prices Rise Less Than Expected In October",
-      "url": "https://600kcol.iheart.com/content/2026-11-13-wholesale-prices-rise-less-than-expected-in-october/",
-      "domain": "600kcol.iheart.com",
+      "title": "8 gardening and garden - themed gifts for the holidays , from tools to smart tech",
+      "url": "https://www.pasadenastarnews.com/2026/11/13/8-gardening-and-garden-themed-gifts-for-the-holidays-from-tools-to-smart-tech/",
+      "domain": "pasadenastarnews.com",
       "country": "United States",
       "published": "2026-11-13T18:00:00+00:00"
      }
@@ -966,7 +810,8 @@
     ]
    },
    "errors": {
-    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
