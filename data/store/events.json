@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-16T13:13:40-06:00",
+  "at": "2026-11-16T16:01:27-06:00",
   "data": {
    "storms": [],
    "url": "https://www.nhc.noaa.gov/"
@@ -9,7 +9,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-16T13:13:40-06:00",
+  "at": "2026-11-16T16:01:27-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than a 79&#37; chance).",
@@ -18,126 +18,10 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-16T13:13:40-06:00",
+  "at": "2026-11-16T16:01:27-06:00",
   "data": {
    "raw": {
-    "commodities_agricolas": [
-     {
-      "title": "U . S . Trade negotiators still insisting on market access in Indian Agri - Foods sector",
-      "url": "https://thenorthlines.com/u-s-trade-negotiators-still-insisting-on-market-access-in-indian-agri-foods-sector/",
-      "domain": "thenorthlines.com",
-      "country": "India",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Voters rejected data centers . Many will be built anyway .",
-      "url": "https://www.texarkanagazette.com/news/2026/nov/14/voters-rejected-data-centers-many-will-be-built/",
-      "domain": "texarkanagazette.com",
-      "country": "United States",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Two Crop Years , One Busy Deadline for FSA - AG INFORMATION NETWORK OF THE WEST",
-      "url": "https://www.aginfo.net/report/66587/36/Two-Crop-Years-One-Busy-Deadline-for-FSA",
-      "domain": "aginfo.net",
-      "country": "United States",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Experiential dining spots and events in Bristol as dining habits change",
-      "url": "https://www.bristolpost.co.uk/whats-on/whats-on-news/experiential-dining-spots-events-bristol-11238654",
-      "domain": "bristolpost.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "KOVELS : Dugan glassware even approached art glass",
-      "url": "http://www.thedailytimes.com/community/kovels-dugans-glassware-even-approached-art-glass/article_6623d274-40db-4de9-a67d-5a46b0a70f2c.html",
-      "domain": "thedailytimes.com",
-      "country": "United States",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Some of this year crop issues could carry into 2027",
-      "url": "https://kxel.com:443/news/2026/11/12/some-of-this-years-crop-issues-could-carry-into-2027",
-      "domain": "kxel.com",
-      "country": "United States",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "Soybean balance sheet breakdown following November WASDE report",
-      "url": "https://kxel.com:443/news/2026/11/13/soybean-balance-sheet-breakdown-following-november-wasde-report",
-      "domain": "kxel.com",
-      "country": "United States",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "U . S . Export Sales Report ( 11 - 13 - 26 )",
-      "url": "https://kxel.com:443/news/2026/11/13/us-export-sales-report-11-13-26",
-      "domain": "kxel.com",
-      "country": "United States",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "Maine Restaurants Open On Thanksgiving Day 2026",
-      "url": "https://949whom.com/ixp/488/p/maine-restaurants-open-thanksgiving-2026/",
-      "domain": "949whom.com",
-      "country": "United States",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
-      "title": "Maine Restaurants Open On Thanksgiving Day 2026",
-      "url": "https://wblm.com/ixp/488/p/maine-restaurants-open-thanksgiving-2026/",
-      "domain": "wblm.com",
-      "country": "United States",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
-      "title": "Maine Restaurants Open On Thanksgiving Day 2026",
-      "url": "https://shark1053.com/ixp/488/p/maine-restaurants-open-thanksgiving-2026/",
-      "domain": "shark1053.com",
-      "country": "United States",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
-      "title": "Maine Restaurants Open On Thanksgiving Day 2026",
-      "url": "https://92moose.fm/ixp/488/p/maine-restaurants-open-thanksgiving-2026/",
-      "domain": "92moose.fm",
-      "country": "United States",
-      "published": "2026-11-14T20:00:00+00:00"
-     }
-    ],
-    "comercio_internacional": [
-     {
-      "title": "U . S . Trade negotiators still insisting on market access in Indian Agri - Foods sector",
-      "url": "https://thenorthlines.com/u-s-trade-negotiators-still-insisting-on-market-access-in-indian-agri-foods-sector/",
-      "domain": "thenorthlines.com",
-      "country": "India",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Ohio US Senator - elect Sherrod Brown could get an early start in Washington",
-      "url": "https://www.mariettatimes.com/news/2026/11/ohios-us-senator-elect-sherrod-brown-could-get-an-early-start-in-washington/",
-      "domain": "mariettatimes.com",
-      "country": "United States",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Bobby Charles Blames National Wave , Out - of - State Spending , and Independent Candidacy in First Post - Election Interview",
-      "url": "https://coast931.com/news/074470-bobby-charles-blames-national-wave-out-of-state-spending-and-independent-candidacy-in-first-post-election-interview/",
-      "domain": "coast931.com",
-      "country": "United States",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "California Democrats plan to investigate Trump but leave a third impeachment off the table for now",
-      "url": "https://www.pressdemocrat.com/2026/11/14/california-democrats-plan-to-investigate-trump-but-leave-a-third-impeachment-off-the-table-for-now-2/",
-      "domain": "pressdemocrat.com",
-      "country": "United States",
-      "published": "2026-11-14T21:00:00+00:00"
-     }
-    ],
-    "geopolitica": [
+    "energia": [
      {
       "title": "China Turns to Iraqi Oil as U . S . Blockade Chokes Iranian Supply",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Turns-to-Iraqi-Oil-as-US-Blockade-Chokes-Iranian-Supply.html",
@@ -146,13 +30,6 @@
       "published": "2026-11-16T08:15:00+00:00"
      },
      {
-      "title": "UK Sanctions Slavneft and Vessels in New Russia Measures Ship & Bunker",
-      "url": "https://shipandbunker.com/news/emea/557303-uk-sanctions-slavneft-and-vessels-in-new-russia-measures",
-      "domain": "shipandbunker.com",
-      "country": "Singapore",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
       "title": "U . S . Trade negotiators still insisting on market access in Indian Agri - Foods sector",
       "url": "https://thenorthlines.com/u-s-trade-negotiators-still-insisting-on-market-access-in-indian-agri-foods-sector/",
       "domain": "thenorthlines.com",
@@ -160,24 +37,17 @@
       "published": "2026-11-16T08:15:00+00:00"
      },
      {
-      "title": "50 Years Later : As The Allman Brothers Band Drifted Toward Dissolution , Their Musical Chemistry Remained Undeniable On  Wipe The Windows , Check The Oil , Dollar Gas",
-      "url": "https://glidemagazine.com/333183/50-years-later-as-the-allman-brothers-band-drifted-toward-dissolution-their-musical-chemistry-remained-undeniable-on-wipe-the-windows-check-the-oil-dollar-gas/",
-      "domain": "glidemagazine.com",
-      "country": "United States",
+      "title": "WPI Inflation Rises to 12 . 29 % in October on Costlier Food , Fuel",
+      "url": "https://www.oneindia.com/india/wpi-inflation-rises-to-12-29-in-october-on-costlier-food-fuel-8260795.html",
+      "domain": "oneindia.com",
+      "country": "India",
       "published": "2026-11-16T08:15:00+00:00"
      },
      {
-      "title": "Ukraine War , Day 1 , 726 : Zelensky - We Have Neutralized 55 % of Russia Refineries",
-      "url": "https://eaworldview.com/2026/11/ukraine-war-russia-refineries-zelensky-we-have-neutralized-55-percent/",
-      "domain": "eaworldview.com",
-      "country": "Syria",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on  right side of history  – Capital FM",
-      "url": "https://capitalfm.africa/zelensky-urges-us-and-musk-to-lift-starlink-restrictions-and-be-on-right-side-of-history/",
-      "domain": "capitalfm.africa",
-      "country": "",
+      "title": "Heating Allowance : What data you need for applications",
+      "url": "https://www.keeptalkinggreece.com/2026/11/11/heating-allowance-online-application-data-needed/",
+      "domain": "keeptalkinggreece.com",
+      "country": "Greece",
       "published": "2026-11-16T08:15:00+00:00"
      },
      {
@@ -188,38 +58,17 @@
       "published": "2026-11-16T08:15:00+00:00"
      },
      {
-      "title": "Four generations keep Lebanon falafel heritage alive",
-      "url": "http://www.milwaukeesun.com/news/279429101/four-generations-keep-lebanon-s-falafel-heritage-alive",
-      "domain": "milwaukeesun.com",
+      "title": "Global economy to grow 2 . 8 % in 2027 , buoyed by lower oil prices and AI investments : Goldman Sachs",
+      "url": "https://www.thehindubusinessline.com/economy/global-economy-to-grow-28-in-2027-buoyed-by-lower-oil-prices-and-ai-investments-goldman-sachs/article71704111.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "Voters rejected data centers . Many will be built anyway .",
+      "url": "https://www.texarkanagazette.com/news/2026/nov/14/voters-rejected-data-centers-many-will-be-built/",
+      "domain": "texarkanagazette.com",
       "country": "United States",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "The world is facing a new credit crunch",
-      "url": "https://www.aol.com/articles/world-facing-credit-crunch-060000000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "US must respect India rightto defend itself , says Blinken",
-      "url": "https://nagalandpost.com/us-must-respect-indias-rightto-defend-itself-says-blinken/",
-      "domain": "nagalandpost.com",
-      "country": "",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Blasts , sirens in Bahrain as Iran attacks on US base",
-      "url": "https://www.omanobserver.om/article/1199692/world/region/blasts-sirens-in-bahrain-as-iran-attacks-on-us-base",
-      "domain": "omanobserver.om",
-      "country": "Oman",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Sirens sound in Bahrain as Iran Guards claim drone attack",
-      "url": "https://www.rnz.co.nz/news/world/2609842/sirens-sound-in-bahrain-as-iran-s-guards-claim-drone-attack",
-      "domain": "rnz.co.nz",
-      "country": "",
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
@@ -230,20 +79,6 @@
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
-      "title": "Russian economy growth slows to 1 percent in third quarter",
-      "url": "https://www.hurriyetdailynews.com/russian-economy-growth-slows-to-1-percent-in-third-quarter-229399",
-      "domain": "hurriyetdailynews.com",
-      "country": "Turkey",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Saudi intercepts two ballistic missiles fired towards Riyadh",
-      "url": "https://www.omanobserver.om/article/1199693/world/region/saudi-intercepts-two-ballistic-missiles-fired-towards-riyadh",
-      "domain": "omanobserver.om",
-      "country": "Oman",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
       "title": "Trump , Xi and Putin plan joint meeting",
       "url": "https://nagalandpost.com/trump-xi-and-putin-plan-joint-meeting/",
       "domain": "nagalandpost.com",
@@ -251,45 +86,24 @@
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
-      "title": "Iran claims drone attack on US base in Bahrain as Gulf tensions rise",
-      "url": "https://www.ynetnews.com/article/s1wbfalrzx",
-      "domain": "ynetnews.com",
-      "country": "Israel",
+      "title": "FPIs infuse ₹84 , 290 cr into equities in first half of November",
+      "url": "https://www.thehindubusinessline.com/markets/fpis-infuse-84290-cr-into-equities-in-first-half-of-november/article71704298.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
-      "title": "Britain 1 , 000 unsolved murders : Interactive cold case map reveals gangland hits and innocent victims",
-      "url": "https://www.bristolpost.co.uk/news/bristol-news/britains-1000-unsolved-murders-interactive-11240980",
-      "domain": "bristolpost.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "AP News Summary at 10 : 11 p . m . EST",
-      "url": "https://www.capitalgazette.com/2026/11/14/ap-news-summary-at-1011-p-m-est/",
-      "domain": "capitalgazette.com",
-      "country": "United States",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "PM to highlight Philippines ties ahead of Trump meeting",
-      "url": "https://www.mandurahmail.com.au/story/9391656/pm-to-highlight-philippines-ties-ahead-of-trump-meeting/",
-      "domain": "mandurahmail.com.au",
-      "country": "Australia",
+      "title": "Will We Really Put Data Centers in Space ?",
+      "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+      "domain": "forethought.org",
+      "country": "",
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "Dramatic drop in US home sales in October",
-      "url": "https://littleapplepost.com/posts/d34492de-e62d-4cff-8a92-69bc4fae244c",
-      "domain": "littleapplepost.com",
-      "country": "United States",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "15 Best Hard Sci - Fi Movies Of All Time , Ranked",
-      "url": "https://www.slashfilm.com/2303935/best-hard-sci-fi-movies-ranked/",
-      "domain": "slashfilm.com",
-      "country": "United States",
+      "title": "Kashmir gears up for winter ; depts asked to ensure adequate stocks , essential services",
+      "url": "https://www.tribuneindia.com/news/j-k/kashmir-gears-up-for-winter-depts-asked-to-ensure-adequate-stocks-essential-services/",
+      "domain": "tribuneindia.com",
+      "country": "India",
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
@@ -307,59 +121,17 @@
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "PM to highlight Philippines ties ahead of Trump meeting",
-      "url": "https://www.redlandcitybulletin.com.au/story/9391656/pm-to-highlight-philippines-ties-ahead-of-trump-meeting/",
-      "domain": "redlandcitybulletin.com.au",
-      "country": "Australia",
+      "title": "Rs 15 sugarcane hike a cruel joke on farmers , says Bhupinder Singh Hooda",
+      "url": "https://www.tribuneindia.com/news/haryana/rs-15-sugarcane-hike-a-cruel-joke-on-farmers-says-bhupinder-singh-hooda/",
+      "domain": "tribuneindia.com",
+      "country": "India",
       "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "The Trump administration is diverting billions in health funding away from low - income countries , defying Congres plans",
-      "url": "https://kesq.com/news/national-world/cnn-world/2026/11/14/the-trump-administration-is-diverting-billions-in-health-funding-away-from-low-income-countries-defying-congress-plans/",
-      "domain": "kesq.com",
-      "country": "United States",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "Samuel Alito urges Americans to protect free speech and religious liberty",
-      "url": "https://www.foxnews.com/politics/justice-alito-warns-america-preserve-3-core-principles-regardless-countrys-atmosphere",
-      "domain": "foxnews.com",
-      "country": "United States",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "California Democrats plan to investigate Trump but leave a third impeachment off the table for now",
-      "url": "https://www.pressdemocrat.com/2026/11/14/california-democrats-plan-to-investigate-trump-but-leave-a-third-impeachment-off-the-table-for-now-2/",
-      "domain": "pressdemocrat.com",
-      "country": "United States",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "PM to highlight Philippines ties ahead of Trump meeting",
-      "url": "https://www.southcoastregister.com.au/story/9391656/pm-to-highlight-philippines-ties-ahead-of-trump-meeting/",
-      "domain": "southcoastregister.com.au",
-      "country": "Australia",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
-      "title": "PM to highlight Philippines ties ahead of Trump meeting",
-      "url": "https://www.queanbeyanage.com.au/story/9391656/pm-to-highlight-philippines-ties-ahead-of-trump-meeting/",
-      "domain": "queanbeyanage.com.au",
-      "country": "Australia",
-      "published": "2026-11-14T20:00:00+00:00"
      },
      {
       "title": "Trump , Xi and Putin plan an unprecedented joint meeting , White House says",
       "url": "https://www.kcbd.com/2026/11/14/trump-xi-putin-plan-an-unprecedented-joint-meeting-white-house-says/",
       "domain": "kcbd.com",
       "country": "United States",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
-      "title": "PM to highlight Philippines ties ahead of Trump meeting",
-      "url": "https://www.inverelltimes.com.au/story/9391656/pm-to-highlight-philippines-ties-ahead-of-trump-meeting/",
-      "domain": "inverelltimes.com.au",
-      "country": "Australia",
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
@@ -370,27 +142,6 @@
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
-      "title": "Zelenskyy says a new European security framework floated by US could benefit Putin",
-      "url": "https://www.newsday.com/news/nation/russia-ukraine-war-nato-us-zelenskyy-n54910",
-      "domain": "newsday.com",
-      "country": "United States",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
-      "title": "PM to highlight Philippines ties ahead of Trump meeting",
-      "url": "https://www.tenterfieldstar.com.au/story/9391656/pm-to-highlight-philippines-ties-ahead-of-trump-meeting/",
-      "domain": "tenterfieldstar.com.au",
-      "country": "Australia",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
-      "title": "AP News Summary at 2 : 36 p . m . EST",
-      "url": "http://www.hngnews.com/nation_world/ap-news-summary-at-2-36-p-m-est/article_7acc783a-d252-56d7-819b-ebce245ca856.html",
-      "domain": "hngnews.com",
-      "country": "United States",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
       "title": "Oil markets stay flush despite tanker attacks",
       "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-markets-stay-flush-despite-tanker-attacks/articleshow/135841578.cms",
       "domain": "economictimes.indiatimes.com",
@@ -398,24 +149,10 @@
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
-      "title": "PM to highlight Philippines ties ahead of Trump meeting",
-      "url": "https://www.nvi.com.au/story/9391656/pm-to-highlight-philippines-ties-ahead-of-trump-meeting/",
-      "domain": "nvi.com.au",
-      "country": "Australia",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
-      "title": "Israeli drone strike kills 2 Palestinians in Gaza , and other Mideast news",
-      "url": "https://bakersfieldnow.com/news/nation-world/israeli-drone-strike-kills-2-palestinians-in-gaza-and-other-mideast-news",
-      "domain": "bakersfieldnow.com",
-      "country": "United States",
-      "published": "2026-11-14T20:00:00+00:00"
-     },
-     {
-      "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO - Grenada Chronicle – Daily Grenada And Caribbean News",
-      "url": "https://grenadachronicle.com/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato/",
-      "domain": "grenadachronicle.com",
-      "country": "United States",
+      "title": "Trump to meet Xi and Putin in trilateral talks in China",
+      "url": "https://www.cbc.bb/main-stories/trump-to-meet-xi-and-putin-in-trilateral-talks-in-china/",
+      "domain": "cbc.bb",
+      "country": "Barbados",
       "published": "2026-11-14T20:00:00+00:00"
      }
     ],
@@ -758,26 +495,13 @@
       "country": "Saudi Arabia",
       "published": "2026-11-14T20:00:00+00:00"
      }
-    ],
-    "produccion_agroindustrial": [
-     {
-      "title": "U . S . Trade negotiators still insisting on market access in Indian Agri - Foods sector",
-      "url": "https://thenorthlines.com/u-s-trade-negotiators-still-insisting-on-market-access-in-indian-agri-foods-sector/",
-      "domain": "thenorthlines.com",
-      "country": "India",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "PM Anwar calls for Asean green lanes to keep food supplies flowing during crises",
-      "url": "https://www.thestar.com.my/news/nation/2026/11/15/pm-anwar-calls-for-asean-green-lanes-to-keep-food-supplies-flowing-during-crises",
-      "domain": "thestar.com.my",
-      "country": "Malaysia",
-      "published": "2026-11-15T07:45:00+00:00"
-     }
     ]
    },
    "errors": {
-    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
