@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-17T10:11:39-06:00",
+  "at": "2026-11-17T13:17:42-06:00",
   "data": {
    "storms": [],
    "url": "https://www.nhc.noaa.gov/"
@@ -9,61 +9,25 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-17T07:27:31-06:00",
+  "at": "2026-11-17T13:17:42-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than a 79&#37; chance).",
    "url": "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml"
-  },
-  "last_error": "Sin respuesta tras 3 intentos: HTTPSConnectionPool(host='www.cpc.ncep.noaa.gov', port=443): Max retries exceeded with url: /products/analysis_monitoring/enso_advisory/ensodisc.shtml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cpc.ncep.noaa.gov', port=443) at 0x7d9bc44f9730>, 'Connection to www.cpc.ncep.noaa.gov timed out. (connect timeout=30)'))"
+  }
  },
  "news": {
   "ok": true,
-  "at": "2026-11-17T10:11:39-06:00",
+  "at": "2026-11-17T13:17:42-06:00",
   "data": {
    "raw": {
-    "energia": [
-     {
-      "title": "China Turns to Iraqi Oil as U . S . Blockade Chokes Iranian Supply",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Turns-to-Iraqi-Oil-as-US-Blockade-Chokes-Iranian-Supply.html",
-      "domain": "oilprice.com",
-      "country": "United States",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
+    "commodities_agricolas": [
      {
       "title": "U . S . Trade negotiators still insisting on market access in Indian Agri - Foods sector",
       "url": "https://thenorthlines.com/u-s-trade-negotiators-still-insisting-on-market-access-in-indian-agri-foods-sector/",
       "domain": "thenorthlines.com",
       "country": "India",
       "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "WPI Inflation Rises to 12 . 29 % in October on Costlier Food , Fuel",
-      "url": "https://www.oneindia.com/india/wpi-inflation-rises-to-12-29-in-october-on-costlier-food-fuel-8260795.html",
-      "domain": "oneindia.com",
-      "country": "India",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Heating Allowance : What data you need for applications",
-      "url": "https://www.keeptalkinggreece.com/2026/11/11/heating-allowance-online-application-data-needed/",
-      "domain": "keeptalkinggreece.com",
-      "country": "Greece",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Business confidence says nothing about small business survival",
-      "url": "https://it-online.co.za/2026/11/16/business-confidence-says-nothing-about-small-business-survival/",
-      "domain": "it-online.co.za",
-      "country": "South Africa",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Global economy to grow 2 . 8 % in 2027 , buoyed by lower oil prices and AI investments : Goldman Sachs",
-      "url": "https://www.thehindubusinessline.com/economy/global-economy-to-grow-28-in-2027-buoyed-by-lower-oil-prices-and-ai-investments-goldman-sachs/article71704111.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
-      "published": "2026-11-15T07:45:00+00:00"
      },
      {
       "title": "Voters rejected data centers . Many will be built anyway .",
@@ -73,118 +37,74 @@
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
-      "title": "US diesel below $6 a gallon at 2 - month low on easing tensions , weaker demand",
-      "url": "https://bdnews24.com/business/29lzj7z8ab",
-      "domain": "bdnews24.com",
-      "country": "Bangladesh",
+      "title": "Two Crop Years , One Busy Deadline for FSA - AG INFORMATION NETWORK OF THE WEST",
+      "url": "https://www.aginfo.net/report/66587/36/Two-Crop-Years-One-Busy-Deadline-for-FSA",
+      "domain": "aginfo.net",
+      "country": "United States",
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
-      "title": "Trump , Xi and Putin plan joint meeting",
-      "url": "https://nagalandpost.com/trump-xi-and-putin-plan-joint-meeting/",
-      "domain": "nagalandpost.com",
-      "country": "",
+      "title": "Experiential dining spots and events in Bristol as dining habits change",
+      "url": "https://www.bristolpost.co.uk/whats-on/whats-on-news/experiential-dining-spots-events-bristol-11238654",
+      "domain": "bristolpost.co.uk",
+      "country": "United Kingdom",
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
-      "title": "FPIs infuse ₹84 , 290 cr into equities in first half of November",
-      "url": "https://www.thehindubusinessline.com/markets/fpis-infuse-84290-cr-into-equities-in-first-half-of-november/article71704298.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
+      "title": "KOVELS : Dugan glassware even approached art glass",
+      "url": "http://www.thedailytimes.com/community/kovels-dugans-glassware-even-approached-art-glass/article_6623d274-40db-4de9-a67d-5a46b0a70f2c.html",
+      "domain": "thedailytimes.com",
+      "country": "United States",
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
-      "title": "Will We Really Put Data Centers in Space ?",
-      "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
-      "domain": "forethought.org",
-      "country": "",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "Kashmir gears up for winter ; depts asked to ensure adequate stocks , essential services",
-      "url": "https://www.tribuneindia.com/news/j-k/kashmir-gears-up-for-winter-depts-asked-to-ensure-adequate-stocks-essential-services/",
-      "domain": "tribuneindia.com",
-      "country": "India",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "With shifting Iran rhetoric , Trump leaves Mideast in limbo",
-      "url": "https://www.wisn.com/article/iran-rhetoric-elections-trump-mideast-limbo/74431136",
-      "domain": "wisn.com",
+      "title": "Some of this year crop issues could carry into 2027",
+      "url": "https://kxel.com:443/news/2026/11/12/some-of-this-years-crop-issues-could-carry-into-2027",
+      "domain": "kxel.com",
       "country": "United States",
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "IRAN SHOWDOWN : Trump Weighs Halting New Strikes Despite Israeli Pressure As U . S . Tightens Economic Blockade",
-      "url": "https://www.theyeshivaworld.com/news/israel-news/2623104/iran-showdown-trump-weighs-halting-new-strikes-despite-israeli-pressure-as-u-s-tightens-economic-blockade.html",
-      "domain": "theyeshivaworld.com",
+      "title": "Soybean balance sheet breakdown following November WASDE report",
+      "url": "https://kxel.com:443/news/2026/11/13/soybean-balance-sheet-breakdown-following-november-wasde-report",
+      "domain": "kxel.com",
       "country": "United States",
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "Rs 15 sugarcane hike a cruel joke on farmers , says Bhupinder Singh Hooda",
-      "url": "https://www.tribuneindia.com/news/haryana/rs-15-sugarcane-hike-a-cruel-joke-on-farmers-says-bhupinder-singh-hooda/",
-      "domain": "tribuneindia.com",
-      "country": "India",
+      "title": "U . S . Export Sales Report ( 11 - 13 - 26 )",
+      "url": "https://kxel.com:443/news/2026/11/13/us-export-sales-report-11-13-26",
+      "domain": "kxel.com",
+      "country": "United States",
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "Trump , Xi and Putin plan an unprecedented joint meeting , White House says",
-      "url": "https://www.kcbd.com/2026/11/14/trump-xi-putin-plan-an-unprecedented-joint-meeting-white-house-says/",
-      "domain": "kcbd.com",
+      "title": "Maine Restaurants Open On Thanksgiving Day 2026",
+      "url": "https://949whom.com/ixp/488/p/maine-restaurants-open-thanksgiving-2026/",
+      "domain": "949whom.com",
       "country": "United States",
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
-      "title": "New Zealand card spending falls for a third month in October as fuel prices squeeze shoppers",
-      "url": "https://newswire.co.nz/2026/11/new-zealand-card-spending-october-2026-fuel-prices/",
-      "domain": "newswire.co.nz",
-      "country": "New Zealand",
+      "title": "Maine Restaurants Open On Thanksgiving Day 2026",
+      "url": "https://wblm.com/ixp/488/p/maine-restaurants-open-thanksgiving-2026/",
+      "domain": "wblm.com",
+      "country": "United States",
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
-      "title": "Oil markets stay flush despite tanker attacks",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-markets-stay-flush-despite-tanker-attacks/articleshow/135841578.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
+      "title": "Maine Restaurants Open On Thanksgiving Day 2026",
+      "url": "https://shark1053.com/ixp/488/p/maine-restaurants-open-thanksgiving-2026/",
+      "domain": "shark1053.com",
+      "country": "United States",
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
-      "title": "Trump to meet Xi and Putin in trilateral talks in China",
-      "url": "https://www.cbc.bb/main-stories/trump-to-meet-xi-and-putin-in-trilateral-talks-in-china/",
-      "domain": "cbc.bb",
-      "country": "Barbados",
+      "title": "Maine Restaurants Open On Thanksgiving Day 2026",
+      "url": "https://92moose.fm/ixp/488/p/maine-restaurants-open-thanksgiving-2026/",
+      "domain": "92moose.fm",
+      "country": "United States",
       "published": "2026-11-14T20:00:00+00:00"
-     }
-    ],
-    "comercio_internacional": [
-     {
-      "title": "U . S . Trade negotiators still insisting on market access in Indian Agri - Foods sector",
-      "url": "https://thenorthlines.com/u-s-trade-negotiators-still-insisting-on-market-access-in-indian-agri-foods-sector/",
-      "domain": "thenorthlines.com",
-      "country": "India",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Ohio US Senator - elect Sherrod Brown could get an early start in Washington",
-      "url": "https://www.mariettatimes.com/news/2026/11/ohios-us-senator-elect-sherrod-brown-could-get-an-early-start-in-washington/",
-      "domain": "mariettatimes.com",
-      "country": "United States",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Bobby Charles Blames National Wave , Out - of - State Spending , and Independent Candidacy in First Post - Election Interview",
-      "url": "https://coast931.com/news/074470-bobby-charles-blames-national-wave-out-of-state-spending-and-independent-candidacy-in-first-post-election-interview/",
-      "domain": "coast931.com",
-      "country": "United States",
-      "published": "2026-11-14T21:00:00+00:00"
-     },
-     {
-      "title": "California Democrats plan to investigate Trump but leave a third impeachment off the table for now",
-      "url": "https://www.pressdemocrat.com/2026/11/14/california-democrats-plan-to-investigate-trump-but-leave-a-third-impeachment-off-the-table-for-now-2/",
-      "domain": "pressdemocrat.com",
-      "country": "United States",
-      "published": "2026-11-14T21:00:00+00:00"
      }
     ],
     "geopolitica": [
@@ -751,12 +671,47 @@
       "published": "2026-11-14T20:00:00+00:00"
      }
     ],
-    "riesgos_climaticos": [
+    "economia_mundial": [
      {
       "title": "Elders posts 187pc profit leap as new boss Dedoncker meets the team | The Land",
       "url": "https://www.theland.com.au/story/9392452/elders-posts-187pc-profit-leap-as-new-boss-dedoncker-meets-the-team/",
       "domain": "theland.com.au",
       "country": "Australia",
+      "published": "2026-11-16T08:15:00+00:00"
+     },
+     {
+      "title": "BOJ Takata calls for early rate hikes to curb inflation risks",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bojs-takata-calls-for-early-rate-hikes-to-curb-inflation-risks/articleshow/135876217.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-16T08:15:00+00:00"
+     },
+     {
+      "title": "Sen .- elect Kurt Alme outlines priorities for Montana",
+      "url": "https://nbcmontana.com/news/local/sen-elect-kurt-alme-outlines-priorities-for-montana",
+      "domain": "nbcmontana.com",
+      "country": "United States",
+      "published": "2026-11-16T08:15:00+00:00"
+     },
+     {
+      "title": "newsroomamerica . com",
+      "url": "https://newsroomamerica.com/?before=122182",
+      "domain": "newsroomamerica.com",
+      "country": "United States",
+      "published": "2026-11-16T08:15:00+00:00"
+     },
+     {
+      "title": "Nikkei 225 Tumbles 2 . 4 % Below 60 , 000 Mark as Japanese Stocks Lose Nearly 1 , 500 Points in Sharp Monday Selloff",
+      "url": "https://www.ibtimes.com.au/nikkei-225-falls-below-60000-asian-markets-slide-1878666",
+      "domain": "ibtimes.com.au",
+      "country": "Australia",
+      "published": "2026-11-16T08:15:00+00:00"
+     },
+     {
+      "title": "Pound to Dollar Weekly Forecast : Banks Target 1 . 37 - 1 . 39 Despite USD Rally",
+      "url": "https://www.currencynews.co.uk/forecast/20261116-47783_pound-to-dollar-weekly-forecast-banks-target-1-37-1-39-despite-usd-rally.html",
+      "domain": "currencynews.co.uk",
+      "country": "United Kingdom",
       "published": "2026-11-16T08:15:00+00:00"
      },
      {
@@ -767,6 +722,48 @@
       "published": "2026-11-16T08:15:00+00:00"
      },
      {
+      "title": "Domino Pizza Shares Climb 4 % to Top $25 as Investors Return to Pizza Chain , Extending Gains Over Past Year",
+      "url": "https://www.ibtimes.com.au/dominos-shares-rise-above-25-recovery-1878674",
+      "domain": "ibtimes.com.au",
+      "country": "Australia",
+      "published": "2026-11-16T08:15:00+00:00"
+     },
+     {
+      "title": "Xero Shares Surge Nearly 5 % to $80 . 56 as Battered Accounting Software Firm Stages Rally After 34 % Annual Slide",
+      "url": "https://www.ibtimes.com.au/xero-shares-rise-after-year-long-decline-1878676",
+      "domain": "ibtimes.com.au",
+      "country": "Australia",
+      "published": "2026-11-16T08:15:00+00:00"
+     },
+     {
+      "title": "Silver ETF crash : Nippon , HDFC , ICICI take beating ; reasons behind 50 % fall from Feb highs",
+      "url": "https://www.businesstoday.in/markets/stocks/story/silver-etf-crash-nippon-hdfc-icici-take-beating-reasons-behind-50-fall-from-feb-highs-567628-2026-11-16",
+      "domain": "businesstoday.in",
+      "country": "India",
+      "published": "2026-11-16T08:15:00+00:00"
+     },
+     {
+      "title": "Leading a Bionic Transformation",
+      "url": "https://www.strategy-business.com/article/Leading-a-Bionic-Transformation",
+      "domain": "strategy-business.com",
+      "country": "United States",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "The world is facing a new credit crunch",
+      "url": "https://www.aol.com/articles/world-facing-credit-crunch-060000000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "How data centers lost in the midterm elections",
+      "url": "https://www.fox32chicago.com/news/how-data-centers-lost-big-midterm-elections",
+      "domain": "fox32chicago.com",
+      "country": "United States",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
       "title": "US diesel below $6 a gallon at 2 - month low on easing tensions , weaker demand",
       "url": "https://bdnews24.com/business/29lzj7z8ab",
       "domain": "bdnews24.com",
@@ -774,61 +771,152 @@
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
-      "title": "17th Agrovision to focus on water mgmt , crop planning",
-      "url": "https://www.thehitavada.com/Encyc/2026/11/15/17th-agrovision-to-focus-on-water-mgmt-crop-planning.html",
-      "domain": "thehitavada.com",
+      "title": "FPIs infuse ₹84 , 290 cr into equities in first half of November",
+      "url": "https://www.thehindubusinessline.com/markets/fpis-infuse-84290-cr-into-equities-in-first-half-of-november/article71704298.ece",
+      "domain": "thehindubusinessline.com",
       "country": "India",
       "published": "2026-11-15T07:45:00+00:00"
      },
      {
-      "title": "Drought slows state rabi sowing ; deficit hits 5 . 4 lakh hectares | Pune News",
-      "url": "https://timesofindia.indiatimes.com/city/pune/drought-slows-states-rabi-sowing-deficit-hits-5-4-lakh-hectares/articleshow/135842195.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
+      "title": "Mark Kenny | Can Labor find its mojo ? | Oberon Review",
+      "url": "https://www.oberonreview.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "oberonreview.com.au",
+      "country": "Australia",
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "Midterm blowout fuels Jon Ossoff , AOC runs and scrambles GOP field",
-      "url": "https://nypost.com/2026/11/14/us-news/midterm-blowout-fuels-jon-ossoff-aoc-runs-and-scrambles-gop-field/",
-      "domain": "nypost.com",
+      "title": "Dramatic drop in US home sales in October",
+      "url": "https://littleapplepost.com/posts/d34492de-e62d-4cff-8a92-69bc4fae244c",
+      "domain": "littleapplepost.com",
       "country": "United States",
       "published": "2026-11-14T21:00:00+00:00"
      },
      {
-      "title": "Technology reshapes China agricultural modernization",
-      "url": "https://peoplesreview.com.np/2026/11/14/technology-reshapes-chinas-agricultural-modernization/",
-      "domain": "peoplesreview.com.np",
-      "country": "Nepal",
+      "title": "Mark Kenny | Can Labor find its mojo ? | Mandurah Mail",
+      "url": "https://www.mandurahmail.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "mandurahmail.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Glen Innes Examiner",
+      "url": "https://www.gleninnesexaminer.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "gleninnesexaminer.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "IRAN SHOWDOWN : Trump Weighs Halting New Strikes Despite Israeli Pressure As U . S . Tightens Economic Blockade",
+      "url": "https://www.theyeshivaworld.com/news/israel-news/2623104/iran-showdown-trump-weighs-halting-new-strikes-despite-israeli-pressure-as-u-s-tightens-economic-blockade.html",
+      "domain": "theyeshivaworld.com",
+      "country": "United States",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Redland City Bulletin",
+      "url": "https://www.redlandcitybulletin.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "redlandcitybulletin.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Western Advocate",
+      "url": "https://www.westernadvocate.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "westernadvocate.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "The Trump administration is diverting billions in health funding away from low - income countries , defying Congres plans",
+      "url": "https://kesq.com/news/national-world/cnn-world/2026/11/14/the-trump-administration-is-diverting-billions-in-health-funding-away-from-low-income-countries-defying-congress-plans/",
+      "domain": "kesq.com",
+      "country": "United States",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "5 Dividend Stocks With High Yields That Are Safer Than You Might Think",
+      "url": "https://www.fool.com/investing/2026/11/14/5-dividend-stocks-with-high-yields-that-are-safer/",
+      "domain": "fool.com",
+      "country": "United States",
+      "published": "2026-11-14T21:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | The Queanbeyan Age",
+      "url": "https://www.queanbeyanage.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "queanbeyanage.com.au",
+      "country": "Australia",
       "published": "2026-11-14T20:00:00+00:00"
      },
      {
-      "title": "WMO : Central America Prepares for drought - Shafaqna English | International Shia News & Fatwas",
-      "url": "https://en.shafaqna.com/491985/wmo-central-america-prepares-for-drought/",
-      "domain": "en.shafaqna.com",
-      "country": "Saudi Arabia",
+      "title": "Mark Kenny | Can Labor find its mojo ? | Namoi Valley Independent",
+      "url": "https://www.nvi.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "nvi.com.au",
+      "country": "Australia",
       "published": "2026-11-14T20:00:00+00:00"
-     }
-    ],
-    "produccion_agroindustrial": [
+     },
      {
-      "title": "U . S . Trade negotiators still insisting on market access in Indian Agri - Foods sector",
-      "url": "https://thenorthlines.com/u-s-trade-negotiators-still-insisting-on-market-access-in-indian-agri-foods-sector/",
-      "domain": "thenorthlines.com",
+      "title": "Mark Kenny | Can Labor find its mojo ? | Bendigo Advertiser",
+      "url": "https://www.bendigoadvertiser.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "bendigoadvertiser.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Braidwood Times",
+      "url": "https://www.braidwoodtimes.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "braidwoodtimes.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Oil markets stay flush despite tanker attacks",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-markets-stay-flush-despite-tanker-attacks/articleshow/135841578.cms",
+      "domain": "economictimes.indiatimes.com",
       "country": "India",
-      "published": "2026-11-16T08:15:00+00:00"
+      "published": "2026-11-14T20:00:00+00:00"
      },
      {
-      "title": "PM Anwar calls for Asean green lanes to keep food supplies flowing during crises",
-      "url": "https://www.thestar.com.my/news/nation/2026/11/15/pm-anwar-calls-for-asean-green-lanes-to-keep-food-supplies-flowing-during-crises",
-      "domain": "thestar.com.my",
-      "country": "Malaysia",
-      "published": "2026-11-15T07:45:00+00:00"
+      "title": "How a $49 sushi boat and sizzling dumplings help turn P . F . Chang around | Business",
+      "url": "https://www.kten.com/news/business/how-a-49-sushi-boat-and-sizzling-dumplings-help-turn-p-f-chang-s-around/article_abf33b74-d359-56e6-96b6-082aeb377a79.html",
+      "domain": "kten.com",
+      "country": "United States",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Earl Zimmerman | Climate , energy news roundup : What making news",
+      "url": "https://augustafreepress.com/news/earl-zimmerman-climate-energy-news-roundup-whats-making-news/",
+      "domain": "augustafreepress.com",
+      "country": "United States",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Manning River Times",
+      "url": "https://www.manningrivertimes.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "manningrivertimes.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | The Inverell Times",
+      "url": "https://www.inverelltimes.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "inverelltimes.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T20:00:00+00:00"
+     },
+     {
+      "title": "Mark Kenny | Can Labor find its mojo ? | Lithgow Mercury",
+      "url": "https://www.lithgowmercury.com.au/story/9391572/mark-kenny-can-labor-find-its-mojo/",
+      "domain": "lithgowmercury.com.au",
+      "country": "Australia",
+      "published": "2026-11-14T20:00:00+00:00"
      }
     ]
    },
    "errors": {
-    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
