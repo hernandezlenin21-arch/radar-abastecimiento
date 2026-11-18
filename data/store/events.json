@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-17T16:07:41-06:00",
+  "at": "2026-11-17T19:33:42-06:00",
   "data": {
    "storms": [],
    "url": "https://www.nhc.noaa.gov/"
@@ -9,7 +9,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-17T16:07:41-06:00",
+  "at": "2026-11-17T19:33:42-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than a 79&#37; chance).",
@@ -18,10 +18,96 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-17T16:07:41-06:00",
+  "at": "2026-11-17T19:33:42-06:00",
   "data": {
    "raw": {
+    "energia": [
+     {
+      "title": "Venture Global and China Gas Announce Increased Long - Term LNG Agreement",
+      "url": "https://www.brantfordexpositor.ca/press-releases/business-wire/venture-global-and-china-gas-announce-increased-long-term-lng-agreement/",
+      "domain": "brantfordexpositor.ca",
+      "country": "Canada",
+      "published": "2026-11-18T01:15:00+00:00"
+     },
+     {
+      "title": "China Turns to Iraqi Oil as U . S . Blockade Chokes Iranian Supply",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Turns-to-Iraqi-Oil-as-US-Blockade-Chokes-Iranian-Supply.html",
+      "domain": "oilprice.com",
+      "country": "United States",
+      "published": "2026-11-16T08:15:00+00:00"
+     },
+     {
+      "title": "U . S . Trade negotiators still insisting on market access in Indian Agri - Foods sector",
+      "url": "https://thenorthlines.com/u-s-trade-negotiators-still-insisting-on-market-access-in-indian-agri-foods-sector/",
+      "domain": "thenorthlines.com",
+      "country": "India",
+      "published": "2026-11-16T08:15:00+00:00"
+     },
+     {
+      "title": "WPI Inflation Rises to 12 . 29 % in October on Costlier Food , Fuel",
+      "url": "https://www.oneindia.com/india/wpi-inflation-rises-to-12-29-in-october-on-costlier-food-fuel-8260795.html",
+      "domain": "oneindia.com",
+      "country": "India",
+      "published": "2026-11-16T08:15:00+00:00"
+     },
+     {
+      "title": "Heating Allowance : What data you need for applications",
+      "url": "https://www.keeptalkinggreece.com/2026/11/11/heating-allowance-online-application-data-needed/",
+      "domain": "keeptalkinggreece.com",
+      "country": "Greece",
+      "published": "2026-11-16T08:15:00+00:00"
+     },
+     {
+      "title": "Business confidence says nothing about small business survival",
+      "url": "https://it-online.co.za/2026/11/16/business-confidence-says-nothing-about-small-business-survival/",
+      "domain": "it-online.co.za",
+      "country": "South Africa",
+      "published": "2026-11-16T08:15:00+00:00"
+     },
+     {
+      "title": "Global economy to grow 2 . 8 % in 2027 , buoyed by lower oil prices and AI investments : Goldman Sachs",
+      "url": "https://www.thehindubusinessline.com/economy/global-economy-to-grow-28-in-2027-buoyed-by-lower-oil-prices-and-ai-investments-goldman-sachs/article71704111.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "Voters rejected data centers . Many will be built anyway .",
+      "url": "https://www.texarkanagazette.com/news/2026/nov/14/voters-rejected-data-centers-many-will-be-built/",
+      "domain": "texarkanagazette.com",
+      "country": "United States",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "US diesel below $6 a gallon at 2 - month low on easing tensions , weaker demand",
+      "url": "https://bdnews24.com/business/29lzj7z8ab",
+      "domain": "bdnews24.com",
+      "country": "Bangladesh",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "Trump , Xi and Putin plan joint meeting",
+      "url": "https://nagalandpost.com/trump-xi-and-putin-plan-joint-meeting/",
+      "domain": "nagalandpost.com",
+      "country": "",
+      "published": "2026-11-15T07:45:00+00:00"
+     },
+     {
+      "title": "FPIs infuse ₹84 , 290 cr into equities in first half of November",
+      "url": "https://www.thehindubusinessline.com/markets/fpis-infuse-84290-cr-into-equities-in-first-half-of-november/article71704298.ece",
+      "domain": "thehindubusinessline.com",
+      "country": "India",
+      "published": "2026-11-15T07:45:00+00:00"
+     }
+    ],
     "comercio_internacional": [
+     {
+      "title": "Alberta CEOs split on Carney bid for EU associate membership : survey",
+      "url": "https://edmontonjournal.com/business/alberta-ceos-split-mark-carney-bid-european-union-associate-membership/wcm/f9338a87-304f-412a-bc62-76b106e4f615",
+      "domain": "edmontonjournal.com",
+      "country": "Canada",
+      "published": "2026-11-18T01:15:00+00:00"
+     },
      {
       "title": "U . S . Trade negotiators still insisting on market access in Indian Agri - Foods sector",
       "url": "https://thenorthlines.com/u-s-trade-negotiators-still-insisting-on-market-access-in-indian-agri-foods-sector/",
@@ -37,137 +123,49 @@
       "published": "2026-11-16T08:15:00+00:00"
      }
     ],
-    "transporte_maritimo": [
-     {
-      "title": "China Turns to Iraqi Oil as U . S . Blockade Chokes Iranian Supply",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Turns-to-Iraqi-Oil-as-US-Blockade-Chokes-Iranian-Supply.html",
-      "domain": "oilprice.com",
-      "country": "United States",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "ONE Returns to Suez Canal as Container Lines Gradually Resume Transits Ship & Bunker",
-      "url": "https://shipandbunker.com/news/emea/260199-one-returns-to-suez-canal-as-container-lines-gradually-resume-transits",
-      "domain": "shipandbunker.com",
-      "country": "Singapore",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Africa : AS FAR Make History With Third African Women Title After Beating Sundowns in Final",
-      "url": "https://allafrica.com/stories/202611160196.html",
-      "domain": "allafrica.com",
-      "country": "Nigeria",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "New Orleans seeks federal seizure of tanker",
-      "url": "https://www.mariettatimes.com/news/2026/11/new-orleans-seeks-federal-seizure-of-tanker/",
-      "domain": "mariettatimes.com",
-      "country": "United States",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Tanker had steering problem before New Orleans riverboat crash , NTSB says",
-      "url": "https://www.fox35orlando.com/news/ntsb-ew-orleans-riverboat-crash-tanker",
-      "domain": "fox35orlando.com",
-      "country": "United States",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Business confidence says nothing about small business survival",
-      "url": "https://it-online.co.za/2026/11/16/business-confidence-says-nothing-about-small-business-survival/",
-      "domain": "it-online.co.za",
-      "country": "South Africa",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "US must respect India rightto defend itself , says Blinken",
-      "url": "https://nagalandpost.com/us-must-respect-indias-rightto-defend-itself-says-blinken/",
-      "domain": "nagalandpost.com",
-      "country": "",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Blasts , sirens in Bahrain as Iran attacks on US base",
-      "url": "https://www.omanobserver.om/article/1199692/world/region/blasts-sirens-in-bahrain-as-iran-attacks-on-us-base",
-      "domain": "omanobserver.om",
-      "country": "Oman",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Sirens sound in Bahrain as Iran Guards claim drone attack",
-      "url": "https://www.rnz.co.nz/news/world/2609842/sirens-sound-in-bahrain-as-iran-s-guards-claim-drone-attack",
-      "domain": "rnz.co.nz",
-      "country": "",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "New Orleans port accuses tanker companies of negligence in $1 million lawsuit",
-      "url": "https://cbs4local.com/news/nation-world/new-orleans-port-accuses-tanker-companies-of-negligence-in-1-million-lawsuit",
-      "domain": "cbs4local.com",
-      "country": "United States",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "17 Filipino seafarers safe after Mississippi River vessel collision",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/15/17-filipino-seafarers-safe-after-mississippi-river-vessel-collision",
-      "domain": "thestar.com.my",
-      "country": "Malaysia",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Iran navy says three tankers on fire after hitting mines in Hormuz",
-      "url": "https://bdnews24.com/world/middle-east/47mh9vo0tx",
-      "domain": "bdnews24.com",
-      "country": "Bangladesh",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "AP News Summary at 10 : 11 p . m . EST",
-      "url": "https://www.capitalgazette.com/2026/11/14/ap-news-summary-at-1011-p-m-est/",
-      "domain": "capitalgazette.com",
-      "country": "United States",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "Port of New Orleans sues tanker owner hours after riverboat crash",
-      "url": "https://www.fox32chicago.com/news/port-new-orleans-sues-tanker-owner-hours-after-riverboat-crash",
-      "domain": "fox32chicago.com",
-      "country": "United States",
-      "published": "2026-11-15T07:45:00+00:00"
-     }
-    ],
-    "riesgos_climaticos": [
-     {
-      "title": "Elders posts 187pc profit leap as new boss Dedoncker meets the team | The Land",
-      "url": "https://www.theland.com.au/story/9392452/elders-posts-187pc-profit-leap-as-new-boss-dedoncker-meets-the-team/",
-      "domain": "theland.com.au",
-      "country": "Australia",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "Column : How the world could reach 3°C of warming by 2050",
-      "url": "https://www.edp24.co.uk/news/26727359.column-world-reach-3-c-warming-2050/",
-      "domain": "edp24.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-16T08:15:00+00:00"
-     },
-     {
-      "title": "US diesel below $6 a gallon at 2 - month low on easing tensions , weaker demand",
-      "url": "https://bdnews24.com/business/29lzj7z8ab",
-      "domain": "bdnews24.com",
-      "country": "Bangladesh",
-      "published": "2026-11-15T07:45:00+00:00"
-     },
-     {
-      "title": "17th Agrovision to focus on water mgmt , crop planning",
-      "url": "https://www.thehitavada.com/Encyc/2026/11/15/17th-agrovision-to-focus-on-water-mgmt-crop-planning.html",
-      "domain": "thehitavada.com",
-      "country": "India",
-      "published": "2026-11-15T07:45:00+00:00"
-     }
-    ],
     "economia_mundial": [
+     {
+      "title": "Southern Highlands home values drop as sale times hit 70 days",
+      "url": "https://www.yasstribune.com.au/story/9393178/southern-highlands-home-values-drop-as-sale-times-hit-70-days/",
+      "domain": "yasstribune.com.au",
+      "country": "Australia",
+      "published": "2026-11-18T01:15:00+00:00"
+     },
+     {
+      "title": "European Commission expects EU economy to grow by 1 . 4 % in 2026 and 2027",
+      "url": "http://www.europesun.com/news/279439357/european-commission-expects-eu-economy-to-grow-by-14-in-2026-and-2027",
+      "domain": "europesun.com",
+      "country": "Russia",
+      "published": "2026-11-18T01:15:00+00:00"
+     },
+     {
+      "title": "Deadline",
+      "url": "https://deadline.com/print-article/1237226972/",
+      "domain": "deadline.com",
+      "country": "United States",
+      "published": "2026-11-18T01:15:00+00:00"
+     },
+     {
+      "title": "Another wipeout hits Wall Street as Nvidia , other jittery AI stocks swing lower",
+      "url": "https://www.ky3.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/",
+      "domain": "ky3.com",
+      "country": "United States",
+      "published": "2026-11-18T01:15:00+00:00"
+     },
+     {
+      "title": "3 Dividend Kings to Buy in November That Could Pay You for the Rest of Your Life",
+      "url": "https://www.fool.com/investing/2026/11/17/3-dividend-kings-to-buy-in-november-that-could-pay-you-for-the-rest-of-your-life/",
+      "domain": "fool.com",
+      "country": "United States",
+      "published": "2026-11-18T01:15:00+00:00"
+     },
+     {
+      "title": "Reserve Bank warns AI is speeding up cyber - attacks on NZ banks",
+      "url": "https://newswire.co.nz/2026/11/reserve-bank-of-new-zealand-warns-frontier-ai-is-speeding-up-cyber-attacks-and-giving-banks-less-time-to-fix-flaws/",
+      "domain": "newswire.co.nz",
+      "country": "New Zealand",
+      "published": "2026-11-18T01:15:00+00:00"
+     },
      {
       "title": "Elders posts 187pc profit leap as new boss Dedoncker meets the team | The Land",
       "url": "https://www.theland.com.au/story/9392452/elders-posts-187pc-profit-leap-as-new-boss-dedoncker-meets-the-team/",
@@ -277,8 +275,9 @@
    },
    "errors": {
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "produccion_agroindustrial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
