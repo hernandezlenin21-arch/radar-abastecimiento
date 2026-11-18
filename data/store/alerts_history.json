@@ -1,5 +1,37 @@
 [
  {
+  "indicator": "diesel_nyh",
+  "name": "Diésel ULSD (New York Harbor, mayorista)",
+  "group": "energia",
+  "date": "2026-11-17",
+  "source": "FRED — Federal Reserve Bank of St. Louis",
+  "url": "https://fred.stlouisfed.org/series/DDFUELNYH",
+  "frequency": "diaria",
+  "id": "1fffe8dd7617",
+  "rule": "anomalia_z",
+  "severity": "medio",
+  "title": "Diésel ULSD (New York Harbor, mayorista): valor atípico (-2.1 desviaciones estándar)",
+  "evidence": "Último valor 1.08 frente a la media de referencia. Umbral ±2.0 σ.",
+  "action": "Verificar en la fuente original y buscar el evento que explica el movimiento.",
+  "first_seen": "2026-11-18T14:36:44-06:00"
+ },
+ {
+  "indicator": "henry_hub",
+  "name": "Gas natural Henry Hub (spot)",
+  "group": "energia",
+  "date": "2026-11-17",
+  "source": "FRED — Federal Reserve Bank of St. Louis",
+  "url": "https://fred.stlouisfed.org/series/DHHNGSP",
+  "frequency": "diaria",
+  "id": "1a675238556f",
+  "rule": "cambio_diario",
+  "severity": "bajo",
+  "title": "Gas natural Henry Hub (spot): -3.1% en una sesión (posible ventana de compra)",
+  "evidence": "3.20 (2026-11-16) → 3.10 (2026-11-17). Umbral ±3.0%.",
+  "action": "Confirmar si el movimiento persiste en las próximas sesiones antes de ajustar órdenes de compra.",
+  "first_seen": "2026-11-18T14:36:44-06:00"
+ },
+ {
   "indicator": "usd_index",
   "name": "Índice del dólar (amplio, nominal)",
   "group": "macro",
