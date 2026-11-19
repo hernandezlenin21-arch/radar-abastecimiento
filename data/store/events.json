@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-19T05:45:31-06:00",
+  "at": "2026-11-19T14:41:24-06:00",
   "data": {
    "storms": [],
    "url": "https://www.nhc.noaa.gov/"
@@ -9,7 +9,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-19T05:45:31-06:00",
+  "at": "2026-11-19T14:41:24-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than a 79&#37; chance).",
@@ -18,15 +18,180 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-19T05:45:31-06:00",
+  "at": "2026-11-19T14:41:24-06:00",
   "data": {
    "raw": {
-    "comercio_internacional": [
+    "commodities_agricolas": [
      {
-      "title": "Alberta CEOs split on Carney bid for EU associate membership : survey",
-      "url": "https://edmontonjournal.com/business/alberta-ceos-split-mark-carney-bid-european-union-associate-membership/wcm/f9338a87-304f-412a-bc62-76b106e4f615",
-      "domain": "edmontonjournal.com",
-      "country": "Canada",
+      "title": "Thanksgiving Day 2026 : Aldi , Walmart offer for Thanksgiving dinner feast ; Check prices , menu items",
+      "url": "https://economictimes.indiatimes.com/world/us/thanksgiving-day-2026-aldi-walmart-offer-for-thanksgiving-dinner-feast-check-prices-menu-items/articleshow/135999033.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-19T17:15:00+00:00"
+     },
+     {
+      "title": "Wyoming Whiskey Introduces Saddle Up Santa In New Annual Holiday Series",
+      "url": "https://thewhiskeywash.com/whiskey-news/wyoming-whiskey-introduces-saddle-up-santa-in-time-for-christmas/",
+      "domain": "thewhiskeywash.com",
+      "country": "United States",
+      "published": "2026-11-19T17:15:00+00:00"
+     },
+     {
+      "title": "Diesel : The fuel that affects everything",
+      "url": "https://hpr1.com/diesel-the-fuel-that-affects-everything/",
+      "domain": "hpr1.com",
+      "country": "United States",
+      "published": "2026-11-18T17:30:00+00:00"
+     }
+    ],
+    "produccion_agroindustrial": [
+     {
+      "title": "Wales orders poultry indoors as bird flu threat escalates",
+      "url": "https://www.farminguk.com/news/wales-orders-poultry-indoors-as-bird-flu-threat-escalates_69510.html",
+      "domain": "farminguk.com",
+      "country": "United Kingdom",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "New York only poultry veterinarian keeps birds healthy , industry thriving",
+      "url": "https://news.cornell.edu/stories/2026/11/new-yorks-only-poultry-veterinarian-keeps-birds-healthy-industry-thriving",
+      "domain": "news.cornell.edu",
+      "country": "United States",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "India Develops Indigenous H5N1 Vaccine for Chickens - TeluguPeople . com News",
+      "url": "https://www.telugupeople.com/news/news.asp?newsID=109471",
+      "domain": "telugupeople.com",
+      "country": "India",
+      "published": "2026-11-19T19:30:00+00:00"
+     }
+    ],
+    "economia_mundial": [
+     {
+      "title": "Anthropic shares indicated about 20 % higher on gray market",
+      "url": "https://www.businesstimes.com.sg/international/global/anthropic-hits-us2-trillion-nasdaq-debut-tops-spacexs-june-listing",
+      "domain": "businesstimes.com.sg",
+      "country": "Singapore",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "After Anthropic prices IPO higher than expected , shares shoot up 34 % in trading debut",
+      "url": "https://siliconangle.com/2026/11/18/after-anthropic-prices-ipo-higher-than-expected-shares-shoot-up-34-trading-debut/",
+      "domain": "siliconangle.com",
+      "country": "United States",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "FTSE down but Anthropic makes a strong debut",
+      "url": "https://www.lbc.co.uk/article/0d59b97a34c144a0844b4fb4fcdac182-5HjdnJX_2/",
+      "domain": "lbc.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "Tale of two markets : Our 3 biggest winners and losers over the past five weeks",
+      "url": "https://balticbusinessnews.com/tale-of-two-markets-our-3-biggest-winners-and-losers-over-the-past-five-weeks/",
+      "domain": "balticbusinessnews.com",
+      "country": "Estonia",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "APEC - ing Order",
+      "url": "http://www.zerohedge.com/geopolitical/apec-ing-order",
+      "domain": "zerohedge.com",
+      "country": "United States",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "Anthropic valued above $US2 trillion in Nasdaq debut",
+      "url": "https://www.thecourier.com.au/story/9395019/anthropic-valued-above-us2-trillion-in-nasdaq-debut/",
+      "domain": "thecourier.com.au",
+      "country": "Australia",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "Markets today : Anthropic makes strong debut but Wall Street falls , ASX set for losses",
+      "url": "https://www.theage.com.au/business/markets/asx-eyes-more-losses-as-wall-street-falls-despite-strong-debut-for-anthropic-20261120-p61ft6.html",
+      "domain": "theage.com.au",
+      "country": "Australia",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "BofA sees path for capital return to Brazil if fiscal  homework  is done",
+      "url": "https://www.aol.com/articles/bofa-sees-path-capital-return-182141000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "Anthropic set to secure $1 . 8 trillion valuation in strong Nasdaq debut",
+      "url": "https://tribune.com.pk/story/2641219/anthropic-set-to-secure-18-trillion-valuation-in-strong-nasdaq-debut",
+      "domain": "tribune.com.pk",
+      "country": "Pakistan",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "Iran war could leave consumers facing years of uncertainty over energy costs",
+      "url": "https://kpic.com/news/nation-world/iran-war-could-leave-consumers-facing-years-of-uncertainty-over-energy-costs",
+      "domain": "kpic.com",
+      "country": "United States",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "Borr Drilling ( BORR ) Q3 2026 Earnings Call Transcript",
+      "url": "https://www.aol.com/articles/borr-drilling-borr-q3-2026-184806000.html",
+      "domain": "aol.com",
+      "country": "United States",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "The 2028 presidential election has started",
+      "url": "https://www.record-bee.com/2026/11/19/the-2028-presidential-election-has-started/",
+      "domain": "record-bee.com",
+      "country": "United States",
+      "published": "2026-11-19T17:15:00+00:00"
+     },
+     {
+      "title": "Cosmos Health to Resume Share Repurchases as Insiders Commit to 12 - Month Lock - Up",
+      "url": "http://www.newjerseytelegraph.com/news/279443555/cosmos-health-to-resume-share-repurchases-as-insiders-commit-to-12-month-lock-up",
+      "domain": "newjerseytelegraph.com",
+      "country": "United States",
+      "published": "2026-11-19T17:15:00+00:00"
+     },
+     {
+      "title": "Rupee strength , not weakness , may pose challenge in FY28 : CEA Nageswaran",
+      "url": "https://www.business-standard.com/economy/news/lower-crude-oil-prices-could-bring-huge-windfall-for-india-in-fy28-cea-126111801445_1.html",
+      "domain": "business-standard.com",
+      "country": "India",
+      "published": "2026-11-18T17:30:00+00:00"
+     },
+     {
+      "title": "SBP Governor Calls for Structural Reforms , Export - Led Growth",
+      "url": "https://pakobserver.net/sbp-governor-calls-for-structural-reforms-export-led-growth/",
+      "domain": "pakobserver.net",
+      "country": "Pakistan",
+      "published": "2026-11-18T17:30:00+00:00"
+     },
+     {
+      "title": "European Commission expects EU economy to grow by 1 . 4 % in 2026 and 2027",
+      "url": "http://www.europesun.com/news/279439357/european-commission-expects-eu-economy-to-grow-by-14-in-2026-and-2027",
+      "domain": "europesun.com",
+      "country": "Russia",
+      "published": "2026-11-18T01:15:00+00:00"
+     },
+     {
+      "title": "Deadline",
+      "url": "https://deadline.com/print-article/1237226972/",
+      "domain": "deadline.com",
+      "country": "United States",
+      "published": "2026-11-18T01:15:00+00:00"
+     },
+     {
+      "title": "Another wipeout hits Wall Street as Nvidia , other jittery AI stocks swing lower",
+      "url": "https://www.ky3.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/",
+      "domain": "ky3.com",
+      "country": "United States",
       "published": "2026-11-18T01:15:00+00:00"
      },
      {
@@ -35,194 +200,29 @@
       "domain": "fool.com",
       "country": "United States",
       "published": "2026-11-18T01:15:00+00:00"
-     }
-    ],
-    "transporte_maritimo": [
-     {
-      "title": "Saudis prepare for Houthi war to last well into 2027",
-      "url": "https://www.thehindu.com/news/international/saudis-prepare-for-houthi-war-to-last-well-into-2027/article71717227.ece",
-      "domain": "thehindu.com",
-      "country": "India",
-      "published": "2026-11-18T17:30:00+00:00"
      },
      {
-      "title": "Diesel : The fuel that affects everything",
-      "url": "https://hpr1.com/diesel-the-fuel-that-affects-everything/",
-      "domain": "hpr1.com",
-      "country": "United States",
-      "published": "2026-11-18T17:30:00+00:00"
-     },
-     {
-      "title": "Is another US - Iran war looming ?",
-      "url": "http://www.middleeaststar.com/news/279440849/is-another-us-iran-war-looming",
-      "domain": "middleeaststar.com",
-      "country": "Syria",
-      "published": "2026-11-18T17:30:00+00:00"
-     },
-     {
-      "title": "UTS scientists recycle human urine to beat fertiliser crisis | Daily Liberal",
-      "url": "https://www.dailyliberal.com.au/story/9390572/uts-scientists-recycle-human-urine-to-beat-fertiliser-crisis/",
-      "domain": "dailyliberal.com.au",
-      "country": "Australia",
+      "title": "Reserve Bank warns AI is speeding up cyber - attacks on NZ banks",
+      "url": "https://newswire.co.nz/2026/11/reserve-bank-of-new-zealand-warns-frontier-ai-is-speeding-up-cyber-attacks-and-giving-banks-less-time-to-fix-flaws/",
+      "domain": "newswire.co.nz",
+      "country": "New Zealand",
       "published": "2026-11-18T01:15:00+00:00"
      },
      {
-      "title": "U . S . strikes Iranian missile site in  self - defense  | News",
-      "url": "https://www.wyomingnewsnow.tv/news/national/u-s-strikes-iranian-missile-site-in-self-defense/article_23c1f7c2-09ae-5b60-b29e-9f3959037d85.html",
-      "domain": "wyomingnewsnow.tv",
-      "country": "",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-      "url": "https://www.kwit.org/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-      "domain": "kwit.org",
-      "country": "United States",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "U . S . Strikes Iranian Missile Site After Drone Attack in Bahrain",
-      "url": "https://sanangelolive.com/news/national/2026-11-17/us-strikes-iranian-missile-site-after-drone-attack-bahrain",
-      "domain": "sanangelolive.com",
-      "country": "United States",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-      "url": "https://news.prairiepublic.org/news-from-npr/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-      "domain": "news.prairiepublic.org",
-      "country": "United States",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-      "url": "https://www.thisiswiltshire.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-      "domain": "thisiswiltshire.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "U . S . strikes Iran Qeshm Island after reported attack on Bahrain radar site",
-      "url": "http://eng.chinamil.com.cn/2025xb/W/N/16500419.html",
-      "domain": "eng.chinamil.com.cn",
-      "country": "China",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Today in History",
-      "url": "https://www.nrtoday.com/print_only/today-in-history/article_0d6fe495-13e0-4a11-80ee-f7903af85a70.html",
-      "domain": "nrtoday.com",
-      "country": "United States",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-      "url": "https://www.kazu.org/npr-news/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-      "domain": "kazu.org",
-      "country": "United States",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "UTS scientists recycle human urine to beat fertiliser crisis | Newcastle Herald",
-      "url": "https://www.newcastleherald.com.au/story/9390572/uts-scientists-recycle-human-urine-to-beat-fertiliser-crisis/",
-      "domain": "newcastleherald.com.au",
-      "country": "",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "UTS scientists recycle human urine to beat fertiliser crisis | Camden Haven Courier",
-      "url": "https://www.camdencourier.com.au/story/9390572/uts-scientists-recycle-human-urine-to-beat-fertiliser-crisis/",
-      "domain": "camdencourier.com.au",
-      "country": "Australia",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-      "url": "https://www.guardian-series.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-      "domain": "guardian-series.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-      "url": "https://www.wiltsglosstandard.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-      "domain": "wiltsglosstandard.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-      "url": "https://www.harrowtimes.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-      "domain": "harrowtimes.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-      "url": "https://www.hexham-courant.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-      "domain": "hexham-courant.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Two - month lull ends with another Iranian strike in Bahrain , and US retaliation",
-      "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26736144.two-month-lull-ends-another-iranian-strike-bahrain-us-retaliation/",
-      "domain": "richmondandtwickenhamtimes.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "UTS scientists recycle human urine to beat fertiliser crisis | Yass Tribune",
-      "url": "https://www.yasstribune.com.au/story/9390572/uts-scientists-recycle-human-urine-to-beat-fertiliser-crisis/",
+      "title": "Southern Highlands home values drop as sale times hit 70 days",
+      "url": "https://www.yasstribune.com.au/story/9393178/southern-highlands-home-values-drop-as-sale-times-hit-70-days/",
       "domain": "yasstribune.com.au",
       "country": "Australia",
       "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-      "url": "https://www.publicradiotulsa.org/npr-national-news/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-      "domain": "publicradiotulsa.org",
-      "country": "United States",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Iran launches a third round of strikes on Bahrain , host of U . S . Navy 5th Fleet",
-      "url": "https://www.kccu.org/world/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet",
-      "domain": "kccu.org",
-      "country": "United States",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "UTS scientists recycle human urine to beat fertiliser crisis | Muswellbrook Chronicle",
-      "url": "https://www.muswellbrookchronicle.com.au/story/9390572/uts-scientists-recycle-human-urine-to-beat-fertiliser-crisis/",
-      "domain": "muswellbrookchronicle.com.au",
-      "country": "Australia",
-      "published": "2026-11-18T01:15:00+00:00"
      }
-    ],
-    "riesgos_climaticos": [
-     {
-      "title": "California growers expand pomegranate cultivation on drought - prone and saline soils",
-      "url": "https://www.freshplaza.com/north-america/article/9893942/california-growers-expand-pomegranate-cultivation-on-drought-prone-and-saline-soils/",
-      "domain": "freshplaza.com",
-      "country": "China",
-      "published": "2026-11-18T17:30:00+00:00"
-     },
-     {
-      "title": "Florida Citrus Growers Fight to Keep an Industry Alive",
-      "url": "https://www.floridaweekly.com/fort-myers/news/fresh-squeeze/article_83e48e35-5405-46bd-9257-9355ad70588d.html",
-      "domain": "floridaweekly.com",
-      "country": "United States",
-      "published": "2026-11-18T01:15:00+00:00"
-     }
-    ],
-    "produccion_agroindustrial": []
+    ]
    },
    "errors": {
-    "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
