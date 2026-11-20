@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-19T14:41:24-06:00",
+  "at": "2026-11-19T20:21:52-06:00",
   "data": {
    "storms": [],
    "url": "https://www.nhc.noaa.gov/"
@@ -9,7 +9,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-19T14:41:24-06:00",
+  "at": "2026-11-19T20:21:52-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than a 79&#37; chance).",
@@ -18,10 +18,38 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-19T14:41:24-06:00",
+  "at": "2026-11-19T20:21:52-06:00",
   "data": {
    "raw": {
     "commodities_agricolas": [
+     {
+      "title": "Do you know where your turkey is from ? Gobble up the history of the turkey industry in Minnesota - Hometown Focus",
+      "url": "https://www.hometownfocus.us/articles/do-you-know-where-your-turkey-is-from-gobble-up-the-history-of-the-turkey-industry-in-minnesota/",
+      "domain": "hometownfocus.us",
+      "country": "United States",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Brazil Farm Revenue to Fall US$7 Billion",
+      "url": "https://www.riotimesonline.com/brazil-farm-revenue-2026-forecast-falls-us-7-billion/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Hungry for Sops , But Not Sharing : PM Raps India Inc for Not Passing on Gains",
+      "url": "https://economictimes.indiatimes.com/et-front/hungry-for-sops-but-not-sharing/articleshow/136005123.cms",
+      "domain": "economictimes.indiatimes.com",
+      "country": "India",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Cost of Thanksgiving Dinner increases , according to American Farm Bureau survey",
+      "url": "https://www.farmanddairy.com/news/cost-of-thanksgiving-dinner-increases-according-to-american-farm-bureau-survey/937387.html",
+      "domain": "farmanddairy.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
      {
       "title": "Thanksgiving Day 2026 : Aldi , Walmart offer for Thanksgiving dinner feast ; Check prices , menu items",
       "url": "https://economictimes.indiatimes.com/world/us/thanksgiving-day-2026-aldi-walmart-offer-for-thanksgiving-dinner-feast-check-prices-menu-items/articleshow/135999033.cms",
@@ -44,13 +72,868 @@
       "published": "2026-11-18T17:30:00+00:00"
      }
     ],
-    "produccion_agroindustrial": [
+    "energia": [
      {
-      "title": "Wales orders poultry indoors as bird flu threat escalates",
-      "url": "https://www.farminguk.com/news/wales-orders-poultry-indoors-as-bird-flu-threat-escalates_69510.html",
-      "domain": "farminguk.com",
+      "title": "Will Trump agreement with Putin and Xi bring down gas prices ?",
+      "url": "https://www.wgal.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
+      "domain": "wgal.com",
+      "country": "United States",
+      "published": "2026-11-20T01:30:00+00:00"
+     },
+     {
+      "title": "Trump , Xi , Putin Hold Historic Trilateral Talks",
+      "url": "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-talks-nuclear-disarmament-un-icc-oil/",
+      "domain": "foreignpolicy.com",
+      "country": "United States",
+      "published": "2026-11-20T01:30:00+00:00"
+     },
+     {
+      "title": "IEA : As an unprecedented shock reshapes the energy world , its duration will determine the scale of the change",
+      "url": "https://www.hellenicshippingnews.com/iea-as-an-unprecedented-shock-reshapes-the-energy-world-its-duration-will-determine-the-scale-of-the-change/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-11-20T01:30:00+00:00"
+     },
+     {
+      "title": "Accelerating US inflation adds to AI - related equity market volatility | Hellenic Shipping News Worldwide",
+      "url": "https://www.hellenicshippingnews.com/accelerating-us-inflation-adds-to-ai-related-equity-market-volatility/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-11-20T01:30:00+00:00"
+     },
+     {
+      "title": "Gov . Sanders is busy these days , so were here to help",
+      "url": "https://arktimes.com/arkansas-blog/2026/11/19/gov-sanders-is-busy-these-days-so-were-here-to-help",
+      "domain": "arktimes.com",
+      "country": "United States",
+      "published": "2026-11-20T01:30:00+00:00"
+     },
+     {
+      "title": "Gold falls below $3 , 650 , silver tumbles as Fed rate concerns pressure metals - Kitco PM Report",
+      "url": "http://www.kitco.com/news/article/2026-11-19/gold-falls-below-3650-silver-tumbles-fed-rate-concerns-pressure-metals",
+      "domain": "kitco.com",
+      "country": "China",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Will Trump agreement with Putin and Xi bring down gas prices ?",
+      "url": "https://www.mynbc5.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
+      "domain": "mynbc5.com",
+      "country": "United States",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Will Trump agreement with Putin and Xi bring down gas prices ?",
+      "url": "https://www.wcvb.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
+      "domain": "wcvb.com",
+      "country": "United States",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "TSX posts longest daily losing streak since 2024 as gold selloff deepens",
+      "url": "http://www.kitco.com/news/off-the-wire/2026-11-19/tsx-posts-longest-daily-losing-streak-2024-gold-selloff-deepens",
+      "domain": "kitco.com",
+      "country": "China",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Will Trump agreement with Putin and Xi bring down gas prices ?",
+      "url": "https://www.wxii12.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
+      "domain": "wxii12.com",
+      "country": "United States",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Will Trump agreement with Putin and Xi bring down gas prices ?",
+      "url": "https://www.wyff4.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
+      "domain": "wyff4.com",
+      "country": "United States",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "FG , Chinese firm sign deal on CNG buses , assembly plant",
+      "url": "https://punchng.com/fg-chinese-firm-sign-deal-on-cng-buses-assembly-plant/",
+      "domain": "punchng.com",
+      "country": "Nigeria",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Nigeria Arik Air Plans 2027 Capacity Expansion As Jet Fuel Pressures Ease",
+      "url": "https://naija247news.com/nigerias-arik-air-plans-2027-capacity-expansion-as-jet-fuel-pressures-ease/",
+      "domain": "naija247news.com",
+      "country": "Nigeria",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Senate Republicans block latest Democratic effort to end the war in Iran",
+      "url": "https://www.wdio.com/top-stories/senate-republicans-block-latest-democratic-effort-to-end-the-war-in-iran/",
+      "domain": "wdio.com",
+      "country": "United States",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Will Trump agreement with Putin and Xi bring down gas prices ?",
+      "url": "https://www.wisn.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
+      "domain": "wisn.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "US energy chief says  things have changed  with Hormuz , but  not visibly",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-energy-chief-says-things-have-changed-strait-hormuz",
+      "domain": "middleeasteye.net",
+      "country": "Israel",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Senate Republicans block latest Democratic effort to end war in Iran",
+      "url": "https://www.pilotonline.com/2026/11/19/congress-war-powers-iran-war/",
+      "domain": "pilotonline.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Nigeria economic resurgence hinges on restoring trust , institutional reform – Experts",
+      "url": "https://thesun.ng/nigerias-economic-resurgence-hinges-on-restoring-trust-institutional-reform-experts/",
+      "domain": "thesun.ng",
+      "country": "",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Cost of Thanksgiving Dinner increases , according to American Farm Bureau survey",
+      "url": "https://www.farmanddairy.com/news/cost-of-thanksgiving-dinner-increases-according-to-american-farm-bureau-survey/937387.html",
+      "domain": "farmanddairy.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Two supertankers struck mines in Strait of Hormuz , Iran Revolutionary Guard says",
+      "url": "https://www.hellenicshippingnews.com/two-supertankers-struck-mines-in-strait-of-hormuz-irans-revolutionary-guard-says/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Port Authority of Santa Cruz de Tenerife joins SEA - LNG | Hellenic Shipping News Worldwide",
+      "url": "https://www.hellenicshippingnews.com/port-authority-of-santa-cruz-de-tenerife-joins-sea-lng/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Castrol and Stone Oil Announce Distribution Partnership | Hellenic Shipping News Worldwide",
+      "url": "https://www.hellenicshippingnews.com/castrol-and-stone-oil-announce-distribution-partnership/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Eimskip in Iceland orders its third Konecranes Gottwald ESP . 8 Mobile Harbor Crane",
+      "url": "https://www.hellenicshippingnews.com/eimskip-in-iceland-orders-its-third-konecranes-gottwald-esp-8-mobile-harbor-crane/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Oil prices rise amid attacks on oil tankers",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-rise-amid-attacks-oil-tankers",
+      "domain": "middleeasteye.net",
+      "country": "Israel",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "White County Quorum Court approves $54 million budget for 2027 that includes feral cat program , Searcy transition house effort",
+      "url": "https://www.whitecountycitizen.com/news/white-county-quorum-court-approves-54-million-budget-for-2027-that-includes-feral-cat-program/article_cba44856-b726-57b7-a6ed-a2d745762bcf.html",
+      "domain": "whitecountycitizen.com",
+      "country": "",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Gas prices in Nevada still falling ahead of Thanksgiving",
+      "url": "https://news3lv.com/news/local/gas-prices-in-nevada-still-falling-ahead-of-thanksgiving",
+      "domain": "news3lv.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Pool Spa Patio Expo Wraps 2026 Edition in New Orleans with Record Engagement , Education and Networking",
+      "url": "https://www.manilatimes.net/2026/11/20/tmt-newswire/globenewswire/pool-spa-patio-expo-wraps-2026-edition-in-new-orleans-with-record-engagement-education-and-networking/2474665",
+      "domain": "manilatimes.net",
+      "country": "Philippines",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "MARKETS LIVE : Wall Street tumbles as Anthropic shares pare IPO gains",
+      "url": "https://www.proactiveinvestors.com/companies/news/1102069/markets-live-wall-street-tumbles-as-anthropic-shares-pare-ipo-gains-1102069.html",
+      "domain": "proactiveinvestors.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Stocks Making 52 Week Lows On The ASX Far Outweigh Highs : The List",
+      "url": "https://thebull.com.au/news/stocks-making-52-week-lows-on-the-asx-far-outweigh-highs-the-list/",
+      "domain": "thebull.com.au",
+      "country": "Australia",
+      "published": "2026-11-19T23:30:00+00:00"
+     },
+     {
+      "title": "Senate Republicans block latest Democratic effort to end the war in Iran",
+      "url": "https://www.mtairynews.com/ap/washington/senate-republicans-block-latest-democratic-effort-to-end-the-war-in-iran/article_d033f85d-5ca3-53cf-8284-4ee1359098dd.html",
+      "domain": "mtairynews.com",
+      "country": "United States",
+      "published": "2026-11-19T23:30:00+00:00"
+     },
+     {
+      "title": "Fortescue Shares Sit At Six - Year Low : What Is Driving The Move ?",
+      "url": "https://thebull.com.au/news/fortescue-shares-sit-at-six-year-low-what-is-driving-the-move/",
+      "domain": "thebull.com.au",
+      "country": "Australia",
+      "published": "2026-11-19T23:30:00+00:00"
+     },
+     {
+      "title": "Energy Reform , Why Wait",
+      "url": "https://www.newtownbee.com/11192026/energy-reform-why-wait/",
+      "domain": "newtownbee.com",
+      "country": "United States",
+      "published": "2026-11-19T23:30:00+00:00"
+     },
+     {
+      "title": "Will Trump agreement with Putin and Xi bring down gas prices ?",
+      "url": "https://www.wjcl.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
+      "domain": "wjcl.com",
+      "country": "United States",
+      "published": "2026-11-19T23:30:00+00:00"
+     },
+     {
+      "title": "Will Trump agreement with Putin and Xi bring down gas prices ?",
+      "url": "https://www.ketv.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
+      "domain": "ketv.com",
+      "country": "United States",
+      "published": "2026-11-19T23:30:00+00:00"
+     },
+     {
+      "title": "Missouri farmers get 2027 budgets for crop and livestock planning",
+      "url": "https://www.kttn.com/missouri-farmers-get-2027-budgets-for-crop-and-livestock-planning/",
+      "domain": "kttn.com",
+      "country": "United States",
+      "published": "2026-11-19T23:30:00+00:00"
+     },
+     {
+      "title": "Seafarer safety",
+      "url": "http://www.arabherald.com/news/279443978/seafarers-safety-high-priority-for-govt-says-petroleum-minister-hardeep-singh-puri",
+      "domain": "arabherald.com",
+      "country": "Syria",
+      "published": "2026-11-19T23:30:00+00:00"
+     },
+     {
+      "title": "Track repaired after train derailment west of Terrace , B . C . – Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/uncategorized/2026/11/19/track-repaired-after-train-derailment-west-of-terrace-b-c",
+      "domain": "winnipegfreepress.com",
+      "country": "Canada",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "No going back after Iran War energy shock , IEA says",
+      "url": "https://www.gulfcoastnewsnow.com/article/iran-war-energy-shock-long-term-impact-iea/74479995",
+      "domain": "gulfcoastnewsnow.com",
+      "country": "",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "There is no going back  to the way it was before  the Iran war energy shock , IEA says",
+      "url": "https://www.ksat.com/business/2026/11/19/there-is-no-going-back-to-the-way-it-was-before-the-iran-wars-energy-shock-iea-says/",
+      "domain": "ksat.com",
+      "country": "United States",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "Yemen besieged city of Taiz faces a deepening water crisis - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+      "url": "https://dominicanrepublicpost.com/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis/",
+      "domain": "dominicanrepublicpost.com",
+      "country": "United States",
+      "published": "2026-11-19T19:30:00+00:00"
+     }
+    ],
+    "comercio_internacional": [
+     {
+      "title": "Gold the top commodity pick for 2027 even as broader commodities likely to underperform – Morgan Stanley",
+      "url": "http://www.kitco.com/news/article/2026-11-19/gold-top-commodity-pick-2027-even-broader-commodities-likely-underperform",
+      "domain": "kitco.com",
+      "country": "China",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Brazil Farm Revenue to Fall US$7 Billion",
+      "url": "https://www.riotimesonline.com/brazil-farm-revenue-2026-forecast-falls-us-7-billion/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Nebraska Rep . Don Bacon weighing presidential run , plans to take message to Iowa & New Hampshire",
+      "url": "https://www.wowt.com/2026/11/19/nebraska-rep-don-bacon-weighing-presidential-run-plans-take-message-iowa-new-hampshire/",
+      "domain": "wowt.com",
+      "country": "United States",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Thanksgiving dinner 2026 : How much you can save using store - brand products",
+      "url": "https://www.fox5ny.com/news/thanksgiving-dinner-2026-how-much-you-can-save-using-store-brand-products",
+      "domain": "fox5ny.com",
+      "country": "United States",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Nebraska Rep . Don Bacon weighing presidential run , plans to take message to Iowa & New Hampshire",
+      "url": "https://www.ksnblocal4.com/2026/11/19/nebraska-rep-don-bacon-weighing-presidential-run-plans-take-message-iowa-new-hampshire/",
+      "domain": "ksnblocal4.com",
+      "country": "United States",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Letters for Nov . 20 : Dems should focus on task at hand , not celebrating",
+      "url": "https://www.dailypress.com/2026/11/19/letters-for-nov-20-dems-should-focus-on-task-at-hand-not-celebrating/",
+      "domain": "dailypress.com",
+      "country": "United States",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Editorial : Hampton Roads nonprofits , struggling in this economy , need our help",
+      "url": "https://www.dailypress.com/2026/11/19/editorial-hampton-roads-nonprofits-struggling-in-this-economy-need-our-help/",
+      "domain": "dailypress.com",
+      "country": "United States",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Latest economic data shows growth of outdoor recreation economy slowing nationwide and in Colorado",
+      "url": "https://www.postindependent.com/news/colorado-economic-data-outdoor-recreation/",
+      "domain": "postindependent.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Letters for Nov . 20 : Dems should focus on task at hand , not celebrating",
+      "url": "https://www.pilotonline.com/2026/11/19/letters-for-nov-20-dems-should-focus-on-task-at-hand-not-celebrating/",
+      "domain": "pilotonline.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "As Hakeem Jeffries nears history , what does the House Speaker actually do ?",
+      "url": "https://thegrio.com/2026/11/19/hakeem-jeffries-house-speaker-history-powers-duties/",
+      "domain": "thegrio.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Editorial : Hampton Roads nonprofits , struggling in this economy , need our help",
+      "url": "https://www.pilotonline.com/2026/11/19/editorial-hampton-roads-nonprofits-struggling-in-this-economy-need-our-help/",
+      "domain": "pilotonline.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "China - Africa economic , trade expo opens South Africa session - Xinhua",
+      "url": "https://english.news.cn/africa/20261120/8894b3b3ab8b4ebcbcfcd5695885ce90/c.html",
+      "domain": "english.news.cn",
+      "country": "",
+      "published": "2026-11-19T23:45:00+00:00"
+     },
+     {
+      "title": "Trump Calls Putin His  Friend  as They Meet in China for Ukraine War Talks - Novinite . com",
+      "url": "https://www.novinite.com/view_news.php?id=241682",
+      "domain": "novinite.com",
+      "country": "Bulgaria",
+      "published": "2026-11-19T23:45:00+00:00"
+     },
+     {
+      "title": "Tanzania , Uganda move to accelerate completion of oil pipeline",
+      "url": "https://www.channelafrica.co.za/channelafrica/news/tanzania-uganda-move-to-accelerate-completion-of-oil-pipeline/",
+      "domain": "channelafrica.co.za",
+      "country": "South Africa",
+      "published": "2026-11-19T23:30:00+00:00"
+     },
+     {
+      "title": "UK and EU plan first talks on sending refused asylum seekers to third countries",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
+      "domain": "theguardian.com",
       "country": "United Kingdom",
       "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "National Shipbuilding Strategy - Status Report espritdecorps",
+      "url": "https://www.espritdecorps.ca/feature/national-shipbuilding-strategy-status-report",
+      "domain": "espritdecorps.ca",
+      "country": "Canada",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "World Insights :",
+      "url": "http://www.mexicostar.com/news/279442984/world-insights-where-there-is-trade-there-is-mutual-benefit-perspectives-from-apec-ceo-summit",
+      "domain": "mexicostar.com",
+      "country": "Mexico",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "Living wage climbs 2 - 3 % for Revelstoke , Kelowna , Kamloops , Grand Forks",
+      "url": "https://grandforksgazette.ca/2026/11/19/living-wage-climbs-2-3-for-revelstoke-kelowna-kamloops-grand-forks/",
+      "domain": "grandforksgazette.ca",
+      "country": "Canada",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "Where there is trade , there is mutual benefit  -- perspectives from APEC CEO Summit",
+      "url": "http://www.mexicostar.com/news/279442982/where-there-is-trade-there-is-mutual-benefit-perspectives-from-apec-ceo-summit",
+      "domain": "mexicostar.com",
+      "country": "Mexico",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "Customs should review classification of bulk Scotch whisky imports : GTRI",
+      "url": "https://www.business-standard.com/economy/news/customs-should-review-classification-of-bulk-scotch-whisky-imports-gtri-126111901502_1.html",
+      "domain": "business-standard.com",
+      "country": "India",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "Living wage climbs 2 - 3 % for Revelstoke , Kelowna , Kamloops , Grand Forks",
+      "url": "https://vernonmorningstar.com/2026/11/19/living-wage-climbs-2-3-for-revelstoke-kelowna-kamloops-grand-forks/",
+      "domain": "vernonmorningstar.com",
+      "country": "Canada",
+      "published": "2026-11-19T17:15:00+00:00"
+     },
+     {
+      "title": "Xi Jinping urges APEC economies to deepen cooperation on digitaltrade and AI",
+      "url": "https://world.medianama.com/xi-jinping-urges-apec-economies-to-deepen-cooperation-on-digitaltrade-and-ai/",
+      "domain": "world.medianama.com",
+      "country": "India",
+      "published": "2026-11-19T17:15:00+00:00"
+     },
+     {
+      "title": "Trump , Xi and Putin hold historic trilateral meeting",
+      "url": "https://www.wdbj7.com/2026/11/19/nuclear-arms-ending-wars-iran-ukraine-top-agenda-trump-xi-putin-meeting/",
+      "domain": "wdbj7.com",
+      "country": "United States",
+      "published": "2026-11-19T17:15:00+00:00"
+     },
+     {
+      "title": "Trump , Xi and Putin hold historic trilateral meeting",
+      "url": "https://www.knoe.com/2026/11/19/nuclear-arms-ending-wars-iran-ukraine-top-agenda-trump-xi-putin-meeting/",
+      "domain": "knoe.com",
+      "country": "United States",
+      "published": "2026-11-19T17:15:00+00:00"
+     },
+     {
+      "title": "At historic summit , Xi and Putin share global stage with weakened Trump",
+      "url": "https://www.adn.com/nation-world/2026/11/19/at-historic-summit-xi-and-putin-share-global-stage-with-weakened-trump/",
+      "domain": "adn.com",
+      "country": "United States",
+      "published": "2026-11-19T17:15:00+00:00"
+     },
+     {
+      "title": "3 Dividend Kings to Buy in November That Could Pay You for the Rest of Your Life",
+      "url": "https://www.fool.com/investing/2026/11/17/3-dividend-kings-to-buy-in-november-that-could-pay-you-for-the-rest-of-your-life/",
+      "domain": "fool.com",
+      "country": "United States",
+      "published": "2026-11-18T01:15:00+00:00"
+     },
+     {
+      "title": "Alberta CEOs split on Carney bid for EU associate membership : survey",
+      "url": "https://edmontonjournal.com/business/alberta-ceos-split-mark-carney-bid-european-union-associate-membership/wcm/f9338a87-304f-412a-bc62-76b106e4f615",
+      "domain": "edmontonjournal.com",
+      "country": "Canada",
+      "published": "2026-11-18T01:15:00+00:00"
+     }
+    ],
+    "geopolitica": [
+     {
+      "title": "KSA : Riyadh tower hit in Houthi strike",
+      "url": "https://www.gdnonline.com:443/Details/1413395",
+      "domain": "gdnonline.com",
+      "country": "United States",
+      "published": "2026-11-20T01:30:00+00:00"
+     },
+     {
+      "title": "Will Trump agreement with Putin and Xi bring down gas prices ?",
+      "url": "https://www.wgal.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
+      "domain": "wgal.com",
+      "country": "United States",
+      "published": "2026-11-20T01:30:00+00:00"
+     },
+     {
+      "title": "Trump , Xi , Putin Hold Historic Trilateral Talks",
+      "url": "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-talks-nuclear-disarmament-un-icc-oil/",
+      "domain": "foreignpolicy.com",
+      "country": "United States",
+      "published": "2026-11-20T01:30:00+00:00"
+     },
+     {
+      "title": "In Gaza , an Olive Harvest Shattered by Genocide",
+      "url": "https://jewishcurrents.org/in-gaza-an-olive-harvest-shattered-by-genocide",
+      "domain": "jewishcurrents.org",
+      "country": "United States",
+      "published": "2026-11-20T01:30:00+00:00"
+     },
+     {
+      "title": "Trump , Xi and Putin hold rare 3 - way talks on nuclear risks but deliver no breakthroughs",
+      "url": "https://www.kpcnews.com/article_e0c406b0-e630-5059-b132-ffa5d668f70f.html",
+      "domain": "kpcnews.com",
+      "country": "United States",
+      "published": "2026-11-20T01:30:00+00:00"
+     },
+     {
+      "title": "IEA : As an unprecedented shock reshapes the energy world , its duration will determine the scale of the change",
+      "url": "https://www.hellenicshippingnews.com/iea-as-an-unprecedented-shock-reshapes-the-energy-world-its-duration-will-determine-the-scale-of-the-change/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-11-20T01:30:00+00:00"
+     },
+     {
+      "title": "In Ukraine , the Drones Are Flying Faster Than the Diplomacy",
+      "url": "https://foreignpolicy.com/2026/11/19/ukraine-drones-diplomacy-russian-strikes-putin-xi-trump-trilateral/",
+      "domain": "foreignpolicy.com",
+      "country": "United States",
+      "published": "2026-11-20T01:30:00+00:00"
+     },
+     {
+      "title": "US Senate rejects curbing Trump Iran war powers",
+      "url": "https://www.illawarramercury.com.au/story/9395127/us-senate-rejects-curbing-trumps-iran-war-powers/",
+      "domain": "illawarramercury.com.au",
+      "country": "Australia",
+      "published": "2026-11-20T01:30:00+00:00"
+     },
+     {
+      "title": "Accelerating US inflation adds to AI - related equity market volatility | Hellenic Shipping News Worldwide",
+      "url": "https://www.hellenicshippingnews.com/accelerating-us-inflation-adds-to-ai-related-equity-market-volatility/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-11-20T01:30:00+00:00"
+     },
+     {
+      "title": "Gold falls below $3 , 650 , silver tumbles as Fed rate concerns pressure metals - Kitco PM Report",
+      "url": "http://www.kitco.com/news/article/2026-11-19/gold-falls-below-3650-silver-tumbles-fed-rate-concerns-pressure-metals",
+      "domain": "kitco.com",
+      "country": "China",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Will Trump agreement with Putin and Xi bring down gas prices ?",
+      "url": "https://www.mynbc5.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
+      "domain": "mynbc5.com",
+      "country": "United States",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Will Trump agreement with Putin and Xi bring down gas prices ?",
+      "url": "https://www.wcvb.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
+      "domain": "wcvb.com",
+      "country": "United States",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "US signed off on sales of nearly 900 , 000 AI chips to China in six months",
+      "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months",
+      "domain": "aljazeera.com",
+      "country": "United States",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "The U . S . and Iran Are Back to Trading Strikes",
+      "url": "https://foreignpolicy.com/2026/11/19/us-iran-strikes-bahrain-kuwait-trump/?tpcc=recirc_trending062921",
+      "domain": "foreignpolicy.com",
+      "country": "United States",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "US Senate rejects curbing Trump Iran war powers",
+      "url": "https://www.dailyliberal.com.au/story/9395127/us-senate-rejects-curbing-trumps-iran-war-powers/",
+      "domain": "dailyliberal.com.au",
+      "country": "Australia",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Takeaways from the historic summit among Trump , Xi and Putin",
+      "url": "http://www.thegazette.com/news/world/takeaways-from-the-historic-summit-among-trump-xi-and-putin/article_b0dce05d-ad2a-56e2-bd24-ec2d379bdb6e.html",
+      "domain": "thegazette.com",
+      "country": "United States",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Iowa U . S . Sen .- elect Turek next to get bobblehead treatment",
+      "url": "http://www.thegazette.com/news/national/iowa-u-s-sen--elect-turek-next-to-get-bobblehead-treatment/article_2a73857f-46e6-4adc-bd34-5efc4488e78e.html",
+      "domain": "thegazette.com",
+      "country": "United States",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Trump , Xi and Putin hold rare 3 - way talks on nuclear risks but deliver no breakthroughs",
+      "url": "https://japantoday.com/category/world/Trump-Xi-and-Putin-hold-rare-3-way-talks-on-nuclear-risks-but-deliver-no-breakthroughs",
+      "domain": "japantoday.com",
+      "country": "Japan",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "GOP Activist Bo French Booted from Texas Country Club After Racist Post",
+      "url": "https://www.newsweek.com/gop-activist-bo-french-booted-from-texas-country-club-after-racist-post-12743080",
+      "domain": "newsweek.com",
+      "country": "United States",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "CBN liquidity mop - up tops N90tn ahead of 2027 polls",
+      "url": "https://punchng.com/cbns-cash-mop-up-more-than-doubles-ahead-of-2027/",
+      "domain": "punchng.com",
+      "country": "Nigeria",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "US Senate rejects curbing Trump Iran war powers",
+      "url": "https://www.newcastleherald.com.au/story/9395127/us-senate-rejects-curbing-trumps-iran-war-powers/",
+      "domain": "newcastleherald.com.au",
+      "country": "",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "China Detained Nearly 500 Panama - Flagged Ships . US Panel Wants Trump Armed With Sanctions .",
+      "url": "https://www.ibtimes.com/us-commission-china-panama-ship-detentions-3809988",
+      "domain": "ibtimes.com",
+      "country": "United States",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Will Trump agreement with Putin and Xi bring down gas prices ?",
+      "url": "https://www.wxii12.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
+      "domain": "wxii12.com",
+      "country": "United States",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Nigeria Gold Trade Gap : UAE Records $2 . 71 Billion In Gold Imports Absent From Export Books",
+      "url": "https://naija247news.com/nigerias-gold-trade-gap-uae-records-35-tonnes-absent-from-export-books/",
+      "domain": "naija247news.com",
+      "country": "Nigeria",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Will Trump agreement with Putin and Xi bring down gas prices ?",
+      "url": "https://www.wyff4.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
+      "domain": "wyff4.com",
+      "country": "United States",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "KSA : Riyadh tower hit in Houthi strike",
+      "url": "https://www.gdnonline.com:443/Details/1413395/Riyadh-tower-hit-in-Houthi-strike",
+      "domain": "gdnonline.com",
+      "country": "United States",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Weekend Entertainment Roundup for November 19 , 2026",
+      "url": "https://www.ualrpublicradio.org/local-regional-news/2026-11-19/weekend-entertainment-roundup-for-november-19-202",
+      "domain": "ualrpublicradio.org",
+      "country": "United States",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Pentagon puts Iran war cost at $48 . 3 billion , excluding base damage",
+      "url": "https://www.ky3.com/2026/11/20/pentagon-puts-iran-war-cost-483-billion-excluding-base-damage/",
+      "domain": "ky3.com",
+      "country": "United States",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Nigeria Governance Decline Raises Questions Over $90bn African Capital Flight",
+      "url": "https://naija247news.com/nigerias-governance-decline-raises-questions-over-90bn-african-capital-flight/",
+      "domain": "naija247news.com",
+      "country": "Nigeria",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Nigeria Arik Air Plans 2027 Capacity Expansion As Jet Fuel Pressures Ease",
+      "url": "https://naija247news.com/nigerias-arik-air-plans-2027-capacity-expansion-as-jet-fuel-pressures-ease/",
+      "domain": "naija247news.com",
+      "country": "Nigeria",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "African negotiators accuse nations of fossil fuel hypocrisy",
+      "url": "https://punchng.com/africa-faults-nations-preaching-fossil-phase-out-pursuing-oil-deals/",
+      "domain": "punchng.com",
+      "country": "Nigeria",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Iran war costs surpass $48B as lawmakers demand unreleased estimates on base damage",
+      "url": "https://www.wdio.com/top-stories/iran-war-costs-surpass-48b-as-lawmakers-demand-unreleased-estimates-on-base-damage/",
+      "domain": "wdio.com",
+      "country": "United States",
+      "published": "2026-11-20T00:45:00+00:00"
+     },
+     {
+      "title": "Will Trump agreement with Putin and Xi bring down gas prices ?",
+      "url": "https://www.wisn.com/article/will-president-trumps-agreement-with-putin-and-xi-bring-down-gas-prices/74481612",
+      "domain": "wisn.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Trilateral meeting brings lofty goals – but no certainty on ending wars",
+      "url": "https://www.csmonitor.com/World/Asia-Pacific/2026/1119/trump-xi-putin-trilateral-peace-nuclear",
+      "domain": "csmonitor.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Riyadh Tallest Skyscraper Hit in Houthi Strike on Saudi Wealth Fund HQ",
+      "url": "https://www.algemeiner.com/2026/11/19/riyadhs-tallest-skyscraper-hit-houthi-strike-saudi-wealth-fund-hq/",
+      "domain": "algemeiner.com",
+      "country": "Israel",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "US Senate rejects curbing Trump Iran war powers",
+      "url": "https://www.thecourier.com.au/story/9395127/us-senate-rejects-curbing-trumps-iran-war-powers/",
+      "domain": "thecourier.com.au",
+      "country": "Australia",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Iraqi Forces Strike Compromise With Powerful Pro - Iran Militia , Security Officials Say",
+      "url": "https://www.algemeiner.com/2026/11/19/iraqi-forces-strike-compromise-powerful-pro-iran-militia-security-officials-say/",
+      "domain": "algemeiner.com",
+      "country": "Israel",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Price tag for US war in Iran barrels past $48 billion",
+      "url": "https://www.dw.com/en/price-tag-for-us-war-in-iran-barrels-past-48-billion/a-79998255",
+      "domain": "dw.com",
+      "country": "Germany",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "US signed off on sales of nearly 900 , 000 AI chips to China in six months , House committee says",
+      "url": "https://www.channelnewsasia.com/world/us-signed-sales-ai-chips-china-6567216",
+      "domain": "channelnewsasia.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Politics - Carroll Broadcasting Inc .",
+      "url": "https://wkjc.com/politics/029f27f38479b0c9da8e28268151ea95",
+      "domain": "wkjc.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     }
+    ],
+    "riesgos_climaticos": [
+     {
+      "title": "Big loans and purchases have slowed down in farm country . What that signals",
+      "url": "https://www.hppr.org/hppr-news/2026-11-19/big-loans-and-purchases-have-slowed-down-in-farm-country-what-that-signals",
+      "domain": "hppr.org",
+      "country": "United States",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Has Beaujolais Nouveau Wine Arrived ? The 2026 Vintage Report",
+      "url": "https://www.winespectator.com/articles/beaujolais-nouveau-2026-vintage-thanksgiving-holiday-red-wine-gamay",
+      "domain": "winespectator.com",
+      "country": "United States",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "Saugeen Shores battery storage preferred site is on  prime  farmland",
+      "url": "https://www.owensoundsuntimes.com/news/saugeen-shores-battery-storage-preferred-site-is-on-prime-farmland/",
+      "domain": "owensoundsuntimes.com",
+      "country": "Canada",
+      "published": "2026-11-19T23:45:00+00:00"
+     },
+     {
+      "title": "Samba paddy crop on the verge of withering : farmers",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/samba-paddy-crop-on-the-verge-of-withering-farmers/article71720277.ece",
+      "domain": "thehindu.com",
+      "country": "India",
+      "published": "2026-11-19T19:30:00+00:00"
+     },
+     {
+      "title": "California growers expand pomegranate cultivation on drought - prone and saline soils",
+      "url": "https://www.freshplaza.com/north-america/article/9893942/california-growers-expand-pomegranate-cultivation-on-drought-prone-and-saline-soils/",
+      "domain": "freshplaza.com",
+      "country": "China",
+      "published": "2026-11-18T17:30:00+00:00"
+     },
+     {
+      "title": "Florida Citrus Growers Fight to Keep an Industry Alive",
+      "url": "https://www.floridaweekly.com/fort-myers/news/fresh-squeeze/article_83e48e35-5405-46bd-9257-9355ad70588d.html",
+      "domain": "floridaweekly.com",
+      "country": "United States",
+      "published": "2026-11-18T01:15:00+00:00"
+     }
+    ],
+    "produccion_agroindustrial": [
+     {
+      "title": "Do you know where your turkey is from ? Gobble up the history of the turkey industry in Minnesota - Hometown Focus",
+      "url": "https://www.hometownfocus.us/articles/do-you-know-where-your-turkey-is-from-gobble-up-the-history-of-the-turkey-industry-in-minnesota/",
+      "domain": "hometownfocus.us",
+      "country": "United States",
+      "published": "2026-11-20T01:15:00+00:00"
+     },
+     {
+      "title": "What the Most Unusual Thing Youve Ever Had for Thanksgiving Dinner ? – KSHE 95",
+      "url": "https://www.kshe95.com/a-d-show/whats-the-most-unusual-thing-youve-ever-had-for-thanksgiving-dinner/",
+      "domain": "kshe95.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Heat exhaustion , amputated fingers , crushed limbs : The hidden cost of American turkey",
+      "url": "https://newsaegis.com/syndicated/heat-exhaustion-amputated-fingers-crushed-limbs-the-hidden-cost-of-american-turkey",
+      "domain": "newsaegis.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Heat exhaustion , amputated fingers , crushed limbs : The hidden cost of American turkey",
+      "url": "https://buffaloreflex.com/syndicated/heat-exhaustion-amputated-fingers-crushed-limbs-the-hidden-cost-of-american-turkey",
+      "domain": "buffaloreflex.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Heat exhaustion , amputated fingers , crushed limbs : The hidden cost of American turkey",
+      "url": "https://bolivarmonews.com/syndicated/heat-exhaustion-amputated-fingers-crushed-limbs-the-hidden-cost-of-american-turkey",
+      "domain": "bolivarmonews.com",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Delaware receives more than $400 , 000 in federal agriculture funds for Specialty Crop Block Grant projects",
+      "url": "https://news.delaware.gov/2026/11/19/delaware-receives-more-than-400000-of-federal-agriculture-funds-for-specialty-crop-block-grant-projects/",
+      "domain": "news.delaware.gov",
+      "country": "United States",
+      "published": "2026-11-20T00:15:00+00:00"
+     },
+     {
+      "title": "Heat exhaustion , amputated fingers , crushed limbs : The hidden cost of American turkey",
+      "url": "https://harrisondaily.com/syndicated/heat-exhaustion-amputated-fingers-crushed-limbs-the-hidden-cost-of-american-turkey",
+      "domain": "harrisondaily.com",
+      "country": "United States",
+      "published": "2026-11-19T23:45:00+00:00"
+     },
+     {
+      "title": "Workers Struggles : Europe , Middle East & Africa",
+      "url": "https://www.wsws.org/en/articles/2026/11/19/rlow-n19.html",
+      "domain": "wsws.org",
+      "country": "United States",
+      "published": "2026-11-19T23:30:00+00:00"
+     },
+     {
+      "title": "Missouri farmers get 2027 budgets for crop and livestock planning",
+      "url": "https://www.kttn.com/missouri-farmers-get-2027-budgets-for-crop-and-livestock-planning/",
+      "domain": "kttn.com",
+      "country": "United States",
+      "published": "2026-11-19T23:30:00+00:00"
      },
      {
       "title": "New York only poultry veterinarian keeps birds healthy , industry thriving",
@@ -65,164 +948,19 @@
       "domain": "telugupeople.com",
       "country": "India",
       "published": "2026-11-19T19:30:00+00:00"
-     }
-    ],
-    "economia_mundial": [
-     {
-      "title": "Anthropic shares indicated about 20 % higher on gray market",
-      "url": "https://www.businesstimes.com.sg/international/global/anthropic-hits-us2-trillion-nasdaq-debut-tops-spacexs-june-listing",
-      "domain": "businesstimes.com.sg",
-      "country": "Singapore",
-      "published": "2026-11-19T19:30:00+00:00"
      },
      {
-      "title": "After Anthropic prices IPO higher than expected , shares shoot up 34 % in trading debut",
-      "url": "https://siliconangle.com/2026/11/18/after-anthropic-prices-ipo-higher-than-expected-shares-shoot-up-34-trading-debut/",
-      "domain": "siliconangle.com",
-      "country": "United States",
-      "published": "2026-11-19T19:30:00+00:00"
-     },
-     {
-      "title": "FTSE down but Anthropic makes a strong debut",
-      "url": "https://www.lbc.co.uk/article/0d59b97a34c144a0844b4fb4fcdac182-5HjdnJX_2/",
-      "domain": "lbc.co.uk",
+      "title": "Wales orders poultry indoors as bird flu threat escalates",
+      "url": "https://www.farminguk.com/news/wales-orders-poultry-indoors-as-bird-flu-threat-escalates_69510.html",
+      "domain": "farminguk.com",
       "country": "United Kingdom",
       "published": "2026-11-19T19:30:00+00:00"
-     },
-     {
-      "title": "Tale of two markets : Our 3 biggest winners and losers over the past five weeks",
-      "url": "https://balticbusinessnews.com/tale-of-two-markets-our-3-biggest-winners-and-losers-over-the-past-five-weeks/",
-      "domain": "balticbusinessnews.com",
-      "country": "Estonia",
-      "published": "2026-11-19T19:30:00+00:00"
-     },
-     {
-      "title": "APEC - ing Order",
-      "url": "http://www.zerohedge.com/geopolitical/apec-ing-order",
-      "domain": "zerohedge.com",
-      "country": "United States",
-      "published": "2026-11-19T19:30:00+00:00"
-     },
-     {
-      "title": "Anthropic valued above $US2 trillion in Nasdaq debut",
-      "url": "https://www.thecourier.com.au/story/9395019/anthropic-valued-above-us2-trillion-in-nasdaq-debut/",
-      "domain": "thecourier.com.au",
-      "country": "Australia",
-      "published": "2026-11-19T19:30:00+00:00"
-     },
-     {
-      "title": "Markets today : Anthropic makes strong debut but Wall Street falls , ASX set for losses",
-      "url": "https://www.theage.com.au/business/markets/asx-eyes-more-losses-as-wall-street-falls-despite-strong-debut-for-anthropic-20261120-p61ft6.html",
-      "domain": "theage.com.au",
-      "country": "Australia",
-      "published": "2026-11-19T19:30:00+00:00"
-     },
-     {
-      "title": "BofA sees path for capital return to Brazil if fiscal  homework  is done",
-      "url": "https://www.aol.com/articles/bofa-sees-path-capital-return-182141000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-11-19T19:30:00+00:00"
-     },
-     {
-      "title": "Anthropic set to secure $1 . 8 trillion valuation in strong Nasdaq debut",
-      "url": "https://tribune.com.pk/story/2641219/anthropic-set-to-secure-18-trillion-valuation-in-strong-nasdaq-debut",
-      "domain": "tribune.com.pk",
-      "country": "Pakistan",
-      "published": "2026-11-19T19:30:00+00:00"
-     },
-     {
-      "title": "Iran war could leave consumers facing years of uncertainty over energy costs",
-      "url": "https://kpic.com/news/nation-world/iran-war-could-leave-consumers-facing-years-of-uncertainty-over-energy-costs",
-      "domain": "kpic.com",
-      "country": "United States",
-      "published": "2026-11-19T19:30:00+00:00"
-     },
-     {
-      "title": "Borr Drilling ( BORR ) Q3 2026 Earnings Call Transcript",
-      "url": "https://www.aol.com/articles/borr-drilling-borr-q3-2026-184806000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-11-19T19:30:00+00:00"
-     },
-     {
-      "title": "The 2028 presidential election has started",
-      "url": "https://www.record-bee.com/2026/11/19/the-2028-presidential-election-has-started/",
-      "domain": "record-bee.com",
-      "country": "United States",
-      "published": "2026-11-19T17:15:00+00:00"
-     },
-     {
-      "title": "Cosmos Health to Resume Share Repurchases as Insiders Commit to 12 - Month Lock - Up",
-      "url": "http://www.newjerseytelegraph.com/news/279443555/cosmos-health-to-resume-share-repurchases-as-insiders-commit-to-12-month-lock-up",
-      "domain": "newjerseytelegraph.com",
-      "country": "United States",
-      "published": "2026-11-19T17:15:00+00:00"
-     },
-     {
-      "title": "Rupee strength , not weakness , may pose challenge in FY28 : CEA Nageswaran",
-      "url": "https://www.business-standard.com/economy/news/lower-crude-oil-prices-could-bring-huge-windfall-for-india-in-fy28-cea-126111801445_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-11-18T17:30:00+00:00"
-     },
-     {
-      "title": "SBP Governor Calls for Structural Reforms , Export - Led Growth",
-      "url": "https://pakobserver.net/sbp-governor-calls-for-structural-reforms-export-led-growth/",
-      "domain": "pakobserver.net",
-      "country": "Pakistan",
-      "published": "2026-11-18T17:30:00+00:00"
-     },
-     {
-      "title": "European Commission expects EU economy to grow by 1 . 4 % in 2026 and 2027",
-      "url": "http://www.europesun.com/news/279439357/european-commission-expects-eu-economy-to-grow-by-14-in-2026-and-2027",
-      "domain": "europesun.com",
-      "country": "Russia",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Deadline",
-      "url": "https://deadline.com/print-article/1237226972/",
-      "domain": "deadline.com",
-      "country": "United States",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Another wipeout hits Wall Street as Nvidia , other jittery AI stocks swing lower",
-      "url": "https://www.ky3.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/",
-      "domain": "ky3.com",
-      "country": "United States",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "3 Dividend Kings to Buy in November That Could Pay You for the Rest of Your Life",
-      "url": "https://www.fool.com/investing/2026/11/17/3-dividend-kings-to-buy-in-november-that-could-pay-you-for-the-rest-of-your-life/",
-      "domain": "fool.com",
-      "country": "United States",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Reserve Bank warns AI is speeding up cyber - attacks on NZ banks",
-      "url": "https://newswire.co.nz/2026/11/reserve-bank-of-new-zealand-warns-frontier-ai-is-speeding-up-cyber-attacks-and-giving-banks-less-time-to-fix-flaws/",
-      "domain": "newswire.co.nz",
-      "country": "New Zealand",
-      "published": "2026-11-18T01:15:00+00:00"
-     },
-     {
-      "title": "Southern Highlands home values drop as sale times hit 70 days",
-      "url": "https://www.yasstribune.com.au/story/9393178/southern-highlands-home-values-drop-as-sale-times-hit-70-days/",
-      "domain": "yasstribune.com.au",
-      "country": "Australia",
-      "published": "2026-11-18T01:15:00+00:00"
      }
     ]
    },
    "errors": {
-    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "comercio_internacional": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }

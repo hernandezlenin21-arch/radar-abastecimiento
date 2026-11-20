@@ -1,5 +1,22 @@
 [
  {
+  "id": "f1cd73ba9ae4",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-20",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 1 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “KSA : Riyadh tower hit in Houthi strike” (gdnonline.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "gdnonline.com",
+  "url": "https://www.gdnonline.com:443/Details/1413395",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-19T20:21:52-06:00"
+ },
+ {
   "indicator": "diesel_nyh",
   "name": "Diésel ULSD (New York Harbor, mayorista)",
   "group": "energia",
