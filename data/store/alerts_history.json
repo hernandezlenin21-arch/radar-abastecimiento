@@ -1,5 +1,22 @@
 [
  {
+  "id": "cba02bcec966",
+  "indicator": "cp-ormuz",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-20",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Estrecho de Ormuz: 2 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Hormuz blockade no bar : Iraq offers crude at steep $33 discounts as oil markets retreat from war highs” (businesstoday.in). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "businesstoday.in",
+  "url": "https://www.businesstoday.in/world/story/hormuz-blockade-no-bar-iraq-offers-crude-at-steep-33-discounts-as-oil-markets-retreat-from-war-highs-568679-2026-11-20",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-20T14:26:03-06:00"
+ },
+ {
   "id": "d19525fca874",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
