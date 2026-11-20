@@ -1,5 +1,22 @@
 [
  {
+  "id": "d19525fca874",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-20",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 3 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Oil Prices Rebound as Houthi Attacks Reignite Middle East Supply Fears” (oilprice.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "oilprice.com",
+  "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rebound-as-Houthi-Attacks-Reignite-Middle-East-Supply-Fears.html",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-20T05:45:51-06:00"
+ },
+ {
   "id": "f1cd73ba9ae4",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
