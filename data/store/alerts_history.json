@@ -1,5 +1,22 @@
 [
  {
+  "id": "a2533ce871b3",
+  "indicator": "cp-ormuz",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-21",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Estrecho de Ormuz: 3 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Reported Hormuz attacks hit wartime highs . Oil prices fall anyway . · Digg” (digg.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "digg.com",
+  "url": "https://digg.com/world-business/hk32yb03",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-21T13:20:46-06:00"
+ },
+ {
   "id": "60866c6eb44d",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
