@@ -1,5 +1,22 @@
 [
  {
+  "id": "ead4110408e4",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-22",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 3 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Yemen Houthis claim strikes on Saudi oil refinery , radar facility” (bignewsnetwork.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "bignewsnetwork.com",
+  "url": "http://www.bignewsnetwork.com/news/279449147/yemen-houthis-claim-strikes-on-saudi-oil-refinery-radar-facility",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-22T13:45:08-06:00"
+ },
+ {
   "id": "73dda87f0b53",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
