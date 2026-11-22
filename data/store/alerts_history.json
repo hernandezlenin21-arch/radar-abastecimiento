@@ -1,5 +1,22 @@
 [
  {
+  "id": "73dda87f0b53",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-22",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 2 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Saudi jets strike Houthi strongholds after fresh attacks on kingdom” (middle-east-online.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "middle-east-online.com",
+  "url": "https://www.middle-east-online.com/en/saudi-jets-strike-houthi-strongholds-after-fresh-attacks-kingdom",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-22T05:30:30-06:00"
+ },
+ {
   "id": "a2533ce871b3",
   "indicator": "cp-ormuz",
   "name": "Punto crítico logístico",
