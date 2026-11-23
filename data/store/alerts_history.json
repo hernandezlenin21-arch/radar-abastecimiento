@@ -1,5 +1,22 @@
 [
  {
+  "id": "c18defc067bc",
+  "indicator": "cp-ormuz",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-22",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Estrecho de Ormuz: 4 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began” (peakoil.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "peakoil.com",
+  "url": "https://peakoil.com/publicpolicy/iranian-attacks-in-the-strait-of-hormuz-are-at-the-highest-levels-since-the-conflict-began",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-22T19:46:10-06:00"
+ },
+ {
   "id": "ead4110408e4",
   "indicator": "cp-mar_rojo",
   "name": "Punto crítico logístico",
