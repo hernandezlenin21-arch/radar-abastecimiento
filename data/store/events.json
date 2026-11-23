@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-22T19:46:10-06:00",
+  "at": "2026-11-23T06:54:01-06:00",
   "data": {
    "storms": [],
    "url": "https://www.nhc.noaa.gov/"
@@ -9,7 +9,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-22T19:46:10-06:00",
+  "at": "2026-11-23T06:54:01-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than a 79&#37; chance).",
@@ -18,292 +18,52 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-22T19:46:10-06:00",
+  "at": "2026-11-23T06:54:01-06:00",
   "data": {
    "raw": {
-    "energia": [
-     {
-      "title": "Tanker Market : Lower Refining Margins Leaving Less Room to Pay for Freight | Hellenic Shipping News Worldwide",
-      "url": "https://www.hellenicshippingnews.com/tanker-market-lower-refining-margins-leaving-less-room-to-pay-for-freight/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "IEA : Extreme Weather Risks to International Oil and Natural Gas Shipping | Hellenic Shipping News Worldwide",
-      "url": "https://www.hellenicshippingnews.com/iea-extreme-weather-risks-to-international-oil-and-natural-gas-shipping/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "Ahead of Thanksgiving , Southern Californians feel pinch of high food prices",
-      "url": "https://www.presstelegram.com/2026/11/22/ahead-of-thanksgiving-southern-californians-feel-pinch-of-high-food-prices/",
-      "domain": "presstelegram.com",
-      "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "Climate deal collapses in chaotic end to COP31 – Ghanamma . com",
-      "url": "https://www.ghanamma.com/2026/11/22/climate-deal-collapses-in-chaotic-end-to-cop31/",
-      "domain": "ghanamma.com",
-      "country": "Ghana",
-      "published": "2026-11-22T21:30:00+00:00"
-     },
-     {
-      "title": "Ahead of Thanksgiving , Southern Californians feel pinch of high food prices",
-      "url": "https://www.sgvtribune.com/2026/11/22/ahead-of-thanksgiving-southern-californians-feel-pinch-of-high-food-prices/",
-      "domain": "sgvtribune.com",
-      "country": "United States",
-      "published": "2026-11-22T21:30:00+00:00"
-     },
-     {
-      "title": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
-      "url": "https://peakoil.com/publicpolicy/iranian-attacks-in-the-strait-of-hormuz-are-at-the-highest-levels-since-the-conflict-began",
-      "domain": "peakoil.com",
-      "country": "United States",
-      "published": "2026-11-22T20:30:00+00:00"
-     },
-     {
-      "title": "Money Diaries : An engineer on €93K living in Co Kildare",
-      "url": "https://www.thejournal.ie/readme/money-diaries-spending-saving-109-7228851-Nov2026/",
-      "domain": "thejournal.ie",
-      "country": "Ireland",
-      "published": "2026-11-22T20:30:00+00:00"
-     },
-     {
-      "title": "Senate approves bill to speed up permitting reviews , force data centers to pay for energy costs",
-      "url": "https://www.ktre.com/2026/11/22/senate-approves-bill-speed-up-permitting-reviews-force-data-centers-pay-energy-costs/",
-      "domain": "ktre.com",
-      "country": "United States",
-      "published": "2026-11-22T20:30:00+00:00"
-     },
-     {
-      "title": "AEW Collision Review : White Joins a Three - Way Tie at the Top",
-      "url": "https://bleedingcool.com/tv/aew-collision-review-white-joins-a-three-way-tie-at-the-top/",
-      "domain": "bleedingcool.com",
-      "country": "United States",
-      "published": "2026-11-22T20:30:00+00:00"
-     },
-     {
-      "title": "Why the failure to reach a major deal at UN climate talks matters as extreme weather worsens",
-      "url": "http://www.thegazette.com/news/world/why-the-failure-to-reach-a-major-deal-at-un-climate-talks-matters-as-extreme/article_1ab1eef6-10fe-5990-a5e4-77b3e335cbc3.html",
-      "domain": "thegazette.com",
-      "country": "United States",
-      "published": "2026-11-22T20:30:00+00:00"
-     },
-     {
-      "title": "Ahead of Thanksgiving , Southern Californians feel pinch of high food prices",
-      "url": "https://www.pasadenastarnews.com/2026/11/22/ahead-of-thanksgiving-southern-californians-feel-pinch-of-high-food-prices/",
-      "domain": "pasadenastarnews.com",
-      "country": "United States",
-      "published": "2026-11-22T19:30:00+00:00"
-     },
-     {
-      "title": "UN climate talks fizzle out without an overarching agreement",
-      "url": "https://www.wsbradio.com/news/world/turkeys-final-draft/HALZEDGM6A5QLNFPP5Y4XS76WU/",
-      "domain": "wsbradio.com",
-      "country": "United States",
-      "published": "2026-11-22T19:30:00+00:00"
-     },
-     {
-      "title": "Solid Waste & Recycling News",
-      "url": "https://www.wastedive.com/?page=2&_sp=1833de5c-f5f8-489c-a708-dfd4806bd3e9",
-      "domain": "wastedive.com",
-      "country": "United States",
-      "published": "2026-11-22T19:30:00+00:00"
-     },
-     {
-      "title": "Senate gas reservation bill gets conditional farm support | Farm Weekly",
-      "url": "https://www.farmweekly.com.au/story/9395113/senate-gas-reservation-bill-gets-conditional-farm-support/",
-      "domain": "farmweekly.com.au",
-      "country": "Australia",
-      "published": "2026-11-22T19:00:00+00:00"
-     },
-     {
-      "title": "Earnings delivery to drive next phase of returns : Chockalingam Narayanan",
-      "url": "https://www.business-standard.com/markets/interviews/earnings-delivery-to-drive-next-phase-of-returns-chockalingam-narayanan-126112200387_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-11-22T19:00:00+00:00"
-     },
-     {
-      "title": "Gold Tests $3 , 500 as Traders Look Beyond December Fed Decision",
-      "url": "https://www.ibtimes.co.in/gold-falls-nearly-11-mcx-traders-brace-fed-rate-hike-908590",
-      "domain": "ibtimes.co.in",
-      "country": "India",
-      "published": "2026-11-22T19:00:00+00:00"
-     },
-     {
-      "title": "Senate gas reservation bill gets conditional farm support | The Land",
-      "url": "https://www.theland.com.au/story/9395113/senate-gas-reservation-bill-gets-conditional-farm-support/",
-      "domain": "theland.com.au",
-      "country": "Australia",
-      "published": "2026-11-22T19:00:00+00:00"
-     },
-     {
-      "title": "Thanksgiving meal price to see first increase since 2022",
-      "url": "https://www.hometownregister.com/news/thanksgiving-meal-price-to-see-first-increase-since-2022/article_0b462a85-49d2-5552-bd1b-01717ad8f83a.html",
-      "domain": "hometownregister.com",
-      "country": "",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "Why the failure to reach a major deal at UN climate talks matters as extreme weather worsens",
-      "url": "https://mymotherlode.com/news/world/11331459/un-climate-talks-break-down-without-an-overarching-agreement.html",
-      "domain": "mymotherlode.com",
-      "country": "United States",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "Breakfast briefing : Waiting for the herd",
-      "url": "https://www.interest.co.nz/economy/141180/eyes-wall-street-japan-inflation-china-foreign-direct-investment-inflows-slow-taiwan",
-      "domain": "interest.co.nz",
-      "country": "New Zealand",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "4 Days After Protest , Imo Government Begin Road Rehabilitation",
-      "url": "https://leadership.ng/4-days-after-protest-imo-government-begin-road-rehabilitation/",
-      "domain": "leadership.ng",
-      "country": "Nigeria",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "Tories and universities raise concerns over Andy Burnham European Union deal",
-      "url": "https://www.chroniclelive.co.uk/news/uk-news/tories-universities-raise-concerns-over-34949639",
-      "domain": "chroniclelive.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-22T12:30:00+00:00"
-     },
-     {
-      "title": "India oil & gas import bill shoots up $6 billion in Oct as global prices surge",
-      "url": "https://www.prokerala.com/news/articles/a1839762.html",
-      "domain": "prokerala.com",
-      "country": "India",
-      "published": "2026-11-22T10:30:00+00:00"
-     },
-     {
-      "title": "Tinubu pledges 50 , 000 hostel beds in federal institutions",
-      "url": "https://punchng.com/tinubu-pledges-50000-hostel-beds-in-federal-tertiary-institutions/",
-      "domain": "punchng.com",
-      "country": "Nigeria",
-      "published": "2026-11-22T10:30:00+00:00"
-     },
-     {
-      "title": "How electric tractors , fishing boats could cut Filipino food costs",
-      "url": "https://www.philstar.com/business/2026/11/18/2571011/how-electric-tractors-fishing-boats-could-cut-filipinos-food-costs",
-      "domain": "philstar.com",
-      "country": "Philippines",
-      "published": "2026-11-22T07:30:00+00:00"
-     },
-     {
-      "title": "Andy Burnham EU reset deal could increase energy bills by  £281 a year",
-      "url": "https://www.dailystar.co.uk/news/politics/burnham-eu-deal-energy-bills-37903005",
-      "domain": "dailystar.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-22T07:30:00+00:00"
-     },
-     {
-      "title": "Doug Casey On The Coming Collapse Of Saudi Arabia , And What It Means For The Petrodollar",
-      "url": "http://www.zerohedge.com/energy/doug-casey-coming-collapse-saudi-arabia-and-what-it-means-petrodollar",
-      "domain": "zerohedge.com",
-      "country": "United States",
-      "published": "2026-11-22T05:30:00+00:00"
-     },
-     {
-      "title": "Luxury for the elite , hardship for the masses : North Korea economic divide",
-      "url": "https://www.koreaherald.com/article/10945063",
-      "domain": "koreaherald.com",
-      "country": "South Korea",
-      "published": "2026-11-22T05:30:00+00:00"
-     },
-     {
-      "title": "Tories and universities raise concerns over Burnham Brussels deal",
-      "url": "https://www.impartialreporter.com/news/national/26751284.tories-universities-raise-concerns-burnhams-brussels-deal/",
-      "domain": "impartialreporter.com",
-      "country": "United Kingdom",
-      "published": "2026-11-22T00:30:00+00:00"
-     },
-     {
-      "title": "Jim Cramer Says the Fed  Doesnt Need to Do More Than 25",
-      "url": "https://247wallst.com/investing/2026/11/21/jim-cramer-says-the-fed-doesnt-need-to-do-more-than-25/",
-      "domain": "247wallst.com",
-      "country": "United States",
-      "published": "2026-11-22T00:30:00+00:00"
-     },
-     {
-      "title": "Tories and universities raise concerns over Burnham Brussels deal",
-      "url": "https://www.malverngazette.co.uk/news/national/26751284.tories-universities-raise-concerns-burnhams-brussels-deal/",
-      "domain": "malverngazette.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-22T00:30:00+00:00"
-     },
-     {
-      "title": "Solid Waste & Recycling News",
-      "url": "https://www.wastedive.com/?page=2&_sp=6c095e5b-5031-4b18-8804-5aa5d14251df",
-      "domain": "wastedive.com",
-      "country": "United States",
-      "published": "2026-11-22T00:30:00+00:00"
-     },
-     {
-      "title": "Tories and universities raise concerns over Burnham Brussels deal",
-      "url": "https://www.thenorthernecho.co.uk/news/national/26751284.tories-universities-raise-concerns-burnhams-brussels-deal/",
-      "domain": "thenorthernecho.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-22T00:30:00+00:00"
-     },
-     {
-      "title": "Tories and universities raise concerns over Burnham Brussels deal",
-      "url": "https://www.thewestmorlandgazette.co.uk/news/national/26751284.tories-universities-raise-concerns-burnhams-brussels-deal/",
-      "domain": "thewestmorlandgazette.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-22T00:30:00+00:00"
-     },
-     {
-      "title": "Tories and universities raise concerns over Burnham Brussels deal",
-      "url": "https://www.newsandstar.co.uk/news/national/26751284.tories-universities-raise-concerns-burnhams-brussels-deal/",
-      "domain": "newsandstar.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-22T00:30:00+00:00"
-     },
-     {
-      "title": "Tories and universities raise concerns over Burnham Brussels deal",
-      "url": "https://www.cotswoldjournal.co.uk/news/national/26751284.tories-universities-raise-concerns-burnhams-brussels-deal/",
-      "domain": "cotswoldjournal.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-22T00:30:00+00:00"
-     },
-     {
-      "title": "Tories and universities raise concerns over Burnham Brussels deal | The Wiltshire Gazette and Herald",
-      "url": "https://www.gazetteandherald.co.uk/news/national/26751284.tories-universities-raise-concerns-burnhams-brussels-deal/",
-      "domain": "gazetteandherald.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-22T00:30:00+00:00"
-     },
-     {
-      "title": "Tories and universities raise concerns over Burnham Brussels deal",
-      "url": "https://www.brentwoodlive.co.uk/news/national/26751284.tories-universities-raise-concerns-burnhams-brussels-deal/",
-      "domain": "brentwoodlive.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-22T00:30:00+00:00"
-     },
-     {
-      "title": "HMRC confirms new fuel prices from December 1 - full list of petrol and diesel rates",
-      "url": "https://www.manchestereveningnews.co.uk/news/cost-of-living/hmrc-confirms-new-fuel-prices-34948560",
-      "domain": "manchestereveningnews.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-21T20:30:00+00:00"
-     },
-     {
-      "title": "Disclose  100 % deal with Trump | Daily Tribune",
-      "url": "https://tribune.net.ph/2026/11/21/disclose-100-deal-with-trump",
-      "domain": "tribune.net.ph",
-      "country": "Philippines",
-      "published": "2026-11-21T20:30:00+00:00"
-     }
-    ],
     "comercio_internacional": [
+     {
+      "title": "Stock market outlook today , 23 Nov : Sensex , Nifty prediction - DJIA , S & P , NASDAQ , GIFT Nifty , Kospi , Nikkei , Taiwan cues",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795394068928.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-23T03:30:00+00:00"
+     },
+     {
+      "title": "Is the AI Stock Market Boom Coming to an End ?",
+      "url": "https://newsonjapan.com/article/151486.php",
+      "domain": "newsonjapan.com",
+      "country": "Japan",
+      "published": "2026-11-23T03:30:00+00:00"
+     },
+     {
+      "title": "Fugitive criminals need a new hideout since the UAE started extraditing them",
+      "url": "https://www.livemint.com/global/fugitive-criminals-need-a-new-hideout-since-the-uae-started-extraditing-them-11795396744758.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-23T03:30:00+00:00"
+     },
+     {
+      "title": "Top stocks to watch today : Tata Steel , APL Apollo Tubes , Maruti Suzuki , RVNL , Waaree Energies & 17 others in focus",
+      "url": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-steel-apl-apollo-tubes-maruti-suzuki-rvnl-waaree-energies-17-others-in-focus-11795399384907.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-23T03:30:00+00:00"
+     },
+     {
+      "title": "US cant seek India support while engaging with Pakistan : Congres Shama Mohamed",
+      "url": "http://www.greekherald.com/news/279449492/us-cant-seek-india-support-while-engaging-with-pakistan-congress-shama-mohamed",
+      "domain": "greekherald.com",
+      "country": "Greece",
+      "published": "2026-11-23T03:30:00+00:00"
+     },
+     {
+      "title": "Raja Venkatraman recommends three stocks for 23 November",
+      "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-23-november-11795350488392.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-23T03:30:00+00:00"
+     },
      {
       "title": "Victorians face serious risk of more destructive asset sell - offs",
       "url": "https://independentaustralia.net/politics/politics-display/victorians-face-serious-risk-of-more-destructive-asset-sell-offs,21845",
@@ -541,493 +301,6 @@
       "domain": "thepeterboroughexaminer.com",
       "country": "Canada",
       "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "10 Black Friday 2026 Kitchen Appliance Deals To Score On Amazon",
-      "url": "https://www.thedailymeal.com/2322987/black-friday-2026-kitchen-appliance-deals-amazon/",
-      "domain": "thedailymeal.com",
-      "country": "United States",
-      "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "Anthropic plunges as Wall Street suffers AI sell - off",
-      "url": "https://www.aol.com/articles/anthropic-plunges-wall-street-suffers-210718000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "Dole to close Central Valley plant and lay off hundreds of workers",
-      "url": "https://www.latimes.com/business/story/2026-11-20/dole-to-close-central-valley-plant-lay-off-hundreds-of-workers",
-      "domain": "latimes.com",
-      "country": "United States",
-      "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "A rare EU - UK summit as Andy Burnham seeks to mend Brexit damage",
-      "url": "https://www.niagarafallsreview.ca/business/a-rare-eu-uk-summit-as-andy-burnham-seeks-to-mend-brexit-damage/article_75650c12-b4cb-51ae-aff6-a688fd2e1542.html",
-      "domain": "niagarafallsreview.ca",
-      "country": "Canada",
-      "published": "2026-11-20T06:45:00+00:00"
-     },
-     {
-      "title": "ASX Runners of the Week : Black Rock , Mayne Pharma & Metal Hawk",
-      "url": "https://www.smh.com.au/business/companies/asx-runners-of-the-week-black-rock-mayne-pharma-and-metal-hawk-20261120-p61g1o.html",
-      "domain": "smh.com.au",
-      "country": "Australia",
-      "published": "2026-11-20T06:45:00+00:00"
-     },
-     {
-      "title": "Singapore energy security : Diversification and natural gas",
-      "url": "https://www.straitstimes.com/singapore/environment/diversifying-energy-sources-and-fuel-suppliers-key-to-self-sufficiency-in-spore-tan-see-leng",
-      "domain": "straitstimes.com",
-      "country": "Singapore",
-      "published": "2026-11-20T06:45:00+00:00"
-     }
-    ],
-    "transporte_maritimo": [
-     {
-      "title": "Missouri launches monitoring plan ahead of Iowa ammunition detonation",
-      "url": "https://whig.com/2026/11/22/missouri-launches-monitoring-plan-ahead-of-iowa-ammunition-detonation/",
-      "domain": "whig.com",
-      "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "COP31 ends without agreement on energy transition | Morning News Bulletin 23 November 2026",
-      "url": "https://www.sbs.com.au/news/podcast-episode/cop31-ends-without-agreement-on-energy-transition-morning-news-bulletin-23-november-2026/odd146o4u",
-      "domain": "sbs.com.au",
-      "country": "Australia",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "US Army tells court it intends to detonate bomb - making material in Iowa by Tuesday despite pause . Here what we know | National & World",
-      "url": "https://www.kake.com/news/national/us-army-tells-court-it-intends-to-detonate-bomb-making-material-in-iowa-by-tuesday/article_ffe6a7dc-e45b-4a9e-86d3-979080ddee65.html",
-      "domain": "kake.com",
-      "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "Saudi Arabia turns to Ukraine , South Korea and others to counter attacks",
-      "url": "https://www.stripes.com/theaters/middle_east/2026-11-22/saudi-arabia-weapons-23544624.html",
-      "domain": "stripes.com",
-      "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "Army plans Iowa detonation this week despite court stay over toxic plumes",
-      "url": "https://www.stripes.com/branches/army/2026-11-22/army-still-plans-detonation-iowa-23544688.html",
-      "domain": "stripes.com",
-      "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "Trump says  inclined  to resume war on Iran if no deal reached by New Year",
-      "url": "http://www.heraldglobe.com/news/279449209/trump-says-inclined-to-resume-war-on-iran-if-no-deal-reached-by-new-year",
-      "domain": "heraldglobe.com",
-      "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "US Army says it must detonate explosives in Iowa due to coming cold weather",
-      "url": "https://www.fox4news.com/news/iowa-detonation-army-cold-weather",
-      "domain": "fox4news.com",
-      "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "Climate change talks fall apart in final hours over fossil fuels",
-      "url": "https://radio.wpsu.org/2026-11-22/climate-change-talks-fall-apart-in-final-hours-over-fossil-fuels",
-      "domain": "radio.wpsu.org",
-      "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "Climate change talks fall apart in final hours over fossil fuels",
-      "url": "https://kansaspublicradio.org/npr-news/2026-11-22/climate-change-talks-fall-apart-in-final-hours-over-fossil-fuels",
-      "domain": "kansaspublicradio.org",
-      "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "US Army says it must detonate explosives in Iowa due to coming cold weather",
-      "url": "https://www.fox5atlanta.com/news/iowa-detonation-army-cold-weather",
-      "domain": "fox5atlanta.com",
-      "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "Trump says  inclined  to resume war on Iran if no deal reached by New Year",
-      "url": "http://www.kenyastar.com/news/279449209/trump-says-inclined-to-resume-war-on-iran-if-no-deal-reached-by-new-year",
-      "domain": "kenyastar.com",
-      "country": "Kenya",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "Tanker Market : Lower Refining Margins Leaving Less Room to Pay for Freight | Hellenic Shipping News Worldwide",
-      "url": "https://www.hellenicshippingnews.com/tanker-market-lower-refining-margins-leaving-less-room-to-pay-for-freight/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "IEA : Extreme Weather Risks to International Oil and Natural Gas Shipping | Hellenic Shipping News Worldwide",
-      "url": "https://www.hellenicshippingnews.com/iea-extreme-weather-risks-to-international-oil-and-natural-gas-shipping/",
-      "domain": "hellenicshippingnews.com",
-      "country": "China",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "Climate change talks fall apart in final hours over fossil fuels",
-      "url": "https://www.interlochenpublicradio.org/2026-11-22/climate-change-talks-fall-apart-in-final-hours-over-fossil-fuels",
-      "domain": "interlochenpublicradio.org",
-      "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "Climate change talks fall apart in final hours over fossil fuels",
-      "url": "https://www.capeandislands.org/2026-11-22/climate-change-talks-fall-apart-in-final-hours-over-fossil-fuels",
-      "domain": "capeandislands.org",
-      "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "Italian Foreign Minister pays visit to Azerbaijan",
-      "url": "https://en.apa.az/foreign-policy/italian-foreign-minister-pays-visit-to-azerbaijan-537789",
-      "domain": "en.apa.az",
-      "country": "Azerbaijan",
-      "published": "2026-11-22T21:30:00+00:00"
-     },
-     {
-      "title": "Climate change talks fall apart in final hours over fossil fuels",
-      "url": "https://www.klcc.org/npr-news/2026-11-22/climate-change-talks-fall-apart-in-final-hours-over-fossil-fuels",
-      "domain": "klcc.org",
-      "country": "United States",
-      "published": "2026-11-22T21:30:00+00:00"
-     },
-     {
-      "title": "Two oil tankers explode after hitting naval mines in Strait of Hormuz",
-      "url": "https://en.apa.az/asia/two-oil-tankers-explode-after-hitting-naval-mines-in-strait-of-hormuz-537786",
-      "domain": "en.apa.az",
-      "country": "Azerbaijan",
-      "published": "2026-11-22T21:30:00+00:00"
-     },
-     {
-      "title": "Climate change talks fall apart in final hours over fossil fuels",
-      "url": "https://www.kcbx.org/npr-top-news/2026-11-22/climate-change-talks-fall-apart-in-final-hours-over-fossil-fuels",
-      "domain": "kcbx.org",
-      "country": "United States",
-      "published": "2026-11-22T21:30:00+00:00"
-     },
-     {
-      "title": "Climate change talks fall apart in final hours over fossil fuels",
-      "url": "https://www.kenw.org/npr-news/2026-11-22/climate-change-talks-fall-apart-in-final-hours-over-fossil-fuels",
-      "domain": "kenw.org",
-      "country": "United States",
-      "published": "2026-11-22T21:30:00+00:00"
-     },
-     {
-      "title": "Trump inclined to resume strikes on Iran after New Year if no deal reached",
-      "url": "https://aa.com.tr/en/americas/trump-inclined-to-resume-strikes-on-iran-after-new-year-if-no-deal-reached/4133792",
-      "domain": "aa.com.tr",
-      "country": "Turkey",
-      "published": "2026-11-22T21:30:00+00:00"
-     },
-     {
-      "title": "Iran files war crime lawsuits in American , European courts over US - Israeli attacks",
-      "url": "https://aa.com.tr/en/middle-east/iran-files-war-crime-lawsuits-in-american-european-courts-over-us-israeli-attacks/4133788",
-      "domain": "aa.com.tr",
-      "country": "Turkey",
-      "published": "2026-11-22T21:30:00+00:00"
-     },
-     {
-      "title": "Climate change talks fall apart in final hours over fossil fuels",
-      "url": "https://www.wuft.org/2026-11-22/climate-change-talks-fall-apart-in-final-hours-over-fossil-fuels",
-      "domain": "wuft.org",
-      "country": "United States",
-      "published": "2026-11-22T21:30:00+00:00"
-     },
-     {
-      "title": "Iran says 2 supertankers struck naval mines near Strait of Hormuz",
-      "url": "https://aa.com.tr/en/middle-east/iran-says-2-supertankers-struck-naval-mines-near-strait-of-hormuz/4133736",
-      "domain": "aa.com.tr",
-      "country": "Turkey",
-      "published": "2026-11-22T21:30:00+00:00"
-     },
-     {
-      "title": "Trump inclined to resume strikes on Iran after New Year if no deal reached",
-      "url": "https://www.middleeastmonitor.com/20261122-trump-inclined-to-resume-strikes-on-iran-after-new-year-if-no-deal-reached/",
-      "domain": "middleeastmonitor.com",
-      "country": "Israel",
-      "published": "2026-11-22T20:30:00+00:00"
-     },
-     {
-      "title": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
-      "url": "https://peakoil.com/publicpolicy/iranian-attacks-in-the-strait-of-hormuz-are-at-the-highest-levels-since-the-conflict-began",
-      "domain": "peakoil.com",
-      "country": "United States",
-      "published": "2026-11-22T20:30:00+00:00"
-     },
-     {
-      "title": "UN - affiliated athlete swims in dangerous Strait of Hormuz to highlight Iran war impact on wildlife",
-      "url": "https://www.cbc.ca/news/world/un-endurance-swimmer-strait-of-hormuz-wildlife-impact-9.7431891",
-      "domain": "cbc.ca",
-      "country": "Canada",
-      "published": "2026-11-22T20:30:00+00:00"
-     },
-     {
-      "title": "Trump signals possible renewed strikes on Iran after New Year if talks fail",
-      "url": "https://www.middle-east-online.com/en/trump-signals-possible-renewed-strikes-iran-after-new-year-if-talks-fail",
-      "domain": "middle-east-online.com",
-      "country": "Iraq",
-      "published": "2026-11-22T20:30:00+00:00"
-     },
-     {
-      "title": "Trump threatens fresh strikes on Iran after New Year if talks fail , accuses Tehran of stalling negotiations",
-      "url": "https://timesofindia.indiatimes.com/world/us/trump-threatens-fresh-strikes-on-iran-after-new-year-if-talks-fail-accuses-tehran-of-stalling-negotiations/articleshow/136083179.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-11-22T20:30:00+00:00"
-     },
-     {
-      "title": "Climate change talks fall apart in final hours over fossil fuels",
-      "url": "https://wnyc.org/npr/nx-s1-6046195",
-      "domain": "wnyc.org",
-      "country": "United States",
-      "published": "2026-11-22T20:30:00+00:00"
-     },
-     {
-      "title": "Climate change talks fall apart in final hours over fossil fuels",
-      "url": "https://www.wfae.org/world/2026-11-22/climate-change-talks-fall-apart-in-final-hours-over-fossil-fuels",
-      "domain": "wfae.org",
-      "country": "United States",
-      "published": "2026-11-22T20:30:00+00:00"
-     },
-     {
-      "title": "FM stresses no troops to Yemen yet as Ankara focuses on Saudi defense",
-      "url": "https://www.dailysabah.com/politics/diplomacy/fm-stresses-no-troops-to-yemen-yet-as-ankara-focuses-on-saudi-defense",
-      "domain": "dailysabah.com",
-      "country": "Turkey",
-      "published": "2026-11-22T19:30:00+00:00"
-     },
-     {
-      "title": "Professional Tap Dancer : Trump Has Had It With Iran Negotiators – RedState",
-      "url": "https://redstate.com/wardclark/2026/11/22/professional-tap-dancers-trump-has-had-it-with-irans-negotiators-n2209680",
-      "domain": "redstate.com",
-      "country": "United States",
-      "published": "2026-11-22T19:30:00+00:00"
-     },
-     {
-      "title": "Senate gas reservation bill gets conditional farm support | Farm Weekly",
-      "url": "https://www.farmweekly.com.au/story/9395113/senate-gas-reservation-bill-gets-conditional-farm-support/",
-      "domain": "farmweekly.com.au",
-      "country": "Australia",
-      "published": "2026-11-22T19:00:00+00:00"
-     },
-     {
-      "title": "Senate gas reservation bill gets conditional farm support | The Land",
-      "url": "https://www.theland.com.au/story/9395113/senate-gas-reservation-bill-gets-conditional-farm-support/",
-      "domain": "theland.com.au",
-      "country": "Australia",
-      "published": "2026-11-22T19:00:00+00:00"
-     },
-     {
-      "title": "Iran says 2 supertankers struck naval mines near Strait of Hormuz",
-      "url": "https://www.middleeastmonitor.com/20261122-iran-says-2-supertankers-struck-naval-mines-near-strait-of-hormuz/",
-      "domain": "middleeastmonitor.com",
-      "country": "Israel",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "US - China power gap at narrowest as Washington loses ground , Lowy report finds - 23 - Nov - 2026",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=458460",
-      "domain": "home.nzcity.co.nz",
-      "country": "New Zealand",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "The Iranian theocracy is the scorpion We must not play its frog",
-      "url": "https://torontosun.com/opinion/columnists/iranian-theocracy-scorpion-we-must-not-play-its-frog",
-      "domain": "torontosun.com",
-      "country": "Canada",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "Iran strike injures two in Bahrain , Riyadh denounces  criminal  attacks",
-      "url": "https://www.nzherald.co.nz/world/iran-strike-injures-two-in-bahrain-riyadh-denounces-criminal-attacks/JOU6RQWWQVC2NJPM3LLQBIRJE4/",
-      "domain": "nzherald.co.nz",
-      "country": "New Zealand",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "Iran files war crime lawsuits in American , European courts over US - Israeli attacks",
-      "url": "https://www.middleeastmonitor.com/20261122-iran-files-war-crime-lawsuits-in-american-european-courts-over-us-israeli-attacks/",
-      "domain": "middleeastmonitor.com",
-      "country": "Israel",
-      "published": "2026-11-22T18:45:00+00:00"
-     }
-    ],
-    "riesgos_climaticos": [
-     {
-      "title": "Ahead of Thanksgiving , Southern Californians feel pinch of high food prices",
-      "url": "https://www.presstelegram.com/2026/11/22/ahead-of-thanksgiving-southern-californians-feel-pinch-of-high-food-prices/",
-      "domain": "presstelegram.com",
-      "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "Ahead of Thanksgiving , Southern Californians feel pinch of high food prices",
-      "url": "https://www.sgvtribune.com/2026/11/22/ahead-of-thanksgiving-southern-californians-feel-pinch-of-high-food-prices/",
-      "domain": "sgvtribune.com",
-      "country": "United States",
-      "published": "2026-11-22T21:30:00+00:00"
-     },
-     {
-      "title": "Ahead of Thanksgiving , Southern Californians feel pinch of high food prices",
-      "url": "https://www.pasadenastarnews.com/2026/11/22/ahead-of-thanksgiving-southern-californians-feel-pinch-of-high-food-prices/",
-      "domain": "pasadenastarnews.com",
-      "country": "United States",
-      "published": "2026-11-22T19:30:00+00:00"
-     },
-     {
-      "title": "Cattle receipts , government payments support projected NE farm income growth",
-      "url": "https://www.wlj.net/cattle-receipts-government-payments-support-projected-ne-farm-income-growth/",
-      "domain": "wlj.net",
-      "country": "United States",
-      "published": "2026-11-22T19:30:00+00:00"
-     },
-     {
-      "title": "Test your knowledge",
-      "url": "https://www.davisenterprise.com/features/test-your-knowledge/article_fbb49dc2-9018-4a48-9195-7ceba040cc4d.html",
-      "domain": "davisenterprise.com",
-      "country": "United States",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "Three Days Is a Long Weekend . When Did We Become So Helpless ?",
-      "url": "https://www.theepochtimes.com/opinion/three-days-is-a-long-weekend-when-did-we-become-so-helpless-6112460",
-      "domain": "theepochtimes.com",
-      "country": "United States",
-      "published": "2026-11-21T13:30:00+00:00"
-     },
-     {
-      "title": "David Rainer : Lingering drought may alter tactics for upcoming deer season",
-      "url": "https://yellowhammernews.com/david-rainer-lingering-drought-may-alter-tactics-for-upcoming-deer-season/",
-      "domain": "yellowhammernews.com",
-      "country": "United States",
-      "published": "2026-11-21T13:30:00+00:00"
-     },
-     {
-      "title": "South African Bank Capitec Eyes Farm Loans",
-      "url": "https://www.riotimesonline.com/capitec-commercial-agriculture-farm-loans-stellenbosch/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-11-21T11:30:00+00:00"
-     },
-     {
-      "title": "Local farmers wary of mild winter outlook",
-      "url": "https://www.cadillacnews.com/news/local-farmers-wary-of-mild-winter-outlook/article_f256ade0-5e0d-43a2-83e2-bff64216db57.html",
-      "domain": "cadillacnews.com",
-      "country": "United States",
-      "published": "2026-11-21T11:30:00+00:00"
-     },
-     {
-      "title": "Legally , they dont exist : the hybrid crabs puzzling biologists and fishers | Marine life",
-      "url": "https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas",
-      "domain": "theguardian.com",
-      "country": "United Kingdom",
-      "published": "2026-11-21T11:30:00+00:00"
-     },
-     {
-      "title": "Extraordinary alpine migration inspires moth sculpture",
-      "url": "https://www.northweststar.com.au/story/9395685/extraordinary-alpine-migration-inspires-moth-sculpture/",
-      "domain": "northweststar.com.au",
-      "country": "Australia",
-      "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "Extraordinary alpine migration inspires moth sculpture",
-      "url": "https://www.irrigator.com.au/story/9395685/extraordinary-alpine-migration-inspires-moth-sculpture/",
-      "domain": "irrigator.com.au",
-      "country": "Australia",
-      "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "Extraordinary alpine migration inspires moth sculpture",
-      "url": "https://www.macleayargus.com.au/story/9395685/extraordinary-alpine-migration-inspires-moth-sculpture/",
-      "domain": "macleayargus.com.au",
-      "country": "Australia",
-      "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "Kalaburagi water crisis : MLA Allamprabhu Patil seeks Rs 5 crore as groundwater dries up in nearly 80 % of city amid summer heat and borewells fail | Hubballi News",
-      "url": "https://timesofindia.indiatimes.com/city/hubballi/kalaburagi-water-crisis-mla-allamprabhu-patil-seeks-rs-5-crore-as-groundwater-dries-up-in-nearly-80-of-city-amid-summer-heat-and-borewells-fail/articleshow/136034806.cms",
-      "domain": "timesofindia.indiatimes.com",
-      "country": "India",
-      "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "Agri - Pulse DriveTime : November 20 , 2026",
-      "url": "http://www.agri-pulse.com/media/podcasts/21700-agri-pulse-drivetime/play/17830-agri-pulse-drivetime-november-20-2026",
-      "domain": "agri-pulse.com",
-      "country": "United States",
-      "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "Extraordinary alpine migration inspires moth sculpture",
-      "url": "https://www.portnews.com.au/story/9395685/extraordinary-alpine-migration-inspires-moth-sculpture/",
-      "domain": "portnews.com.au",
-      "country": "Australia",
-      "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "South Africa crime stats : 581 women killed as U . S . deportees face hunger in South Sudan",
-      "url": "https://www.okayafrica.com/today-in-africa-nov-20-2026-nearly-600-women-killed-in-south-africa-in-three-months-migrants-deported-to-south-sudan-from-us-face-hunger-and-isolation/1442146",
-      "domain": "okayafrica.com",
-      "country": "South Africa",
-      "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "Extraordinary alpine migration inspires moth sculpture",
-      "url": "https://www.dailyadvertiser.com.au/story/9395685/extraordinary-alpine-migration-inspires-moth-sculpture/",
-      "domain": "dailyadvertiser.com.au",
-      "country": "Australia",
-      "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "Haywood County Festival of Trees fundraiser raises money for child abuse victims",
-      "url": "https://wlos.com/news/local/haywood-county-festival-of-trees-fundraiser-raises-money-for-child-abuse-victims",
-      "domain": "wlos.com",
-      "country": "United States",
-      "published": "2026-11-20T06:45:00+00:00"
-     },
-     {
-      "title": "Climatologists : Powerful El Niño Expected To Impact Region Into Spring",
-      "url": "https://www.yankton.net/community/article_9e6c3e65-26da-48c5-8bfe-7769701591ce.html",
-      "domain": "yankton.net",
-      "country": "United States",
-      "published": "2026-11-20T06:45:00+00:00"
-     },
-     {
-      "title": "Yorkshire vineyards harvest more than 180 tonnes of grapes",
-      "url": "https://www.yorkpress.co.uk/news/26746408.yorkshire-vineyards-harvest-180-tonnes-grapes/",
-      "domain": "yorkpress.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-20T05:30:00+00:00"
-     },
-     {
-      "title": "COP31 : More climate money for Africa ? Europe says use what already pledged",
-      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko",
-      "domain": "bbc.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-20T02:45:00+00:00"
-     },
-     {
-      "title": "Agri - Pulse DriveTime : November 19 , 2026",
-      "url": "http://www.agri-pulse.com/media/podcasts/21700-agri-pulse-drivetime/play/17825-agri-pulse-drivetime-november-19-2026",
-      "domain": "agri-pulse.com",
-      "country": "United States",
-      "published": "2026-11-20T02:30:00+00:00"
      }
     ],
     "produccion_agroindustrial": [
@@ -1086,58 +359,93 @@
       "domain": "matr.net",
       "country": "United States",
       "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "Brazilian Beef Output Falls 12 % as Poultry and Pork Production Rise",
-      "url": "https://english.pravda.ru/news/world/173691-brazil-beef-output-falls-poultry-pork-rises/",
-      "domain": "english.pravda.ru",
-      "country": "Russia",
-      "published": "2026-11-20T06:45:00+00:00"
-     },
-     {
-      "title": "Climatologists : Powerful El Niño Expected To Impact Region Into Spring",
-      "url": "https://www.yankton.net/community/article_9e6c3e65-26da-48c5-8bfe-7769701591ce.html",
-      "domain": "yankton.net",
-      "country": "United States",
-      "published": "2026-11-20T06:45:00+00:00"
-     },
-     {
-      "title": "Deadline Detroit | Bridge Michigan : Mega - Farms Are Booming in Michigan , Drowning Rivers in Manure",
-      "url": "https://www.deadlinedetroit.com/articles/35348/bridge_michigan_mega-farms_are_booming_in_michigan_drowning_rivers_in_manure",
-      "domain": "deadlinedetroit.com",
-      "country": "United States",
-      "published": "2026-11-20T05:30:00+00:00"
-     },
-     {
-      "title": "Pennsylvania agriculture leaders warn ICE arrests are hurting farms",
-      "url": "https://www.witf.org/2026/11/19/pennsylvania-agriculture-leaders-say-ice-arrests-are-disrupting-farms-workforce/",
-      "domain": "witf.org",
-      "country": "United States",
-      "published": "2026-11-20T03:45:00+00:00"
-     },
-     {
-      "title": "Wheat Fund Rises 1 . 4 % as Soybeans Slip | Grains Wrap , Nov 19",
-      "url": "https://www.riotimesonline.com/grains-soy-corn-latam-thursday-november-19-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-11-20T03:15:00+00:00"
-     },
-     {
-      "title": "Venezuela poultry imports forecast to fall 68 % in 2026",
-      "url": "https://www.thepoultrysite.com/news/2026/11/venezuela-poultry-imports-forecast-to-fall-68-in-2026",
-      "domain": "thepoultrysite.com",
-      "country": "United States",
-      "published": "2026-11-20T02:30:00+00:00"
-     },
-     {
-      "title": "Ontario Superior Court dismisses lawsuit against Popeyes",
-      "url": "https://www.theglobeandmail.com/business/article-popeyes-lawsuit-dismissed-ontario-superior-court-adp-direct-poultry/",
-      "domain": "theglobeandmail.com",
-      "country": "Canada",
-      "published": "2026-11-20T02:30:00+00:00"
      }
     ],
     "economia_mundial": [
+     {
+      "title": "Stock market outlook today , 23 Nov : Sensex , Nifty prediction - DJIA , S & P , NASDAQ , GIFT Nifty , Kospi , Nikkei , Taiwan cues",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795394068928.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-23T03:30:00+00:00"
+     },
+     {
+      "title": "Single - digit inflation : Nigeria test after 14 . 06 % October",
+      "url": "https://punchng.com/single-digit-test-of-dropping-inflation/",
+      "domain": "punchng.com",
+      "country": "Nigeria",
+      "published": "2026-11-23T03:30:00+00:00"
+     },
+     {
+      "title": "Is the AI Stock Market Boom Coming to an End ?",
+      "url": "https://newsonjapan.com/article/151486.php",
+      "domain": "newsonjapan.com",
+      "country": "Japan",
+      "published": "2026-11-23T03:30:00+00:00"
+     },
+     {
+      "title": "Fugitive criminals need a new hideout since the UAE started extraditing them",
+      "url": "https://www.livemint.com/global/fugitive-criminals-need-a-new-hideout-since-the-uae-started-extraditing-them-11795396744758.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-23T03:30:00+00:00"
+     },
+     {
+      "title": "BT BIG STORY : India growth story faces a twin squeeze from inflation and the rupee",
+      "url": "https://www.businesstoday.in/latest/economy/story/bt-big-story-indias-growth-story-faces-a-twin-squeeze-from-inflation-and-the-rupee-568837-2026-11-20",
+      "domain": "businesstoday.in",
+      "country": "India",
+      "published": "2026-11-23T03:30:00+00:00"
+     },
+     {
+      "title": "Gold Rebounds as Tech Rout Spurs Shift to Havens , Treasury Rally",
+      "url": "https://www.livemint.com/market/gold-rebounds-as-tech-rout-spurs-shift-to-havens-treasury-rally-11795402440872.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-23T03:30:00+00:00"
+     },
+     {
+      "title": "Current rally in large - caps a bear market one : veteran investor Shankar Sharma",
+      "url": "https://www.livemint.com/market/stock-market-news/current-rally-in-large-caps-a-bear-market-one-veteran-investor-shankar-sharma-11795325109594.html",
+      "domain": "livemint.com",
+      "country": "India",
+      "published": "2026-11-23T03:30:00+00:00"
+     },
+     {
+      "title": "Gold , silver ETFs face import duty risk : Why a government tax cut could lower their NAVs",
+      "url": "https://www.businesstoday.in/personal-finance/story/gold-silver-etfs-face-import-duty-risk-why-a-government-tax-cut-could-lower-their-navs-568959-2026-11-23",
+      "domain": "businesstoday.in",
+      "country": "India",
+      "published": "2026-11-23T03:30:00+00:00"
+     },
+     {
+      "title": "Baystreet . ca - Americans Enjoy Thanksgiving Shortened Week",
+      "url": "https://baystreet.ca/the_week_ahead/682/Americans-Enjoy-Thanksgiving-Shortened-Week",
+      "domain": "baystreet.ca",
+      "country": "Canada",
+      "published": "2026-11-23T02:30:00+00:00"
+     },
+     {
+      "title": "3 big things were watching in the market this Thanksgiving week",
+      "url": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
+      "domain": "cnbc.com",
+      "country": "United States",
+      "published": "2026-11-23T02:30:00+00:00"
+     },
+     {
+      "title": "Who bears the cost of stabilizing the rupiah ? - Academia",
+      "url": "http://www.thejakartapost.com/opinion/2026/11/23/who-bears-the-cost-of-stabilizing-the-rupiah",
+      "domain": "thejakartapost.com",
+      "country": "Indonesia",
+      "published": "2026-11-23T02:30:00+00:00"
+     },
+     {
+      "title": "Australian borrowers face threat of further rate hikes before relief in late 2027",
+      "url": "https://www.realestate.com.au/news/australian-borrowers-face-threat-of-further-rate-hikes-before-relief-in-late-2027/",
+      "domain": "realestate.com.au",
+      "country": "Australia",
+      "published": "2026-11-23T02:30:00+00:00"
+     },
      {
       "title": "Let weigh the cons and pros of this market to find a way forward",
       "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
@@ -1333,96 +641,15 @@
       "domain": "zerohedge.com",
       "country": "United States",
       "published": "2026-11-22T05:30:00+00:00"
-     },
-     {
-      "title": "Luxury for the elite , hardship for the masses : North Korea economic divide",
-      "url": "https://www.koreaherald.com/article/10945063",
-      "domain": "koreaherald.com",
-      "country": "South Korea",
-      "published": "2026-11-22T05:30:00+00:00"
-     },
-     {
-      "title": "A 10 % drop for the stock market is unnerving , but it not that unusual",
-      "url": "https://www.kob.com/ap-top-news/a-10-drop-for-the-stock-market-is-unnerving-but-its-not-that-unusual/",
-      "domain": "kob.com",
-      "country": "United States",
-      "published": "2026-11-21T20:30:00+00:00"
-     },
-     {
-      "title": "Bitcoin price crash : ​Falls to lowest level in two years - What behind plunge of world largest cryptocurrency",
-      "url": "https://www.livemint.com/market/cryptocurrency/bitcoin-price-crash-falls-to-lowest-level-in-two-years-what-s-behind-plunge-of-world-s-largest-cryptocurrency-11795267687216.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-11-21T16:30:00+00:00"
-     },
-     {
-      "title": "A 10 % drop for the stock market is unnerving , but it not that unusual",
-      "url": "https://www.wboc.com/news/national/a-10-drop-for-the-stock-market-is-unnerving-but-its-not-that-unusual/article_533a7175-1ff0-5476-8d75-759e19d119b0.html",
-      "domain": "wboc.com",
-      "country": "United States",
-      "published": "2026-11-21T16:30:00+00:00"
-     },
-     {
-      "title": "Gold Hits 14 - Month Low",
-      "url": "https://www.theepochtimes.com/business/gold-hits-14-month-low-6127794",
-      "domain": "theepochtimes.com",
-      "country": "United States",
-      "published": "2026-11-21T16:30:00+00:00"
-     },
-     {
-      "title": "A 10 % drop for the stock market is unnerving , but it not that unusual",
-      "url": "http://www.cecildaily.com/ap/nation/a-10-drop-for-the-stock-market-is-unnerving-but-its-not-that-unusual/article_03e4105b-7b2a-5e97-8636-cec36bbba7b9.html",
-      "domain": "cecildaily.com",
-      "country": "United States",
-      "published": "2026-11-21T16:30:00+00:00"
-     },
-     {
-      "title": "A 10 % drop for the stock market is unnerving , but it not that unusual",
-      "url": "http://www.rockymounttelegram.com/news/national/a-10-drop-for-the-stock-market-is-unnerving-but-its-not-that-unusual/article_78dcb78a-51d2-5cf4-ba07-9b6404aea753.html",
-      "domain": "rockymounttelegram.com",
-      "country": "United States",
-      "published": "2026-11-21T16:30:00+00:00"
-     },
-     {
-      "title": "A 10 % drop for the stock market is unnerving , but it not that unusual",
-      "url": "https://www.khqa.com/news/nation-world/a-10-drop-for-the-stock-market-is-unnerving-but-its-not-that-unusual/article_eb88ed8c-d671-5f5f-b9f3-c1bfd3d824d4.html",
-      "domain": "khqa.com",
-      "country": "United States",
-      "published": "2026-11-21T16:30:00+00:00"
-     },
-     {
-      "title": "The AI boom had a really bad week and it raising loud alarms",
-      "url": "https://www.kasu.org/business-economy/2026-11-21/the-ai-boom-had-a-really-bad-week-and-its-raising-loud-alarms",
-      "domain": "kasu.org",
-      "country": "United States",
-      "published": "2026-11-21T13:30:00+00:00"
-     },
-     {
-      "title": "Wall Street Review : AI Fears Trigger Worst Weekly Tech Sell - Off in More Than 6 Years",
-      "url": "https://www.theepochtimes.com/business/wall-street-review-ai-fears-trigger-worst-weekly-tech-sell-off-in-more-than-6-years-6127740",
-      "domain": "theepochtimes.com",
-      "country": "United States",
-      "published": "2026-11-21T13:30:00+00:00"
-     },
-     {
-      "title": "Hope Beckons For Women As BOI Opens New Chapter In Enterprise Development - By Isaac Asabor",
-      "url": "https://www.opinionnigeria.com/hope-beckons-for-women-as-boi-opens-new-chapter-in-enterprise-development-by-isaac-asabor/",
-      "domain": "opinionnigeria.com",
-      "country": "Nigeria",
-      "published": "2026-11-21T13:30:00+00:00"
-     },
-     {
-      "title": "The AI boom had a really bad week and it raising loud alarms",
-      "url": "https://www.wypr.org/2026-11-21/the-ai-boom-had-a-really-bad-week-and-its-raising-loud-alarms",
-      "domain": "wypr.org",
-      "country": "United States",
-      "published": "2026-11-21T13:30:00+00:00"
      }
     ]
    },
    "errors": {
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
