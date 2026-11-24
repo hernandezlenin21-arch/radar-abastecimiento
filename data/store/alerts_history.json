@@ -1,5 +1,22 @@
 [
  {
+  "id": "1868266d9b68",
+  "indicator": "cp-mar_negro",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-24",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Negro: 2 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “India Calls for Immediate End to Attacks on Black Sea Shipping” (deccanchronicle.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "deccanchronicle.com",
+  "url": "https://www.deccanchronicle.com/nation/world/india-calls-for-immediate-end-to-attacks-on-black-sea-shipping-2007370",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-23T20:14:55-06:00"
+ },
+ {
   "id": "c18defc067bc",
   "indicator": "cp-ormuz",
   "name": "Punto crítico logístico",

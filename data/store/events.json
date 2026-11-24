@@ -1,7 +1,7 @@
 {
  "nhc": {
   "ok": true,
-  "at": "2026-11-23T06:54:01-06:00",
+  "at": "2026-11-23T20:14:55-06:00",
   "data": {
    "storms": [],
    "url": "https://www.nhc.noaa.gov/"
@@ -9,7 +9,7 @@
  },
  "enso": {
   "ok": true,
-  "at": "2026-11-23T06:54:01-06:00",
+  "at": "2026-11-23T20:14:55-06:00",
   "data": {
    "status": "El Ni&ntilde;o Advisory &nbsp;",
    "synopsis_en": "&nbsp; El Ni&ntilde;o continues to strengthen, with a strong-to-very strong El Ni&ntilde;o likely through January-March 2027 (remaining greater than a 79&#37; chance).",
@@ -18,10 +18,551 @@
  },
  "news": {
   "ok": true,
-  "at": "2026-11-23T06:54:01-06:00",
+  "at": "2026-11-23T20:14:55-06:00",
   "data": {
    "raw": {
+    "energia": [
+     {
+      "title": "LPG Prices Remain Elevated Despite 92 . 5 % Domestic Production – THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/11/24/lpg-prices-remain-elevated-despite-92-5-domestic-production/",
+      "domain": "thisdaylive.com",
+      "country": "Nigeria",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Farmers who produce our Thanksgiving meals are working harder than ever to make ends meet",
+      "url": "https://www.hppr.org/hppr-news/2026-11-23/farmers-who-produce-our-thanksgiving-meals-are-working-harder-than-ever-to-make-ends-meet",
+      "domain": "hppr.org",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Colorado weekly gas price update",
+      "url": "https://www.craigdailypress.com/news/colorado-weekly-gas-price-update-3/",
+      "domain": "craigdailypress.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Is a Thanksgiving meal more expensive this year ? It depends",
+      "url": "https://www.wapt.com/article/is-a-thanksgiving-meal-more-expensive-this-year-it-depends/74513063",
+      "domain": "wapt.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Is a Thanksgiving meal more expensive this year ? It depends",
+      "url": "https://www.wdsu.com/article/is-a-thanksgiving-meal-more-expensive-this-year-it-depends/74513063",
+      "domain": "wdsu.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Higher Thanksgiving prices leave Jacksonville shoppers stretching their budgets",
+      "url": "https://www.witn.com/2026/11/24/higher-thanksgiving-prices-leave-jacksonville-shoppers-stretching-their-budgets/",
+      "domain": "witn.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "GOMBE SURWASH WATER REVOLUTION – THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/11/24/gombes-surwash-water-revolution/",
+      "domain": "thisdaylive.com",
+      "country": "Nigeria",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Continental shuts up shop while Durban port backlog adds to manufacturer costs - BLSA",
+      "url": "https://www.politicsweb.co.za/news/continental-shuts-up-shop-while-durbans-port-backlog-adds-to-manufacturers-costs-blsa",
+      "domain": "politicsweb.co.za",
+      "country": "South Africa",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Delaware task force recommends gas , diesel tax increases , but changes could take years",
+      "url": "https://www.wboc.com/news/delaware-task-force-recommends-gas-diesel-tax-increases-but-changes-could-take-years/article_c20d1738-cfc2-44f8-a17d-690d0f81bf0b.html",
+      "domain": "wboc.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Dow Jumps 1 , 448 ; Nasdaq Surges 1 , 472 ; S & P 500 Rallies 327",
+      "url": "https://tvnewscheck.com/business/article/dow-jumps-1448-nasdaq-surges-1472-sp-500-rallies-327/",
+      "domain": "tvnewscheck.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Is a Thanksgiving meal more expensive this year ? It depends",
+      "url": "https://www.ksbw.com/article/is-a-thanksgiving-meal-more-expensive-this-year-it-depends/74513063",
+      "domain": "ksbw.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Ontario gas prices expected to fall Wednesday : GTA forecast",
+      "url": "https://www.insideottawavalley.com/news/ontario-gas-price-prediction-for-nov-25/article_b8c5d074-7a04-5efa-b517-45fb800eaec5.html",
+      "domain": "insideottawavalley.com",
+      "country": "Canada",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Australian Markets Sharply Higher",
+      "url": "https://www.rttnews.com/story.aspx?Id=3717293",
+      "domain": "rttnews.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Is a Thanksgiving meal more expensive this year ? It depends",
+      "url": "https://www.kmbc.com/article/is-a-thanksgiving-meal-more-expensive-this-year-it-depends/74513063",
+      "domain": "kmbc.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "US stocks surge after Jensen Huang returns as Nvidia CEO",
+      "url": "https://salinapost.com/posts/fead3ab8-fe16-432f-bb10-6be1271ec8c3",
+      "domain": "salinapost.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "FG oil revenue falls N1 . 44tn despite price surge",
+      "url": "https://punchng.com/fgs-oil-revenue-tumbles-n1-44tn-despite-price-boom/",
+      "domain": "punchng.com",
+      "country": "Nigeria",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "US stocks surge and recover half of last week plunge after Jensen Huang returns as Nvidia CEO | Business",
+      "url": "https://santamariatimes.com/ap/business/us-stocks-surge-and-recover-half-of-last-week-s-plunge-after-jensen-huang-returns/article_f5d2a424-b3ca-48b1-b094-3398acd82931.html",
+      "domain": "santamariatimes.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Ontario gas prices expected to fall Wednesday : GTA forecast",
+      "url": "https://www.orangeville.com/news/ontario-gas-price-prediction-for-nov-25/article_b70f7dfa-dbc7-5320-bd2c-3306926b12ee.html",
+      "domain": "orangeville.com",
+      "country": "Canada",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Fed Williams pins inflation on unusual factors , sees 2027 bringing it lower",
+      "url": "https://investinglive.com/central-banks/fed-s-williams-pins-inflation-on-unusual-factors-sees-2027-bringing-it-lower/",
+      "domain": "investinglive.com",
+      "country": "",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "5 Energy Stocks That Can Shrug Off a December Fed Rate Hike",
+      "url": "https://oilprice.com/Energy/Energy-General/5-Energy-Stocks-That-Can-Shrug-Off-a-December-Fed-Rate-Hike.html",
+      "domain": "oilprice.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "XCF Global Advances Renewable Fuels Growth Strategy and Plans OTC Transition Following Nasdaq Delisting Notice",
+      "url": "http://www.californiatelegraph.com/news/279451225/xcf-global-advances-renewable-fuels-growth-strategy-and-plans-otc-transition-following-nasdaq-delisting-notice",
+      "domain": "californiatelegraph.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Azerbaijan energy output contracts : 10 - month gas and oil production fall",
+      "url": "https://english.pravda.ru/news/world/174022-azerbaijan-energy-output-contraction-2026/",
+      "domain": "english.pravda.ru",
+      "country": "Russia",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Petrobras Plans US$122 Billion Through 2031",
+      "url": "https://www.riotimesonline.com/petrobras-business-plan-2027-2031-us122-billion-investment/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Petrobras Buys Into Corn Ethanol for US$472M",
+      "url": "https://www.riotimesonline.com/petrobras-neomille-corn-ethanol-42-percent-stake-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Louisiana Drought Threatens 2027 Crawfish Supply and Prices",
+      "url": "https://965kvki.com/ixp/155/p/louisiana-crawfish-prices-drought-outlook-2027/",
+      "domain": "965kvki.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "US stocks rallied with Tech leading the surge following the reinstatement of NVIDIA ( NVDA ) CEO Huang - Newsquawk Daily Asia - Pac Market Open",
+      "url": "http://www.zerohedge.com/markets/us-stocks-rallied-tech-leading-surge-following-reinstatement-nvidia-nvda-ceo-huang",
+      "domain": "zerohedge.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Brazil Pre - Salt Delivers 83 % of Output",
+      "url": "https://www.riotimesonline.com/brazil-pre-salt-83-percent-of-oil-gas-output/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "XCF Global Advances Renewable Fuels Growth Strategy and Plans OTC Transition Following Nasdaq Delisting Notice",
+      "url": "http://www.hawaiitelegraph.com/news/279451225/xcf-global-advances-renewable-fuels-growth-strategy-and-plans-otc-transition-following-nasdaq-delisting-notice",
+      "domain": "hawaiitelegraph.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "US stocks surge and recover half of last week plunge after Jensen Huang returns as Nvidia CEO",
+      "url": "https://www.newsday.com/business/stocks-markets-rates-technology-ai-anthropic-f69479",
+      "domain": "newsday.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Petrobras Boosts Investment to $122 Billion in New Five - Year Plan",
+      "url": "https://oilprice.com/Company-News/Petrobras-Boosts-Investment-to-122-Billion-in-New-Five-Year-Plan.html",
+      "domain": "oilprice.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Brazil Cuts 2026 Growth Forecast to 1 . 9 %",
+      "url": "https://www.riotimesonline.com/brazil-cuts-2026-growth-forecast-inflation-5-3-percent-finance-ministry/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "IEA Declares First Oil Supply Surplus Since Iran War Began , Sending Crude Prices Down Nearly 4 %",
+      "url": "https://www.foreignpolicyjournal.com/2026/11/23/iea-declares-first-oil-supply-surplus-since-iran-war-began-sending-crude-prices-down-nearly-4/",
+      "domain": "foreignpolicyjournal.com",
+      "country": "Israel",
+      "published": "2026-11-24T00:30:00+00:00"
+     },
+     {
+      "title": "Alberta could set up natural gas Crown corp to expand network capacity",
+      "url": "https://edmontonsun.com/news/natural-gas-crown-corp-provincial-capacity",
+      "domain": "edmontonsun.com",
+      "country": "Canada",
+      "published": "2026-11-24T00:30:00+00:00"
+     },
+     {
+      "title": "Sainsbury launches 8p per litre rule for drivers - starts Wednesday | united kingdom | News",
+      "url": "https://www.express.co.uk/news/uk/2268691/sainsburys-8p-per-litre-drivers",
+      "domain": "express.co.uk",
+      "country": "United Kingdom",
+      "published": "2026-11-24T00:30:00+00:00"
+     },
+     {
+      "title": "TC Energy threatens to scrap gas pipeline expansion over proposed Alberta bill",
+      "url": "https://edmontonsun.com/energy/tc-energy-threatens-to-scrap-gas-pipeline-expansion-over-proposed-alberta-bill/wcm/cb0046c4-c742-4a71-aaf9-2cea46b5a4e8",
+      "domain": "edmontonsun.com",
+      "country": "Canada",
+      "published": "2026-11-24T00:30:00+00:00"
+     },
+     {
+      "title": "Electric bills to increase for PECO customers on Dec . 1",
+      "url": "https://www.phillyvoice.com/peco-electric-bills-increase-strained-regional-supply/",
+      "domain": "phillyvoice.com",
+      "country": "United States",
+      "published": "2026-11-24T00:30:00+00:00"
+     },
+     {
+      "title": "Oil and gas drillers optimistic heading into 2027 , but warn of labour shortages – Brandon Sun",
+      "url": "https://www.brandonsun.com/business/2026/11/23/oil-and-gas-drillers-optimistic-heading-into-2027-but-warn-of-labour-shortages",
+      "domain": "brandonsun.com",
+      "country": "Canada",
+      "published": "2026-11-24T00:30:00+00:00"
+     },
+     {
+      "title": "Is It Time for Kyiv to Compromise With Russia Over the War in Ukraine ?",
+      "url": "https://foreignpolicy.com/2026/11/23/oleksiy-goncharenko-interview-ukraine-russia-war-compromise-negotiations-trump-zelensky/?tpcc=recirc_trending062921",
+      "domain": "foreignpolicy.com",
+      "country": "United States",
+      "published": "2026-11-24T00:30:00+00:00"
+     },
+     {
+      "title": "Wind sails , e - methanol and a stalled global deal : Can hard - to - decarbonise shipping go green ?",
+      "url": "https://www.hellenicshippingnews.com/wind-sails-e-methanol-and-a-stalled-global-deal-can-hard-to-decarbonise-shipping-go-green/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-11-23T22:30:00+00:00"
+     },
+     {
+      "title": "Breakfast briefing : NZD hits fresh lows",
+      "url": "https://www.interest.co.nz/economy/141200/us-pmis-cool-nvidia-causes-brief-wall-street-excitement-eyes-us-retail-singapore",
+      "domain": "interest.co.nz",
+      "country": "New Zealand",
+      "published": "2026-11-23T22:30:00+00:00"
+     }
+    ],
     "comercio_internacional": [
+     {
+      "title": "Here what next after climate talks collapse : Reform , individual action , hope and more heat",
+      "url": "https://www.wral.com/news/ap/778da-heres-whats-next-after-climate-talks-collapse-reform-individual-action-hope-and-more-heat/",
+      "domain": "wral.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Here what next after climate talks collapse : Reform , individual action , hope and more heat",
+      "url": "https://www.ksat.com/news/world/2026/11/23/heres-whats-next-after-climate-talks-collapse-reform-individual-action-hope-and-more-heat/",
+      "domain": "ksat.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Here what next after climate talks collapse : Reform , individual action , hope and more heat",
+      "url": "http://www.rockymounttelegram.com/news/national/heres-whats-next-after-climate-talks-collapse-reform-individual-action-hope-and-more-heat/article_72875034-41b3-5332-8527-1128d2f02cc4.html",
+      "domain": "rockymounttelegram.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Everyday Economics : The stock selloff could hit spending",
+      "url": "https://www.craigdailypress.com/news/everyday-economics-the-stock-selloff-could-hit-spending/",
+      "domain": "craigdailypress.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Doug Ford , Danielle Smith tout potential pipeline partnership but point fingers on interprovincial trade",
+      "url": "https://www.theglobeandmail.com/canada/article-doug-ford-danielle-smith-pipelines-interprovincial-trade/",
+      "domain": "theglobeandmail.com",
+      "country": "Canada",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Here what next after climate talks collapse : Reform , individual action , hope and more heat",
+      "url": "https://www.journal-advocate.com/2026/11/23/climate-cop31-whats-next/",
+      "domain": "journal-advocate.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Dow Jumps 1 , 448 ; Nasdaq Surges 1 , 472 ; S & P 500 Rallies 327",
+      "url": "https://tvnewscheck.com/business/article/dow-jumps-1448-nasdaq-surges-1472-sp-500-rallies-327/",
+      "domain": "tvnewscheck.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Here what next after climate talks collapse : Reform , individual action , hope and more heat",
+      "url": "https://www.greeleytribune.com/2026/11/23/climate-cop31-whats-next/",
+      "domain": "greeleytribune.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Daily Voice : Samit Vartak of SageOne identifies 5 sectors offering the best mix of growth and valuation",
+      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-samit-vartak-of-sageone-identifies-5-sectors-offering-the-best-mix-of-growth-and-valuation-14087516.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "NC A & T economist says Thanksgiving meal costs nearly doubled in two years",
+      "url": "https://www.wwaytv3.com/nc-at-economist-says-thanksgiving-meal-costs-nearly-doubled-in-two-years/",
+      "domain": "wwaytv3.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "EU - India FTA likely to be signed in December , may come into force by mid - 2027 : EU Ambassador",
+      "url": "https://aninews.in/news/world/asia/eu-india-fta-likely-to-be-signed-in-december-may-come-into-force-by-mid-2027-eu-ambassador20261124063704/",
+      "domain": "aninews.in",
+      "country": "India",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "7 . 5 % of Minnesota Residents Rely on SNAP Benefits as Payouts Drop , Cuts Loom",
+      "url": "http://www.walkermn.com/around_the_web/news/7-5-of-minnesota-residents-rely-on-snap-benefits-as-payouts-drop-cuts-loom/article_a889e350-23b6-55f3-9c96-b6afbf9fc8a6.html",
+      "domain": "walkermn.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Here what next after climate talks collapse : Reform , individual action , hope and more heat",
+      "url": "https://www.khqa.com/news/nation-world/heres-whats-next-after-climate-talks-collapse-reform-individual-action-hope-and-more-heat/article_741d09fe-c184-58b4-bcfd-da49cd135e66.html",
+      "domain": "khqa.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Doug Ford says he will push to repeal industrial carbon tax",
+      "url": "https://www.thesudburystar.com/news/scott-stinson-doug-ford-finds-himself-a-new-tax-that-he-can-be-angry-about/",
+      "domain": "thesudburystar.com",
+      "country": "Canada",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Here what next after climate talks collapse : Reform , individual action , hope and more heat",
+      "url": "https://www.fortmorgantimes.com/2026/11/23/climate-cop31-whats-next/",
+      "domain": "fortmorgantimes.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Here what next after climate talks collapse : Reform , individual action , hope and more heat",
+      "url": "https://www.chicoer.com/2026/11/23/climate-cop31-whats-next/",
+      "domain": "chicoer.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "US stocks surge after Jensen Huang returns as Nvidia CEO",
+      "url": "https://salinapost.com/posts/fead3ab8-fe16-432f-bb10-6be1271ec8c3",
+      "domain": "salinapost.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "US stocks surge and recover half of last week plunge after Jensen Huang returns as Nvidia CEO | Business",
+      "url": "https://santamariatimes.com/ap/business/us-stocks-surge-and-recover-half-of-last-week-s-plunge-after-jensen-huang-returns/article_f5d2a424-b3ca-48b1-b094-3398acd82931.html",
+      "domain": "santamariatimes.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Here what next after climate talks collapse : Reform , individual action , hope and more heat",
+      "url": "https://www.2news.com/news/national/heres-whats-next-after-climate-talks-collapse-reform-individual-action-hope-and-more-heat/article_27cda1b8-5d6a-5d68-8a58-d66b5d108a7d.html",
+      "domain": "2news.com",
+      "country": "",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Analysts expect MAS to hold as core inflation eases to 1 . 5 %",
+      "url": "https://sbr.com.sg/economy/news/analysts-expect-mas-hold-core-inflation-eases-15",
+      "domain": "sbr.com.sg",
+      "country": "Singapore",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Fed Williams pins inflation on unusual factors , sees 2027 bringing it lower",
+      "url": "https://investinglive.com/central-banks/fed-s-williams-pins-inflation-on-unusual-factors-sees-2027-bringing-it-lower/",
+      "domain": "investinglive.com",
+      "country": "",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "USDA heifer insurance approved ; critics warn of market distortions",
+      "url": "https://capitalpress.com/2026/11/23/usda-heifer-insurance-approved-critics-warn-of-market-distortions/",
+      "domain": "capitalpress.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "PACNEWS TWO , 23 NOVEMBER 2026 - Islands Business",
+      "url": "https://islandsbusiness.com/pacnews/pacnews-two-23-november-2026/",
+      "domain": "islandsbusiness.com",
+      "country": "Fiji",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Sen . Ron Wyden on Nvidia and Epstein ; Oregon eyes transgender athlete ballot measure",
+      "url": "https://www.klcc.org/podcast/oregon-on-the-record/2026-11-23/sen-ron-wyden-on-nvidia-and-epstein-oregon-eyes-transgender-athlete-ballot-measure",
+      "domain": "klcc.org",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Here what next after climate talks collapse : Reform , individual action , hope and more heat",
+      "url": "https://www.dailylocal.com/2026/11/23/climate-cop31-whats-next/",
+      "domain": "dailylocal.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "11 . 0 % of Wisconsin Residents Rely on SNAP Benefits as Payouts Drop , Cuts Loom",
+      "url": "https://www.wjfw.com/news/regional/11-0-of-wisconsin-residents-rely-on-snap-benefits-as-payouts-drop-cuts-loom/article_ab28c2de-80fc-5e92-92ec-56771d2a79d8.html",
+      "domain": "wjfw.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "US stocks rallied with Tech leading the surge following the reinstatement of NVIDIA ( NVDA ) CEO Huang - Newsquawk Daily Asia - Pac Market Open",
+      "url": "http://www.zerohedge.com/markets/us-stocks-rallied-tech-leading-surge-following-reinstatement-nvidia-nvda-ceo-huang",
+      "domain": "zerohedge.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Here what next after climate talks collapse : Reform , individual action , hope and more heat",
+      "url": "https://kdhnews.com/news/nation/heres-whats-next-after-climate-talks-collapse-reform-individual-action-hope-and-more-heat/article_5e8d2ee6-3e96-5925-85e7-d5c7f40a22e7.html",
+      "domain": "kdhnews.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "US stocks surge and recover half of last week plunge after Jensen Huang returns as Nvidia CEO",
+      "url": "https://www.newsday.com/business/stocks-markets-rates-technology-ai-anthropic-f69479",
+      "domain": "newsday.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Here what next after climate talks collapse : Reform , individual action , hope and more heat",
+      "url": "http://www.cecildaily.com/ap/nation/heres-whats-next-after-climate-talks-collapse-reform-individual-action-hope-and-more-heat/article_11de27b0-757a-545f-ac47-017d223caa46.html",
+      "domain": "cecildaily.com",
+      "country": "United States",
+      "published": "2026-11-24T00:30:00+00:00"
+     },
+     {
+      "title": "Here what next after climate talks collapse : Reform , individual action , hope and more heat",
+      "url": "https://www.clickondetroit.com/news/world/2026/11/23/heres-whats-next-after-climate-talks-collapse-reform-individual-action-hope-and-more-heat/",
+      "domain": "clickondetroit.com",
+      "country": "United States",
+      "published": "2026-11-24T00:30:00+00:00"
+     },
+     {
+      "title": "Trump plan sparked anger , but beef imports had already been rising as US cattle numbers fell - Mitchell Republic | News , weather , sports from Mitchell South Dakota",
+      "url": "https://www.capjournal.com/news/south-dakota/trumps-plan-sparked-anger-but-beef-imports-had-already-been-rising-as-us-cattle-numbers-fell",
+      "domain": "capjournal.com",
+      "country": "United States",
+      "published": "2026-11-24T00:30:00+00:00"
+     },
+     {
+      "title": "Wind sails , e - methanol and a stalled global deal : Can hard - to - decarbonise shipping go green ?",
+      "url": "https://www.hellenicshippingnews.com/wind-sails-e-methanol-and-a-stalled-global-deal-can-hard-to-decarbonise-shipping-go-green/",
+      "domain": "hellenicshippingnews.com",
+      "country": "China",
+      "published": "2026-11-23T22:30:00+00:00"
+     },
+     {
+      "title": "Canadian dollar on its longest daily losing streak in more than a decade",
+      "url": "https://www.theglobeandmail.com/investing/article-canadian-dollar-on-its-longest-daily-losing-streak-in-more-than-a/",
+      "domain": "theglobeandmail.com",
+      "country": "Canada",
+      "published": "2026-11-23T21:30:00+00:00"
+     },
+     {
+      "title": "Progressive Charlestown : Support cutbacks to corporate welfare",
+      "url": "https://www.progressive-charlestown.com/2026/11/support-cutbacks-to-corporate-welfare.html",
+      "domain": "progressive-charlestown.com",
+      "country": "United States",
+      "published": "2026-11-23T21:30:00+00:00"
+     },
+     {
+      "title": "Agribition marks 55 years of bringing agriculture to Regina",
+      "url": "https://www.ckom.com/2026/11/23/agribition-marks-55-years-of-bringing-agriculture-to-regina/",
+      "domain": "ckom.com",
+      "country": "Canada",
+      "published": "2026-11-23T21:30:00+00:00"
+     },
+     {
+      "title": "Texas A & M Study Confirms that EU One - Way Trade Costs U . S . Dairy Farmers Billions",
+      "url": "https://wncy.com/2026/11/23/texas-am-study-confirms-that-eu-one-way-trade-costs-u-s-dairy-farmers-billions/",
+      "domain": "wncy.com",
+      "country": "United States",
+      "published": "2026-11-23T21:30:00+00:00"
+     },
      {
       "title": "Stock market outlook today , 23 Nov : Sensex , Nifty prediction - DJIA , S & P , NASDAQ , GIFT Nifty , Kospi , Nikkei , Taiwan cues",
       "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795394068928.html",
@@ -42,268 +583,354 @@
       "domain": "livemint.com",
       "country": "India",
       "published": "2026-11-23T03:30:00+00:00"
+     }
+    ],
+    "geopolitica": [
+     {
+      "title": "Iran economy is  underwater , leaders are panicking : US Treasury Secretary after fresh sanctions",
+      "url": "http://www.middleeaststar.com/news/279451229/iran-economy-is-underwater-leaders-are-panicking-us-treasury-secretary-after-fresh-sanctions",
+      "domain": "middleeaststar.com",
+      "country": "Syria",
+      "published": "2026-11-24T01:45:00+00:00"
      },
      {
-      "title": "Top stocks to watch today : Tata Steel , APL Apollo Tubes , Maruti Suzuki , RVNL , Waaree Energies & 17 others in focus",
-      "url": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tata-steel-apl-apollo-tubes-maruti-suzuki-rvnl-waaree-energies-17-others-in-focus-11795399384907.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-11-23T03:30:00+00:00"
-     },
-     {
-      "title": "US cant seek India support while engaging with Pakistan : Congres Shama Mohamed",
-      "url": "http://www.greekherald.com/news/279449492/us-cant-seek-india-support-while-engaging-with-pakistan-congress-shama-mohamed",
-      "domain": "greekherald.com",
-      "country": "Greece",
-      "published": "2026-11-23T03:30:00+00:00"
-     },
-     {
-      "title": "Raja Venkatraman recommends three stocks for 23 November",
-      "url": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-recommends-three-stocks-for-23-november-11795350488392.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-11-23T03:30:00+00:00"
-     },
-     {
-      "title": "Victorians face serious risk of more destructive asset sell - offs",
-      "url": "https://independentaustralia.net/politics/politics-display/victorians-face-serious-risk-of-more-destructive-asset-sell-offs,21845",
-      "domain": "independentaustralia.net",
-      "country": "Australia",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "Burnham EU deal : British imperialism realigns for war - World Socialist Web Site",
-      "url": "https://www.wsws.org/en/articles/2026/11/22/ngsd-n22.html",
-      "domain": "wsws.org",
+      "title": "Vance and Rubio meet with Qatari PM as uncertainty mounts over Trump intentions with Iran :: WRAL . com",
+      "url": "https://www.wral.com/news/ap/16e0c-vance-and-rubio-meet-with-qatari-pm-as-uncertainty-mounts-over-trump-s-intentions-with-iran/",
+      "domain": "wral.com",
       "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
+      "published": "2026-11-24T01:45:00+00:00"
      },
      {
-      "title": "Ahead of Thanksgiving , Southern Californians feel pinch of high food prices",
-      "url": "https://www.presstelegram.com/2026/11/22/ahead-of-thanksgiving-southern-californians-feel-pinch-of-high-food-prices/",
+      "title": "Experts say failed climate talks could worsen climate inequality , though all progress is not stalled",
+      "url": "http://www.rockymounttelegram.com/news/national/experts-say-failed-climate-talks-could-worsen-climate-inequality-though-all-progress-is-not-stalled/article_1f868550-f80e-5c14-968e-bc8a85ac2b97.html",
+      "domain": "rockymounttelegram.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Trump - Xi - Putin summit offers hope for peace",
+      "url": "https://www.presstelegram.com/2026/11/23/trump-xi-putin-summit-offers-hope-for-peace/",
       "domain": "presstelegram.com",
       "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
+      "published": "2026-11-24T01:45:00+00:00"
      },
      {
-      "title": "High stakes in the tech capital : China welcomes world leaders to 33rd APEC Summit",
-      "url": "https://www.chinatechnews.com/2026/11/23/133515-high-stakes-in-the-tech-capital-china-welcomes-world-leaders-to-33rd-apec-summit",
-      "domain": "chinatechnews.com",
-      "country": "China",
-      "published": "2026-11-22T21:30:00+00:00"
+      "title": "Singapore hikes 2026 GDP growth forecast to around 6 %, sees 2 . 5 % to 4 . 5 % growth in 2027",
+      "url": "https://www.straitstimes.com/business/economy/singapore-hikes-2026-gdp-growth-forecast-to-around-6-sees-2-5-to-4-5-growth-in-2027",
+      "domain": "straitstimes.com",
+      "country": "Singapore",
+      "published": "2026-11-24T01:45:00+00:00"
      },
      {
-      "title": "Ahead of Thanksgiving , Southern Californians feel pinch of high food prices",
-      "url": "https://www.sgvtribune.com/2026/11/22/ahead-of-thanksgiving-southern-californians-feel-pinch-of-high-food-prices/",
-      "domain": "sgvtribune.com",
+      "title": "Experts say failed climate talks could worsen climate inequality , though all progress is not stalled",
+      "url": "http://www.idahopress.com/ap_news/us/experts-say-failed-climate-talks-could-worsen-climate-inequality-though-all-progress-is-not-stalled/article_7dbfcb00-86ab-59a4-b3c7-c64e284dd145.html",
+      "domain": "idahopress.com",
       "country": "United States",
-      "published": "2026-11-22T21:30:00+00:00"
+      "published": "2026-11-24T01:45:00+00:00"
      },
      {
-      "title": "Ahead of Thanksgiving , Southern Californians feel pinch of high food prices",
-      "url": "https://www.pasadenastarnews.com/2026/11/22/ahead-of-thanksgiving-southern-californians-feel-pinch-of-high-food-prices/",
-      "domain": "pasadenastarnews.com",
-      "country": "United States",
-      "published": "2026-11-22T19:30:00+00:00"
-     },
-     {
-      "title": "India - EU FTA likely to be signed during PM Modi Europe visit in December : Official",
-      "url": "http://www.europesun.com/news/279449052/india-eu-fta-likely-to-be-signed-during-pm-modi-europe-visit-in-december-official",
-      "domain": "europesun.com",
-      "country": "Russia",
-      "published": "2026-11-22T19:00:00+00:00"
-     },
-     {
-      "title": "US - China power gap at narrowest as Washington loses ground , Lowy report finds - 23 - Nov - 2026",
-      "url": "https://home.nzcity.co.nz/news/article.aspx?id=458460",
-      "domain": "home.nzcity.co.nz",
-      "country": "New Zealand",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "India - EU FTA likely to be signed during PM Modi Europe visit in December : Official",
-      "url": "http://www.heraldglobe.com/news/279449052/india-eu-fta-likely-to-be-signed-during-pm-modi-europe-visit-in-december-official",
-      "domain": "heraldglobe.com",
-      "country": "United States",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "India - EU FTA likely to be signed on December 16 during PM Modi Europe visit : Officials",
-      "url": "http://www.heraldglobe.com/news/279449072/india-eu-fta-likely-to-be-signed-on-december-16-during-pm-modi-europe-visit-officials",
-      "domain": "heraldglobe.com",
-      "country": "United States",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "US President Trump praises Modi , debunks Rahul Gandhi claims",
-      "url": "https://organiser.org/2026/11/22/428222/world/trump-praises-india-and-pm-modi-how-rahul-gandhi-faces-political-backlash-over-claims-of-surrender-economic-decline/",
-      "domain": "organiser.org",
-      "country": "India",
-      "published": "2026-11-22T12:30:00+00:00"
-     },
-     {
-      "title": "What drove the US midterm elections outcome ? - Jamaica Observer",
-      "url": "https://www.jamaicaobserver.com/2026/11/22/drove-us-midterm-elections-outcome/",
-      "domain": "jamaicaobserver.com",
-      "country": "Jamaica",
-      "published": "2026-11-22T07:30:00+00:00"
-     },
-     {
-      "title": "Trump midterm wipeout came with a message Democrats cant afford to ignore : columnist",
-      "url": "https://www.rawstory.com/trump-2678486851/",
-      "domain": "rawstory.com",
-      "country": "United States",
-      "published": "2026-11-22T00:30:00+00:00"
-     },
-     {
-      "title": "Disclose  100 % deal with Trump | Daily Tribune",
-      "url": "https://tribune.net.ph/2026/11/21/disclose-100-deal-with-trump",
-      "domain": "tribune.net.ph",
+      "title": "Want Secure AI - Built Apps ? Astra Study Shows What to Write in the Prompt",
+      "url": "https://www.manilatimes.net/2026/11/24/tmt-newswire/globenewswire/want-secure-ai-built-apps-astras-study-shows-what-to-write-in-the-prompt/2476732",
+      "domain": "manilatimes.net",
       "country": "Philippines",
-      "published": "2026-11-21T20:30:00+00:00"
+      "published": "2026-11-24T01:45:00+00:00"
      },
      {
-      "title": "Marathon diplomacy",
-      "url": "https://tribune.net.ph/2026/11/21/marathon-diplomacy",
-      "domain": "tribune.net.ph",
-      "country": "Philippines",
-      "published": "2026-11-21T20:30:00+00:00"
-     },
-     {
-      "title": "Connecticut Teacher Fights to Keep Crucifix at Her Desk",
-      "url": "https://afr.net/podcasts/todays-issues-with-tim-wildmon-and-company/2026/november/connecticut-teacher-fights-to-keep-crucifix-at-her-desk/",
-      "domain": "afr.net",
+      "title": "U . S . Eyes Iran as Possible Culprit in New Cyberattacks",
+      "url": "https://politicalwire.com/2026/11/23/u-s-eyes-iran-as-possible-culprit-in-new-cyberattacks/",
+      "domain": "politicalwire.com",
       "country": "United States",
-      "published": "2026-11-21T20:30:00+00:00"
+      "published": "2026-11-24T01:45:00+00:00"
      },
      {
-      "title": "The economic crisis in Black America",
-      "url": "https://www.canoncitydailyrecord.com/2026/11/21/the-economic-crisis-in-black-america/",
-      "domain": "canoncitydailyrecord.com",
-      "country": "United States",
-      "published": "2026-11-21T16:30:00+00:00"
-     },
-     {
-      "title": "The economic crisis in Black America",
-      "url": "https://www.broomfieldenterprise.com/2026/11/21/the-economic-crisis-in-black-america/",
-      "domain": "broomfieldenterprise.com",
-      "country": "United States",
-      "published": "2026-11-21T16:30:00+00:00"
-     },
-     {
-      "title": "The economic crisis in Black America",
-      "url": "https://www.fortmorgantimes.com/2026/11/21/the-economic-crisis-in-black-america/",
-      "domain": "fortmorgantimes.com",
-      "country": "United States",
-      "published": "2026-11-21T16:30:00+00:00"
-     },
-     {
-      "title": "KERALA EXPLORES EXPORT OPPORTUNITIES UNDER INDIA FREE TRADE AGREEMENTS - India Education | Latest Education News | Global Educational News",
-      "url": "https://indiaeducationdiary.in/kerala-explores-export-opportunities-under-indias-free-trade-agreements/",
-      "domain": "indiaeducationdiary.in",
-      "country": "India",
-      "published": "2026-11-21T13:30:00+00:00"
-     },
-     {
-      "title": "Tinubu Electricity Vow Meets 10 , 000MW Test - By Isaac Asabor",
-      "url": "https://www.opinionnigeria.com/tinubus-electricity-vow-meets-10000mw-test-by-isaac-asabor/",
-      "domain": "opinionnigeria.com",
-      "country": "Nigeria",
-      "published": "2026-11-21T13:30:00+00:00"
-     },
-     {
-      "title": "Shenzhen Summit Puts Limits of China – Russia Partnership in Focus",
-      "url": "https://www.theepochtimes.com/china/shenzhen-summit-puts-limits-of-china-russia-partnership-in-focus-6127510",
-      "domain": "theepochtimes.com",
-      "country": "United States",
-      "published": "2026-11-21T13:30:00+00:00"
-     },
-     {
-      "title": "Mark Carney is so popular he can get away with a lot . Will it last if the Trump spell breaks ?",
-      "url": "https://www.theguardian.com/world/2026/nov/21/mark-carney-popular-will-it-last-trump-spell-breaks-canada",
-      "domain": "theguardian.com",
-      "country": "United Kingdom",
-      "published": "2026-11-21T12:30:00+00:00"
-     },
-     {
-      "title": "Tangled up in blue : What kind of mandate did voters hand Democrats in the midterms ? [ column ]",
-      "url": "https://lancasteronline.com/opinion/columnists/tangled-up-in-blue-what-kind-of-mandate-did-voters-hand-democrats-in-the-midterms/article_f9c700bf-66c2-4772-b8d4-b581fc7bc33c.html",
-      "domain": "lancasteronline.com",
-      "country": "United States",
-      "published": "2026-11-21T12:30:00+00:00"
-     },
-     {
-      "title": "As Trump basks in summit pomp , China Xi strengthens his hand",
-      "url": "https://tribune.com.pk/story/2641527/as-trump-basks-in-summit-pomp-chinas-xi-strengthens-his-hand",
-      "domain": "tribune.com.pk",
-      "country": "Pakistan",
-      "published": "2026-11-21T12:30:00+00:00"
-     },
-     {
-      "title": "Mark Carney is so popular he can get away with a lot . Will it last if the Trump spell breaks ?",
-      "url": "https://www.aol.co.uk/articles/mark-carney-popular-away-lot-120058000.html",
-      "domain": "aol.co.uk",
-      "country": "United Kingdom",
-      "published": "2026-11-21T12:30:00+00:00"
-     },
-     {
-      "title": "Gov . Evers delivers radio address on holiday food insecurity",
-      "url": "https://wiscnews.com/community/article_7867ef84-525f-5a63-91a6-3dd96e57902a.html",
-      "domain": "wiscnews.com",
-      "country": "United States",
-      "published": "2026-11-21T10:30:00+00:00"
-     },
-     {
-      "title": "Trump , Xi , Putin Declaration Omits Ukraine ; Moscow Rejects NATO - Style Guarantee",
-      "url": "https://www.hngn.com/articles/273878/20261120/trump-xi-putin-issue-peace-declaration-that-omits-ukraine.htm",
-      "domain": "hngn.com",
-      "country": "United States",
-      "published": "2026-11-21T00:30:00+00:00"
-     },
-     {
-      "title": "Canada - U . S . trade : Trump says Canada feeling  emboldened",
-      "url": "https://www.bnnbloomberg.ca/tariffs/2026/11/20/trump-says-canada-feeling-emboldened-but-hes-seeking-a-fair-trade-deal/",
-      "domain": "bnnbloomberg.ca",
-      "country": "Canada",
-      "published": "2026-11-21T00:30:00+00:00"
-     },
-     {
-      "title": "FACT FOCUS : A look at false and misleading claims Trump made at news conference after his Asia trip",
-      "url": "https://www.ktvo.com/news/nation-world/fact-focus-a-look-at-false-and-misleading-claims-trump-made-at-news-conference-after/article_b6fe9288-8688-5d2a-8ad5-d0a1d553cd3b.html",
-      "domain": "ktvo.com",
-      "country": "United States",
-      "published": "2026-11-21T00:30:00+00:00"
-     },
-     {
-      "title": "Iran War Oil Premium Evaporates as Global Crude Supplies Surge",
-      "url": "https://gcaptain.com/iran-war-oil-premium-evaporates-as-global-crude-supplies-surge/",
-      "domain": "gcaptain.com",
-      "country": "United States",
-      "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "PODCAST : Ottawa optimism clashes with warnings of prolonged U . S . trade war | 620 CKRM - The Voice of Saskatchewan",
-      "url": "https://www.620ckrm.com/2026/11/20/podcast-ottawas-optimism-clashes-with-warnings-of-prolonged-u-s-trade-war/",
-      "domain": "620ckrm.com",
-      "country": "Canada",
-      "published": "2026-11-20T21:45:00+00:00"
-     },
-     {
-      "title": "UN climate talks slammed by activists and leaders as fossil fuels go unmentioned in draft deal",
-      "url": "http://www.goskagit.com/news/world/un-climate-talks-slammed-by-activists-and-leaders-as-fossil-fuels-go-unmentioned-in-draft/article_6cf0d3a9-2bf2-54d5-977a-1cedbc195b21.html",
+      "title": "Experts say failed climate talks could worsen climate inequality , though all progress is not stalled",
+      "url": "http://www.goskagit.com/news/nation/experts-say-failed-climate-talks-could-worsen-climate-inequality-though-all-progress-is-not-stalled/article_5635e753-68ba-5af0-b997-f36967f159cc.html",
       "domain": "goskagit.com",
       "country": "United States",
-      "published": "2026-11-20T21:45:00+00:00"
+      "published": "2026-11-24T01:45:00+00:00"
      },
      {
-      "title": "Trump says Canada feeling  emboldened  but he seeking a  fair  trade deal",
-      "url": "https://www.thepeterboroughexaminer.com/news/canada/trump-says-canada-feeling-emboldened-but-he-s-seeking-a-fair-trade-deal/article_9e604c90-1076-534f-837b-3ba01cfaa1fe.html",
-      "domain": "thepeterboroughexaminer.com",
+      "title": "US imposes sanctions on dozens linked to Iran shadow banking networks - Moneycontrol . com",
+      "url": "https://www.moneycontrol.com/world/us-imposes-sanctions-on-dozens-linked-to-iran-s-shadow-banking-networks-article-14087519.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Iran economy is  underwater , leaders are panicking : US Treasury Secretary after fresh sanctions",
+      "url": "http://www.europesun.com/news/279451229/iran-economy-is-underwater-leaders-are-panicking-us-treasury-secretary-after-fresh-sanctions",
+      "domain": "europesun.com",
+      "country": "Russia",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Iran economy is  underwater , leaders are panicking : US Treasury Secretary after fresh sanctions",
+      "url": "http://www.kenyastar.com/news/279451229/iran-economy-is-underwater-leaders-are-panicking-us-treasury-secretary-after-fresh-sanctions",
+      "domain": "kenyastar.com",
+      "country": "Kenya",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "India Calls for Immediate End to Attacks on Black Sea Shipping",
+      "url": "https://www.deccanchronicle.com/nation/world/india-calls-for-immediate-end-to-attacks-on-black-sea-shipping-2007370",
+      "domain": "deccanchronicle.com",
+      "country": "India",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "India calls for end to attacks on commercial shipping , safe navigation in Black Sea at UNSC amid Russia - Ukraine conflict",
+      "url": "http://www.kenyastar.com/news/279451261/india-calls-for-end-to-attacks-on-commercial-shipping-safe-navigation-in-black-sea-at-unsc-amid-russia-ukraine-conflict",
+      "domain": "kenyastar.com",
+      "country": "Kenya",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Iran Leaders Are Panicking : Trump Hits Regime Last Financial Lifeline",
+      "url": "https://www.breitbart.com/politics/2026/11/23/irans-leaders-are-panicking-trump-unveils-sweeping-sanctions-sever-regimes-last-financial-lifeline/",
+      "domain": "breitbart.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Vance and Rubio meet with Qatari PM as uncertainty mounts over Trump intentions with Iran - Las Vegas Sun News",
+      "url": "https://lasvegassun.com/news/2026/nov/23/vance-and-rubio-meet-with-qatari-pm-as-uncertainty/",
+      "domain": "lasvegassun.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Daily Voice : Samit Vartak of SageOne identifies 5 sectors offering the best mix of growth and valuation",
+      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-samit-vartak-of-sageone-identifies-5-sectors-offering-the-best-mix-of-growth-and-valuation-14087516.html",
+      "domain": "moneycontrol.com",
+      "country": "India",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Experts say failed climate talks could worsen climate inequality , though all progress is not stalled",
+      "url": "https://www.ksat.com/news/world/2026/11/24/experts-say-failed-climate-talks-could-worsen-climate-inequality-though-all-progress-is-not-stalled/",
+      "domain": "ksat.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Netflix Is About to Lose All Five Seasons of a Near - Perfect  Game of Thrones with Vikings  Series but You Still Have Time to Binge - Watch It",
+      "url": "https://comicbook.com/tv-shows/news/netflix-is-about-to-lose-all-five-seasons-of-a-near-perfect-game-of-thrones-with-vikings-series-but-you-still-have-time-to-binge-watch-it/",
+      "domain": "comicbook.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "India calls for end to attacks on commercial shipping , safe navigation in Black Sea at UNSC amid Russia - Ukraine conflict",
+      "url": "http://www.middleeaststar.com/news/279451261/india-calls-for-end-to-attacks-on-commercial-shipping-safe-navigation-in-black-sea-at-unsc-amid-russia-ukraine-conflict",
+      "domain": "middleeaststar.com",
+      "country": "Syria",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "India calls for end to attacks on commercial shipping , safe navigation in Black Sea at UNSC amid Russia - Ukraine conflict",
+      "url": "https://aninews.in/news/world/us/india-calls-for-end-to-attacks-on-commercial-shipping-safe-navigation-in-black-sea-at-unsc-amid-russia-ukraine-conflict20261124055837/",
+      "domain": "aninews.in",
+      "country": "India",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Ukraine war briefing : Kyiv strike on Russian ships in Benghazi condemned by Libya UN - backed government | Ukraine",
+      "url": "https://www.theguardian.com/world/2026/nov/24/ukraine-war-briefing-kyiv-strike-on-russian-ships-in-benghazi-condemned-by-un-backed-libya-government",
+      "domain": "theguardian.com",
+      "country": "United Kingdom",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "AP Joy Wonder Discovery SummaryBrief at 8 : 02 p . m . EST",
+      "url": "https://santamariatimes.com/ap/national/ap-joy-wonder-discovery-summarybrief-at-8-02-p-m-est/article_d8980427-748e-5b40-85bd-77f6d136db17.html",
+      "domain": "santamariatimes.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Iran economy is  underwater , leaders are panicking : US Treasury Secretary after fresh sanctions",
+      "url": "http://www.russiaherald.com/news/279451229/iran-economy-is-underwater-leaders-are-panicking-us-treasury-secretary-after-fresh-sanctions",
+      "domain": "russiaherald.com",
+      "country": "Russia",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Ontario gas prices expected to fall Wednesday : GTA forecast",
+      "url": "https://www.insideottawavalley.com/news/ontario-gas-price-prediction-for-nov-25/article_b8c5d074-7a04-5efa-b517-45fb800eaec5.html",
+      "domain": "insideottawavalley.com",
       "country": "Canada",
-      "published": "2026-11-20T21:45:00+00:00"
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Russia warns NATO member Estonia of possible war over  hostile actions",
+      "url": "https://www.thenews.com.pk/latest/1424852-russia-warns-nato-member-estonia-of-possible-war-over-hostile-actions",
+      "domain": "thenews.com.pk",
+      "country": "Pakistan",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Australian Markets Sharply Higher",
+      "url": "https://www.rttnews.com/story.aspx?Id=3717293",
+      "domain": "rttnews.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Inside London Museum new Smithfield home : Secret vaults and a ghostly market",
+      "url": "https://monocle.com/culture/london-museum-smithfield/",
+      "domain": "monocle.com",
+      "country": "United Kingdom",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "The Hindu Morning Digest : November 24 , 2026",
+      "url": "https://www.thehindu.com/news/morning-digest-november-24-2026/article71736183.ece",
+      "domain": "thehindu.com",
+      "country": "India",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Experts say failed climate talks could worsen climate inequality , though all progress is not stalled",
+      "url": "https://santamariatimes.com/ap/national/experts-say-failed-climate-talks-could-worsen-climate-inequality-though-all-progress-is-not-stalled/article_706f57d4-632d-5acd-94aa-b209fcd5e66c.html",
+      "domain": "santamariatimes.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "EU targets Russian athletes and war veterans in new sanctions push",
+      "url": "http://www.russiaherald.com/news/279451195/eu-targets-russian-athletes-and-war-veterans-in-new-sanctions-push",
+      "domain": "russiaherald.com",
+      "country": "Russia",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Experts say failed climate talks could worsen climate inequality , though all progress is not stalled – Winnipeg Free Press",
+      "url": "https://www.winnipegfreepress.com/arts-and-life/life/greenpage/2026/11/23/experts-say-failed-climate-talks-could-worsen-climate-inequality-though-all-progress-is-not-stalled",
+      "domain": "winnipegfreepress.com",
+      "country": "Canada",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Iran economy is  underwater , leaders are panicking : US Treasury Secretary after fresh sanctions",
+      "url": "http://www.batonrougepost.com/news/279451229/iran-economy-is-underwater-leaders-are-panicking-us-treasury-secretary-after-fresh-sanctions",
+      "domain": "batonrougepost.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Trump - Xi - Putin summit offers hope for peace",
+      "url": "https://www.dailybulletin.com/2026/11/23/trump-xi-putin-summit-offers-hope-for-peace/",
+      "domain": "dailybulletin.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "India calls for end to attacks on commercial shipping , safe navigation in Black Sea at UNSC amid Russia - Ukraine conflict",
+      "url": "http://www.russiaherald.com/news/279451261/india-calls-for-end-to-attacks-on-commercial-shipping-safe-navigation-in-black-sea-at-unsc-amid-russia-ukraine-conflict",
+      "domain": "russiaherald.com",
+      "country": "Russia",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "7 Most Perfect HBO Shows of the Last 30 Years , Ranked",
+      "url": "https://collider.com/most-perfect-hbo-shows-last-30-years-ranked/",
+      "domain": "collider.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Trump - Xi - Putin summit offers hope for peace",
+      "url": "https://www.dailynews.com/2026/11/23/trump-xi-putin-summit-offers-hope-for-peace/",
+      "domain": "dailynews.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "IRGC : Three tankers hit mines , exploded while transiting Hormuz with US support",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-915899",
+      "domain": "jpost.com",
+      "country": "Israel",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Experts say failed climate talks could worsen climate inequality , though all progress is not stalled",
+      "url": "https://www.2news.com/news/national/experts-say-failed-climate-talks-could-worsen-climate-inequality-though-all-progress-is-not-stalled/article_2a7dcdc5-02ad-5819-ab61-a2d082bf16e9.html",
+      "domain": "2news.com",
+      "country": "",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Venezuela Sanctions Explained",
+      "url": "https://www.riotimesonline.com/venezuela-sanctions-explained-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-11-24T01:15:00+00:00"
      }
     ],
     "produccion_agroindustrial": [
+     {
+      "title": "How Big Meat transformed the slaughterhouse",
+      "url": "https://www.bryantimes.com/news/farm/how-big-meat-transformed-the-slaughterhouse/article_9de150f6-e650-568b-b111-6cc3c4511328.html",
+      "domain": "bryantimes.com",
+      "country": "United States",
+      "published": "2026-11-24T01:45:00+00:00"
+     },
+     {
+      "title": "Pathogenic bird flu found in Grant County dairy cattle ; consumers warned against raw milk",
+      "url": "https://komonews.com/news/local/pathogenic-bird-flu-found-in-grant-county-dairy-cattle-consumers-warned-against-raw-milk-avian-influenza-cattle-farm-symptoms-pandemic-infection-cheese-unpasteurized-federal-wsda",
+      "domain": "komonews.com",
+      "country": "United States",
+      "published": "2026-11-24T01:30:00+00:00"
+     },
+     {
+      "title": "Uganda : Ecobank Heart & Soul Rendezvous Raises Shs100m for Mengo Hospital Blood Bank",
+      "url": "https://allafrica.com/stories/202611230805.html",
+      "domain": "allafrica.com",
+      "country": "Nigeria",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "World News : Bird flu in France",
+      "url": "https://www.gdnonline.com:443/Details/1413753",
+      "domain": "gdnonline.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "Petrobras Buys Into Corn Ethanol for US$472M",
+      "url": "https://www.riotimesonline.com/petrobras-neomille-corn-ethanol-42-percent-stake-2026/",
+      "domain": "riotimesonline.com",
+      "country": "Brazil",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "World News : Bird flu in France",
+      "url": "https://www.gdnonline.com:443/Details/1413753/Bird-flu-in-France",
+      "domain": "gdnonline.com",
+      "country": "United States",
+      "published": "2026-11-24T01:15:00+00:00"
+     },
+     {
+      "title": "How Big Meat transformed the slaughterhouse",
+      "url": "https://sedaliademocrat.com/syndicated/how-big-meat-transformed-the-slaughterhouse",
+      "domain": "sedaliademocrat.com",
+      "country": "United States",
+      "published": "2026-11-24T00:30:00+00:00"
+     },
+     {
+      "title": "How Big Meat transformed the slaughterhouse",
+      "url": "https://baxterbulletin.com/syndicated/how-big-meat-transformed-the-slaughterhouse",
+      "domain": "baxterbulletin.com",
+      "country": "United States",
+      "published": "2026-11-24T00:30:00+00:00"
+     },
+     {
+      "title": "France reports bird flu outbreak on farm in north of country",
+      "url": "https://kelo.com/2026/11/23/france-reports-bird-flu-outbreak-on-farm-in-north-of-country/",
+      "domain": "kelo.com",
+      "country": "United States",
+      "published": "2026-11-23T21:30:00+00:00"
+     },
      {
       "title": "TGI Group advocates practical solutions for sustainable business growth",
       "url": "https://www.vanguardngr.com/2026/11/tgi-group-advocates-practical-solutions-for-sustainable-business-growth-2/",
@@ -352,304 +979,14 @@
       "domain": "thescottishfarmer.co.uk",
       "country": "United Kingdom",
       "published": "2026-11-21T06:45:00+00:00"
-     },
-     {
-      "title": "An amazing , and little known medical scientist from Miles City , Montana - Kind and Gentle Souls around the World",
-      "url": "https://matr.net/news/an-amazing-and-little-known-medical-scientist-from-miles-city-montana-kind-and-gentle-souls-around-the-world/",
-      "domain": "matr.net",
-      "country": "United States",
-      "published": "2026-11-20T21:45:00+00:00"
-     }
-    ],
-    "economia_mundial": [
-     {
-      "title": "Stock market outlook today , 23 Nov : Sensex , Nifty prediction - DJIA , S & P , NASDAQ , GIFT Nifty , Kospi , Nikkei , Taiwan cues",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-outlook-today-23-nov-sensex-nifty-prediction-djia-s-p-nasdaq-gift-nifty-kospi-nikkei-taiwan-cues-11795394068928.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-11-23T03:30:00+00:00"
-     },
-     {
-      "title": "Single - digit inflation : Nigeria test after 14 . 06 % October",
-      "url": "https://punchng.com/single-digit-test-of-dropping-inflation/",
-      "domain": "punchng.com",
-      "country": "Nigeria",
-      "published": "2026-11-23T03:30:00+00:00"
-     },
-     {
-      "title": "Is the AI Stock Market Boom Coming to an End ?",
-      "url": "https://newsonjapan.com/article/151486.php",
-      "domain": "newsonjapan.com",
-      "country": "Japan",
-      "published": "2026-11-23T03:30:00+00:00"
-     },
-     {
-      "title": "Fugitive criminals need a new hideout since the UAE started extraditing them",
-      "url": "https://www.livemint.com/global/fugitive-criminals-need-a-new-hideout-since-the-uae-started-extraditing-them-11795396744758.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-11-23T03:30:00+00:00"
-     },
-     {
-      "title": "BT BIG STORY : India growth story faces a twin squeeze from inflation and the rupee",
-      "url": "https://www.businesstoday.in/latest/economy/story/bt-big-story-indias-growth-story-faces-a-twin-squeeze-from-inflation-and-the-rupee-568837-2026-11-20",
-      "domain": "businesstoday.in",
-      "country": "India",
-      "published": "2026-11-23T03:30:00+00:00"
-     },
-     {
-      "title": "Gold Rebounds as Tech Rout Spurs Shift to Havens , Treasury Rally",
-      "url": "https://www.livemint.com/market/gold-rebounds-as-tech-rout-spurs-shift-to-havens-treasury-rally-11795402440872.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-11-23T03:30:00+00:00"
-     },
-     {
-      "title": "Current rally in large - caps a bear market one : veteran investor Shankar Sharma",
-      "url": "https://www.livemint.com/market/stock-market-news/current-rally-in-large-caps-a-bear-market-one-veteran-investor-shankar-sharma-11795325109594.html",
-      "domain": "livemint.com",
-      "country": "India",
-      "published": "2026-11-23T03:30:00+00:00"
-     },
-     {
-      "title": "Gold , silver ETFs face import duty risk : Why a government tax cut could lower their NAVs",
-      "url": "https://www.businesstoday.in/personal-finance/story/gold-silver-etfs-face-import-duty-risk-why-a-government-tax-cut-could-lower-their-navs-568959-2026-11-23",
-      "domain": "businesstoday.in",
-      "country": "India",
-      "published": "2026-11-23T03:30:00+00:00"
-     },
-     {
-      "title": "Baystreet . ca - Americans Enjoy Thanksgiving Shortened Week",
-      "url": "https://baystreet.ca/the_week_ahead/682/Americans-Enjoy-Thanksgiving-Shortened-Week",
-      "domain": "baystreet.ca",
-      "country": "Canada",
-      "published": "2026-11-23T02:30:00+00:00"
-     },
-     {
-      "title": "3 big things were watching in the market this Thanksgiving week",
-      "url": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
-      "domain": "cnbc.com",
-      "country": "United States",
-      "published": "2026-11-23T02:30:00+00:00"
-     },
-     {
-      "title": "Who bears the cost of stabilizing the rupiah ? - Academia",
-      "url": "http://www.thejakartapost.com/opinion/2026/11/23/who-bears-the-cost-of-stabilizing-the-rupiah",
-      "domain": "thejakartapost.com",
-      "country": "Indonesia",
-      "published": "2026-11-23T02:30:00+00:00"
-     },
-     {
-      "title": "Australian borrowers face threat of further rate hikes before relief in late 2027",
-      "url": "https://www.realestate.com.au/news/australian-borrowers-face-threat-of-further-rate-hikes-before-relief-in-late-2027/",
-      "domain": "realestate.com.au",
-      "country": "Australia",
-      "published": "2026-11-23T02:30:00+00:00"
-     },
-     {
-      "title": "Let weigh the cons and pros of this market to find a way forward",
-      "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
-      "domain": "cnbc.com",
-      "country": "United States",
-      "published": "2026-11-23T00:30:00+00:00"
-     },
-     {
-      "title": "US Stock Market prediction for Monday : S & P 500 , Nasdaq , Dow Jones investors hope for positive start . Here what to expect ?",
-      "url": "https://economictimes.indiatimes.com/world/business/us-stock-market-prediction-for-monday-sp-500-nasdaq-dow-jones-investors-hope-for-positive-start-heres-what-to-expect/articleshow/136085659.cms",
-      "domain": "economictimes.indiatimes.com",
-      "country": "India",
-      "published": "2026-11-23T00:30:00+00:00"
-     },
-     {
-      "title": "Canada largest bank doubles down on crypto stocks",
-      "url": "https://www.aol.com/articles/canadas-largest-bank-doubles-down-183936000.html",
-      "domain": "aol.com",
-      "country": "United States",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "If we punish Stellantis , we punish ourselves",
-      "url": "https://www.niagarafallsreview.ca/opinion/contributors/if-we-punish-stellantis-we-punish-ourselves-here-s-what-canada-should-do-instead/article_d7f371bc-e004-5835-84a8-26979dd00052.html",
-      "domain": "niagarafallsreview.ca",
-      "country": "Canada",
-      "published": "2026-11-22T22:30:00+00:00"
-     },
-     {
-      "title": "The ASX stocks Airlie Funds Management Ray David is short - selling including Woolworths ( WOW ASX )",
-      "url": "https://www.afr.com/markets/equity-markets/australia-s-newest-hedge-fund-is-shorting-woolworths-20261123-p61dyb",
-      "domain": "afr.com",
-      "country": "Australia",
-      "published": "2026-11-22T20:30:00+00:00"
-     },
-     {
-      "title": "Indian firms on global buying spree as cross - border M & A hits new high : StanChart CEO",
-      "url": "https://www.thehindubusinessline.com/markets/indian-firms-on-global-buying-spree-as-cross-border-ma-hits-new-high-stanchart-ceo/article71730807.ece",
-      "domain": "thehindubusinessline.com",
-      "country": "India",
-      "published": "2026-11-22T19:00:00+00:00"
-     },
-     {
-      "title": "Senate gas reservation bill gets conditional farm support | Farm Weekly",
-      "url": "https://www.farmweekly.com.au/story/9395113/senate-gas-reservation-bill-gets-conditional-farm-support/",
-      "domain": "farmweekly.com.au",
-      "country": "Australia",
-      "published": "2026-11-22T19:00:00+00:00"
-     },
-     {
-      "title": "Bristol Myers Squibb vs . Novo Nordisk : Which Healthcare Stock Is a Better Buy for 2027 ?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/11/22/bristol-myers-squibb-vs-novo-nordisk-which-healthcare-stock-is-a-better-buy-for-2027/",
-      "domain": "fool.com",
-      "country": "United States",
-      "published": "2026-11-22T19:00:00+00:00"
-     },
-     {
-      "title": "Earnings delivery to drive next phase of returns : Chockalingam Narayanan",
-      "url": "https://www.business-standard.com/markets/interviews/earnings-delivery-to-drive-next-phase-of-returns-chockalingam-narayanan-126112200387_1.html",
-      "domain": "business-standard.com",
-      "country": "India",
-      "published": "2026-11-22T19:00:00+00:00"
-     },
-     {
-      "title": "TVK operating with astrologer as its real ideological leader , claims MK Stalin",
-      "url": "http://www.indiagazette.com/news/279449133/tvk-operating-with-astrologer-as-its-real-ideological-leader-claims-mk-stalin",
-      "domain": "indiagazette.com",
-      "country": "India",
-      "published": "2026-11-22T19:00:00+00:00"
-     },
-     {
-      "title": "Gold Tests $3 , 500 as Traders Look Beyond December Fed Decision",
-      "url": "https://www.ibtimes.co.in/gold-falls-nearly-11-mcx-traders-brace-fed-rate-hike-908590",
-      "domain": "ibtimes.co.in",
-      "country": "India",
-      "published": "2026-11-22T19:00:00+00:00"
-     },
-     {
-      "title": "Senate gas reservation bill gets conditional farm support | The Land",
-      "url": "https://www.theland.com.au/story/9395113/senate-gas-reservation-bill-gets-conditional-farm-support/",
-      "domain": "theland.com.au",
-      "country": "Australia",
-      "published": "2026-11-22T19:00:00+00:00"
-     },
-     {
-      "title": "18 Share Tips – 23rd November 2026",
-      "url": "https://thebull.com.au/18-share-tips/18-share-tips-23rd-november-2026/",
-      "domain": "thebull.com.au",
-      "country": "Australia",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "Breakfast briefing : Waiting for the herd",
-      "url": "https://www.interest.co.nz/economy/141180/eyes-wall-street-japan-inflation-china-foreign-direct-investment-inflows-slow-taiwan",
-      "domain": "interest.co.nz",
-      "country": "New Zealand",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "Court approves $7 . 25 billion settlement with Bayer over claims Roundup weed killer caused cancer | News , Sports , Jobs",
-      "url": "https://www.faribaultcountyregister.com/wire/?category=5050&ID=402631",
-      "domain": "faribaultcountyregister.com",
-      "country": "United States",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "Elon Musk Warns Data Center Delays Could Leave AI Companies Cash Poor",
-      "url": "https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11",
-      "domain": "businessinsider.com",
-      "country": "United States",
-      "published": "2026-11-22T18:45:00+00:00"
-     },
-     {
-      "title": "Rising government debt unlikely to trigger broad sovereign crisis in 2027 : UBS",
-      "url": "http://www.zimbabwestar.com/news/279448626/rising-government-debt-unlikely-to-trigger-broad-sovereign-crisis-in-2027-ubs",
-      "domain": "zimbabwestar.com",
-      "country": "Zimbabwe",
-      "published": "2026-11-22T12:30:00+00:00"
-     },
-     {
-      "title": "Nigerian Bank Profit Falls 13 % to US$364M",
-      "url": "https://www.riotimesonline.com/uba-nine-month-profit-falls-13-percent-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-11-22T12:30:00+00:00"
-     },
-     {
-      "title": "Key Market Events for the Week of November 23 – 27 , 2026",
-      "url": "https://www.riotimesonline.com/key-market-events-for-the-week-of-november-23-27-2026/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-11-22T12:30:00+00:00"
-     },
-     {
-      "title": "Avianca Adds 28 Flights After Weather Halts",
-      "url": "https://www.riotimesonline.com/avianca-adds-28-flights-weather-halts/",
-      "domain": "riotimesonline.com",
-      "country": "Brazil",
-      "published": "2026-11-22T12:30:00+00:00"
-     },
-     {
-      "title": "Rising government debt unlikely to trigger broad sovereign crisis in 2027 : UBS",
-      "url": "http://www.oklahomacitysun.com/news/279448626/rising-government-debt-unlikely-to-trigger-broad-sovereign-crisis-in-2027-ubs",
-      "domain": "oklahomacitysun.com",
-      "country": "United States",
-      "published": "2026-11-22T10:30:00+00:00"
-     },
-     {
-      "title": "Rising government debt unlikely to trigger broad sovereign crisis in 2027 : UBS",
-      "url": "http://www.batonrougepost.com/news/279448626/rising-government-debt-unlikely-to-trigger-broad-sovereign-crisis-in-2027-ubs",
-      "domain": "batonrougepost.com",
-      "country": "United States",
-      "published": "2026-11-22T10:30:00+00:00"
-     },
-     {
-      "title": "Rising government debt unlikely to trigger broad sovereign crisis in 2027 : UBS",
-      "url": "http://www.hongkongherald.com/news/279448626/rising-government-debt-unlikely-to-trigger-broad-sovereign-crisis-in-2027-ubs",
-      "domain": "hongkongherald.com",
-      "country": "China",
-      "published": "2026-11-22T10:30:00+00:00"
-     },
-     {
-      "title": "Free Hotel Night Points : 4 of 20 Hotels Fit Under 10 , 000",
-      "url": "https://everything-pr.com/free-hotel-night-points-audit",
-      "domain": "everything-pr.com",
-      "country": "United States",
-      "published": "2026-11-22T10:30:00+00:00"
-     },
-     {
-      "title": "Government , corporate spending to sustain global growth in 2027 as inflation eases : JPMorgan",
-      "url": "https://news.webindia123.com/news/Articles/Business/20261122/4522952.html",
-      "domain": "news.webindia123.com",
-      "country": "India",
-      "published": "2026-11-22T07:30:00+00:00"
-     },
-     {
-      "title": "Top 100 MCQs for CBSE Class 10 Social Science Board Exam 2027 : Important Questions with Answers",
-      "url": "https://www.jagranjosh.com/articles/top-mcqs-for-cbse-class-10-social-science-board-exam-2027-important-questions-with-answers-1800019546-1",
-      "domain": "jagranjosh.com",
-      "country": "India",
-      "published": "2026-11-22T07:30:00+00:00"
-     },
-     {
-      "title": "Op - Ed| DEMOCRACY DIES IN DARKNESS : What Antalya overtime deadlock reveals about the world broken climate finance order",
-      "url": "https://www.radiotamazuj.org/en/news/article/op-ed-democracy-dies-in-darkness-what-antalyas-overtime-deadlock-reveals-about-the-worlds-broken-climate-finance-order",
-      "domain": "radiotamazuj.org",
-      "country": "South Sudan",
-      "published": "2026-11-22T07:30:00+00:00"
-     },
-     {
-      "title": "Doug Casey On The Coming Collapse Of Saudi Arabia , And What It Means For The Petrodollar",
-      "url": "http://www.zerohedge.com/energy/doug-casey-coming-collapse-saudi-arabia-and-what-it-means-petrodollar",
-      "domain": "zerohedge.com",
-      "country": "United States",
-      "published": "2026-11-22T05:30:00+00:00"
      }
     ]
    },
    "errors": {
     "commodities_agricolas": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "energia": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "geopolitica": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
     "transporte_maritimo": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
-    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
+    "riesgos_climaticos": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc",
+    "economia_mundial": "Sin respuesta tras 3 intentos: HTTP 429 en https://api.gdeltproject.org/api/v2/doc/doc"
    }
   }
  }
