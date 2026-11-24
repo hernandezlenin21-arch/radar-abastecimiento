@@ -1,5 +1,22 @@
 [
  {
+  "id": "1aacbe05b477",
+  "indicator": "cp-mar_negro",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-24",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Negro: 1 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “India calls for end to attacks on commercial shipping , safe navigation in Black Sea at UNSC amid Russia - Ukraine conflict” (europesun.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "europesun.com",
+  "url": "http://www.europesun.com/news/279451261/india-calls-for-end-to-attacks-on-commercial-shipping-safe-navigation-in-black-sea-at-unsc-amid-russia-ukraine-conflict",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-24T07:48:40-06:00"
+ },
+ {
   "id": "1868266d9b68",
   "indicator": "cp-mar_negro",
   "name": "Punto crítico logístico",
