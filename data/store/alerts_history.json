@@ -1,5 +1,22 @@
 [
  {
+  "id": "2363c178b994",
+  "indicator": "cp-ormuz",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-26",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Estrecho de Ormuz: 1 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Oil Up as Hormuz Attacks Counter Recovery in Supply” (rigzone.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "rigzone.com",
+  "url": "https://www.rigzone.com/news/wire/oil_up_as_hormuz_attacks_counter_recovery_in_supply-25-nov-2026-185171-article/",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-25T21:36:18-06:00"
+ },
+ {
   "indicator": "wti",
   "name": "Petróleo WTI (Cushing, spot)",
   "group": "energia",
