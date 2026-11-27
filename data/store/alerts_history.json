@@ -1,5 +1,22 @@
 [
  {
+  "id": "2f922d69aa88",
+  "indicator": "cp-mar_rojo",
+  "name": "Punto crítico logístico",
+  "group": "logistica",
+  "date": "2026-11-27",
+  "rule": "evento_riesgo",
+  "severity": "alto",
+  "title": "Mar Rojo / Bab el-Mandeb: 1 titular(es) en las últimas horas",
+  "evidence": "Titular principal: “Nepal condoles death of citizen killed in Houthi attack on Saudi oil refinery , urges restraint” (vietnamtribune.com). Señal de prensa: confirmar con la autoridad o naviera.",
+  "action": "Consultar con navieras/agentes el impacto en tiempos de tránsito",
+  "source": "vietnamtribune.com",
+  "url": "http://www.vietnamtribune.com/news/279463143/nepal-condoles-death-of-citizen-killed-in-houthi-attack-on-saudi-oil-refinery-urges-restraint",
+  "frequency": "evento",
+  "official": false,
+  "first_seen": "2026-11-26T19:45:47-06:00"
+ },
+ {
   "id": "650eac1f0d34",
   "indicator": "cp-ormuz",
   "name": "Punto crítico logístico",
